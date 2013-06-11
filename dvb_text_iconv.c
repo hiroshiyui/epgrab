@@ -55,7 +55,7 @@ static const struct encoding {
 	[0x11] = {encoding_fixed, "ISO-10646/UCS2"}, // FIXME: UCS-2 LE/BE ???
 	[0x12] = {encoding_fixed, "KSC_5601"}, // TODO needs newer iconv
 	[0x13] = {encoding_fixed, "GB_2312-80"},
-	[0x14] = {encoding_fixed, "BIG5"},
+	[0x14] = {encoding_fixed, "UNICODEBIG"},
 	[0x15] = {encoding_fixed, "ISO-10646/UTF8"},
 	[0x16] = {encoding_reserved, NULL},
 	[0x17] = {encoding_reserved, NULL},
