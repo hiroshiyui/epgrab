@@ -30,7 +30,7 @@ extern const struct lookup_table languageid_table[];
 extern uint32_t _dvb_crc32(const uint8_t *data, size_t len);
 
 /* dvb_text.c */
-extern char *xmlify(const char *s);
+extern char *xmlify(const char *s, int len);
 extern char *iso6937_encoding;
 
 #endif

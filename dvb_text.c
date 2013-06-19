@@ -1074,7 +1074,7 @@ static const char codeset[6][256][10] = {
  * Patched by Nick Craig-Wood - nick craig-wood com for more chars with
  * strcat func for tidyness
  */
-char *xmlify(const char *s) {
+char *xmlify(const char *s, int len) {
 	static char *xml = NULL;
 	static unsigned bufsz = 0;
 	char *r;

@@ -16,21 +16,26 @@ static int encoding_default(char *t, const char **s, const char *d) {
 	strncpy(t, iso6937_encoding, 16);
 	return 0;
 }
+
 static int encoding_fixed(char *t, const char **s, const char *d) {
 	strncpy(t, d, 16);
 	*s += 1;
 	return 0;
 }
+
 static int encoding_variable(char *t, const char **s, const char *d) {
-	int i = ((unsigned char)(*s)[1] << 8) +  (unsigned char)(*s)[2];
-	snprintf(t, 16, d, i);
-	*s += 3;
+  int i = ((unsigned char)(*s)[1] << 8) +  (unsigned char)(*s)[2];
+  snprintf(t, 16, d, i);
+  *s += 3;
+
 	return 0;
 }
+
 static int encoding_reserved(char *t, const char **s, const char *d) {
 	fprintf(stderr, "Reserved encoding: %02x\n", *s[0]);
 	return 1;
 }
+
 static const struct encoding {
 	int (*handler)(char *t, const char **s, const char *d);
 	const char *data;
@@ -55,7 +60,7 @@ static const struct encoding {
 	[0x11] = {encoding_fixed, "ISO-10646/UCS2"}, // FIXME: UCS-2 LE/BE ???
 	[0x12] = {encoding_fixed, "KSC_5601"}, // TODO needs newer iconv
 	[0x13] = {encoding_fixed, "GB_2312-80"},
-	[0x14] = {encoding_fixed, "UNICODEBIG"},
+  [0x14] = {encoding_fixed, "UTF-16BE"},
 	[0x15] = {encoding_fixed, "ISO-10646/UTF8"},
 	[0x16] = {encoding_reserved, NULL},
 	[0x17] = {encoding_reserved, NULL},
@@ -69,15 +74,17 @@ static const struct encoding {
 	[0x1F] = {encoding_reserved, NULL},
 	[0x20 ... 0xFF] = {encoding_default, NULL},
 };
+
 static char cs_old[16];
 static iconv_t cd;
 
 /* Quote the xml entities in the string passed in.
  */
-char *xmlify(const char *s) {
+char *xmlify(const char *s, int *len) {
 	char cs_new[16];
 
 	int i = (int)(unsigned char)s[0];
+  /* get the string encoding, then remove the first byte(s) */
 	if (encoding[i].handler(cs_new, &s, encoding[i].data))
 		return "";
 	if (strncmp(cs_old, cs_new, 16)) {
@@ -93,14 +100,14 @@ char *xmlify(const char *s) {
 		strncpy(cs_old, cs_new, 16);
 	} // if
 
-	char *inbuf = (char *)s;
-	size_t inbytesleft = strlen(s);
+  char *inbuf = (char *)s;
+  size_t inbytesleft = len;
 	char *outbuf = (char *)buf;
 	size_t outbytesleft = sizeof(buf);
-	size_t ret = iconv(cd, &inbuf, &inbytesleft, &outbuf, &outbytesleft);
+  size_t ret = iconv(cd, &inbuf, &inbytesleft, &outbuf, &outbytesleft);
 	if (ret == (size_t)-1) {
 		fprintf(stderr, "iconv() failed: %s\n", strerror(errno));
-		// exit(1); // FIXME: handle errors
+    /*exit(1); // FIXME: handle errors*/
 	} // if
 
 	// Luckily '&<> are single byte character sequences in UTF-8 and no

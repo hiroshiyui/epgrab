@@ -2,6 +2,7 @@
 
 #Perhaps you want a line like this instead. I've not used autoconf yet
 #CFLAGS=-Wall -O2 -I/usr/src/dvb-kernel/linux/include/
+#CFLAGS=-Wall -O0 -g
 CFLAGS=-Wall -O0 -g
 
 dvb_text := dvb_text.o
