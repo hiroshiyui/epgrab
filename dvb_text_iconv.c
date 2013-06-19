@@ -101,7 +101,7 @@ char *xmlify(const char *s, int *len) {
 	} // if
 
   char *inbuf = (char *)s;
-  size_t inbytesleft = len;
+  size_t inbytesleft = (size_t)len;
 	char *outbuf = (char *)buf;
 	size_t outbytesleft = sizeof(buf);
   size_t ret = iconv(cd, &inbuf, &inbytesleft, &outbuf, &outbytesleft);
