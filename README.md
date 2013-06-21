@@ -2,12 +2,12 @@
 
 Grab DVB EPG data, output to XMLTV format.
 
-EPGrab is a fork of 'tv\_grab\_dvb' from http://bryars.eu/projects/tv\_grab\_dvb/
+EPGrab is a fork of 'tv\_grab\_dvb' from http://bryars.eu/projects/tv_grab_dvb/
 
 ## Minimum Requirements
 
-* A Linux supported DVB receiver device, see: http://www.linuxtv.org/wiki/index.php/Hardware\_Device\_Information
-* Have DVB apps (http://www.linuxtv.org/wiki/index.php/LinuxTV\_dvb-apps) installed on your system.
+* A Linux supported DVB receiver device, see: http://www.linuxtv.org/wiki/index.php/Hardware_Device_Information
+* Have DVB apps (http://www.linuxtv.org/wiki/index.php/LinuxTV_dvb-apps) installed on your system.
 
 ## Build
 
