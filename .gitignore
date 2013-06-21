@@ -17,3 +17,8 @@
 *.app
 
 tags
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+langidents.c
+Makefile
