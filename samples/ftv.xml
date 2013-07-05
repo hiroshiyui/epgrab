@@ -1,0 +1,4721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="dvb-epg-gen">
+
+<programme channel="304.dvb.guide" start="20130707200000 +0800" stop="20130707220000 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第600集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707220000 +0800" stop="20130707233000 +0800">
+ 	<title lang="zh"> 原來是美男 </title>
+	<sub-title lang="zh"> 原來是美男 </sub-title>
+	<desc lang="zh"> 原來是美男 第9集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707200000 +0800" stop="20130707220000 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第600集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707220000 +0800" stop="20130707233000 +0800">
+ 	<title lang="zh"> 原來是美男 </title>
+	<sub-title lang="zh"> 原來是美男 </sub-title>
+	<desc lang="zh"> 原來是美男 第9集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705223000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh"> 廉政英雄 </title>
+	<sub-title lang="zh"> 廉政英雄 </sub-title>
+	<desc lang="zh"> 廉政英雄 第93集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="302.dvb.guide" start="20130705225700 +0800" stop="20130705233100 +0800">
+ 	<title lang="zh"> 民視夜線新聞 </title>
+	<sub-title lang="zh"> 民視夜線新聞 </sub-title>
+	<desc lang="zh"> 民視夜線新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705223000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh"> 廉政英雄 </title>
+	<sub-title lang="zh"> 廉政英雄 </sub-title>
+	<desc lang="zh"> 廉政英雄 第93集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="301.dvb.guide" start="20130705230000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第18集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707233000 +0800" stop="20130707233300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707233300 +0800" stop="20130708013300 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第599集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708013300 +0800" stop="20130708023300 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第267集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707233000 +0800" stop="20130707233300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707233300 +0800" stop="20130708013300 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第599集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708013300 +0800" stop="20130708023300 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第267集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707234500 +0800" stop="20130708000000 +0800">
+ 	<title lang="zh"> 民視英語新聞 </title>
+	<sub-title lang="zh"> 民視英語新聞 </sub-title>
+	<desc lang="zh"> 民視英語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708000000 +0800" stop="20130708010000 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第267集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708010000 +0800" stop="20130708020000 +0800">
+ 	<title lang="zh"> 民視異言堂 </title>
+	<sub-title lang="zh"> 民視異言堂 </sub-title>
+	<desc lang="zh"> 民視異言堂 第763集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707230000 +0800" stop="20130708003000 +0800">
+ 	<title lang="zh"> 廉政英雄 </title>
+	<sub-title lang="zh"> 廉政英雄 </sub-title>
+	<desc lang="zh"> 廉政英雄 第70集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="301.dvb.guide" start="20130708003000 +0800" stop="20130708013000 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第267集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708013000 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh"> 收播 </title>
+	<sub-title lang="zh"> 收播 </sub-title>
+	<desc lang="zh"> 收播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708023300 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh"> 收播 </title>
+	<sub-title lang="zh"> 收播 </sub-title>
+	<desc lang="zh"> 收播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708023300 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh"> 收播 </title>
+	<sub-title lang="zh"> 收播 </sub-title>
+	<desc lang="zh"> 收播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708020000 +0800" stop="20130708030000 +0800">
+ 	<title lang="zh"> 九點不一樣 </title>
+	<sub-title lang="zh"> 九點不一樣 </sub-title>
+	<desc lang="zh"> 九點不一樣 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708030000 +0800" stop="20130708040000 +0800">
+ 	<title lang="zh"> 民視十點全球新聞 </title>
+	<sub-title lang="zh"> 民視十點全球新聞 </sub-title>
+	<desc lang="zh"> 民視十點全球新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708040000 +0800" stop="20130708044500 +0800">
+ 	<title lang="zh"> 民視十一點晚間新聞 </title>
+	<sub-title lang="zh"> 民視十一點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視十一點晚間新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708044500 +0800" stop="20130708050000 +0800">
+ 	<title lang="zh"> 民視英語新聞 </title>
+	<sub-title lang="zh"> 民視英語新聞 </sub-title>
+	<desc lang="zh"> 民視英語新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708060000 +0800" stop="20130708065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708065700 +0800" stop="20130708070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708070000 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh"> 民視七點晨間新聞 </title>
+	<sub-title lang="zh"> 民視七點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708060000 +0800" stop="20130708065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708065700 +0800" stop="20130708070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708070000 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh"> 民視七點晨間新聞 </title>
+	<sub-title lang="zh"> 民視七點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708060000 +0800" stop="20130708063000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2179集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708063000 +0800" stop="20130708070000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2178集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708070000 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第10集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708050000 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第267集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708060000 +0800" stop="20130708070000 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708070000 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh"> 民視七點晨間新聞 </title>
+	<sub-title lang="zh"> 民視七點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708080000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3992集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1811集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708100000 +0800" stop="20130708110000 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第53集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708080000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3992集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1811集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708100000 +0800" stop="20130708110000 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第53集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708080000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh"> 民視八點晨間新聞 </title>
+	<sub-title lang="zh"> 民視八點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視八點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh"> 夜市人生 </title>
+	<sub-title lang="zh"> 夜市人生 </sub-title>
+	<desc lang="zh"> 夜市人生 第71集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708100000 +0800" stop="20130708110000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1835集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708080000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh"> 民視八點晨間新聞 </title>
+	<sub-title lang="zh"> 民視八點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視八點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh"> 民視九點新聞 </title>
+	<sub-title lang="zh"> 民視九點新聞 </sub-title>
+	<desc lang="zh"> 民視九點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708100000 +0800" stop="20130708110000 +0800">
+ 	<title lang="zh"> 民視十點台語新聞 </title>
+	<sub-title lang="zh"> 民視十點台語新聞 </sub-title>
+	<desc lang="zh"> 民視十點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708110000 +0800" stop="20130708113000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3989集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708113000 +0800" stop="20130708115900 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第116集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708115900 +0800" stop="20130708122900 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708122900 +0800" stop="20130708123000 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第24集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708123000 +0800" stop="20130708130000 +0800">
+ 	<title lang="zh"> 美鳳有約 </title>
+	<sub-title lang="zh"> 美鳳有約 </sub-title>
+	<desc lang="zh"> 美鳳有約 第3013集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708130000 +0800" stop="20130708153000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第254集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708110000 +0800" stop="20130708113000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3989集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708113000 +0800" stop="20130708115900 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第116集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708115900 +0800" stop="20130708122900 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708122900 +0800" stop="20130708123000 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第24集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708123000 +0800" stop="20130708130000 +0800">
+ 	<title lang="zh"> 美鳳有約 </title>
+	<sub-title lang="zh"> 美鳳有約 </sub-title>
+	<desc lang="zh"> 美鳳有約 第3013集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708130000 +0800" stop="20130708153000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第254集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708110000 +0800" stop="20130708120000 +0800">
+ 	<title lang="zh"> 民視十一點新聞 </title>
+	<sub-title lang="zh"> 民視十一點新聞 </sub-title>
+	<desc lang="zh"> 民視十一點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708120000 +0800" stop="20130708131000 +0800">
+ 	<title lang="zh"> 民視午間新聞 </title>
+	<sub-title lang="zh"> 民視午間新聞 </sub-title>
+	<desc lang="zh"> 民視午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708131000 +0800" stop="20130708140000 +0800">
+ 	<title lang="zh"> 民視一點新聞 </title>
+	<sub-title lang="zh"> 民視一點新聞 </sub-title>
+	<desc lang="zh"> 民視一點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705200000 +0800" stop="20130705223000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第254集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708110000 +0800" stop="20130708113000 +0800">
+ 	<title lang="zh"> 用點心做點心 </title>
+	<sub-title lang="zh"> 用點心做點心 </sub-title>
+	<desc lang="zh"> 用點心做點心 第231集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708113000 +0800" stop="20130708120000 +0800">
+ 	<title lang="zh"> 美鳳有約 </title>
+	<sub-title lang="zh"> 美鳳有約 </sub-title>
+	<desc lang="zh"> 美鳳有約 第2968集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708120000 +0800" stop="20130708130000 +0800">
+ 	<title lang="zh"> 民視午間新聞 </title>
+	<sub-title lang="zh"> 民視午間新聞 </sub-title>
+	<desc lang="zh"> 民視午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708130000 +0800" stop="20130708140000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1835集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705215900 +0800" stop="20130705225700 +0800">
+ 	<title lang="zh"> 頭家來開講 </title>
+	<sub-title lang="zh"> 頭家來開講 </sub-title>
+	<desc lang="zh"> 頭家來開講 第3564集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705200000 +0800" stop="20130705223000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第254集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705193000 +0800" stop="20130705230000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708153000 +0800" stop="20130708153100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第1集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708153100 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3993集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708160000 +0800" stop="20130708165700 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第28集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708165700 +0800" stop="20130708170000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708153000 +0800" stop="20130708153100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第1集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708153100 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3993集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708160000 +0800" stop="20130708165700 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第28集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708165700 +0800" stop="20130708170000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708140000 +0800" stop="20130708150000 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第145集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708150000 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh"> 民視三點台語新聞 </title>
+	<sub-title lang="zh"> 民視三點台語新聞 </sub-title>
+	<desc lang="zh"> 民視三點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708160000 +0800" stop="20130708163000 +0800">
+ 	<title lang="zh"> 民視四點新聞 </title>
+	<sub-title lang="zh"> 民視四點新聞 </sub-title>
+	<desc lang="zh"> 民視四點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708163000 +0800" stop="20130708170000 +0800">
+ 	<title lang="zh"> 民視國際新聞 </title>
+	<sub-title lang="zh"> 民視國際新聞 </sub-title>
+	<desc lang="zh"> 民視國際新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708140000 +0800" stop="20130708150000 +0800">
+ 	<title lang="zh"> 夜市人生 </title>
+	<sub-title lang="zh"> 夜市人生 </sub-title>
+	<desc lang="zh"> 夜市人生 第71集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708150000 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh"> 電影情報讚 </title>
+	<sub-title lang="zh"> 電影情報讚 </sub-title>
+	<desc lang="zh"> 電影情報讚 第54集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708160000 +0800" stop="20130708170000 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第28集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708170000 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh"> 科學補給讚 綠天使偵碳社 </title>
+	<sub-title lang="zh"> 科學補給讚 綠天使偵碳社 </sub-title>
+	<desc lang="zh"> 科學補給讚 綠天使偵碳社 第1集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh"> 科學補給讚 綠天使偵碳社 </title>
+	<sub-title lang="zh"> 科學補給讚 綠天使偵碳社 </sub-title>
+	<desc lang="zh"> 科學補給讚 綠天使偵碳社 第2集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708180000 +0800" stop="20130708180100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第23集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708180100 +0800" stop="20130708182800 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第780集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708182800 +0800" stop="20130708185800 +0800">
+ 	<title lang="zh"> 天龍傳奇 </title>
+	<sub-title lang="zh"> 天龍傳奇 </sub-title>
+	<desc lang="zh"> 天龍傳奇 第60集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708185800 +0800" stop="20130708193000 +0800">
+ 	<title lang="zh"> 民視七點晚間新聞 </title>
+	<sub-title lang="zh"> 民視七點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708193000 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第139集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708170000 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh"> 科學補給讚 綠天使偵碳社 </title>
+	<sub-title lang="zh"> 科學補給讚 綠天使偵碳社 </sub-title>
+	<desc lang="zh"> 科學補給讚 綠天使偵碳社 第1集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh"> 科學補給讚 綠天使偵碳社 </title>
+	<sub-title lang="zh"> 科學補給讚 綠天使偵碳社 </sub-title>
+	<desc lang="zh"> 科學補給讚 綠天使偵碳社 第2集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708180000 +0800" stop="20130708180100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第23集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708180100 +0800" stop="20130708182800 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第780集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708182800 +0800" stop="20130708185800 +0800">
+ 	<title lang="zh"> 天龍傳奇 </title>
+	<sub-title lang="zh"> 天龍傳奇 </sub-title>
+	<desc lang="zh"> 天龍傳奇 第60集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708185800 +0800" stop="20130708193000 +0800">
+ 	<title lang="zh"> 民視七點晚間新聞 </title>
+	<sub-title lang="zh"> 民視七點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708193000 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第139集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708170000 +0800" stop="20130708175000 +0800">
+ 	<title lang="zh"> 民視五點新聞 </title>
+	<sub-title lang="zh"> 民視五點新聞 </sub-title>
+	<desc lang="zh"> 民視五點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708175000 +0800" stop="20130708195500 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708195500 +0800" stop="20130708202900 +0800">
+ 	<title lang="zh"> 民視大現場 </title>
+	<sub-title lang="zh"> 民視大現場 </sub-title>
+	<desc lang="zh"> 民視大現場 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708202900 +0800" stop="20130708205900 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708205900 +0800" stop="20130708215900 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第146集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708215900 +0800" stop="20130708225700 +0800">
+ 	<title lang="zh"> 頭家來開講 </title>
+	<sub-title lang="zh"> 頭家來開講 </sub-title>
+	<desc lang="zh"> 頭家來開講 第3565集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708225700 +0800" stop="20130708233100 +0800">
+ 	<title lang="zh"> 民視夜線新聞 </title>
+	<sub-title lang="zh"> 民視夜線新聞 </sub-title>
+	<desc lang="zh"> 民視夜線新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708170000 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh"> 用點心做點心 </title>
+	<sub-title lang="zh"> 用點心做點心 </sub-title>
+	<desc lang="zh"> 用點心做點心 第231集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh"> 發燒MV大賞 </title>
+	<sub-title lang="zh"> 發燒MV大賞 </sub-title>
+	<desc lang="zh"> 發燒MV大賞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708180000 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708233100 +0800" stop="20130708234300 +0800">
+ 	<title lang="zh"> 民視國際新聞 </title>
+	<sub-title lang="zh"> 民視國際新聞 </sub-title>
+	<desc lang="zh"> 民視國際新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130708234300 +0800" stop="20130709000000 +0800">
+ 	<title lang="zh"> 民視英語新聞 </title>
+	<sub-title lang="zh"> 民視英語新聞 </sub-title>
+	<desc lang="zh"> 民視英語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709000000 +0800" stop="20130709002900 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709002900 +0800" stop="20130709005900 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709005900 +0800" stop="20130709020000 +0800">
+ 	<title lang="zh"> 頭家來開講 </title>
+	<sub-title lang="zh"> 頭家來開講 </sub-title>
+	<desc lang="zh"> 頭家來開講 第3565集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708200000 +0800" stop="20130708223000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第255集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708223000 +0800" stop="20130708233000 +0800">
+ 	<title lang="zh"> 西遊記 </title>
+	<sub-title lang="zh"> 西遊記 </sub-title>
+	<desc lang="zh"> 西遊記 第43集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708200000 +0800" stop="20130708223000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第255集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708223000 +0800" stop="20130708233000 +0800">
+ 	<title lang="zh"> 西遊記 </title>
+	<sub-title lang="zh"> 西遊記 </sub-title>
+	<desc lang="zh"> 西遊記 第43集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708200000 +0800" stop="20130708220000 +0800">
+ 	<title lang="zh"> 明日之星SUPERSTAR </title>
+	<sub-title lang="zh"> 明日之星SUPERSTAR </sub-title>
+	<desc lang="zh"> 明日之星SUPERSTAR 第243集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708220000 +0800" stop="20130708230000 +0800">
+ 	<title lang="zh"> 香榭大道 </title>
+	<sub-title lang="zh"> 香榭大道 </sub-title>
+	<desc lang="zh"> 香榭大道 第1706集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708233000 +0800" stop="20130708233300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708233300 +0800" stop="20130708233400 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第19集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130708233400 +0800" stop="20130709020400 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第255集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708233000 +0800" stop="20130708233300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708233300 +0800" stop="20130708233400 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第19集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130708233400 +0800" stop="20130709020400 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第255集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130708230000 +0800" stop="20130709000000 +0800">
+ 	<title lang="zh"> 電影情報讚 </title>
+	<sub-title lang="zh"> 電影情報讚 </sub-title>
+	<desc lang="zh"> 電影情報讚 第54集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130709000000 +0800" stop="20130709003000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2179集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130709003000 +0800" stop="20130709010000 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130709010000 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh"> 收播 </title>
+	<sub-title lang="zh"> 收播 </sub-title>
+	<desc lang="zh"> 收播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709020000 +0800" stop="20130709023000 +0800">
+ 	<title lang="zh"> 民視夜線新聞 </title>
+	<sub-title lang="zh"> 民視夜線新聞 </sub-title>
+	<desc lang="zh"> 民視夜線新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709023000 +0800" stop="20130709030000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709030000 +0800" stop="20130709040000 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第146集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709040000 +0800" stop="20130709043000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709043000 +0800" stop="20130709050000 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709020400 +0800" stop="20130709030400 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第146集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709030400 +0800" stop="20130709040400 +0800">
+ 	<title lang="zh"> 西遊記 </title>
+	<sub-title lang="zh"> 西遊記 </sub-title>
+	<desc lang="zh"> 西遊記 第43集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709040400 +0800" stop="20130709043100 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第780集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709043100 +0800" stop="20130709053100 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第44集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709020400 +0800" stop="20130709030400 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第146集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709030400 +0800" stop="20130709040400 +0800">
+ 	<title lang="zh"> 西遊記 </title>
+	<sub-title lang="zh"> 西遊記 </sub-title>
+	<desc lang="zh"> 西遊記 第43集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709040400 +0800" stop="20130709043100 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第780集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709043100 +0800" stop="20130709053100 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第44集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709053100 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709060000 +0800" stop="20130709065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709065700 +0800" stop="20130709070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130709070000 +0800" stop="20130709103000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709053100 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709060000 +0800" stop="20130709065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709065700 +0800" stop="20130709070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130709070000 +0800" stop="20130709103000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709050000 +0800" stop="20130709053000 +0800">
+ 	<title lang="zh"> 民視夜線新聞 </title>
+	<sub-title lang="zh"> 民視夜線新聞 </sub-title>
+	<desc lang="zh"> 民視夜線新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709053000 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709060000 +0800" stop="20130709070000 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130709070000 +0800" stop="20130709080000 +0800">
+ 	<title lang="zh"> 民視七點晨間新聞 </title>
+	<sub-title lang="zh"> 民視七點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130709060000 +0800" stop="20130709063000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2180集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130709063000 +0800" stop="20130709070000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2179集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130709070000 +0800" stop="20130709080000 +0800">
+ 	<title lang="zh"> 香榭大道 </title>
+	<sub-title lang="zh"> 香榭大道 </sub-title>
+	<desc lang="zh"> 香榭大道 第1686集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705080000 +0800" stop="20130705090000 +0800">
+ 	<title lang="zh"> 民視八點晨間新聞 </title>
+	<sub-title lang="zh"> 民視八點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視八點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705090000 +0800" stop="20130705100000 +0800">
+ 	<title lang="zh"> 民視九點新聞 </title>
+	<sub-title lang="zh"> 民視九點新聞 </sub-title>
+	<desc lang="zh"> 民視九點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705100000 +0800" stop="20130705110000 +0800">
+ 	<title lang="zh"> 民視十點台語新聞 </title>
+	<sub-title lang="zh"> 民視十點台語新聞 </sub-title>
+	<desc lang="zh"> 民視十點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705103000 +0800" stop="20130705110000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705103000 +0800" stop="20130705110000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705080000 +0800" stop="20130705090000 +0800">
+ 	<title lang="zh"> 民視八點晨間新聞 </title>
+	<sub-title lang="zh"> 民視八點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視八點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705090000 +0800" stop="20130705100000 +0800">
+ 	<title lang="zh"> 夜市人生 </title>
+	<sub-title lang="zh"> 夜市人生 </sub-title>
+	<desc lang="zh"> 夜市人生 第70集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705100000 +0800" stop="20130705110000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1834集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705110000 +0800" stop="20130705113000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3713集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705113000 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第115集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705120000 +0800" stop="20130705123000 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705123000 +0800" stop="20130705130000 +0800">
+ 	<title lang="zh"> 美鳳有約 </title>
+	<sub-title lang="zh"> 美鳳有約 </sub-title>
+	<desc lang="zh"> 美鳳有約 第3012集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705130000 +0800" stop="20130705153000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第253集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705110000 +0800" stop="20130705113000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3713集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705113000 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第115集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705120000 +0800" stop="20130705123000 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705123000 +0800" stop="20130705130000 +0800">
+ 	<title lang="zh"> 美鳳有約 </title>
+	<sub-title lang="zh"> 美鳳有約 </sub-title>
+	<desc lang="zh"> 美鳳有約 第3012集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705130000 +0800" stop="20130705153000 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第253集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705110000 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh"> 民視十一點新聞 </title>
+	<sub-title lang="zh"> 民視十一點新聞 </sub-title>
+	<desc lang="zh"> 民視十一點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705120000 +0800" stop="20130705131000 +0800">
+ 	<title lang="zh"> 民視午間新聞 </title>
+	<sub-title lang="zh"> 民視午間新聞 </sub-title>
+	<desc lang="zh"> 民視午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705131000 +0800" stop="20130705140000 +0800">
+ 	<title lang="zh"> 民視一點新聞 </title>
+	<sub-title lang="zh"> 民視一點新聞 </sub-title>
+	<desc lang="zh"> 民視一點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705110000 +0800" stop="20130705113000 +0800">
+ 	<title lang="zh"> 用點心做點心 </title>
+	<sub-title lang="zh"> 用點心做點心 </sub-title>
+	<desc lang="zh"> 用點心做點心 第266集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705113000 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh"> 美鳳有約 </title>
+	<sub-title lang="zh"> 美鳳有約 </sub-title>
+	<desc lang="zh"> 美鳳有約 第3009集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705120000 +0800" stop="20130705130000 +0800">
+ 	<title lang="zh"> 民視午間新聞 </title>
+	<sub-title lang="zh"> 民視午間新聞 </sub-title>
+	<desc lang="zh"> 民視午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705130000 +0800" stop="20130705140000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1834集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705140000 +0800" stop="20130705150000 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第144集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705150000 +0800" stop="20130705160000 +0800">
+ 	<title lang="zh"> 民視三點台語新聞 </title>
+	<sub-title lang="zh"> 民視三點台語新聞 </sub-title>
+	<desc lang="zh"> 民視三點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705160000 +0800" stop="20130705163000 +0800">
+ 	<title lang="zh"> 民視四點新聞 </title>
+	<sub-title lang="zh"> 民視四點新聞 </sub-title>
+	<desc lang="zh"> 民視四點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705163000 +0800" stop="20130705170000 +0800">
+ 	<title lang="zh"> 民視國際新聞 </title>
+	<sub-title lang="zh"> 民視國際新聞 </sub-title>
+	<desc lang="zh"> 民視國際新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705153000 +0800" stop="20130705153100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第1集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705153100 +0800" stop="20130705160000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第4029集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705160000 +0800" stop="20130705165700 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第18集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705165700 +0800" stop="20130705170000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705153000 +0800" stop="20130705153100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第1集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705153100 +0800" stop="20130705160000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第4029集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705160000 +0800" stop="20130705165700 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第18集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705165700 +0800" stop="20130705170000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705140000 +0800" stop="20130705150000 +0800">
+ 	<title lang="zh"> 夜市人生 </title>
+	<sub-title lang="zh"> 夜市人生 </sub-title>
+	<desc lang="zh"> 夜市人生 第70集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705150000 +0800" stop="20130705160000 +0800">
+ 	<title lang="zh"> 電影情報讚 </title>
+	<sub-title lang="zh"> 電影情報讚 </sub-title>
+	<desc lang="zh"> 電影情報讚 第53集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705160000 +0800" stop="20130705170000 +0800">
+ 	<title lang="zh"> 活力天天樂 </title>
+	<sub-title lang="zh"> 活力天天樂 </sub-title>
+	<desc lang="zh"> 活力天天樂 第18集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705170000 +0800" stop="20130705175000 +0800">
+ 	<title lang="zh"> 民視五點新聞 </title>
+	<sub-title lang="zh"> 民視五點新聞 </sub-title>
+	<desc lang="zh"> 民視五點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705175000 +0800" stop="20130705195500 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705195500 +0800" stop="20130705202900 +0800">
+ 	<title lang="zh"> 民視大現場 </title>
+	<sub-title lang="zh"> 民視大現場 </sub-title>
+	<desc lang="zh"> 民視大現場 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705170000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh"> 快樂孩子王 </title>
+	<sub-title lang="zh"> 快樂孩子王 </sub-title>
+	<desc lang="zh"> 快樂孩子王 第11集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705180000 +0800" stop="20130705180100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第23集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705180100 +0800" stop="20130705182800 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第779集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705182800 +0800" stop="20130705185800 +0800">
+ 	<title lang="zh"> 天龍傳奇 </title>
+	<sub-title lang="zh"> 天龍傳奇 </sub-title>
+	<desc lang="zh"> 天龍傳奇 第59集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705185800 +0800" stop="20130705193000 +0800">
+ 	<title lang="zh"> 民視七點晚間新聞 </title>
+	<sub-title lang="zh"> 民視七點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130705193000 +0800" stop="20130705200000 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第138集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705170000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh"> 快樂孩子王 </title>
+	<sub-title lang="zh"> 快樂孩子王 </sub-title>
+	<desc lang="zh"> 快樂孩子王 第11集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705180000 +0800" stop="20130705180100 +0800">
+ 	<title lang="zh"> 新歌介紹 </title>
+	<sub-title lang="zh"> 新歌介紹 </sub-title>
+	<desc lang="zh"> 新歌介紹 第23集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705180100 +0800" stop="20130705182800 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第779集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705182800 +0800" stop="20130705185800 +0800">
+ 	<title lang="zh"> 天龍傳奇 </title>
+	<sub-title lang="zh"> 天龍傳奇 </sub-title>
+	<desc lang="zh"> 天龍傳奇 第59集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705185800 +0800" stop="20130705193000 +0800">
+ 	<title lang="zh"> 民視七點晚間新聞 </title>
+	<sub-title lang="zh"> 民視七點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130705193000 +0800" stop="20130705200000 +0800">
+ 	<title lang="zh"> 封神榜 </title>
+	<sub-title lang="zh"> 封神榜 </sub-title>
+	<desc lang="zh"> 封神榜 第138集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705202900 +0800" stop="20130705205900 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705205900 +0800" stop="20130705215900 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第145集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705170000 +0800" stop="20130705173000 +0800">
+ 	<title lang="zh"> 用點心做點心 </title>
+	<sub-title lang="zh"> 用點心做點心 </sub-title>
+	<desc lang="zh"> 用點心做點心 第266集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705173000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh"> 發燒MV大賞 </title>
+	<sub-title lang="zh"> 發燒MV大賞 </sub-title>
+	<desc lang="zh"> 發燒MV大賞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130705180000 +0800" stop="20130705193000 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705233100 +0800" stop="20130705234300 +0800">
+ 	<title lang="zh"> 民視國際新聞 </title>
+	<sub-title lang="zh"> 民視國際新聞 </sub-title>
+	<desc lang="zh"> 民視國際新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705234300 +0800" stop="20130705235600 +0800">
+ 	<title lang="zh"> 民視英語新聞 </title>
+	<sub-title lang="zh"> 民視英語新聞 </sub-title>
+	<desc lang="zh"> 民視英語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130705235600 +0800" stop="20130705235900 +0800">
+ 	<title lang="zh"> Time For Taiwan-Time For Celebration </title>
+	<sub-title lang="zh"> Time For Taiwan-Time For Celebration </sub-title>
+	<desc lang="zh"> Time For Taiwan-Time For Celebration 第5集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706000000 +0800" stop="20130706002900 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706002900 +0800" stop="20130706005900 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706005900 +0800" stop="20130706020000 +0800">
+ 	<title lang="zh"> 頭家來開講 </title>
+	<sub-title lang="zh"> 頭家來開講 </sub-title>
+	<desc lang="zh"> 頭家來開講 第3563集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706000000 +0800" stop="20130706000300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706000300 +0800" stop="20130706023300 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第254集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706000000 +0800" stop="20130706000300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706000300 +0800" stop="20130706023300 +0800">
+ 	<title lang="zh"> 風水世家 </title>
+	<sub-title lang="zh"> 風水世家 </sub-title>
+	<desc lang="zh"> 風水世家 第254集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706023300 +0800" stop="20130706033300 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第145集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706033300 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第779集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706040000 +0800" stop="20130706050000 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第42集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706023300 +0800" stop="20130706033300 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第145集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706033300 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh"> 意難忘 </title>
+	<sub-title lang="zh"> 意難忘 </sub-title>
+	<desc lang="zh"> 意難忘 第779集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706040000 +0800" stop="20130706050000 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第42集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706020000 +0800" stop="20130706023000 +0800">
+ 	<title lang="zh"> 民視夜線新聞 </title>
+	<sub-title lang="zh"> 民視夜線新聞 </sub-title>
+	<desc lang="zh"> 民視夜線新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706023000 +0800" stop="20130706030000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706030000 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh"> 挑戰新聞 </title>
+	<sub-title lang="zh"> 挑戰新聞 </sub-title>
+	<desc lang="zh"> 挑戰新聞 第145集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706040000 +0800" stop="20130706043000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706043000 +0800" stop="20130706050000 +0800">
+ 	<title lang="zh"> 民視體育新聞 </title>
+	<sub-title lang="zh"> 民視體育新聞 </sub-title>
+	<desc lang="zh"> 民視體育新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706050000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706060000 +0800" stop="20130706065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706065700 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706070000 +0800" stop="20130706103000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706050000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706060000 +0800" stop="20130706065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706065700 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706070000 +0800" stop="20130706103000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706050000 +0800" stop="20130706053000 +0800">
+ 	<title lang="zh"> 民視夜線新聞 </title>
+	<sub-title lang="zh"> 民視夜線新聞 </sub-title>
+	<desc lang="zh"> 民視夜線新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706053000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706060000 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706070000 +0800" stop="20130706080000 +0800">
+ 	<title lang="zh"> 民視七點晨間新聞 </title>
+	<sub-title lang="zh"> 民視七點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706060000 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2174集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706070000 +0800" stop="20130706080000 +0800">
+ 	<title lang="zh"> 香榭大道 </title>
+	<sub-title lang="zh"> 香榭大道 </sub-title>
+	<desc lang="zh"> 香榭大道 第1685集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706080000 +0800" stop="20130706090000 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第27集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706090000 +0800" stop="20130706103000 +0800">
+ 	<title lang="zh"> 廉政英雄 </title>
+	<sub-title lang="zh"> 廉政英雄 </sub-title>
+	<desc lang="zh"> 廉政英雄 第67集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="301.dvb.guide" start="20130706103000 +0800" stop="20130706113000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第9集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706103000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第4014集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706103000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第4014集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706080000 +0800" stop="20130706090000 +0800">
+ 	<title lang="zh"> 科學再發現 </title>
+	<sub-title lang="zh"> 科學再發現 </sub-title>
+	<desc lang="zh"> 科學再發現 第15集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706090000 +0800" stop="20130706100000 +0800">
+ 	<title lang="zh"> 民視九點新聞 </title>
+	<sub-title lang="zh"> 民視九點新聞 </sub-title>
+	<desc lang="zh"> 民視九點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706100000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh"> 豪宅旗艦王 </title>
+	<sub-title lang="zh"> 豪宅旗艦王 </sub-title>
+	<desc lang="zh"> 豪宅旗艦王 第320集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh"> 豪宅旗艦王 </title>
+	<sub-title lang="zh"> 豪宅旗艦王 </sub-title>
+	<desc lang="zh"> 豪宅旗艦王 第320集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706120000 +0800" stop="20130706123000 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706123000 +0800" stop="20130706143000 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第598集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh"> 豪宅旗艦王 </title>
+	<sub-title lang="zh"> 豪宅旗艦王 </sub-title>
+	<desc lang="zh"> 豪宅旗艦王 第320集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706120000 +0800" stop="20130706123000 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706123000 +0800" stop="20130706143000 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第598集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706113000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh"> 點心趴趴GO </title>
+	<sub-title lang="zh"> 點心趴趴GO </sub-title>
+	<desc lang="zh"> 點心趴趴GO 第122集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706120000 +0800" stop="20130706140000 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第598集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh"> 民視十一點新聞 </title>
+	<sub-title lang="zh"> 民視十一點新聞 </sub-title>
+	<desc lang="zh"> 民視十一點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706120000 +0800" stop="20130706140000 +0800">
+ 	<title lang="zh"> 民視午間新聞 </title>
+	<sub-title lang="zh"> 民視午間新聞 </sub-title>
+	<desc lang="zh"> 民視午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706143000 +0800" stop="20130706155700 +0800">
+ 	<title lang="zh"> 封神榜精華版 </title>
+	<sub-title lang="zh"> 封神榜精華版 </sub-title>
+	<desc lang="zh"> 封神榜精華版 第26集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706155700 +0800" stop="20130706160000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706160000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh"> 風水世家精華版 </title>
+	<sub-title lang="zh"> 風水世家精華版 </sub-title>
+	<desc lang="zh"> 風水世家精華版 第96集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706143000 +0800" stop="20130706155700 +0800">
+ 	<title lang="zh"> 封神榜精華版 </title>
+	<sub-title lang="zh"> 封神榜精華版 </sub-title>
+	<desc lang="zh"> 封神榜精華版 第26集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706155700 +0800" stop="20130706160000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706160000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh"> 風水世家精華版 </title>
+	<sub-title lang="zh"> 風水世家精華版 </sub-title>
+	<desc lang="zh"> 風水世家精華版 第96集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706140000 +0800" stop="20130706150000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1828集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706150000 +0800" stop="20130706160000 +0800">
+ 	<title lang="zh"> 電影情報讚 </title>
+	<sub-title lang="zh"> 電影情報讚 </sub-title>
+	<desc lang="zh"> 電影情報讚 第54集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706160000 +0800" stop="20130706170000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第9集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706140000 +0800" stop="20130706150000 +0800">
+ 	<title lang="zh"> 民視二點新聞 </title>
+	<sub-title lang="zh"> 民視二點新聞 </sub-title>
+	<desc lang="zh"> 民視二點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706150000 +0800" stop="20130706160000 +0800">
+ 	<title lang="zh"> 民視三點台語新聞 </title>
+	<sub-title lang="zh"> 民視三點台語新聞 </sub-title>
+	<desc lang="zh"> 民視三點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706160000 +0800" stop="20130706170000 +0800">
+ 	<title lang="zh"> 民視四點新聞 </title>
+	<sub-title lang="zh"> 民視四點新聞 </sub-title>
+	<desc lang="zh"> 民視四點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706180000 +0800" stop="20130706183000 +0800">
+ 	<title lang="zh"> 民視無線晚間新聞 </title>
+	<sub-title lang="zh"> 民視無線晚間新聞 </sub-title>
+	<desc lang="zh"> 民視無線晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706183000 +0800" stop="20130706200000 +0800">
+ 	<title lang="zh"> 豬哥會社精選版 </title>
+	<sub-title lang="zh"> 豬哥會社精選版 </sub-title>
+	<desc lang="zh"> 豬哥會社精選版 第66集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706180000 +0800" stop="20130706183000 +0800">
+ 	<title lang="zh"> 民視無線晚間新聞 </title>
+	<sub-title lang="zh"> 民視無線晚間新聞 </sub-title>
+	<desc lang="zh"> 民視無線晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706183000 +0800" stop="20130706200000 +0800">
+ 	<title lang="zh"> 豬哥會社精選版 </title>
+	<sub-title lang="zh"> 豬哥會社精選版 </sub-title>
+	<desc lang="zh"> 豬哥會社精選版 第66集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706170000 +0800" stop="20130706175000 +0800">
+ 	<title lang="zh"> 民視五點新聞 </title>
+	<sub-title lang="zh"> 民視五點新聞 </sub-title>
+	<desc lang="zh"> 民視五點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706175000 +0800" stop="20130706195700 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706195700 +0800" stop="20130706210000 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第178集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706170000 +0800" stop="20130706173000 +0800">
+ 	<title lang="zh"> 點心趴趴GO </title>
+	<sub-title lang="zh"> 點心趴趴GO </sub-title>
+	<desc lang="zh"> 點心趴趴GO 第122集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706173000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh"> 用點心做點心 </title>
+	<sub-title lang="zh"> 用點心做點心 </sub-title>
+	<desc lang="zh"> 用點心做點心 第266集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706180000 +0800" stop="20130706190000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第9集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706190000 +0800" stop="20130706193000 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706193000 +0800" stop="20130706230000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706200000 +0800" stop="20130706220000 +0800">
+ 	<title lang="zh"> 明日之星SUPER STAR </title>
+	<sub-title lang="zh"> 明日之星SUPER STAR </sub-title>
+	<desc lang="zh"> 明日之星SUPER STAR 第243集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706220000 +0800" stop="20130706233000 +0800">
+ 	<title lang="zh"> 三星報囍 </title>
+	<sub-title lang="zh"> 三星報囍 </sub-title>
+	<desc lang="zh"> 三星報囍 第26集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706200000 +0800" stop="20130706220000 +0800">
+ 	<title lang="zh"> 明日之星SUPER STAR </title>
+	<sub-title lang="zh"> 明日之星SUPER STAR </sub-title>
+	<desc lang="zh"> 明日之星SUPER STAR 第243集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706220000 +0800" stop="20130706233000 +0800">
+ 	<title lang="zh"> 三星報囍 </title>
+	<sub-title lang="zh"> 三星報囍 </sub-title>
+	<desc lang="zh"> 三星報囍 第26集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706210000 +0800" stop="20130706215700 +0800">
+ 	<title lang="zh"> 九點不一樣 </title>
+	<sub-title lang="zh"> 九點不一樣 </sub-title>
+	<desc lang="zh"> 九點不一樣 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706215700 +0800" stop="20130706225700 +0800">
+ 	<title lang="zh"> 民視異言堂 </title>
+	<sub-title lang="zh"> 民視異言堂 </sub-title>
+	<desc lang="zh"> 民視異言堂 第763集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130706225700 +0800" stop="20130707000000 +0800">
+ 	<title lang="zh"> 民視十一點晚間新聞 </title>
+	<sub-title lang="zh"> 民視十一點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視十一點晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130706233000 +0800" stop="20130707003000 +0800">
+ 	<title lang="zh"> 亞洲歌唱大賽 </title>
+	<sub-title lang="zh"> 亞洲歌唱大賽 </sub-title>
+	<desc lang="zh"> 亞洲歌唱大賽 第5集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707003000 +0800" stop="20130707003300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707003300 +0800" stop="20130707013300 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第178集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707013300 +0800" stop="20130707023300 +0800">
+ 	<title lang="zh"> 豪宅旗艦王 </title>
+	<sub-title lang="zh"> 豪宅旗艦王 </sub-title>
+	<desc lang="zh"> 豪宅旗艦王 第320集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130706233000 +0800" stop="20130707003000 +0800">
+ 	<title lang="zh"> 亞洲歌唱大賽 </title>
+	<sub-title lang="zh"> 亞洲歌唱大賽 </sub-title>
+	<desc lang="zh"> 亞洲歌唱大賽 第5集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707003000 +0800" stop="20130707003300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707003300 +0800" stop="20130707013300 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第178集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707013300 +0800" stop="20130707023300 +0800">
+ 	<title lang="zh"> 豪宅旗艦王 </title>
+	<sub-title lang="zh"> 豪宅旗艦王 </sub-title>
+	<desc lang="zh"> 豪宅旗艦王 第320集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707000000 +0800" stop="20130707010000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707010000 +0800" stop="20130707020000 +0800">
+ 	<title lang="zh"> 民視十一點晚間新聞 </title>
+	<sub-title lang="zh"> 民視十一點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視十一點晚間新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130706230000 +0800" stop="20130707003000 +0800">
+ 	<title lang="zh"> 廉政英雄 </title>
+	<sub-title lang="zh"> 廉政英雄 </sub-title>
+	<desc lang="zh"> 廉政英雄 第69集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="301.dvb.guide" start="20130707003000 +0800" stop="20130707013000 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第178集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707013000 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh"> 收播 </title>
+	<sub-title lang="zh"> 收播 </sub-title>
+	<desc lang="zh"> 收播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707023300 +0800" stop="20130707043300 +0800">
+ 	<title lang="zh"> 明日之星SUPER STAR </title>
+	<sub-title lang="zh"> 明日之星SUPER STAR </sub-title>
+	<desc lang="zh"> 明日之星SUPER STAR 第243集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707043300 +0800" stop="20130707053300 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第43集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707023300 +0800" stop="20130707043300 +0800">
+ 	<title lang="zh"> 明日之星SUPER STAR </title>
+	<sub-title lang="zh"> 明日之星SUPER STAR </sub-title>
+	<desc lang="zh"> 明日之星SUPER STAR 第243集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707043300 +0800" stop="20130707053300 +0800">
+ 	<title lang="zh"> Go Go Taiwan </title>
+	<sub-title lang="zh"> Go Go Taiwan </sub-title>
+	<desc lang="zh"> Go Go Taiwan 第43集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707020000 +0800" stop="20130707030000 +0800">
+ 	<title lang="zh"> 九點不一樣 </title>
+	<sub-title lang="zh"> 九點不一樣 </sub-title>
+	<desc lang="zh"> 九點不一樣 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707030000 +0800" stop="20130707040000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707040000 +0800" stop="20130707050000 +0800">
+ 	<title lang="zh"> 民視十一點晚間新聞 </title>
+	<sub-title lang="zh"> 民視十一點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視十一點晚間新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707053300 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707060000 +0800" stop="20130707065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707065700 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707070000 +0800" stop="20130707070700 +0800">
+ 	<title lang="zh"> 消費高手精選 </title>
+	<sub-title lang="zh"> 消費高手精選 </sub-title>
+	<desc lang="zh"> 消費高手精選 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707070700 +0800" stop="20130707071000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707071000 +0800" stop="20130707104000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707053300 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3861集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707060000 +0800" stop="20130707065700 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707065700 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707070000 +0800" stop="20130707070700 +0800">
+ 	<title lang="zh"> 消費高手精選 </title>
+	<sub-title lang="zh"> 消費高手精選 </sub-title>
+	<desc lang="zh"> 消費高手精選 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707070700 +0800" stop="20130707071000 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707071000 +0800" stop="20130707104000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707050000 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh"> 民視十二點午夜新聞 </title>
+	<sub-title lang="zh"> 民視十二點午夜新聞 </sub-title>
+	<desc lang="zh"> 民視十二點午夜新聞 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707060000 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh"> 民視六點晨間新聞 </title>
+	<sub-title lang="zh"> 民視六點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視六點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707070000 +0800" stop="20130707080000 +0800">
+ 	<title lang="zh"> 民視七點晨間新聞 </title>
+	<sub-title lang="zh"> 民視七點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視七點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707060000 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh"> Live ABC </title>
+	<sub-title lang="zh"> Live ABC </sub-title>
+	<desc lang="zh"> Live ABC 第2176集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707070000 +0800" stop="20130707080000 +0800">
+ 	<title lang="zh"> 民視異言堂 </title>
+	<sub-title lang="zh"> 民視異言堂 </sub-title>
+	<desc lang="zh"> 民視異言堂 第763集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707080000 +0800" stop="20130707085000 +0800">
+ 	<title lang="zh"> 民視八點晨間新聞 </title>
+	<sub-title lang="zh"> 民視八點晨間新聞 </sub-title>
+	<desc lang="zh"> 民視八點晨間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707085000 +0800" stop="20130707090000 +0800">
+ 	<title lang="zh"> 一週台灣廣場 </title>
+	<sub-title lang="zh"> 一週台灣廣場 </sub-title>
+	<desc lang="zh"> 一週台灣廣場 第51集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707090000 +0800" stop="20130707100000 +0800">
+ 	<title lang="zh"> 民視九點新聞 </title>
+	<sub-title lang="zh"> 民視九點新聞 </sub-title>
+	<desc lang="zh"> 民視九點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707100000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh"> 民視十點台語新聞 </title>
+	<sub-title lang="zh"> 民視十點台語新聞 </sub-title>
+	<desc lang="zh"> 民視十點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707080000 +0800" stop="20130707090000 +0800">
+ 	<title lang="zh"> 豪宅旗艦王 </title>
+	<sub-title lang="zh"> 豪宅旗艦王 </sub-title>
+	<desc lang="zh"> 豪宅旗艦王 第319集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707090000 +0800" stop="20130707103000 +0800">
+ 	<title lang="zh"> 廉政英雄 </title>
+	<sub-title lang="zh"> 廉政英雄 </sub-title>
+	<desc lang="zh"> 廉政英雄 第68集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="301.dvb.guide" start="20130707103000 +0800" stop="20130707113000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第8集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707104000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh"> 消費高手精選 </title>
+	<sub-title lang="zh"> 消費高手精選 </sub-title>
+	<desc lang="zh"> 消費高手精選 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707104000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh"> 消費高手精選 </title>
+	<sub-title lang="zh"> 消費高手精選 </sub-title>
+	<desc lang="zh"> 消費高手精選 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707110000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第10集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707120000 +0800" stop="20130707123000 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707123000 +0800" stop="20130707140000 +0800">
+ 	<title lang="zh"> 原來是美男 </title>
+	<sub-title lang="zh"> 原來是美男 </sub-title>
+	<desc lang="zh"> 原來是美男 第8集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707110000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第10集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707120000 +0800" stop="20130707123000 +0800">
+ 	<title lang="zh"> 民視無線午間新聞 </title>
+	<sub-title lang="zh"> 民視無線午間新聞 </sub-title>
+	<desc lang="zh"> 民視無線午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707123000 +0800" stop="20130707140000 +0800">
+ 	<title lang="zh"> 原來是美男 </title>
+	<sub-title lang="zh"> 原來是美男 </sub-title>
+	<desc lang="zh"> 原來是美男 第8集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707110000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh"> 民視十一點新聞 </title>
+	<sub-title lang="zh"> 民視十一點新聞 </sub-title>
+	<desc lang="zh"> 民視十一點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707120000 +0800" stop="20130707140000 +0800">
+ 	<title lang="zh"> 民視午間新聞 </title>
+	<sub-title lang="zh"> 民視午間新聞 </sub-title>
+	<desc lang="zh"> 民視午間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707113000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh"> 點心趴趴GO </title>
+	<sub-title lang="zh"> 點心趴趴GO </sub-title>
+	<desc lang="zh"> 點心趴趴GO 第78集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707120000 +0800" stop="20130707140000 +0800">
+ 	<title lang="zh"> 綜藝大集合 </title>
+	<sub-title lang="zh"> 綜藝大集合 </sub-title>
+	<desc lang="zh"> 綜藝大集合 第599集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707140000 +0800" stop="20130707153000 +0800">
+ 	<title lang="zh"> 週日廉政英雄 </title>
+	<sub-title lang="zh"> 週日廉政英雄 </sub-title>
+	<desc lang="zh"> 週日廉政英雄 第85集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="300.dvb.guide" start="20130707153000 +0800" stop="20130707153300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707153300 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3986集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707160000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh"> 風水世家精華版 </title>
+	<sub-title lang="zh"> 風水世家精華版 </sub-title>
+	<desc lang="zh"> 風水世家精華版 第97集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707140000 +0800" stop="20130707153000 +0800">
+ 	<title lang="zh"> 週日廉政英雄 </title>
+	<sub-title lang="zh"> 週日廉政英雄 </sub-title>
+	<desc lang="zh"> 週日廉政英雄 第85集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+	<rating system="dvb">
+		<value>6</value>
+	</rating>
+</programme>
+<programme channel="304.dvb.guide" start="20130707153000 +0800" stop="20130707153300 +0800">
+ 	<title lang="zh"> MLB看民視 </title>
+	<sub-title lang="zh"> MLB看民視 </sub-title>
+	<desc lang="zh"> MLB看民視 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707153300 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh"> 消費高手 </title>
+	<sub-title lang="zh"> 消費高手 </sub-title>
+	<desc lang="zh"> 消費高手 第3986集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707160000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh"> 風水世家精華版 </title>
+	<sub-title lang="zh"> 風水世家精華版 </sub-title>
+	<desc lang="zh"> 風水世家精華版 第97集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707140000 +0800" stop="20130707150000 +0800">
+ 	<title lang="zh"> 民視二點新聞 </title>
+	<sub-title lang="zh"> 民視二點新聞 </sub-title>
+	<desc lang="zh"> 民視二點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707150000 +0800" stop="20130707155000 +0800">
+ 	<title lang="zh"> 民視三點台語新聞 </title>
+	<sub-title lang="zh"> 民視三點台語新聞 </sub-title>
+	<desc lang="zh"> 民視三點台語新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707155000 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh"> 一週台灣廣場 </title>
+	<sub-title lang="zh"> 一週台灣廣場 </sub-title>
+	<desc lang="zh"> 一週台灣廣場 第51集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707160000 +0800" stop="20130707170000 +0800">
+ 	<title lang="zh"> 民視四點新聞 </title>
+	<sub-title lang="zh"> 民視四點新聞 </sub-title>
+	<desc lang="zh"> 民視四點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707140000 +0800" stop="20130707150000 +0800">
+ 	<title lang="zh"> 元氣加油站 </title>
+	<sub-title lang="zh"> 元氣加油站 </sub-title>
+	<desc lang="zh"> 元氣加油站 第1829集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707150000 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh"> 電影情報讚 </title>
+	<sub-title lang="zh"> 電影情報讚 </sub-title>
+	<desc lang="zh"> 電影情報讚 第53集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707160000 +0800" stop="20130707170000 +0800">
+ 	<title lang="zh"> Skoda Go Go Taiwan </title>
+	<sub-title lang="zh"> Skoda Go Go Taiwan </sub-title>
+	<desc lang="zh"> Skoda Go Go Taiwan 第10集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707170000 +0800" stop="20130707175000 +0800">
+ 	<title lang="zh"> 民視五點新聞 </title>
+	<sub-title lang="zh"> 民視五點新聞 </sub-title>
+	<desc lang="zh"> 民視五點新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707175000 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707180000 +0800" stop="20130707183000 +0800">
+ 	<title lang="zh"> 民視無線晚間新聞 </title>
+	<sub-title lang="zh"> 民視無線晚間新聞 </sub-title>
+	<desc lang="zh"> 民視無線晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="304.dvb.guide" start="20130707183000 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh"> 愛妮雅舞力全開 </title>
+	<sub-title lang="zh"> 愛妮雅舞力全開 </sub-title>
+	<desc lang="zh"> 愛妮雅舞力全開 第44集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707180000 +0800" stop="20130707183000 +0800">
+ 	<title lang="zh"> 民視無線晚間新聞 </title>
+	<sub-title lang="zh"> 民視無線晚間新聞 </sub-title>
+	<desc lang="zh"> 民視無線晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="300.dvb.guide" start="20130707183000 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh"> 愛妮雅舞力全開 </title>
+	<sub-title lang="zh"> 愛妮雅舞力全開 </sub-title>
+	<desc lang="zh"> 愛妮雅舞力全開 第44集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707170000 +0800" stop="20130707173000 +0800">
+ 	<title lang="zh"> 點心趴趴GO </title>
+	<sub-title lang="zh"> 點心趴趴GO </sub-title>
+	<desc lang="zh"> 點心趴趴GO 第78集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707173000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh"> 用點心做點心 </title>
+	<sub-title lang="zh"> 用點心做點心 </sub-title>
+	<desc lang="zh"> 用點心做點心 第266集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707180000 +0800" stop="20130707190000 +0800">
+ 	<title lang="zh"> 特色校園我最讚 </title>
+	<sub-title lang="zh"> 特色校園我最讚 </sub-title>
+	<desc lang="zh"> 特色校園我最讚 第22集 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707190000 +0800" stop="20130707193000 +0800">
+ 	<title lang="zh"> 民視晚間新聞 </title>
+	<sub-title lang="zh"> 民視晚間新聞 </sub-title>
+	<desc lang="zh"> 民視晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="301.dvb.guide" start="20130707193000 +0800" stop="20130707230000 +0800">
+ 	<title lang="zh"> 美國職棒看民視 </title>
+	<sub-title lang="zh"> 美國職棒看民視 </sub-title>
+	<desc lang="zh"> 美國職棒看民視 重播 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707200000 +0800" stop="20130707210000 +0800">
+ 	<title lang="zh"> 台灣演義 </title>
+	<sub-title lang="zh"> 台灣演義 </sub-title>
+	<desc lang="zh"> 台灣演義 第267集 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707210000 +0800" stop="20130707215700 +0800">
+ 	<title lang="zh"> 九點不一樣 </title>
+	<sub-title lang="zh"> 九點不一樣 </sub-title>
+	<desc lang="zh"> 九點不一樣 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707215700 +0800" stop="20130707225700 +0800">
+ 	<title lang="zh"> 民視十點全球新聞 </title>
+	<sub-title lang="zh"> 民視十點全球新聞 </sub-title>
+	<desc lang="zh"> 民視十點全球新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="302.dvb.guide" start="20130707225700 +0800" stop="20130707234500 +0800">
+ 	<title lang="zh"> 民視十一點晚間新聞 </title>
+	<sub-title lang="zh"> 民視十一點晚間新聞 </sub-title>
+	<desc lang="zh"> 民視十一點晚間新聞 </desc>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+</tv>

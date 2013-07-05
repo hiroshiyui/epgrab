@@ -1,0 +1,5678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="dvb-epg-gen">
+
+<programme channel="503.dvb.guide" start="20130706200000 +0800" stop="20130706210000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 267 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706210000 +0800" stop="20130706220000 +0800">
+ 	<title lang="zh">圓夢廚房</title>
+	<sub-title lang="zh">第 13 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706220000 +0800" stop="20130706230000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 257 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706200000 +0800" stop="20130706220000 +0800">
+ 	<title lang="zh">烏龍派出所特別篇</title>
+	<sub-title lang="zh">越激烈的假期越過癮</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706220000 +0800" stop="20130707001000 +0800">
+ 	<title lang="zh">天才衝衝衝</title>
+	<sub-title lang="zh">第 368 集</sub-title>
+</programme>
+<programme channel="501.dvb.guide" start="20130709173000 +0800" stop="20130709180000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三三○集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709180000 +0800" stop="20130709183000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三三一集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709183000 +0800" stop="20130709185800 +0800">
+ 	<title lang="zh">哆啦A夢</title>
+	<sub-title lang="zh">第三二○八集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709185800 +0800" stop="20130709200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2006 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709173000 +0800" stop="20130709180000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三三○集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709180000 +0800" stop="20130709183000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三三一集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709183000 +0800" stop="20130709185800 +0800">
+ 	<title lang="zh">哆啦A夢</title>
+	<sub-title lang="zh">第三二○八集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709185800 +0800" stop="20130709200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2006 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130705223000 +0800" stop="20130705230000 +0800">
+ 	<title lang="zh">銀行實務</title>
+	<sub-title lang="zh">第１８講銀行資訊策略與發展導向(二)；目標－幫助同學瞭解銀行最基本的業務的發展，及未來銀行市場之變革與挑戰。重點－幫助同學瞭解客戶關係管理是否等於資料庫行銷？金融業常用的與最有效的行銷方式是什麼？</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707001000 +0800" stop="20130707004000 +0800">
+ 	<title lang="zh">天才衝衝衝精華版</title>
+	<sub-title lang="zh">（原第２３集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707004000 +0800" stop="20130707014000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 304 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707014000 +0800" stop="20130707034000 +0800">
+ 	<title lang="zh">烏龍派出所特別篇</title>
+	<sub-title lang="zh">越激烈的假期越過癮</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705220000 +0800" stop="20130705230000 +0800">
+ 	<title lang="zh">華視新聞雜誌</title>
+	<sub-title lang="zh">（主１８７９集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707001000 +0800" stop="20130707004000 +0800">
+ 	<title lang="zh">天才衝衝衝精華版</title>
+	<sub-title lang="zh">（原第２３集）</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707004000 +0800" stop="20130707014000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 304 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707014000 +0800" stop="20130707034000 +0800">
+ 	<title lang="zh">烏龍派出所特別篇</title>
+	<sub-title lang="zh">越激烈的假期越過癮</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130706230000 +0800" stop="20130706233000 +0800">
+ 	<title lang="zh">國際服務業管理</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706233000 +0800" stop="20130707000000 +0800">
+ 	<title lang="zh">臺灣農民力</title>
+	<sub-title lang="zh">本周"臺灣農民力"帶您去烏魚的故鄉一探究竟！</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707000000 +0800" stop="20130707003000 +0800">
+ 	<title lang="zh">3E學習Home高二數學</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707003000 +0800" stop="20130707013000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 183 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707013000 +0800" stop="20130707020000 +0800">
+ 	<title lang="zh">擁抱燦爛在陽光下的大樹</title>
+	<sub-title lang="zh">第 9 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706230000 +0800" stop="20130707000000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４７集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707000000 +0800" stop="20130707010000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 257 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707010000 +0800" stop="20130707020000 +0800">
+ 	<title lang="zh">華視新聞雜誌</title>
+	<sub-title lang="zh">（主１８７９集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705230000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 891 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709173000 +0800" stop="20130709180000 +0800">
+ 	<title lang="zh">職場達人SHOW(99)</title>
+	<sub-title lang="zh">第 8 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709180000 +0800" stop="20130709185800 +0800">
+ 	<title lang="zh">1800整點新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709185800 +0800" stop="20130709200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 303 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707034000 +0800" stop="20130707041000 +0800">
+ 	<title lang="zh">華視幕後特輯</title>
+	<sub-title lang="zh">神偷奶爸２</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707041000 +0800" stop="20130707050000 +0800">
+ 	<title lang="zh">NEWS12週報</title>
+	<sub-title lang="zh">第 60 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707020000 +0800" stop="20130707023000 +0800">
+ 	<title lang="zh">兒童英語三百句</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707023000 +0800" stop="20130707030000 +0800">
+ 	<title lang="zh">職場達人SHOW(100)</title>
+	<sub-title lang="zh">第 27 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707030000 +0800" stop="20130707040000 +0800">
+ 	<title lang="zh">圓夢巨人</title>
+	<sub-title lang="zh">第73集的主角是苗栗縣通霄鎮烏眉國小五年級的徐世鴻。夢想是一台洗衣機，任務是棒球九宮格大考驗。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707034000 +0800" stop="20130707041000 +0800">
+ 	<title lang="zh">華視幕後特輯</title>
+	<sub-title lang="zh">神偷奶爸２</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707041000 +0800" stop="20130707050000 +0800">
+ 	<title lang="zh">NEWS12週報</title>
+	<sub-title lang="zh">第 60 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705230000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 891 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130707020000 +0800" stop="20130707030000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707030000 +0800" stop="20130707040000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 267 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707040000 +0800" stop="20130707050000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707050000 +0800" stop="20130707053000 +0800">
+ 	<title lang="zh">證券市場</title>
+	<sub-title lang="zh">本集主題－第１８集證券市場的發展趨勢學習目標－＜一＞認識市場的組織概況。＜二＞證券市場的交易工具。＜三＞證券的承銷與管理。＜四＞證券市場現況與未來發展。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707053000 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh">金融市場實務</title>
+	<sub-title lang="zh">課程重點：國際金融與國際金融市場的認識、國際間主要外匯市場、歐元2002元正式上路、人民幣之竄起。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707060000 +0800" stop="20130707063000 +0800">
+ 	<title lang="zh">人際關係與溝通技巧</title>
+	<sub-title lang="zh">第18集:如何避免情緒成為人際互動的障礙大綱：自人際關係溝通、自我肯定、如何傾聽、如何善用語言溝通、如何因應人際衝突等，作詳盡解說，使同學能更深入了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707063000 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh">商業套裝軟體</title>
+	<sub-title lang="zh">第18集：電子郵件文件排版與列印、表格製作、電子試算表Excel、製作及播放投影片等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707070000 +0800" stop="20130707073000 +0800">
+ 	<title lang="zh">資料庫系統</title>
+	<sub-title lang="zh">■科目名稱－資料庫系統（商專）■本講主題－資料編修排序與關聯（六）■主講老師－周榮華</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707073000 +0800" stop="20130707080000 +0800">
+ 	<title lang="zh">電腦影像處理</title>
+	<sub-title lang="zh">本集主題－第７集圈選工具（三）學習目標－＜一＞環境界面的介紹與認識。＜二＞影像的輸入操作。＜三＞圈選和繪圖工具的介紹。＜四＞濾鏡功能及綜合實作。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707050000 +0800" stop="20130707053000 +0800">
+ 	<title lang="zh">網際網路應用(學院)</title>
+	<sub-title lang="zh">網路安全（二）第18集：網路社群（視訊會議）介紹網路社群的概念。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707053000 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh">進階商用英文書信(學院)</title>
+	<sub-title lang="zh">Exhibitions第18集：Follow-upLetter介紹商用書信、寫作過程和技巧、段落規劃與寫作、職場書信等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707060000 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh">華視晨間新聞</title>
+	<sub-title lang="zh">第 392 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707070000 +0800" stop="20130707080000 +0800">
+ 	<title lang="zh">華視台語新聞雜誌</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707050000 +0800" stop="20130707053000 +0800">
+ 	<title lang="zh">網際網路應用(學院)</title>
+	<sub-title lang="zh">網路安全（二）第18集：網路社群（視訊會議）介紹網路社群的概念。</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707053000 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh">進階商用英文書信(學院)</title>
+	<sub-title lang="zh">Exhibitions第18集：Follow-upLetter介紹商用書信、寫作過程和技巧、段落規劃與寫作、職場書信等。</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707060000 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh">華視晨間新聞</title>
+	<sub-title lang="zh">第 392 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707070000 +0800" stop="20130707080000 +0800">
+ 	<title lang="zh">華視台語新聞雜誌</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130705220000 +0800" stop="20130705223000 +0800">
+ 	<title lang="zh">智慧財產權法</title>
+	<sub-title lang="zh">主題：公平交易法及美國特別301條款舉例說明公平交易法及美國特別301條款</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705230000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 209 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707050000 +0800" stop="20130707060000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 267 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707060000 +0800" stop="20130707070000 +0800">
+ 	<title lang="zh">華視晨間新聞</title>
+	<sub-title lang="zh">第 82 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707070000 +0800" stop="20130707080000 +0800">
+ 	<title lang="zh">華視台語新聞雜誌</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705220000 +0800" stop="20130705230000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 17 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709200000 +0800" stop="20130709203000 +0800">
+ 	<title lang="zh">基測高分看華視-數學科</title>
+	<sub-title lang="zh">探討的單元是公因數、公倍數等相關題目，本單元在歷屆考題中均出現1~2題，本單元的較著重於計算能力，相信同學們看完今天得主題必能在基測考試中得心應手!</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709203000 +0800" stop="20130709210000 +0800">
+ 	<title lang="zh">基測高分看華視-英文科</title>
+	<sub-title lang="zh">第 7 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709210000 +0800" stop="20130709213000 +0800">
+ 	<title lang="zh">故事親親說</title>
+	<sub-title lang="zh">第十二集：小狐狸學長大每集用不同單元，敘述生動的故事，讓觀眾進入想像的世界。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709213000 +0800" stop="20130709220000 +0800">
+ 	<title lang="zh">生涯規劃</title>
+	<sub-title lang="zh">第18集－生涯回顧與展望介紹生涯發展與願景、生涯轉型與困境、理財規劃與經濟自主、工作調適與終身學習等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709220000 +0800" stop="20130709223000 +0800">
+ 	<title lang="zh">商用英語會話(下)</title>
+	<sub-title lang="zh">第36集─Reportinglast易混淆動詞舉例句加對談，讓觀眾能夠靈活運用。例：SentencesandKindsofSentene易混淆動詞等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709223000 +0800" stop="20130709230000 +0800">
+ 	<title lang="zh">財務報表分析</title>
+	<sub-title lang="zh">第18集：企業價值報告〈2〉目標：自基本概念、編製原則、損益表分析、現金流量表分析、經營能力分析、風險分析等各方面做詳盡的解說。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707080000 +0800" stop="20130707083000 +0800">
+ 	<title lang="zh">英文檢定(二)</title>
+	<sub-title lang="zh">第 8 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707083000 +0800" stop="20130707093000 +0800">
+ 	<title lang="zh">藝畝田</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707093000 +0800" stop="20130707100000 +0800">
+ 	<title lang="zh">3E學習Home國中發音篇Ⅱ</title>
+	<sub-title lang="zh">第12集讓謝孟媛老師教您正確『發音』、『文法』，奠定您學習英文的基礎。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707100000 +0800" stop="20130707103000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第11集：桌上有書主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707103000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh">科學萬萬歲(U)</title>
+	<sub-title lang="zh">第 17 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707080000 +0800" stop="20130707083000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707083000 +0800" stop="20130707090000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707090000 +0800" stop="20130707100000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 304 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707100000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２８集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707080000 +0800" stop="20130707083000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707083000 +0800" stop="20130707090000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707090000 +0800" stop="20130707100000 +0800">
+ 	<title lang="zh">0900整點新聞</title>
+	<sub-title lang="zh">第 290 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707100000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４８集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707080000 +0800" stop="20130707083000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707083000 +0800" stop="20130707090000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707090000 +0800" stop="20130707100000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 304 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707100000 +0800" stop="20130707110000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２８集</sub-title>
+</programme>
+<programme channel="501.dvb.guide" start="20130709200000 +0800" stop="20130709220000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709220000 +0800" stop="20130709230000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709200000 +0800" stop="20130709220000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709220000 +0800" stop="20130709230000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705220000 +0800" stop="20130705230000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 17 集</sub-title>
+</programme>
+<programme channel="501.dvb.guide" start="20130707110000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２９集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707120000 +0800" stop="20130707123000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2009 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707123000 +0800" stop="20130707130000 +0800">
+ 	<title lang="zh">華視生活雜誌</title>
+	<sub-title lang="zh">樂活大推薦－黃金夢醒金瓜石、猴硐、九份依舊發光生活大觀園－吃出健康新法寶低溫低卡慢火慢活</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707130000 +0800" stop="20130707143000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707110000 +0800" stop="20130707113000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707113000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707120000 +0800" stop="20130707130000 +0800">
+ 	<title lang="zh">親愛的，我變高手了！</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707130000 +0800" stop="20130707140000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 184 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707110000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２９集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707120000 +0800" stop="20130707123000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2009 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707123000 +0800" stop="20130707130000 +0800">
+ 	<title lang="zh">華視生活雜誌</title>
+	<sub-title lang="zh">樂活大推薦－黃金夢醒金瓜石、猴硐、九份依舊發光生活大觀園－吃出健康新法寶低溫低卡慢火慢活</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707130000 +0800" stop="20130707143000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130707110000 +0800" stop="20130707120000 +0800">
+ 	<title lang="zh">1100整點新聞</title>
+	<sub-title lang="zh">第 292 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707120000 +0800" stop="20130707123000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707123000 +0800" stop="20130707130000 +0800">
+ 	<title lang="zh">華視生活雜誌</title>
+	<sub-title lang="zh">（主１０５集）台灣最好喝的紅茶@南投縣魚池鄉。初夏新"髮"正妹型男變身記。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707130000 +0800" stop="20130707140000 +0800">
+ 	<title lang="zh">1300整點新聞</title>
+	<sub-title lang="zh">第 282 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709200000 +0800" stop="20130709210000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 270 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709210000 +0800" stop="20130709220000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１５０集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709220000 +0800" stop="20130709230000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 260 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707140000 +0800" stop="20130707143000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第11集：桌上有書主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707143000 +0800" stop="20130707150000 +0800">
+ 	<title lang="zh">友欣數位學苑教學節目</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707150000 +0800" stop="20130707153000 +0800">
+ 	<title lang="zh">3E學習Home高中英文Ⅱ</title>
+	<sub-title lang="zh">第67集謝孟媛老師擁有讓您由淺入深輕鬆學，打通英文文法的教學功力。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707153000 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh">科學萬萬歲(U)</title>
+	<sub-title lang="zh">第 17 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707160000 +0800" stop="20130707170000 +0800">
+ 	<title lang="zh">世紀台灣</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707143000 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707160000 +0800" stop="20130707170000 +0800">
+ 	<title lang="zh">圓夢廚房</title>
+	<sub-title lang="zh">紀寶如</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707143000 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707160000 +0800" stop="20130707170000 +0800">
+ 	<title lang="zh">圓夢廚房</title>
+	<sub-title lang="zh">紀寶如</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130707140000 +0800" stop="20130707150000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707150000 +0800" stop="20130707160000 +0800">
+ 	<title lang="zh">1500整點新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707160000 +0800" stop="20130707170000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">（主３０４集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707170000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh">天行者的天空</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707180000 +0800" stop="20130707190000 +0800">
+ 	<title lang="zh">NEWS12週報</title>
+	<sub-title lang="zh">第 60 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707190000 +0800" stop="20130707193000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707193000 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh">再探飛鼠部落</title>
+	<sub-title lang="zh">第 4 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707170000 +0800" stop="20130707173000 +0800">
+ 	<title lang="zh">北海小英雄</title>
+	<sub-title lang="zh">第四十八集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707173000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh">遊戲王5D’s</title>
+	<sub-title lang="zh">第二十七集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707180000 +0800" stop="20130707183000 +0800">
+ 	<title lang="zh">名偵探柯南</title>
+	<sub-title lang="zh">第一九二集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707183000 +0800" stop="20130707185800 +0800">
+ 	<title lang="zh">火影忍者-疾風傳</title>
+	<sub-title lang="zh">第三０一集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707185800 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2004 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709230000 +0800" stop="20130710000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 892 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710000000 +0800" stop="20130710020000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707170000 +0800" stop="20130707173000 +0800">
+ 	<title lang="zh">北海小英雄</title>
+	<sub-title lang="zh">第四十八集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707173000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh">遊戲王5D’s</title>
+	<sub-title lang="zh">第二十七集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707180000 +0800" stop="20130707183000 +0800">
+ 	<title lang="zh">名偵探柯南</title>
+	<sub-title lang="zh">第一九二集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707183000 +0800" stop="20130707185800 +0800">
+ 	<title lang="zh">火影忍者-疾風傳</title>
+	<sub-title lang="zh">第三０一集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707185800 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2004 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709230000 +0800" stop="20130710000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 892 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710000000 +0800" stop="20130710020000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130707200000 +0800" stop="20130707203000 +0800">
+ 	<title lang="zh">兒童英語三百句</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707203000 +0800" stop="20130707213000 +0800">
+ 	<title lang="zh">藝畝田</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707213000 +0800" stop="20130707220000 +0800">
+ 	<title lang="zh">法律與生活</title>
+	<sub-title lang="zh">1.債務不覆行的概念。2.債務不覆行的種類。3.給付不能之意義及效力。4.不完全給付之意義及效力。5.給付遲延之意義及效力。6.受領遲延之意義及效力。7.契約之效力、解除及終止。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707220000 +0800" stop="20130707223000 +0800">
+ 	<title lang="zh">婚姻與家庭</title>
+	<sub-title lang="zh">要使婚姻成長要訣應有:正確觀念與態度、健康婚前交往、用意志力去規劃婚姻、營造婚姻中的氣氛與情調、不斷讓婚姻成長，並設定使夫妻關係有助益種種目標。對國際間的婚姻美滿運動有所認識。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707223000 +0800" stop="20130707230000 +0800">
+ 	<title lang="zh">財務報表分析</title>
+	<sub-title lang="zh">第18集：綜合分析大綱：自資產類、負債類、收入類分析、短期償債能力、現金流量分析、財務預測分析、物價變動分析等，詳加說明，使同學能廣泛練習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707170000 +0800" stop="20130707180000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707180000 +0800" stop="20130707185800 +0800">
+ 	<title lang="zh">1800整點新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707185800 +0800" stop="20130707200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707200000 +0800" stop="20130707214000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707214000 +0800" stop="20130707220000 +0800">
+ 	<title lang="zh">新銳劇坊</title>
+	<sub-title lang="zh">白色向日葵</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707220000 +0800" stop="20130707234000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707200000 +0800" stop="20130707214000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707214000 +0800" stop="20130707220000 +0800">
+ 	<title lang="zh">新銳劇坊</title>
+	<sub-title lang="zh">白色向日葵</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130707220000 +0800" stop="20130707234000 +0800">
+ 	<title lang="zh">我愛幸運七</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130707230000 +0800" stop="20130707233000 +0800">
+ 	<title lang="zh">國際市場分析</title>
+	<sub-title lang="zh">第18集：國家觀點〈3〉目標：針對風險評估、行銷環境與市場區隔、訂價策略、促銷策略及跨國商務談判等做詳盡的解說。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130707233000 +0800" stop="20130708000000 +0800">
+ 	<title lang="zh">臺灣農民力</title>
+	<sub-title lang="zh">"臺灣農民力"，本周六帶您棗到好福氣！棗春報喜，棗到新年到！好吃的蜜棗來報到囉！</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708000000 +0800" stop="20130708003000 +0800">
+ 	<title lang="zh">3E學習Home高中英文Ⅱ</title>
+	<sub-title lang="zh">第68集謝孟媛老師擁有讓您由淺入深輕鬆學，打通英文文法的教學功力。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708003000 +0800" stop="20130708013000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 184 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708013000 +0800" stop="20130708020000 +0800">
+ 	<title lang="zh">擁抱燦爛在陽光下的大樹</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707200000 +0800" stop="20130707210000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 268 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707210000 +0800" stop="20130707220000 +0800">
+ 	<title lang="zh">致富密碼</title>
+	<sub-title lang="zh">（Ｍ２７１集）盈亮健康科技</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130707220000 +0800" stop="20130707230000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 258 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709230000 +0800" stop="20130709233000 +0800">
+ 	<title lang="zh">國際企業概論</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709233000 +0800" stop="20130710000000 +0800">
+ 	<title lang="zh">創意影音系列</title>
+	<sub-title lang="zh">第78集：愛，旅行〈上〉是不是要離開故鄉，穿越幾千里的路，飛躍山脈和海洋，才能夠點燃沉睡的愛；而回家之後，另一段愛的旅程又悄悄展開。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710000000 +0800" stop="20130710003000 +0800">
+ 	<title lang="zh">3E學習Home高一數學</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710003000 +0800" stop="20130710010000 +0800">
+ 	<title lang="zh">英語口語訓練(一)</title>
+	<sub-title lang="zh">第12集－ReviewLessonforUnitTwo學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710010000 +0800" stop="20130710013000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 16 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710013000 +0800" stop="20130710020000 +0800">
+ 	<title lang="zh">生活日語</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130707234000 +0800" stop="20130708015000 +0800">
+ 	<title lang="zh">天才衝衝衝</title>
+	<sub-title lang="zh">第 368 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708015000 +0800" stop="20130708022000 +0800">
+ 	<title lang="zh">十分娛樂</title>
+	<sub-title lang="zh">第 541 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130707234000 +0800" stop="20130708015000 +0800">
+ 	<title lang="zh">天才衝衝衝</title>
+	<sub-title lang="zh">第 368 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708015000 +0800" stop="20130708022000 +0800">
+ 	<title lang="zh">十分娛樂</title>
+	<sub-title lang="zh">第 541 集</sub-title>
+</programme>
+<programme channel="501.dvb.guide" start="20130710020000 +0800" stop="20130710030000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710030000 +0800" stop="20130710033000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 163 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710033000 +0800" stop="20130710040000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 164 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710040000 +0800" stop="20130710043000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 133 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710043000 +0800" stop="20130710050000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 134 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130710020000 +0800" stop="20130710030000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710030000 +0800" stop="20130710033000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 163 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710033000 +0800" stop="20130710040000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 164 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710040000 +0800" stop="20130710043000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 133 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710043000 +0800" stop="20130710050000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 134 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130707230000 +0800" stop="20130708000000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４８集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708000000 +0800" stop="20130708010000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 258 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708010000 +0800" stop="20130708020000 +0800">
+ 	<title lang="zh">致富密碼</title>
+	<sub-title lang="zh">（Ｍ２７１集）盈亮健康科技</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708020000 +0800" stop="20130708023000 +0800">
+ 	<title lang="zh">兒童英語三百句</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708023000 +0800" stop="20130708030000 +0800">
+ 	<title lang="zh">職場達人SHOW(100)</title>
+	<sub-title lang="zh">第 28 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708030000 +0800" stop="20130708040000 +0800">
+ 	<title lang="zh">圓夢巨人</title>
+	<sub-title lang="zh">第74集的主角是台北市萬華區大理國小六年級的許家豪。任務是『青菜大考驗』，夢想是電視機和衣櫃。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708022000 +0800" stop="20130708025000 +0800">
+ 	<title lang="zh">名偵探柯南</title>
+	<sub-title lang="zh">第 192 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708025000 +0800" stop="20130708032000 +0800">
+ 	<title lang="zh">火影忍者-疾風傳</title>
+	<sub-title lang="zh">第三０一集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708032000 +0800" stop="20130708042000 +0800">
+ 	<title lang="zh">十點名人堂</title>
+	<sub-title lang="zh">林義傑</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708042000 +0800" stop="20130708043000 +0800">
+ 	<title lang="zh">華視生活雜誌午間快報</title>
+	<sub-title lang="zh">第 349 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708043000 +0800" stop="20130708050000 +0800">
+ 	<title lang="zh">華視生活雜誌</title>
+	<sub-title lang="zh">樂活大推薦－黃金夢醒金瓜石、猴硐、九份依舊發光生活大觀園－吃出健康新法寶低溫低卡慢火慢活</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708022000 +0800" stop="20130708025000 +0800">
+ 	<title lang="zh">名偵探柯南</title>
+	<sub-title lang="zh">第 192 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708025000 +0800" stop="20130708032000 +0800">
+ 	<title lang="zh">火影忍者-疾風傳</title>
+	<sub-title lang="zh">第三０一集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708032000 +0800" stop="20130708042000 +0800">
+ 	<title lang="zh">十點名人堂</title>
+	<sub-title lang="zh">林義傑</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708042000 +0800" stop="20130708043000 +0800">
+ 	<title lang="zh">華視生活雜誌午間快報</title>
+	<sub-title lang="zh">第 349 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708043000 +0800" stop="20130708050000 +0800">
+ 	<title lang="zh">華視生活雜誌</title>
+	<sub-title lang="zh">樂活大推薦－黃金夢醒金瓜石、猴硐、九份依舊發光生活大觀園－吃出健康新法寶低溫低卡慢火慢活</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130709230000 +0800" stop="20130710000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 211 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710000000 +0800" stop="20130710010000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 260 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710010000 +0800" stop="20130710020000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１５０集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708050000 +0800" stop="20130708053000 +0800">
+ 	<title lang="zh">國際付款實務</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708053000 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh">總體經濟學</title>
+	<sub-title lang="zh">第18集－開放經濟〈2〉大綱－自總體經濟指標、國民生產活動、經濟成長、勞動市場、總需求、總供給、景氣循環、開放經濟等，詳盡解說，使同學能更加了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708060000 +0800" stop="20130708063000 +0800">
+ 	<title lang="zh">品質管理</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708063000 +0800" stop="20130708070000 +0800">
+ 	<title lang="zh">統計學</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708070000 +0800" stop="20130708073000 +0800">
+ 	<title lang="zh">金融市場</title>
+	<sub-title lang="zh">第18集:資產證券化〈下〉大綱：自金融市場、貨幣市場、資本市場，及衍生性金融商品、期貨市場等，作重點提示，使同學能對各課題多方面深入了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708073000 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh">電腦影像處理</title>
+	<sub-title lang="zh">本集主題－第８集繪圖工具（一）學習目標－＜一＞環境界面的介紹與認識。＜二＞影像的輸入操作。＜三＞圈選和繪圖工具的介紹。＜四＞濾鏡功能及綜合實作。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708020000 +0800" stop="20130708030000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708030000 +0800" stop="20130708040000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 268 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708040000 +0800" stop="20130708050000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708050000 +0800" stop="20130708053000 +0800">
+ 	<title lang="zh">新聞英文(二)(商專)</title>
+	<sub-title lang="zh">OpinionArticle－PartB</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708053000 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh">英文翻譯(二)(商專)</title>
+	<sub-title lang="zh">從句翻譯（二）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708060000 +0800" stop="20130708075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 506 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708075500 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 1014 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708080000 +0800" stop="20130708083000 +0800">
+ 	<title lang="zh">英文檢定(二)</title>
+	<sub-title lang="zh">第 9 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708083000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 15 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708090000 +0800" stop="20130708093000 +0800">
+ 	<title lang="zh">阿法貝樂園(國小)</title>
+	<sub-title lang="zh">第45集：透過英文26個字母，以卡通動畫的方式呈現，帶給觀眾一個輕鬆的學習環境。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708093000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh">3E學習Home高中英文Ⅱ</title>
+	<sub-title lang="zh">第69集謝孟媛老師擁有讓您由淺入深輕鬆學，打通英文文法的教學功力。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708100000 +0800" stop="20130708103000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第12集：社長在辦公室主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708103000 +0800" stop="20130708110000 +0800">
+ 	<title lang="zh">大家說英語</title>
+	<sub-title lang="zh">第 1387 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708050000 +0800" stop="20130708053000 +0800">
+ 	<title lang="zh">新聞英文(二)(商專)</title>
+	<sub-title lang="zh">OpinionArticle－PartB</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708053000 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh">英文翻譯(二)(商專)</title>
+	<sub-title lang="zh">從句翻譯（二）</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708060000 +0800" stop="20130708075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 506 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708075500 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 1014 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130708050000 +0800" stop="20130708060000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 268 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708060000 +0800" stop="20130708075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 211 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708075500 +0800" stop="20130708080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 209 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708080000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh">華視新聞雜誌</title>
+	<sub-title lang="zh">（主１８７９集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh">0900整點新聞</title>
+	<sub-title lang="zh">第 291 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708100000 +0800" stop="20130708110000 +0800">
+ 	<title lang="zh">1000整點新聞</title>
+	<sub-title lang="zh">第 219 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708080000 +0800" stop="20130708083000 +0800">
+ 	<title lang="zh">暑假卡通樂園-烏龍派出所</title>
+	<sub-title lang="zh">第三二九集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708083000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh">暑假卡通樂園-哆啦A夢</title>
+	<sub-title lang="zh">第三二○六集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh">秋水長天</title>
+	<sub-title lang="zh">第 11 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708100000 +0800" stop="20130708101500 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 48 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708101500 +0800" stop="20130708120000 +0800">
+ 	<title lang="zh">警世劇場-台灣靈異事件</title>
+	<sub-title lang="zh">騙王之王（下）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708110000 +0800" stop="20130708120000 +0800">
+ 	<title lang="zh">史溫侯 福爾摩沙哺乳動物紀行</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708120000 +0800" stop="20130708120500 +0800">
+ 	<title lang="zh">越說越好-每日一句</title>
+	<sub-title lang="zh">第 21 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708120500 +0800" stop="20130708123000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 15 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708123000 +0800" stop="20130708133000 +0800">
+ 	<title lang="zh">證照在手就業不愁-美容丙證篇</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708133000 +0800" stop="20130708140000 +0800">
+ 	<title lang="zh">巧手料理-台灣媳婦</title>
+	<sub-title lang="zh">第 21 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708080000 +0800" stop="20130708083000 +0800">
+ 	<title lang="zh">暑假卡通樂園-烏龍派出所</title>
+	<sub-title lang="zh">第三二九集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708083000 +0800" stop="20130708090000 +0800">
+ 	<title lang="zh">暑假卡通樂園-哆啦A夢</title>
+	<sub-title lang="zh">第三二○六集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708090000 +0800" stop="20130708100000 +0800">
+ 	<title lang="zh">秋水長天</title>
+	<sub-title lang="zh">第 11 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708100000 +0800" stop="20130708101500 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 48 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708101500 +0800" stop="20130708120000 +0800">
+ 	<title lang="zh">警世劇場-台灣靈異事件</title>
+	<sub-title lang="zh">騙王之王（下）</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130710020000 +0800" stop="20130710023000 +0800">
+ 	<title lang="zh">巧手料理-台灣媳婦</title>
+	<sub-title lang="zh">第 22 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710023000 +0800" stop="20130710030000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小自然(國小)</title>
+	<sub-title lang="zh">自然科第28集原1-21校園裡的植物(1)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710030000 +0800" stop="20130710033000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小英文(國小)</title>
+	<sub-title lang="zh">英文科第28集原1-21生活中出現的英語(電話按鍵)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710033000 +0800" stop="20130710040000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小數學(國小)</title>
+	<sub-title lang="zh">數學科第46集原2-8了解九九乘法</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710020000 +0800" stop="20130710030000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 303 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710030000 +0800" stop="20130710040000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 270 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710040000 +0800" stop="20130710050000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 303 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708140000 +0800" stop="20130708143000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第12集：社長在辦公室主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708143000 +0800" stop="20130708150000 +0800">
+ 	<title lang="zh">生活日語</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708150000 +0800" stop="20130708153000 +0800">
+ 	<title lang="zh">3E學習Home高一數學</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708153000 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh">空中英語教室</title>
+	<sub-title lang="zh">第 2485 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708160000 +0800" stop="20130708163000 +0800">
+ 	<title lang="zh">校園＋-＊廚(二)</title>
+	<sub-title lang="zh">第 13 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708163000 +0800" stop="20130708170000 +0800">
+ 	<title lang="zh">故事親親說</title>
+	<sub-title lang="zh">第十一集：呆呆猴與碰碰鼠每集用不同單元，敘述生動的故事，讓觀眾進入想像的世界。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708110000 +0800" stop="20130708120000 +0800">
+ 	<title lang="zh">1100整點新聞</title>
+	<sub-title lang="zh">第 293 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708120000 +0800" stop="20130708130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708130000 +0800" stop="20130708140000 +0800">
+ 	<title lang="zh">1300整點新聞</title>
+	<sub-title lang="zh">第 283 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708120000 +0800" stop="20130708130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2010 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708130000 +0800" stop="20130708150000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708120000 +0800" stop="20130708130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2010 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708130000 +0800" stop="20130708150000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130708140000 +0800" stop="20130708150000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708150000 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh">1500整點新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708160000 +0800" stop="20130708163000 +0800">
+ 	<title lang="zh">職場達人SHOW(99)</title>
+	<sub-title lang="zh">第 6 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708163000 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 211 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708170000 +0800" stop="20130708170500 +0800">
+ 	<title lang="zh">越說越好-每日一句</title>
+	<sub-title lang="zh">第 21 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708170500 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh">阿法貝樂園(國小)</title>
+	<sub-title lang="zh">第45集：透過英文26個字母，以卡通動畫的方式呈現，帶給觀眾一個輕鬆的學習環境。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小自然(國小)</title>
+	<sub-title lang="zh">自然科第27集原1-20快樂上學(4)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708180000 +0800" stop="20130708183000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小英文(國小)</title>
+	<sub-title lang="zh">英文科第27集原1-20生活中出現的英語</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708183000 +0800" stop="20130708190000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小數學(國小)</title>
+	<sub-title lang="zh">數學科第45集原2-7整數的乘法(進階)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708190000 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh">史溫侯 福爾摩沙哺乳動物紀行</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708150000 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh">景氣到我家</title>
+	<sub-title lang="zh">第 9 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708160000 +0800" stop="20130708163000 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 57 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708163000 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 571 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708150000 +0800" stop="20130708160000 +0800">
+ 	<title lang="zh">景氣到我家</title>
+	<sub-title lang="zh">第 9 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708160000 +0800" stop="20130708163000 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 57 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708163000 +0800" stop="20130708173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 571 集</sub-title>
+</programme>
+<programme channel="501.dvb.guide" start="20130710050000 +0800" stop="20130710053000 +0800">
+ 	<title lang="zh">科學概論(商專)</title>
+	<sub-title lang="zh">科學知識與傳播與科學雜誌與網站第１８講「科學博物館」與「科學知識與傳播」；學習目標－針對商科背景同學介紹科學，以期瞭解科學真正本質，並將此種本質應用於生活與工作環境中，以適應世界潮流與迎接時代挑戰。本集重點－幫助同學瞭解科學博物館</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710053000 +0800" stop="20130710060000 +0800">
+ 	<title lang="zh">日文(二)(商專)</title>
+	<sub-title lang="zh">出發前先預約主題：出發前先預約運用例句詳加解釋，讓觀眾充分了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710060000 +0800" stop="20130710075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 508 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130710075500 +0800" stop="20130710080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 1016 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130710050000 +0800" stop="20130710053000 +0800">
+ 	<title lang="zh">科學概論(商專)</title>
+	<sub-title lang="zh">科學知識與傳播與科學雜誌與網站第１８講「科學博物館」與「科學知識與傳播」；學習目標－針對商科背景同學介紹科學，以期瞭解科學真正本質，並將此種本質應用於生活與工作環境中，以適應世界潮流與迎接時代挑戰。本集重點－幫助同學瞭解科學博物館</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710053000 +0800" stop="20130710060000 +0800">
+ 	<title lang="zh">日文(二)(商專)</title>
+	<sub-title lang="zh">出發前先預約主題：出發前先預約運用例句詳加解釋，讓觀眾充分了解。</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710060000 +0800" stop="20130710075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 508 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130710075500 +0800" stop="20130710080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 1016 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130710050000 +0800" stop="20130710053000 +0800">
+ 	<title lang="zh">稅務會計(下)</title>
+	<sub-title lang="zh">第 36 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710053000 +0800" stop="20130710060000 +0800">
+ 	<title lang="zh">中國文化史</title>
+	<sub-title lang="zh">第18講－文物與文化（2）目標：自秦漢帝國文化建制、魏晉至隨唐的玄學與文學、民族混融與新文化的形成等，做詳細的說明。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710060000 +0800" stop="20130710063000 +0800">
+ 	<title lang="zh">字彙與閱讀(二)</title>
+	<sub-title lang="zh">主題：famouspoetry〈二〉舉例詳加解釋，讓觀眾充分了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710063000 +0800" stop="20130710070000 +0800">
+ 	<title lang="zh">憲法</title>
+	<sub-title lang="zh">第18集－憲法的解釋與修改學習目標－經由憲法基本理念之了解，加強觀眾對各層面多方探索之研究精神。例：自由權、受益權、行政機關的組織與運作等</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710070000 +0800" stop="20130710073000 +0800">
+ 	<title lang="zh">成本會計(下)</title>
+	<sub-title lang="zh">學習目標：1.分布成本會計制度2.聯產品與副產品3.預算4.標準成本制5.直接成本法6.成本-數量-利潤7.經營決策分析8.責任會計制度和內部移轉計價。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130710073000 +0800" stop="20130710080000 +0800">
+ 	<title lang="zh">電腦影像處理</title>
+	<sub-title lang="zh">本集主題－第１０集圖層與遮色片（一）學習目標－＜一＞環境界面的介紹與認識。＜二＞影像的輸入操作。＜三＞圈選和繪圖工具的介紹。＜四＞濾鏡功能及綜合實作。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三二九集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708180000 +0800" stop="20130708183000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三三○集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708183000 +0800" stop="20130708185800 +0800">
+ 	<title lang="zh">哆啦A夢</title>
+	<sub-title lang="zh">第三二○七集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708185800 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2005 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708200000 +0800" stop="20130708203000 +0800">
+ 	<title lang="zh">基測高分看華視-數學科</title>
+	<sub-title lang="zh">探討的主題是(第一單元數之間的關係與運算)主要內容是近幾年基測的考題</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708203000 +0800" stop="20130708210000 +0800">
+ 	<title lang="zh">基測高分看華視-英文科</title>
+	<sub-title lang="zh">第 6 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708210000 +0800" stop="20130708213000 +0800">
+ 	<title lang="zh">故事親親說</title>
+	<sub-title lang="zh">第十一集：呆呆猴與碰碰鼠每集用不同單元，敘述生動的故事，讓觀眾進入想像的世界。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708213000 +0800" stop="20130708220000 +0800">
+ 	<title lang="zh">國文(二)</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708220000 +0800" stop="20130708223000 +0800">
+ 	<title lang="zh">商用英文(二)</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708223000 +0800" stop="20130708230000 +0800">
+ 	<title lang="zh">消費者行為</title>
+	<sub-title lang="zh">本集主題－第１８集家庭及其購買決策學習目標－＜一＞認識消費者行為的意義、活動和特性。＜二＞探討消費者研究的典範與程序。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三二九集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708180000 +0800" stop="20130708183000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三三○集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708183000 +0800" stop="20130708185800 +0800">
+ 	<title lang="zh">哆啦A夢</title>
+	<sub-title lang="zh">第三二○七集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708185800 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2005 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130708173000 +0800" stop="20130708180000 +0800">
+ 	<title lang="zh">職場達人SHOW(99)</title>
+	<sub-title lang="zh">第 7 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708180000 +0800" stop="20130708185800 +0800">
+ 	<title lang="zh">1800整點新聞</title>
+	<sub-title lang="zh">第 301 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708185800 +0800" stop="20130708200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708200000 +0800" stop="20130708220000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708220000 +0800" stop="20130708230000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708200000 +0800" stop="20130708220000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130708220000 +0800" stop="20130708230000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130708230000 +0800" stop="20130708233000 +0800">
+ 	<title lang="zh">國際行銷學</title>
+	<sub-title lang="zh">國際行銷之未來發展趨勢</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130708233000 +0800" stop="20130709000000 +0800">
+ 	<title lang="zh">創意影音系列</title>
+	<sub-title lang="zh">第77集：靠山〈下〉經由女兒與父親的對話，重拾人與土地的感情。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709000000 +0800" stop="20130709003000 +0800">
+ 	<title lang="zh">3E學習Home高中英文Ⅱ</title>
+	<sub-title lang="zh">第70集謝孟媛老師擁有讓您由淺入深輕鬆學，打通英文文法的教學功力。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709003000 +0800" stop="20130709010000 +0800">
+ 	<title lang="zh">英語口語訓練(一)</title>
+	<sub-title lang="zh">第11集－Life-LongLearning學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709010000 +0800" stop="20130709013000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 15 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709013000 +0800" stop="20130709020000 +0800">
+ 	<title lang="zh">生活日語</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708200000 +0800" stop="20130708210000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 269 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708210000 +0800" stop="20130708220000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４９集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708220000 +0800" stop="20130708230000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 259 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130708230000 +0800" stop="20130709000000 +0800">
+ 	<title lang="zh">華視新聞雜誌</title>
+	<sub-title lang="zh">第 1880 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709000000 +0800" stop="20130709020000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130708230000 +0800" stop="20130709000000 +0800">
+ 	<title lang="zh">華視新聞雜誌</title>
+	<sub-title lang="zh">第 1880 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709000000 +0800" stop="20130709020000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130710050000 +0800" stop="20130710060000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 211 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710060000 +0800" stop="20130710075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 213 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130710075500 +0800" stop="20130710080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 211 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130708230000 +0800" stop="20130709000000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709000000 +0800" stop="20130709010000 +0800">
+ 	<title lang="zh">2200整點新聞</title>
+	<sub-title lang="zh">第 259 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709010000 +0800" stop="20130709020000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４９集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709020000 +0800" stop="20130709030000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709030000 +0800" stop="20130709033000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 161 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709033000 +0800" stop="20130709040000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 162 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709040000 +0800" stop="20130709043000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 131 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709043000 +0800" stop="20130709050000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 132 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709020000 +0800" stop="20130709030000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709030000 +0800" stop="20130709033000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 161 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709033000 +0800" stop="20130709040000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 162 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709040000 +0800" stop="20130709043000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 131 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709043000 +0800" stop="20130709050000 +0800">
+ 	<title lang="zh">絕代雙椒</title>
+	<sub-title lang="zh">第 132 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130709020000 +0800" stop="20130709023000 +0800">
+ 	<title lang="zh">巧手料理-台灣媳婦</title>
+	<sub-title lang="zh">第 21 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709023000 +0800" stop="20130709030000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小自然(國小)</title>
+	<sub-title lang="zh">自然科第27集原1-20快樂上學(4)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709030000 +0800" stop="20130709033000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小英文(國小)</title>
+	<sub-title lang="zh">英文科第27集原1-20生活中出現的英語</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709033000 +0800" stop="20130709040000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小數學(國小)</title>
+	<sub-title lang="zh">數學科第45集原2-7整數的乘法(進階)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709020000 +0800" stop="20130709030000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709030000 +0800" stop="20130709040000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 269 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709040000 +0800" stop="20130709050000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709050000 +0800" stop="20130709053000 +0800">
+ 	<title lang="zh">中級會計學(下)</title>
+	<sub-title lang="zh">第36集：現金流量表〈2〉大綱：從應付公司債、退休金會計處理、保留盈餘及股利、現金流量表等作詳盡解說，使同學對各課題能詳盡了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709053000 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh">資料處理</title>
+	<sub-title lang="zh">第18集－全球資訊網與電子商務大綱－自企業資訊處理、表格設計、資料與檔案、資料庫、資料處理的類型、安全性的控制、電腦犯罪與舞弊，詳盡說明，使同學能更加了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709060000 +0800" stop="20130709063000 +0800">
+ 	<title lang="zh">英語口語訓練(二)</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709063000 +0800" stop="20130709070000 +0800">
+ 	<title lang="zh">企業個案研討</title>
+	<sub-title lang="zh">■科目名稱－企業個案研討（商專）■本集主題－南寶集團的多角化與國際化之路■主講老師－吳萬益、林清河</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709070000 +0800" stop="20130709073000 +0800">
+ 	<title lang="zh">審計學(下)</title>
+	<sub-title lang="zh">〈電腦資訊系統環境下的審計〉舉例詳加解釋財務報表</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709073000 +0800" stop="20130709080000 +0800">
+ 	<title lang="zh">電腦影像處理</title>
+	<sub-title lang="zh">本集主題－第９集繪圖工具（二）學習目標－＜一＞環境界面的介紹與認識。＜二＞影像的輸入操作。＜三＞圈選和繪圖工具的介紹。＜四＞濾鏡功能及綜合實作。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709050000 +0800" stop="20130709053000 +0800">
+ 	<title lang="zh">英文檢定(二)(商專)</title>
+	<sub-title lang="zh">ParadoxofOurTime</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709053000 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh">英文作文(二)(商專)</title>
+	<sub-title lang="zh">wringanexampleessay</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709060000 +0800" stop="20130709075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 507 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709075500 +0800" stop="20130709080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 1015 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709050000 +0800" stop="20130709053000 +0800">
+ 	<title lang="zh">英文檢定(二)(商專)</title>
+	<sub-title lang="zh">ParadoxofOurTime</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709053000 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh">英文作文(二)(商專)</title>
+	<sub-title lang="zh">wringanexampleessay</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709060000 +0800" stop="20130709075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 507 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709075500 +0800" stop="20130709080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 1015 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130709050000 +0800" stop="20130709060000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709060000 +0800" stop="20130709075500 +0800">
+ 	<title lang="zh">華視晨間活力新聞</title>
+	<sub-title lang="zh">第 212 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709075500 +0800" stop="20130709080000 +0800">
+ 	<title lang="zh">華視生活雜誌快報</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705080000 +0800" stop="20130705083000 +0800">
+ 	<title lang="zh">英文檢定(二)</title>
+	<sub-title lang="zh">第 6 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705083000 +0800" stop="20130705090000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 14 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705090000 +0800" stop="20130705093000 +0800">
+ 	<title lang="zh">阿法貝樂園(國小)</title>
+	<sub-title lang="zh">第44集：透過英文26個字母，以卡通動畫的方式呈現，帶給觀眾一個輕鬆的學習環境。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705093000 +0800" stop="20130705100000 +0800">
+ 	<title lang="zh">3E學習Home高中英文Ⅱ</title>
+	<sub-title lang="zh">第65集謝孟媛老師擁有讓您由淺入深輕鬆學，打通英文文法的教學功力。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705100000 +0800" stop="20130705103000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第9集：現在幾點呢主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705103000 +0800" stop="20130705110000 +0800">
+ 	<title lang="zh">大家說英語</title>
+	<sub-title lang="zh">第 1385 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705080000 +0800" stop="20130705083000 +0800">
+ 	<title lang="zh">暑假卡通樂園-烏龍派出所</title>
+	<sub-title lang="zh">第三二八集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705083000 +0800" stop="20130705090000 +0800">
+ 	<title lang="zh">暑假卡通樂園-哆啦A夢</title>
+	<sub-title lang="zh">第三二○五集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705090000 +0800" stop="20130705100000 +0800">
+ 	<title lang="zh">秋水長天</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705100000 +0800" stop="20130705101500 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 47 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705101500 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh">警世劇場-台灣靈異事件</title>
+	<sub-title lang="zh">騙王之王）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130705080000 +0800" stop="20130705083000 +0800">
+ 	<title lang="zh">暑假卡通樂園-烏龍派出所</title>
+	<sub-title lang="zh">第三二八集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705083000 +0800" stop="20130705090000 +0800">
+ 	<title lang="zh">暑假卡通樂園-哆啦A夢</title>
+	<sub-title lang="zh">第三二○五集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705090000 +0800" stop="20130705100000 +0800">
+ 	<title lang="zh">秋水長天</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705100000 +0800" stop="20130705101500 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 47 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705101500 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh">警世劇場-台灣靈異事件</title>
+	<sub-title lang="zh">騙王之王）</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130705080000 +0800" stop="20130705090000 +0800">
+ 	<title lang="zh">華視新聞雜誌</title>
+	<sub-title lang="zh">（主１８７９集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705090000 +0800" stop="20130705100000 +0800">
+ 	<title lang="zh">0900整點新聞</title>
+	<sub-title lang="zh">第 288 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705100000 +0800" stop="20130705110000 +0800">
+ 	<title lang="zh">1000整點新聞</title>
+	<sub-title lang="zh">第 218 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709080000 +0800" stop="20130709083000 +0800">
+ 	<title lang="zh">英文檢定(二)</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709083000 +0800" stop="20130709090000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 16 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709090000 +0800" stop="20130709093000 +0800">
+ 	<title lang="zh">阿法貝樂園(國小)</title>
+	<sub-title lang="zh">第46集：透過英文26個字母，以卡通動畫的方式呈現，帶給觀眾一個輕鬆的學習環境。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709093000 +0800" stop="20130709100000 +0800">
+ 	<title lang="zh">3E學習Home國中初級文法</title>
+	<sub-title lang="zh">第24集讓謝孟媛老師教您正確『發音』、『文法』，奠定您學習英文的基礎。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709100000 +0800" stop="20130709103000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第13集：日本料理好吃主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709103000 +0800" stop="20130709110000 +0800">
+ 	<title lang="zh">大家說英語</title>
+	<sub-title lang="zh">第 1388 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709080000 +0800" stop="20130709083000 +0800">
+ 	<title lang="zh">暑假卡通樂園-烏龍派出所</title>
+	<sub-title lang="zh">第三三○集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709083000 +0800" stop="20130709090000 +0800">
+ 	<title lang="zh">暑假卡通樂園-哆啦A夢</title>
+	<sub-title lang="zh">第三二○七集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709090000 +0800" stop="20130709100000 +0800">
+ 	<title lang="zh">秋水長天</title>
+	<sub-title lang="zh">第 12 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709100000 +0800" stop="20130709101500 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 49 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709101500 +0800" stop="20130709120000 +0800">
+ 	<title lang="zh">警世劇場-台灣靈異事件</title>
+	<sub-title lang="zh">連環鬼計）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709080000 +0800" stop="20130709083000 +0800">
+ 	<title lang="zh">暑假卡通樂園-烏龍派出所</title>
+	<sub-title lang="zh">第三三○集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709083000 +0800" stop="20130709090000 +0800">
+ 	<title lang="zh">暑假卡通樂園-哆啦A夢</title>
+	<sub-title lang="zh">第三二○七集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709090000 +0800" stop="20130709100000 +0800">
+ 	<title lang="zh">秋水長天</title>
+	<sub-title lang="zh">第 12 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709100000 +0800" stop="20130709101500 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 49 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709101500 +0800" stop="20130709120000 +0800">
+ 	<title lang="zh">警世劇場-台灣靈異事件</title>
+	<sub-title lang="zh">連環鬼計）</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130705110000 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh">世紀台灣</title>
+	<sub-title lang="zh">第 7 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705120000 +0800" stop="20130705120500 +0800">
+ 	<title lang="zh">越說越好-每日一句</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705120500 +0800" stop="20130705123000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 14 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705123000 +0800" stop="20130705133000 +0800">
+ 	<title lang="zh">證照在手就業不愁-烘焙丙證篇</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705133000 +0800" stop="20130705140000 +0800">
+ 	<title lang="zh">巧手料理-台灣媳婦</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709080000 +0800" stop="20130709090000 +0800">
+ 	<title lang="zh">致富密碼</title>
+	<sub-title lang="zh">（Ｍ２７１集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709090000 +0800" stop="20130709100000 +0800">
+ 	<title lang="zh">0900整點新聞</title>
+	<sub-title lang="zh">第 292 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709100000 +0800" stop="20130709110000 +0800">
+ 	<title lang="zh">1000整點新聞</title>
+	<sub-title lang="zh">第 220 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705110000 +0800" stop="20130705120000 +0800">
+ 	<title lang="zh">1100整點新聞</title>
+	<sub-title lang="zh">第 290 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705120000 +0800" stop="20130705130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705130000 +0800" stop="20130705140000 +0800">
+ 	<title lang="zh">1300整點新聞</title>
+	<sub-title lang="zh">第 280 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705120000 +0800" stop="20130705130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2007 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705130000 +0800" stop="20130705140000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130705120000 +0800" stop="20130705130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2007 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705130000 +0800" stop="20130705140000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">）</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130705140000 +0800" stop="20130705143000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第9集：現在幾點呢主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705143000 +0800" stop="20130705150000 +0800">
+ 	<title lang="zh">生活日語</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705150000 +0800" stop="20130705153000 +0800">
+ 	<title lang="zh">3E學習Home國中發音篇Ⅱ</title>
+	<sub-title lang="zh">第10集讓謝孟媛老師教您正確『發音』、『文法』，奠定您學習英文的基礎。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705153000 +0800" stop="20130705160000 +0800">
+ 	<title lang="zh">空中英語教室</title>
+	<sub-title lang="zh">第 2483 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705160000 +0800" stop="20130705163000 +0800">
+ 	<title lang="zh">校園＋-＊廚(二)</title>
+	<sub-title lang="zh">第 12 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705163000 +0800" stop="20130705170000 +0800">
+ 	<title lang="zh">故事親親說</title>
+	<sub-title lang="zh">第十集：寂寞的樹先生每集用不同單元，敘述生動的故事，讓觀眾進入想像的世界。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705140000 +0800" stop="20130705153000 +0800">
+ 	<title lang="zh">莒光園地</title>
+	<sub-title lang="zh">第 2051 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705153000 +0800" stop="20130705163000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">（下）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705163000 +0800" stop="20130705173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 570 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130705140000 +0800" stop="20130705153000 +0800">
+ 	<title lang="zh">莒光園地</title>
+	<sub-title lang="zh">第 2051 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705153000 +0800" stop="20130705163000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">（下）</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705163000 +0800" stop="20130705173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 570 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130705140000 +0800" stop="20130705150000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 298 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705150000 +0800" stop="20130705160000 +0800">
+ 	<title lang="zh">1500整點新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705160000 +0800" stop="20130705163000 +0800">
+ 	<title lang="zh">職場達人SHOW(99)</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705163000 +0800" stop="20130705173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705173000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三二八集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705180000 +0800" stop="20130705183000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三二九集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705183000 +0800" stop="20130705185800 +0800">
+ 	<title lang="zh">哆啦A夢</title>
+	<sub-title lang="zh">第三二○六集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705185800 +0800" stop="20130705200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2002 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705170000 +0800" stop="20130705170500 +0800">
+ 	<title lang="zh">越說越好-每日一句</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705170500 +0800" stop="20130705173000 +0800">
+ 	<title lang="zh">阿法貝樂園(國小)</title>
+	<sub-title lang="zh">第44集：透過英文26個字母，以卡通動畫的方式呈現，帶給觀眾一個輕鬆的學習環境。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705173000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小自然(國小)</title>
+	<sub-title lang="zh">自然科第26集原1-19快樂上學(3)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705180000 +0800" stop="20130705183000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小英文(國小)</title>
+	<sub-title lang="zh">英文科第26集原1-19一般動詞</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705183000 +0800" stop="20130705190000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小數學(國小)</title>
+	<sub-title lang="zh">數學科第44集原2-6二位數的加減計算(進階)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705190000 +0800" stop="20130705200000 +0800">
+ 	<title lang="zh">NEWS12週報</title>
+	<sub-title lang="zh">第 35 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130705173000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三二八集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705180000 +0800" stop="20130705183000 +0800">
+ 	<title lang="zh">烏龍派出所</title>
+	<sub-title lang="zh">第三二九集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705183000 +0800" stop="20130705185800 +0800">
+ 	<title lang="zh">哆啦A夢</title>
+	<sub-title lang="zh">第三二○六集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130705185800 +0800" stop="20130705200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2002 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130705173000 +0800" stop="20130705180000 +0800">
+ 	<title lang="zh">職場達人SHOW(99)</title>
+	<sub-title lang="zh">第 6 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705180000 +0800" stop="20130705185800 +0800">
+ 	<title lang="zh">1800整點新聞</title>
+	<sub-title lang="zh">第 298 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705185800 +0800" stop="20130705200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130705200000 +0800" stop="20130705220000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130705200000 +0800" stop="20130705220000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130705200000 +0800" stop="20130705203000 +0800">
+ 	<title lang="zh">基測高分看華視-數學科</title>
+	<sub-title lang="zh">今天我們要討論-統計圖表與機率只要同學在面對這類題目時要仔細審題計算小心，了解各種名稱的意義，就可以輕鬆解決基測的這類題目</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705203000 +0800" stop="20130705210000 +0800">
+ 	<title lang="zh">基測高分看華視-英文科</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705210000 +0800" stop="20130705213000 +0800">
+ 	<title lang="zh">故事親親說</title>
+	<sub-title lang="zh">第十集：寂寞的樹先生每集用不同單元，敘述生動的故事，讓觀眾進入想像的世界。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705213000 +0800" stop="20130705220000 +0800">
+ 	<title lang="zh">會計學(下)</title>
+	<sub-title lang="zh">第36集：財務報表分析〈2〉大綱－自長期股權投資、財產、廠房及設備〈購置、成本分擔〉、公司會計、現金流量表、財務報表分析等，詳盡說明，使同學能更深入了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705200000 +0800" stop="20130705210000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 266 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130705210000 +0800" stop="20130705220000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４７集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709110000 +0800" stop="20130709120000 +0800">
+ 	<title lang="zh">1100整點新聞</title>
+	<sub-title lang="zh">第 294 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709120000 +0800" stop="20130709130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 303 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709130000 +0800" stop="20130709140000 +0800">
+ 	<title lang="zh">1300整點新聞</title>
+	<sub-title lang="zh">第 284 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709110000 +0800" stop="20130709120000 +0800">
+ 	<title lang="zh">史溫侯 福爾摩沙哺乳動物紀行</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709120000 +0800" stop="20130709120500 +0800">
+ 	<title lang="zh">越說越好-每日一句</title>
+	<sub-title lang="zh">第 22 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709120500 +0800" stop="20130709123000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 16 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709123000 +0800" stop="20130709130000 +0800">
+ 	<title lang="zh">證照在手就業不愁-美容丙證篇</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709130000 +0800" stop="20130709133000 +0800">
+ 	<title lang="zh">因為有心，所以有星！</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709133000 +0800" stop="20130709140000 +0800">
+ 	<title lang="zh">巧手料理-台灣媳婦</title>
+	<sub-title lang="zh">第 22 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706020000 +0800" stop="20130706030000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 17 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706030000 +0800" stop="20130706033000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 159 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706033000 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 160 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706040000 +0800" stop="20130706050000 +0800">
+ 	<title lang="zh">娛樂我最夯</title>
+	<sub-title lang="zh">第 82 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706020000 +0800" stop="20130706030000 +0800">
+ 	<title lang="zh">台灣文創劇坊-我在1949等你</title>
+	<sub-title lang="zh">第 17 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706030000 +0800" stop="20130706033000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 159 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706033000 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh">今宵花月夜</title>
+	<sub-title lang="zh">第 160 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706040000 +0800" stop="20130706050000 +0800">
+ 	<title lang="zh">娛樂我最夯</title>
+	<sub-title lang="zh">第 82 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130705230000 +0800" stop="20130705233000 +0800">
+ 	<title lang="zh">期貨與選擇權</title>
+	<sub-title lang="zh">課程講次及名稱:第十八講認股權證與結構性債券</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130705233000 +0800" stop="20130706000000 +0800">
+ 	<title lang="zh">創意影音系列</title>
+	<sub-title lang="zh">第76集：靠山〈上〉經由女兒與父親的對話，重拾人與土地的感情。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706000000 +0800" stop="20130706003000 +0800">
+ 	<title lang="zh">3E學習Home高中英文Ⅱ</title>
+	<sub-title lang="zh">第66集謝孟媛老師擁有讓您由淺入深輕鬆學，打通英文文法的教學功力。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706003000 +0800" stop="20130706010000 +0800">
+ 	<title lang="zh">英語口語訓練(一)</title>
+	<sub-title lang="zh">第10集－BudgetingTime學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706010000 +0800" stop="20130706013000 +0800">
+ 	<title lang="zh">越說越好</title>
+	<sub-title lang="zh">第 14 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706013000 +0800" stop="20130706020000 +0800">
+ 	<title lang="zh">生活日語</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709120000 +0800" stop="20130709130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2011 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709130000 +0800" stop="20130709150000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709120000 +0800" stop="20130709130000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2011 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709130000 +0800" stop="20130709150000 +0800">
+ 	<title lang="zh">傾城絕戀</title>
+	<sub-title lang="zh">第 19 集</sub-title>
+</programme>
+<programme channel="501.dvb.guide" start="20130706050000 +0800" stop="20130706053000 +0800">
+ 	<title lang="zh">稅務法規(學院)</title>
+	<sub-title lang="zh">稅捐稽徵法第18集：租稅法學研究方法與租稅策略探討稅捐稽徵法與行政救濟、營利事業所得稅、所得稅稽徵程序、加值型及非加值型營業稅法、遺產稅與贈與稅等。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706053000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh">商務英語會話(學院)</title>
+	<sub-title lang="zh">AccountingtheResults本集主題：CelebratingSuccess，課程重點：他們如何慶祝成功的交易。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706060000 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh">華視晨間新聞</title>
+	<sub-title lang="zh">第 391 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706070000 +0800" stop="20130706080000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">第 69 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706020000 +0800" stop="20130706030000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706030000 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh">2000整點新聞</title>
+	<sub-title lang="zh">第 266 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706040000 +0800" stop="20130706050000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706050000 +0800" stop="20130706053000 +0800">
+ 	<title lang="zh">稅務法規(學院)</title>
+	<sub-title lang="zh">稅捐稽徵法第18集：租稅法學研究方法與租稅策略探討稅捐稽徵法與行政救濟、營利事業所得稅、所得稅稽徵程序、加值型及非加值型營業稅法、遺產稅與贈與稅等。</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706053000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh">商務英語會話(學院)</title>
+	<sub-title lang="zh">AccountingtheResults本集主題：CelebratingSuccess，課程重點：他們如何慶祝成功的交易。</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706060000 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh">華視晨間新聞</title>
+	<sub-title lang="zh">第 391 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706070000 +0800" stop="20130706080000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">第 69 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130706020000 +0800" stop="20130706023000 +0800">
+ 	<title lang="zh">巧手料理-台灣媳婦</title>
+	<sub-title lang="zh">第 20 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706023000 +0800" stop="20130706030000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小自然(國小)</title>
+	<sub-title lang="zh">自然科第26集原1-19快樂上學(3)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706030000 +0800" stop="20130706033000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小英文(國小)</title>
+	<sub-title lang="zh">英文科第26集原1-19一般動詞</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706033000 +0800" stop="20130706040000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小數學(國小)</title>
+	<sub-title lang="zh">數學科第44集原2-6二位數的加減計算(進階)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706050000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh">華視夜間新聞</title>
+	<sub-title lang="zh">第 209 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706060000 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh">華視晨間新聞</title>
+	<sub-title lang="zh">第 81 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706070000 +0800" stop="20130706080000 +0800">
+ 	<title lang="zh">華視與地球對話</title>
+	<sub-title lang="zh">（Ｍ１４７集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706050000 +0800" stop="20130706053000 +0800">
+ 	<title lang="zh">財政學</title>
+	<sub-title lang="zh">第１８集：地方財政＜一＞純地方公共支出理論。＜二＞補助款的意義與種類和功能。＜三＞我國地方政府財政自主狀況及現狀。＜四＞我國地方政府財政移轉制度。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706053000 +0800" stop="20130706060000 +0800">
+ 	<title lang="zh">經貿情勢分析</title>
+	<sub-title lang="zh">主題：主要的經貿議題。內容：首先紹金磚四國的經貿情勢，並探討金磚四國經貿情勢的現存問題；再者，就印度與中國大陸投資環境作比較。其次，探討兩岸的經貿政策與發展，此外，分析國際油價的動向。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706060000 +0800" stop="20130706063000 +0800">
+ 	<title lang="zh">服務業管理</title>
+	<sub-title lang="zh">第１８集：服務業的未來＜一＞服務競爭優勢。＜二＞顧客知識管理。＜三＞服務業的創新、研發。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706063000 +0800" stop="20130706070000 +0800">
+ 	<title lang="zh">多媒體應用</title>
+	<sub-title lang="zh">第18講：電子文件〈二〉課程簡介：課程以PhotoImpact和Flash分別介紹平面繪圖和平面動畫軟體的運用</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706070000 +0800" stop="20130706073000 +0800">
+ 	<title lang="zh">資料結構</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706073000 +0800" stop="20130706080000 +0800">
+ 	<title lang="zh">電腦影像處理</title>
+	<sub-title lang="zh">本集主題－第６集圈選工具（二）學習目標－＜一＞環境界面的介紹與認識。＜二＞影像的輸入操作。＜三＞圈選和繪圖工具的介紹。＜四＞濾鏡功能及綜合實作。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706080000 +0800" stop="20130706093000 +0800">
+ 	<title lang="zh">莒光園地</title>
+	<sub-title lang="zh">第 2051 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706093000 +0800" stop="20130706100000 +0800">
+ 	<title lang="zh">華視幕後特輯</title>
+	<sub-title lang="zh">環太平洋</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706100000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２６集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709140000 +0800" stop="20130709143000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第13集：日本料理好吃主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709143000 +0800" stop="20130709150000 +0800">
+ 	<title lang="zh">生活日語</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709150000 +0800" stop="20130709153000 +0800">
+ 	<title lang="zh">3E學習Home國中社會</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709153000 +0800" stop="20130709160000 +0800">
+ 	<title lang="zh">空中英語教室</title>
+	<sub-title lang="zh">第 2486 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709160000 +0800" stop="20130709163000 +0800">
+ 	<title lang="zh">校園＋-＊廚(三)</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709163000 +0800" stop="20130709170000 +0800">
+ 	<title lang="zh">故事親親說</title>
+	<sub-title lang="zh">第十二集：小狐狸學長大每集用不同單元，敘述生動的故事，讓觀眾進入想像的世界。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706080000 +0800" stop="20130706093000 +0800">
+ 	<title lang="zh">莒光園地</title>
+	<sub-title lang="zh">第 2051 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706093000 +0800" stop="20130706100000 +0800">
+ 	<title lang="zh">華視幕後特輯</title>
+	<sub-title lang="zh">環太平洋</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706100000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２６集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130706080000 +0800" stop="20130706090000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">（主３０３集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706090000 +0800" stop="20130706100000 +0800">
+ 	<title lang="zh">0900整點新聞</title>
+	<sub-title lang="zh">第 289 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706100000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh">致富密碼</title>
+	<sub-title lang="zh">（Ｍ２７１集）</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709150000 +0800" stop="20130709160000 +0800">
+ 	<title lang="zh">景氣到我家</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709160000 +0800" stop="20130709163000 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 58 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130709163000 +0800" stop="20130709173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 572 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130709150000 +0800" stop="20130709160000 +0800">
+ 	<title lang="zh">景氣到我家</title>
+	<sub-title lang="zh">第 10 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709160000 +0800" stop="20130709163000 +0800">
+ 	<title lang="zh">事實勝於雄辯</title>
+	<sub-title lang="zh">第 58 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130709163000 +0800" stop="20130709173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 572 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130709140000 +0800" stop="20130709150000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 302 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709150000 +0800" stop="20130709160000 +0800">
+ 	<title lang="zh">1500整點新聞</title>
+	<sub-title lang="zh">第 303 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709160000 +0800" stop="20130709163000 +0800">
+ 	<title lang="zh">職場達人SHOW(99)</title>
+	<sub-title lang="zh">第 7 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130709163000 +0800" stop="20130709173000 +0800">
+ 	<title lang="zh">華視在地新聞</title>
+	<sub-title lang="zh">第 212 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706080000 +0800" stop="20130706083000 +0800">
+ 	<title lang="zh">英文檢定(二)</title>
+	<sub-title lang="zh">第 7 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706083000 +0800" stop="20130706090000 +0800">
+ 	<title lang="zh">珍愛生命的十堂課</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706090000 +0800" stop="20130706093000 +0800">
+ 	<title lang="zh">幽谷中的太陽</title>
+	<sub-title lang="zh">第 5 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706093000 +0800" stop="20130706100000 +0800">
+ 	<title lang="zh">3E學習Home國中發音篇Ⅱ</title>
+	<sub-title lang="zh">第11集讓謝孟媛老師教您正確『發音』、『文法』，奠定您學習英文的基礎。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706100000 +0800" stop="20130706103000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第10集：洗手間在哪裡主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706103000 +0800" stop="20130706110000 +0800">
+ 	<title lang="zh">大家說英語</title>
+	<sub-title lang="zh">第 1386 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２７集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706120000 +0800" stop="20130706125000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2008 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706125000 +0800" stop="20130706130000 +0800">
+ 	<title lang="zh">華視生活雜誌午間快報</title>
+	<sub-title lang="zh">第 349 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706130000 +0800" stop="20130706140000 +0800">
+ 	<title lang="zh">圓夢廚房</title>
+	<sub-title lang="zh">第 13 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh">天下第一</title>
+	<sub-title lang="zh">原２７集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706120000 +0800" stop="20130706125000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 2008 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706125000 +0800" stop="20130706130000 +0800">
+ 	<title lang="zh">華視生活雜誌午間快報</title>
+	<sub-title lang="zh">第 349 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706130000 +0800" stop="20130706140000 +0800">
+ 	<title lang="zh">圓夢廚房</title>
+	<sub-title lang="zh">第 13 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh">1100整點新聞</title>
+	<sub-title lang="zh">第 291 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706120000 +0800" stop="20130706125000 +0800">
+ 	<title lang="zh">華視午間新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706125000 +0800" stop="20130706130000 +0800">
+ 	<title lang="zh">華視生活雜誌午間快報</title>
+	<sub-title lang="zh">第 42 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706130000 +0800" stop="20130706140000 +0800">
+ 	<title lang="zh">1300整點新聞</title>
+	<sub-title lang="zh">第 281 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706110000 +0800" stop="20130706120000 +0800">
+ 	<title lang="zh">世紀台灣</title>
+	<sub-title lang="zh">第 8 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706120000 +0800" stop="20130706130000 +0800">
+ 	<title lang="zh">親愛的，我變高手了！</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706130000 +0800" stop="20130706140000 +0800">
+ 	<title lang="zh">點燈〈96〉</title>
+	<sub-title lang="zh">第 183 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706140000 +0800" stop="20130706143000 +0800">
+ 	<title lang="zh">天才衝衝衝精華版</title>
+	<sub-title lang="zh">第 47 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706143000 +0800" stop="20130706150000 +0800">
+ 	<title lang="zh">天才衝衝衝精華版</title>
+	<sub-title lang="zh">第 48 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706150000 +0800" stop="20130706170000 +0800">
+ 	<title lang="zh">天才衝衝衝</title>
+	<sub-title lang="zh">第 365 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706140000 +0800" stop="20130706143000 +0800">
+ 	<title lang="zh">天才衝衝衝精華版</title>
+	<sub-title lang="zh">第 47 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706143000 +0800" stop="20130706150000 +0800">
+ 	<title lang="zh">天才衝衝衝精華版</title>
+	<sub-title lang="zh">第 48 集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706150000 +0800" stop="20130706170000 +0800">
+ 	<title lang="zh">天才衝衝衝</title>
+	<sub-title lang="zh">第 365 集</sub-title>
+</programme>
+<programme channel="502.dvb.guide" start="20130706140000 +0800" stop="20130706143000 +0800">
+ 	<title lang="zh">日文(一)</title>
+	<sub-title lang="zh">第10集：洗手間在哪裡主講老師運用豐富的例句及講解，並於片尾加入唱歌的內容，讓觀眾充分靈活的學習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706143000 +0800" stop="20130706150000 +0800">
+ 	<title lang="zh">友欣數位學苑教學節目</title>
+	<sub-title lang="zh">第 3 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706150000 +0800" stop="20130706153000 +0800">
+ 	<title lang="zh">3E學習Home國中初級文法</title>
+	<sub-title lang="zh">第23集讓謝孟媛老師教您正確『發音』、『文法』，奠定您學習英文的基礎。若欲詳細了解教材課程內容，請至網址：http://www.3ehome.com.tw</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706153000 +0800" stop="20130706160000 +0800">
+ 	<title lang="zh">空中英語教室</title>
+	<sub-title lang="zh">第 2484 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706160000 +0800" stop="20130706170000 +0800">
+ 	<title lang="zh">華視新聞雜誌-有故事的人</title>
+	<sub-title lang="zh">第 6 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706140000 +0800" stop="20130706150000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706150000 +0800" stop="20130706160000 +0800">
+ 	<title lang="zh">1500整點新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706160000 +0800" stop="20130706170000 +0800">
+ 	<title lang="zh">華視台語新聞雜誌</title>
+	<sub-title lang="zh">第 210 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706170000 +0800" stop="20130706173000 +0800">
+ 	<title lang="zh">北海小英雄</title>
+	<sub-title lang="zh">第四十七集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706173000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh">宇宙兄弟</title>
+	<sub-title lang="zh">第二十七集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706180000 +0800" stop="20130706183000 +0800">
+ 	<title lang="zh">宇宙兄弟</title>
+	<sub-title lang="zh">第二十八集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706183000 +0800" stop="20130706185800 +0800">
+ 	<title lang="zh">名偵探柯南</title>
+	<sub-title lang="zh">第一九二集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706185800 +0800" stop="20130706200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2003 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="504.dvb.guide" start="20130706170000 +0800" stop="20130706173000 +0800">
+ 	<title lang="zh">北海小英雄</title>
+	<sub-title lang="zh">第四十七集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706173000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh">宇宙兄弟</title>
+	<sub-title lang="zh">第二十七集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706180000 +0800" stop="20130706183000 +0800">
+ 	<title lang="zh">宇宙兄弟</title>
+	<sub-title lang="zh">第二十八集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706183000 +0800" stop="20130706185800 +0800">
+ 	<title lang="zh">名偵探柯南</title>
+	<sub-title lang="zh">第一九二集</sub-title>
+</programme>
+<programme channel="504.dvb.guide" start="20130706185800 +0800" stop="20130706200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 2003 集</sub-title>
+</programme>
+<programme channel="503.dvb.guide" start="20130706170000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh">1400整點新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706180000 +0800" stop="20130706185800 +0800">
+ 	<title lang="zh">1800整點新聞</title>
+	<sub-title lang="zh">第 299 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="503.dvb.guide" start="20130706185800 +0800" stop="20130706200000 +0800">
+ 	<title lang="zh">華視晚間新聞</title>
+	<sub-title lang="zh">第 300 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706170000 +0800" stop="20130706180000 +0800">
+ 	<title lang="zh">天行者的天空</title>
+	<sub-title lang="zh">第 1 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706180000 +0800" stop="20130706190000 +0800">
+ 	<title lang="zh">NEWS12週報</title>
+	<sub-title lang="zh">第 60 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706190000 +0800" stop="20130706200000 +0800">
+ 	<title lang="zh">NEWS12週報</title>
+	<sub-title lang="zh">第 36 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709170000 +0800" stop="20130709170500 +0800">
+ 	<title lang="zh">越說越好-每日一句</title>
+	<sub-title lang="zh">第 22 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709170500 +0800" stop="20130709173000 +0800">
+ 	<title lang="zh">阿法貝樂園(國小)</title>
+	<sub-title lang="zh">第46集：透過英文26個字母，以卡通動畫的方式呈現，帶給觀眾一個輕鬆的學習環境。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709173000 +0800" stop="20130709180000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小自然(國小)</title>
+	<sub-title lang="zh">自然科第28集原1-21校園裡的植物(1)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709180000 +0800" stop="20130709183000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小英文(國小)</title>
+	<sub-title lang="zh">英文科第28集原1-21生活中出現的英語(電話按鍵)</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709183000 +0800" stop="20130709190000 +0800">
+ 	<title lang="zh">甲上學園(Ⅱ)國小數學(國小)</title>
+	<sub-title lang="zh">數學科第46集原2-8了解九九乘法</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130709190000 +0800" stop="20130709200000 +0800">
+ 	<title lang="zh">史溫侯 福爾摩沙哺乳動物紀行</title>
+	<sub-title lang="zh">第 2 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706200000 +0800" stop="20130706203000 +0800">
+ 	<title lang="zh">兒童英語三百句</title>
+	<sub-title lang="zh">第 18 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706203000 +0800" stop="20130706213000 +0800">
+ 	<title lang="zh">圓夢廚房</title>
+	<sub-title lang="zh">紀彩芸，原名紀思緣。出生時因為嚴重黃疸引起視神經萎縮，國中三年級時又因尿毒症引起腎臟病變；2009年起就讀於實踐大學音樂系，在學期間受到資源教室老師們的關心和照顧。在李佩芳老師的主導發起之下，實踐大學</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706213000 +0800" stop="20130706220000 +0800">
+ 	<title lang="zh">英文(二)</title>
+	<sub-title lang="zh">第18集：信用狀從商用英文書信、電子郵件、簡歷表、徵信與詢價信函、裝運與交貨、讓同學能更深入的了解。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706220000 +0800" stop="20130706223000 +0800">
+ 	<title lang="zh">國際貿易實務(下)</title>
+	<sub-title lang="zh">第36集：國際商務仲裁大綱：自出口簽證、海洋運輸、航空運輸、外匯與進出口結匯、國際商務等，詳加解釋，使同學能多方面研習。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="502.dvb.guide" start="20130706223000 +0800" stop="20130706230000 +0800">
+ 	<title lang="zh">企業組織與管理</title>
+	<sub-title lang="zh">簡介一、企業經營品質二、品質與品質管理概念三、全面品質管理原理四、全面品質管理的實施五、全面品質管理的推行。</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706200000 +0800" stop="20130706220000 +0800">
+ 	<title lang="zh">烏龍派出所特別篇</title>
+	<sub-title lang="zh">越激烈的假期越過癮</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+<programme channel="501.dvb.guide" start="20130706220000 +0800" stop="20130707001000 +0800">
+ 	<title lang="zh">天才衝衝衝</title>
+	<sub-title lang="zh">第 368 集</sub-title>
+	<language>zh</language>
+	<video>
+		<aspect>4:3</aspect>
+	</video>
+	<audio>
+		<stereo>stereo</stereo>
+	</audio>
+</programme>
+</tv>
