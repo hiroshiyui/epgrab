@@ -1,8 +1,0 @@
-A couple of subtitle info patches for UK descriptions.
-
-I'm a little reluctant to add these at the moment, as I can't test them
-(No TV Antenna in new flat yet) and they need a little work so they don't 
-affect people outside the UK. I might do a hybrid patch of both. Cheers to 
-Jon Dye <jon_pecorous_co_uk> and John Pullan <jmp_tarantella_com> for 
-supplying them.
-
