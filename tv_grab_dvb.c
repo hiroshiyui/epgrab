@@ -78,6 +78,8 @@ typedef struct chninfo {
 static struct lookup_table *channelid_table;
 static struct chninfo *channels;
 
+const struct lookup_table languageid_table[];
+
 /* Print usage information. {{{ */
 static void usage() {
   fprintf(stderr, "Usage: %s [-d] [-u] [-c] [-n|m|p] [-s] [-t timeout]\n"
