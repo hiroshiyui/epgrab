@@ -2,12 +2,12 @@
 
 Grab DVB EPG data, output to XMLTV format.
 
-EPGrab is a fork of 'tv\_grab\_dvb' from http://bryars.eu/projects/tv_grab_dvb/
+EPGrab is a fork of `tv_grab_dvb` from http://bryars.eu/projects/tv_grab_dvb/
 
 ## Minimum Requirements
 
 * A Linux supported DVB receiver device, see: http://www.linuxtv.org/wiki/index.php/Hardware_Device_Information
-* Have DVB apps (http://www.linuxtv.org/wiki/index.php/LinuxTV_dvb-apps) installed on your system.
+* Have `v4l-utils` (https://git.linuxtv.org/v4l-utils.git/) installed on your system.
 
 ## Build
 
@@ -18,13 +18,13 @@ I do use CMake build system:
 
 ## Run
 
-You have to use DVB apps' \*zap utilities to set up your DVB receiver. Before that, use 'scan' utility to generate a channels list file.
+You have to use `dvbv5-zap` in `v4l-utils` to set up your DVB receiver. Before that, use `dvbv5-scan` to generate a channels list file.
 
 For instance:
 
-<code>tzap -F -c ~/channels.conf "公共電視 PTS"</code>
+<code>dvbv5-zap -c ./etc/dvb_channel.conf "客家電視"</code>
 
-Then you can run EPGrab's executable file 'epgrab' to grab DVB EPG data.
+Then you can run EPGrab's executable file `epgrab` to grab DVB EPG data.
 
 ## License
 
