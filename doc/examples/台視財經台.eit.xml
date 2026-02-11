@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="台視財經台">
+    <display-name>台視財經台</display-name>
+  </channel>
+  <programme start="20260211084500 +0800" stop="20260211140000 +0800" channel="台視財經台">
+    <title lang="chi"> 股市即時通 </title>
+    <desc lang="chi"> 股市即時通 </desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211143000 +0800" channel="台視財經台">
+    <title lang="chi"> 文化無框綻放自由第１３屆總統獎 </title>
+    <desc lang="chi"> 文化無框綻放自由第１３屆總統獎 </desc>
+  </programme>
+  <programme start="20260211143000 +0800" stop="20260211150000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211153000 +0800" channel="台視財經台">
+    <title lang="chi"> 消費情報讚 </title>
+    <desc lang="chi"> 消費情報讚 </desc>
+  </programme>
+  <programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="台視財經台">
+    <title lang="chi"> 消費情報讚 </title>
+    <desc lang="chi"> 消費情報讚 </desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211165800 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260211165800 +0800" stop="20260211175500 +0800" channel="台視財經台">
+    <title lang="chi"> 益起看世界 </title>
+    <desc lang="chi"> 益起看世界 </desc>
+  </programme>
+  <programme start="20260211175500 +0800" stop="20260211185800 +0800" channel="台視財經台">
+    <title lang="chi"> 台視新聞全球現場 </title>
+    <desc lang="chi"> 台視新聞全球現場 </desc>
+  </programme>
+  <programme start="20260211185800 +0800" stop="20260211195800 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260211195800 +0800" stop="20260211210000 +0800" channel="台視財經台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211233000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百 </title>
+    <desc lang="chi"> 錢線百分百 </desc>
+  </programme>
+  <programme start="20260211233000 +0800" stop="20260212000000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212003000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260212003000 +0800" stop="20260212013000 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260212013000 +0800" stop="20260212023000 +0800" channel="台視財經台">
+    <title lang="chi"> 益起看世界 </title>
+    <desc lang="chi"> 益起看世界 </desc>
+  </programme>
+  <programme start="20260212023000 +0800" stop="20260212050000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百（重） </title>
+    <desc lang="chi"> 錢線百分百（重） </desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212053000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260212053000 +0800" stop="20260212060500 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260212060500 +0800" stop="20260212084500 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百（重） </title>
+    <desc lang="chi"> 錢線百分百（重） </desc>
+  </programme>
+  <programme start="20260212084500 +0800" stop="20260212095500 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣名人堂 </title>
+    <desc lang="chi"> 台灣名人堂 </desc>
+  </programme>
+  <programme start="20260212095500 +0800" stop="20260212110000 +0800" channel="台視財經台">
+    <title lang="chi"> 第３６屆金曲獎幕後花絮 </title>
+    <desc lang="chi"> 第３６屆金曲獎幕後花絮 </desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212113000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260212113000 +0800" stop="20260212120000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260212120000 +0800" stop="20260212125800 +0800" channel="台視財經台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260212125800 +0800" stop="20260212140000 +0800" channel="台視財經台">
+    <title lang="chi"> 午安您好—台視新聞 </title>
+    <desc lang="chi"> 午安您好—台視新聞 </desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212143000 +0800" channel="台視財經台">
+    <title lang="chi"> 文化無框綻放自由第１３屆總統獎 </title>
+    <desc lang="chi"> 文化無框綻放自由第１３屆總統獎 </desc>
+  </programme>
+  <programme start="20260212143000 +0800" stop="20260212150000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260212150000 +0800" stop="20260212153000 +0800" channel="台視財經台">
+    <title lang="chi"> 消費情報讚 </title>
+    <desc lang="chi"> 消費情報讚 </desc>
+  </programme>
+  <programme start="20260212153000 +0800" stop="20260212160000 +0800" channel="台視財經台">
+    <title lang="chi"> 消費情報讚 </title>
+    <desc lang="chi"> 消費情報讚 </desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212165800 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260212165800 +0800" stop="20260212175500 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260212175500 +0800" stop="20260212185800 +0800" channel="台視財經台">
+    <title lang="chi"> 台視新聞全球現場 </title>
+    <desc lang="chi"> 台視新聞全球現場 </desc>
+  </programme>
+  <programme start="20260212185800 +0800" stop="20260212195800 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260212195800 +0800" stop="20260212210000 +0800" channel="台視財經台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百 </title>
+    <desc lang="chi"> 錢線百分百 </desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260212233000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260212233000 +0800" stop="20260213000000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213003000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260213003000 +0800" stop="20260213013000 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260213013000 +0800" stop="20260213020000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213023000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260213023000 +0800" stop="20260213033000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百（重） </title>
+    <desc lang="chi"> 錢線百分百（重） </desc>
+  </programme>
+  <programme start="20260213033000 +0800" stop="20260213043000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260213043000 +0800" stop="20260213050000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213053000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260213053000 +0800" stop="20260213060000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百（重） </title>
+    <desc lang="chi"> 錢線百分百（重） </desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213083000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260213083000 +0800" stop="20260213090000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣名人堂 </title>
+    <desc lang="chi"> 台灣名人堂 </desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="台視財經台">
+    <title lang="chi"> 第６２屆金馬獎幕後花絮 </title>
+    <desc lang="chi"> 第６２屆金馬獎幕後花絮 </desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213113000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260213113000 +0800" stop="20260213120000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260213120000 +0800" stop="20260213125800 +0800" channel="台視財經台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260213125800 +0800" stop="20260213140000 +0800" channel="台視財經台">
+    <title lang="chi"> 午安您好—台視新聞 </title>
+    <desc lang="chi"> 午安您好—台視新聞 </desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213143000 +0800" channel="台視財經台">
+    <title lang="chi"> 文化無框綻放自由第１３屆總統獎 </title>
+    <desc lang="chi"> 文化無框綻放自由第１３屆總統獎 </desc>
+  </programme>
+  <programme start="20260213143000 +0800" stop="20260213150000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213160000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213165800 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260213165800 +0800" stop="20260213175500 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣名人堂 </title>
+    <desc lang="chi"> 台灣名人堂 </desc>
+  </programme>
+  <programme start="20260213175500 +0800" stop="20260213185800 +0800" channel="台視財經台">
+    <title lang="chi"> 台視新聞全球現場 </title>
+    <desc lang="chi"> 台視新聞全球現場 </desc>
+  </programme>
+  <programme start="20260213185800 +0800" stop="20260213195800 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260213195800 +0800" stop="20260213210000 +0800" channel="台視財經台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百 </title>
+    <desc lang="chi"> 錢線百分百 </desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260213233000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260213233000 +0800" stop="20260214000000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260214000000 +0800" stop="20260214003000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260214003000 +0800" stop="20260214013000 +0800" channel="台視財經台">
+    <title lang="chi"> 國際財經脈動 </title>
+    <desc lang="chi"> 國際財經脈動 </desc>
+  </programme>
+  <programme start="20260214013000 +0800" stop="20260214023000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣名人堂(重) </title>
+    <desc lang="chi"> 台灣名人堂(重) </desc>
+  </programme>
+  <programme start="20260214023000 +0800" stop="20260214033000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百（重） </title>
+    <desc lang="chi"> 錢線百分百（重） </desc>
+  </programme>
+  <programme start="20260214033000 +0800" stop="20260214043000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260214043000 +0800" stop="20260214050000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214060000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214070000 +0800" channel="台視財經台">
+    <title lang="chi"> 錢線百分百（重） </title>
+    <desc lang="chi"> 錢線百分百（重） </desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214083000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260214083000 +0800" stop="20260214090000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214093000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260214093000 +0800" stop="20260214103000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260214103000 +0800" stop="20260214113000 +0800" channel="台視財經台">
+    <title lang="chi"> 益起看世界 </title>
+    <desc lang="chi"> 益起看世界 </desc>
+  </programme>
+  <programme start="20260214113000 +0800" stop="20260214120000 +0800" channel="台視財經台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260214120000 +0800" stop="20260214123000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260214123000 +0800" stop="20260214130000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214140000 +0800" channel="台視財經台">
+    <title lang="chi"> 午安您好－台視新聞 </title>
+    <desc lang="chi"> 午安您好－台視新聞 </desc>
+  </programme>
+  <programme start="20260214140000 +0800" stop="20260214143000 +0800" channel="台視財經台">
+    <title lang="chi"> 文化無框綻放自由第１３屆總統獎 </title>
+    <desc lang="chi"> 文化無框綻放自由第１３屆總統獎 </desc>
+  </programme>
+  <programme start="20260214143000 +0800" stop="20260214150000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214160000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣名人堂 </title>
+    <desc lang="chi"> 台灣名人堂 </desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214170000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣真善美 </title>
+    <desc lang="chi"> 台灣真善美 </desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214175500 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260214175500 +0800" stop="20260214185700 +0800" channel="台視財經台">
+    <title lang="chi"> 台視新聞全球現場 </title>
+    <desc lang="chi"> 台視新聞全球現場 </desc>
+  </programme>
+  <programme start="20260214185700 +0800" stop="20260214195700 +0800" channel="台視財經台">
+    <title lang="chi"> 財經錢線週報 </title>
+    <desc lang="chi"> 財經錢線週報 </desc>
+  </programme>
+  <programme start="20260214195700 +0800" stop="20260214210000 +0800" channel="台視財經台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214213000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260214213000 +0800" stop="20260214220000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214230000 +0800" channel="台視財經台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260215000000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經錢線週報 </title>
+    <desc lang="chi"> 財經錢線週報 </desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215010000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215020000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣名人堂 </title>
+    <desc lang="chi"> 台灣名人堂 </desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215023000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260215023000 +0800" stop="20260215030000 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215033000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260215033000 +0800" stop="20260215040000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215050000 +0800" channel="台視財經台">
+    <title lang="chi"> 熱線追蹤（重） </title>
+    <desc lang="chi"> 熱線追蹤（重） </desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215053000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260215053000 +0800" stop="20260215063000 +0800" channel="台視財經台">
+    <title lang="chi"> 股海揚帆 </title>
+    <desc lang="chi"> 股海揚帆 </desc>
+  </programme>
+  <programme start="20260215063000 +0800" stop="20260215073000 +0800" channel="台視財經台">
+    <title lang="chi"> 只要錢長大 </title>
+    <desc lang="chi"> 只要錢長大 </desc>
+  </programme>
+  <programme start="20260215073000 +0800" stop="20260215083000 +0800" channel="台視財經台">
+    <title lang="chi"> 股市週報 </title>
+    <desc lang="chi"> 股市週報 </desc>
+  </programme>
+  <programme start="20260215083000 +0800" stop="20260215093000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣真善美 </title>
+    <desc lang="chi"> 台灣真善美 </desc>
+  </programme>
+  <programme start="20260215093000 +0800" stop="20260215103000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+  <programme start="20260215103000 +0800" stop="20260215110000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215113000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260215113000 +0800" stop="20260215120000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260215120000 +0800" stop="20260215130000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經錢線週報 </title>
+    <desc lang="chi"> 財經錢線週報 </desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215140000 +0800" channel="台視財經台">
+    <title lang="chi"> 午安您好－台視新聞 </title>
+    <desc lang="chi"> 午安您好－台視新聞 </desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215143000 +0800" channel="台視財經台">
+    <title lang="chi"> 文化無框綻放自由第１３屆總統獎 </title>
+    <desc lang="chi"> 文化無框綻放自由第１３屆總統獎 </desc>
+  </programme>
+  <programme start="20260215143000 +0800" stop="20260215150000 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="台視財經台">
+    <title lang="chi"> 益起看世界 </title>
+    <desc lang="chi"> 益起看世界 </desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="台視財經台">
+    <title lang="chi"> 股海揚帆(重) </title>
+    <desc lang="chi"> 股海揚帆(重) </desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215175500 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣真善美 </title>
+    <desc lang="chi"> 台灣真善美 </desc>
+  </programme>
+  <programme start="20260215175500 +0800" stop="20260215185700 +0800" channel="台視財經台">
+    <title lang="chi"> 台視新聞全球現場 </title>
+    <desc lang="chi"> 台視新聞全球現場 </desc>
+  </programme>
+  <programme start="20260215185700 +0800" stop="20260215192700 +0800" channel="台視財經台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260215192700 +0800" stop="20260215195700 +0800" channel="台視財經台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260215195700 +0800" stop="20260215210000 +0800" channel="台視財經台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="台視財經台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215230000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經錢線週報 </title>
+    <desc lang="chi"> 財經錢線週報 </desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260216000000 +0800" channel="台視財經台">
+    <title lang="chi"> 益起看世界 </title>
+    <desc lang="chi"> 益起看世界 </desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="台視財經台">
+    <title lang="chi"> 股海揚帆(重) </title>
+    <desc lang="chi"> 股海揚帆(重) </desc>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216020000 +0800" channel="台視財經台">
+    <title lang="chi"> 只要錢長大(重) </title>
+    <desc lang="chi"> 只要錢長大(重) </desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216030000 +0800" channel="台視財經台">
+    <title lang="chi"> 台灣真善美 </title>
+    <desc lang="chi"> 台灣真善美 </desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216030100 +0800" channel="台視財經台">
+    <title lang="chi"> 節目收播 </title>
+    <desc lang="chi"> 節目收播 </desc>
+  </programme>
+  <programme start="20260216044900 +0800" stop="20260216050000 +0800" channel="台視財經台">
+    <title lang="chi"> 訊號測試 </title>
+    <desc lang="chi"> 訊號測試 </desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216053000 +0800" channel="台視財經台">
+    <title lang="chi"> 全球新觀點 </title>
+    <desc lang="chi"> 全球新觀點 </desc>
+  </programme>
+  <programme start="20260216053000 +0800" stop="20260216060000 +0800" channel="台視財經台">
+    <title lang="chi"> 財經新聞通 </title>
+    <desc lang="chi"> 財經新聞通 </desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216063000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260216063000 +0800" stop="20260216070000 +0800" channel="台視財經台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="台視財經台">
+    <title lang="chi"> ＮＥＷＳ金探號 </title>
+    <desc lang="chi"> ＮＥＷＳ金探號 </desc>
+  </programme>
+</tv>

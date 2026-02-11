@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="中視">
+    <display-name>中視</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="中視">
+    <title lang="chi">財經早點名</title>
+    <desc lang="chi">財經早點名</desc>
+  </programme>
+  <programme start="20260211083000 +0800" stop="20260211090000 +0800" channel="中視">
+    <title lang="chi">股市貴公子</title>
+    <desc lang="chi">股市貴公子</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211143000 +0800" channel="中視">
+    <title lang="chi">股林高手</title>
+    <desc lang="chi">股林高手</desc>
+  </programme>
+  <programme start="20260211143000 +0800" stop="20260211150000 +0800" channel="中視">
+    <title lang="chi">股市米琪林</title>
+    <desc lang="chi">股市米琪林</desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211153000 +0800" channel="中視">
+    <title lang="chi">價值型投資</title>
+    <desc lang="chi">價值型投資</desc>
+  </programme>
+  <programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="中視">
+    <title lang="chi">金錢道</title>
+    <desc lang="chi">金錢道</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260211172800 +0800" stop="20260211175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260211175800 +0800" stop="20260211185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260211185800 +0800" stop="20260211200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260212030000 +0800" stop="20260212033000 +0800" channel="中視">
+    <title lang="chi">台灣味道7</title>
+    <desc lang="chi">台灣味道7</desc>
+  </programme>
+  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260212083000 +0800" stop="20260212090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260212115800 +0800" stop="20260212130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260212130000 +0800" stop="20260212140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260212172800 +0800" stop="20260212175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260212175800 +0800" stop="20260212185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260212185800 +0800" stop="20260212200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212210000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260213000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213010000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260213030000 +0800" stop="20260213033000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260213033000 +0800" stop="20260213040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260213040000 +0800" stop="20260213050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260213083000 +0800" stop="20260213090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260213115800 +0800" stop="20260213130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260213130000 +0800" stop="20260213140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260213172800 +0800" stop="20260213175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260213175800 +0800" stop="20260213185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260213185800 +0800" stop="20260213200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213210000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260214000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260214000000 +0800" stop="20260214010000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260214030000 +0800" stop="20260214033000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260214033000 +0800" stop="20260214040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260214040000 +0800" stop="20260214050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214070000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214090000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260214100000 +0800" stop="20260214115800 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260214115800 +0800" stop="20260214130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214150000 +0800" channel="中視">
+    <title lang="chi">驚奇旅明星</title>
+    <desc lang="chi">驚奇旅明星</desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214160000 +0800" channel="中視">
+    <title lang="chi">60分鐘</title>
+    <desc lang="chi">60分鐘</desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214170000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214185700 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260214185700 +0800" stop="20260214200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214220000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒東湧熱水器</title>
+    <desc lang="chi">綜藝一級棒東湧熱水器</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260215000000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215020000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215040000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒東湧熱水器</title>
+    <desc lang="chi">綜藝一級棒東湧熱水器</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215060000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大特選版</title>
+    <desc lang="chi">綜藝玩很大特選版</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215070000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇英才文教基金會</title>
+    <desc lang="chi">大陸尋奇英才文教基金會</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215083000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260215083000 +0800" stop="20260215090000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215115800 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260215115800 +0800" stop="20260215130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215150000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒東湧熱水器</title>
+    <desc lang="chi">綜藝一級棒東湧熱水器</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215175700 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260215175700 +0800" stop="20260215185700 +0800" channel="中視">
+    <title lang="chi">大陸尋奇英才文教基金會</title>
+    <desc lang="chi">大陸尋奇英才文教基金會</desc>
+  </programme>
+  <programme start="20260215185700 +0800" stop="20260215200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215220000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260216000000 +0800" channel="中視">
+    <title lang="chi">驚奇旅明星</title>
+    <desc lang="chi">驚奇旅明星</desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216020000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216040000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260216083000 +0800" stop="20260216090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260216115800 +0800" stop="20260216130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260216172800 +0800" stop="20260216175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260216175800 +0800" stop="20260216185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260216185800 +0800" stop="20260216200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260217000000 +0800" channel="中視">
+    <title lang="chi">馬力全開紅白歌合戰東湧熱水器</title>
+    <desc lang="chi">馬力全開紅白歌合戰東湧熱水器</desc>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217040000 +0800" channel="中視">
+    <title lang="chi">馬力全開紅白歌合戰東湧熱水器</title>
+    <desc lang="chi">馬力全開紅白歌合戰東湧熱水器</desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260217050000 +0800" stop="20260217060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260217060000 +0800" stop="20260217070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260217070000 +0800" stop="20260217080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260217080000 +0800" stop="20260217083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260217083000 +0800" stop="20260217090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260217090000 +0800" stop="20260217100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260217100000 +0800" stop="20260217110000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽精華版</title>
+    <desc lang="chi">唱歌給你聽精華版</desc>
+  </programme>
+  <programme start="20260217110000 +0800" stop="20260217115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260217115800 +0800" stop="20260217130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260217130000 +0800" stop="20260217170000 +0800" channel="中視">
+    <title lang="chi">馬力全開紅白歌合戰東湧熱水器</title>
+    <desc lang="chi">馬力全開紅白歌合戰東湧熱水器</desc>
+  </programme>
+  <programme start="20260217170000 +0800" stop="20260217172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260217172800 +0800" stop="20260217175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260217175800 +0800" stop="20260217185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260217185800 +0800" stop="20260217200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260217200000 +0800" stop="20260217210000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260217210000 +0800" stop="20260217220000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260217220000 +0800" stop="20260218000000 +0800" channel="中視">
+    <title lang="chi">全民星攻略開運馬上發京都念慈菴</title>
+    <desc lang="chi">全民星攻略開運馬上發京都念慈菴</desc>
+  </programme>
+  <programme start="20260218000000 +0800" stop="20260218010000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260218010000 +0800" stop="20260218020000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260218020000 +0800" stop="20260218040000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大</title>
+    <desc lang="chi">綜藝玩很大</desc>
+  </programme>
+  <programme start="20260218040000 +0800" stop="20260218050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260218050000 +0800" stop="20260218060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260218060000 +0800" stop="20260218070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260218070000 +0800" stop="20260218080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260218080000 +0800" stop="20260218083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260218083000 +0800" stop="20260218090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260218090000 +0800" stop="20260218100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260218100000 +0800" stop="20260218110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260218110000 +0800" stop="20260218115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260218115800 +0800" stop="20260218130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260218130000 +0800" stop="20260218140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260218170000 +0800" stop="20260218172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260218172800 +0800" stop="20260218175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260218175800 +0800" stop="20260218185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260218185800 +0800" stop="20260218200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260218200000 +0800" stop="20260218210000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260218210000 +0800" stop="20260218220000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260218220000 +0800" stop="20260218230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽精華版</title>
+    <desc lang="chi">唱歌給你聽精華版</desc>
+  </programme>
+  <programme start="20260218230000 +0800" stop="20260219000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219010000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260219010000 +0800" stop="20260219020000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219040000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大</title>
+    <desc lang="chi">綜藝玩很大</desc>
+  </programme>
+  <programme start="20260219040000 +0800" stop="20260219050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260219090000 +0800" stop="20260219100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260219115800 +0800" stop="20260219130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260219130000 +0800" stop="20260219140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260219172800 +0800" stop="20260219175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260219175800 +0800" stop="20260219185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260219185800 +0800" stop="20260219200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219210000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219220000 +0800" channel="中視">
+    <title lang="chi">難哄</title>
+    <desc lang="chi">難哄</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260219230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽精華版</title>
+    <desc lang="chi">唱歌給你聽精華版</desc>
+  </programme>
+  <programme start="20260219230000 +0800" stop="20260220000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220010000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260220010000 +0800" stop="20260220020000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220040000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大</title>
+    <desc lang="chi">綜藝玩很大</desc>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260220050000 +0800" stop="20260220060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260220060000 +0800" stop="20260220070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260220070000 +0800" stop="20260220080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260220080000 +0800" stop="20260220083000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260220083000 +0800" stop="20260220090000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260220090000 +0800" stop="20260220100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260220100000 +0800" stop="20260220110000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260220110000 +0800" stop="20260220115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260220115800 +0800" stop="20260220130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260220130000 +0800" stop="20260220140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260220140000 +0800" stop="20260220160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260220160000 +0800" stop="20260220170000 +0800" channel="中視">
+    <title lang="chi">難哄阿鈣八合一強效錠</title>
+    <desc lang="chi">難哄阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260220170000 +0800" stop="20260220172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260220172800 +0800" stop="20260220175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260220175800 +0800" stop="20260220185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260220185800 +0800" stop="20260220200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260220200000 +0800" stop="20260220210000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260220210000 +0800" stop="20260220220000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260220220000 +0800" stop="20260220230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽精華版</title>
+    <desc lang="chi">唱歌給你聽精華版</desc>
+  </programme>
+  <programme start="20260220230000 +0800" stop="20260221000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260221010000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260221010000 +0800" stop="20260221020000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260221020000 +0800" stop="20260221040000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大</title>
+    <desc lang="chi">綜藝玩很大</desc>
+  </programme>
+  <programme start="20260221040000 +0800" stop="20260221050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260221050000 +0800" stop="20260221070000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260221070000 +0800" stop="20260221080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260221080000 +0800" stop="20260221090000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260221090000 +0800" stop="20260221100000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260221100000 +0800" stop="20260221115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略開運馬上發京都念慈菴</title>
+    <desc lang="chi">全民星攻略開運馬上發京都念慈菴</desc>
+  </programme>
+  <programme start="20260221115800 +0800" stop="20260221130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260221130000 +0800" stop="20260221150000 +0800" channel="中視">
+    <title lang="chi">驚奇旅明星</title>
+    <desc lang="chi">驚奇旅明星</desc>
+  </programme>
+  <programme start="20260221150000 +0800" stop="20260221160000 +0800" channel="中視">
+    <title lang="chi">60分鐘</title>
+    <desc lang="chi">60分鐘</desc>
+  </programme>
+  <programme start="20260221160000 +0800" stop="20260221170000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260221170000 +0800" stop="20260221185700 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260221185700 +0800" stop="20260221200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260221200000 +0800" stop="20260221220000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260221220000 +0800" stop="20260222000000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260222000000 +0800" stop="20260222020000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260222020000 +0800" stop="20260222040000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒東湧熱水器</title>
+    <desc lang="chi">綜藝一級棒東湧熱水器</desc>
+  </programme>
+  <programme start="20260222040000 +0800" stop="20260222060000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大特選版</title>
+    <desc lang="chi">綜藝玩很大特選版</desc>
+  </programme>
+  <programme start="20260222060000 +0800" stop="20260222070000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇英才文教基金會</title>
+    <desc lang="chi">大陸尋奇英才文教基金會</desc>
+  </programme>
+  <programme start="20260222070000 +0800" stop="20260222080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260222080000 +0800" stop="20260222083000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260222083000 +0800" stop="20260222090000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260222090000 +0800" stop="20260222100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260222100000 +0800" stop="20260222110000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260222110000 +0800" stop="20260222115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260222115800 +0800" stop="20260222130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260222130000 +0800" stop="20260222150000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒東湧熱水器</title>
+    <desc lang="chi">綜藝一級棒東湧熱水器</desc>
+  </programme>
+  <programme start="20260222150000 +0800" stop="20260222160000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260222160000 +0800" stop="20260222175700 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260222175700 +0800" stop="20260222185700 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260222185700 +0800" stop="20260222200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260222200000 +0800" stop="20260222220000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260222220000 +0800" stop="20260223000000 +0800" channel="中視">
+    <title lang="chi">驚奇旅明星</title>
+    <desc lang="chi">驚奇旅明星</desc>
+  </programme>
+  <programme start="20260223000000 +0800" stop="20260223020000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260223020000 +0800" stop="20260223040000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260223040000 +0800" stop="20260223050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260223050000 +0800" stop="20260223060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260223060000 +0800" stop="20260223070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260223070000 +0800" stop="20260223080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260223080000 +0800" stop="20260223083000 +0800" channel="中視">
+    <title lang="chi">財經早點名</title>
+    <desc lang="chi">財經早點名</desc>
+  </programme>
+  <programme start="20260223083000 +0800" stop="20260223090000 +0800" channel="中視">
+    <title lang="chi">股市貴公子</title>
+    <desc lang="chi">股市貴公子</desc>
+  </programme>
+  <programme start="20260223090000 +0800" stop="20260223100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260223100000 +0800" stop="20260223110000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260223110000 +0800" stop="20260223115800 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260223115800 +0800" stop="20260223130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260223130000 +0800" stop="20260223140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260223140000 +0800" stop="20260223143000 +0800" channel="中視">
+    <title lang="chi">股林高手</title>
+    <desc lang="chi">股林高手</desc>
+  </programme>
+  <programme start="20260223143000 +0800" stop="20260223150000 +0800" channel="中視">
+    <title lang="chi">股市米琪林</title>
+    <desc lang="chi">股市米琪林</desc>
+  </programme>
+  <programme start="20260223150000 +0800" stop="20260223153000 +0800" channel="中視">
+    <title lang="chi">價值型投資</title>
+    <desc lang="chi">價值型投資</desc>
+  </programme>
+  <programme start="20260223153000 +0800" stop="20260223160000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第五季</title>
+    <desc lang="chi">櫻桃小丸子第五季</desc>
+  </programme>
+  <programme start="20260223160000 +0800" stop="20260223170000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260223170000 +0800" stop="20260223172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260223172800 +0800" stop="20260223175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260223175800 +0800" stop="20260223185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260223185800 +0800" stop="20260223200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260223200000 +0800" stop="20260223210000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260223210000 +0800" stop="20260223220000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260223220000 +0800" stop="20260223230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260223230000 +0800" stop="20260224000000 +0800" channel="中視">
+    <title lang="chi">三生三世十里桃花</title>
+    <desc lang="chi">三生三世十里桃花</desc>
+  </programme>
+  <programme start="20260224000000 +0800" stop="20260224010000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260224010000 +0800" stop="20260224020000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260224020000 +0800" stop="20260224030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260224030000 +0800" stop="20260224040000 +0800" channel="中視">
+    <title lang="chi">收播時段</title>
+    <desc lang="chi">收播時段</desc>
+  </programme>
+  <programme start="20260224040000 +0800" stop="20260224050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260224050000 +0800" stop="20260224060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260224060000 +0800" stop="20260224070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260224070000 +0800" stop="20260224080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260224080000 +0800" stop="20260224083000 +0800" channel="中視">
+    <title lang="chi">財經早點名</title>
+    <desc lang="chi">財經早點名</desc>
+  </programme>
+  <programme start="20260224083000 +0800" stop="20260224090000 +0800" channel="中視">
+    <title lang="chi">股市貴公子</title>
+    <desc lang="chi">股市貴公子</desc>
+  </programme>
+  <programme start="20260224090000 +0800" stop="20260224100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260224100000 +0800" stop="20260224110000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260224110000 +0800" stop="20260224115800 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260224115800 +0800" stop="20260224130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260224130000 +0800" stop="20260224140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260224140000 +0800" stop="20260224143000 +0800" channel="中視">
+    <title lang="chi">股林高手</title>
+    <desc lang="chi">股林高手</desc>
+  </programme>
+  <programme start="20260224143000 +0800" stop="20260224150000 +0800" channel="中視">
+    <title lang="chi">股市米琪林</title>
+    <desc lang="chi">股市米琪林</desc>
+  </programme>
+  <programme start="20260224150000 +0800" stop="20260224153000 +0800" channel="中視">
+    <title lang="chi">價值型投資</title>
+    <desc lang="chi">價值型投資</desc>
+  </programme>
+  <programme start="20260224153000 +0800" stop="20260224160000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260224160000 +0800" stop="20260224170000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260224170000 +0800" stop="20260224172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260224172800 +0800" stop="20260224175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260224175800 +0800" stop="20260224185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260224185800 +0800" stop="20260224200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260224200000 +0800" stop="20260224210000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260224210000 +0800" stop="20260224220000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260224220000 +0800" stop="20260224230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260224230000 +0800" stop="20260225000000 +0800" channel="中視">
+    <title lang="chi">倚天屠龍記</title>
+    <desc lang="chi">倚天屠龍記</desc>
+  </programme>
+  <programme start="20260225000000 +0800" stop="20260225010000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260225010000 +0800" stop="20260225020000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260225020000 +0800" stop="20260225030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260225030000 +0800" stop="20260225033000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260225033000 +0800" stop="20260225040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260225040000 +0800" stop="20260225050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260225050000 +0800" stop="20260225060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260225060000 +0800" stop="20260225070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260225070000 +0800" stop="20260225080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260225080000 +0800" stop="20260225083000 +0800" channel="中視">
+    <title lang="chi">財經早點名</title>
+    <desc lang="chi">財經早點名</desc>
+  </programme>
+  <programme start="20260225083000 +0800" stop="20260225090000 +0800" channel="中視">
+    <title lang="chi">股市貴公子</title>
+    <desc lang="chi">股市貴公子</desc>
+  </programme>
+  <programme start="20260225090000 +0800" stop="20260225100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260225100000 +0800" stop="20260225110000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260225110000 +0800" stop="20260225115800 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260225115800 +0800" stop="20260225130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260225130000 +0800" stop="20260225140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260225140000 +0800" stop="20260225143000 +0800" channel="中視">
+    <title lang="chi">股林高手</title>
+    <desc lang="chi">股林高手</desc>
+  </programme>
+  <programme start="20260225143000 +0800" stop="20260225150000 +0800" channel="中視">
+    <title lang="chi">股市米琪林</title>
+    <desc lang="chi">股市米琪林</desc>
+  </programme>
+  <programme start="20260225150000 +0800" stop="20260225153000 +0800" channel="中視">
+    <title lang="chi">價值型投資</title>
+    <desc lang="chi">價值型投資</desc>
+  </programme>
+  <programme start="20260225153000 +0800" stop="20260225160000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260225160000 +0800" stop="20260225170000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260225170000 +0800" stop="20260225172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260225172800 +0800" stop="20260225175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260225175800 +0800" stop="20260225185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260225185800 +0800" stop="20260225200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260225200000 +0800" stop="20260225210000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260225210000 +0800" stop="20260225220000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260225220000 +0800" stop="20260225230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260225230000 +0800" stop="20260226000000 +0800" channel="中視">
+    <title lang="chi">倚天屠龍記</title>
+    <desc lang="chi">倚天屠龍記</desc>
+  </programme>
+  <programme start="20260226000000 +0800" stop="20260226010000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260226010000 +0800" stop="20260226020000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260226020000 +0800" stop="20260226030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260226030000 +0800" stop="20260226033000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260226033000 +0800" stop="20260226040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260226040000 +0800" stop="20260226050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260226050000 +0800" stop="20260226060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260226060000 +0800" stop="20260226070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260226070000 +0800" stop="20260226080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260226080000 +0800" stop="20260226083000 +0800" channel="中視">
+    <title lang="chi">財經早點名</title>
+    <desc lang="chi">財經早點名</desc>
+  </programme>
+  <programme start="20260226083000 +0800" stop="20260226090000 +0800" channel="中視">
+    <title lang="chi">股市貴公子</title>
+    <desc lang="chi">股市貴公子</desc>
+  </programme>
+  <programme start="20260226090000 +0800" stop="20260226100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260226100000 +0800" stop="20260226110000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226115800 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260226115800 +0800" stop="20260226130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260226130000 +0800" stop="20260226140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226143000 +0800" channel="中視">
+    <title lang="chi">股林高手</title>
+    <desc lang="chi">股林高手</desc>
+  </programme>
+  <programme start="20260226143000 +0800" stop="20260226150000 +0800" channel="中視">
+    <title lang="chi">股市米琪林</title>
+    <desc lang="chi">股市米琪林</desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226153000 +0800" channel="中視">
+    <title lang="chi">價值型投資</title>
+    <desc lang="chi">價值型投資</desc>
+  </programme>
+  <programme start="20260226153000 +0800" stop="20260226160000 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226170000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260226172800 +0800" stop="20260226175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260226175800 +0800" stop="20260226185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260226185800 +0800" stop="20260226200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260226210000 +0800" stop="20260226220000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260226220000 +0800" stop="20260226230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260226230000 +0800" stop="20260227000000 +0800" channel="中視">
+    <title lang="chi">倚天屠龍記</title>
+    <desc lang="chi">倚天屠龍記</desc>
+  </programme>
+  <programme start="20260227000000 +0800" stop="20260227010000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260227010000 +0800" stop="20260227020000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260227020000 +0800" stop="20260227030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260227030000 +0800" stop="20260227033000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260227033000 +0800" stop="20260227040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260227040000 +0800" stop="20260227050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260227050000 +0800" stop="20260227060000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260227060000 +0800" stop="20260227070000 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260227070000 +0800" stop="20260227080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260227080000 +0800" stop="20260227090000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260227090000 +0800" stop="20260227100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260227100000 +0800" stop="20260227110000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260227110000 +0800" stop="20260227115800 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260227115800 +0800" stop="20260227130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260227130000 +0800" stop="20260227140000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260227140000 +0800" stop="20260227160000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260227160000 +0800" stop="20260227170000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260227170000 +0800" stop="20260227172800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第六季</title>
+    <desc lang="chi">櫻桃小丸子第六季</desc>
+  </programme>
+  <programme start="20260227172800 +0800" stop="20260227175800 +0800" channel="中視">
+    <title lang="chi">櫻桃小丸子第九季</title>
+    <desc lang="chi">櫻桃小丸子第九季</desc>
+  </programme>
+  <programme start="20260227175800 +0800" stop="20260227185800 +0800" channel="中視">
+    <title lang="chi">全民星攻略京都念慈菴</title>
+    <desc lang="chi">全民星攻略京都念慈菴</desc>
+  </programme>
+  <programme start="20260227185800 +0800" stop="20260227200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260227200000 +0800" stop="20260227210000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260227210000 +0800" stop="20260227220000 +0800" channel="中視">
+    <title lang="chi">慶餘年</title>
+    <desc lang="chi">慶餘年</desc>
+  </programme>
+  <programme start="20260227220000 +0800" stop="20260227230000 +0800" channel="中視">
+    <title lang="chi">唱歌給你聽阿鈣八合一強效錠</title>
+    <desc lang="chi">唱歌給你聽阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260227230000 +0800" stop="20260228000000 +0800" channel="中視">
+    <title lang="chi">倚天屠龍記</title>
+    <desc lang="chi">倚天屠龍記</desc>
+  </programme>
+  <programme start="20260228000000 +0800" stop="20260228010000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260228010000 +0800" stop="20260228020000 +0800" channel="中視">
+    <title lang="chi">慶餘年阿鈣八合一強效錠</title>
+    <desc lang="chi">慶餘年阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260228020000 +0800" stop="20260228030000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260228030000 +0800" stop="20260228033000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260228033000 +0800" stop="20260228040000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260228040000 +0800" stop="20260228050000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260228050000 +0800" stop="20260228070000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260228070000 +0800" stop="20260228080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260228080000 +0800" stop="20260228090000 +0800" channel="中視">
+    <title lang="chi">MIT台灣誌</title>
+    <desc lang="chi">MIT台灣誌</desc>
+  </programme>
+  <programme start="20260228090000 +0800" stop="20260228100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260228100000 +0800" stop="20260228110000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260228110000 +0800" stop="20260228115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260228115800 +0800" stop="20260228130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260228130000 +0800" stop="20260228150000 +0800" channel="中視">
+    <title lang="chi">驚奇旅明星</title>
+    <desc lang="chi">驚奇旅明星</desc>
+  </programme>
+  <programme start="20260228150000 +0800" stop="20260228160000 +0800" channel="中視">
+    <title lang="chi">60分鐘</title>
+    <desc lang="chi">60分鐘</desc>
+  </programme>
+  <programme start="20260228160000 +0800" stop="20260228170000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260228170000 +0800" stop="20260228185700 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260228185700 +0800" stop="20260228200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260228200000 +0800" stop="20260228220000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260228220000 +0800" stop="20260301000000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260301000000 +0800" stop="20260301020000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲</title>
+    <desc lang="chi">飢餓遊戲</desc>
+  </programme>
+  <programme start="20260301020000 +0800" stop="20260301040000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260301040000 +0800" stop="20260301060000 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大特選版</title>
+    <desc lang="chi">綜藝玩很大特選版</desc>
+  </programme>
+  <programme start="20260301060000 +0800" stop="20260301070000 +0800" channel="中視">
+    <title lang="chi">大陸尋奇</title>
+    <desc lang="chi">大陸尋奇</desc>
+  </programme>
+  <programme start="20260301070000 +0800" stop="20260301080000 +0800" channel="中視">
+    <title lang="chi">中視早安新聞</title>
+    <desc lang="chi">中視早安新聞</desc>
+  </programme>
+  <programme start="20260301080000 +0800" stop="20260301083000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260301083000 +0800" stop="20260301090000 +0800" channel="中視">
+    <title lang="chi">台灣味道8</title>
+    <desc lang="chi">台灣味道8</desc>
+  </programme>
+  <programme start="20260301090000 +0800" stop="20260301100000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260301100000 +0800" stop="20260301110000 +0800" channel="中視">
+    <title lang="chi">繞著幸福轉</title>
+    <desc lang="chi">繞著幸福轉</desc>
+  </programme>
+  <programme start="20260301110000 +0800" stop="20260301115800 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260301115800 +0800" stop="20260301130000 +0800" channel="中視">
+    <title lang="chi">中視午間新聞</title>
+    <desc lang="chi">中視午間新聞</desc>
+  </programme>
+  <programme start="20260301130000 +0800" stop="20260301150000 +0800" channel="中視">
+    <title lang="chi">綜藝一級棒</title>
+    <desc lang="chi">綜藝一級棒</desc>
+  </programme>
+  <programme start="20260301150000 +0800" stop="20260301160000 +0800" channel="中視">
+    <title lang="chi">全民星攻略</title>
+    <desc lang="chi">全民星攻略</desc>
+  </programme>
+  <programme start="20260301160000 +0800" stop="20260301175700 +0800" channel="中視">
+    <title lang="chi">綜藝玩很大福爾血糖機</title>
+    <desc lang="chi">綜藝玩很大福爾血糖機</desc>
+  </programme>
+  <programme start="20260301175700 +0800" stop="20260301185700 +0800" channel="中視">
+    <title lang="chi">大陸尋奇英才文教基金會</title>
+    <desc lang="chi">大陸尋奇英才文教基金會</desc>
+  </programme>
+  <programme start="20260301185700 +0800" stop="20260301200000 +0800" channel="中視">
+    <title lang="chi">中視新聞全球報導</title>
+    <desc lang="chi">中視新聞全球報導</desc>
+  </programme>
+  <programme start="20260301200000 +0800" stop="20260301220000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+  <programme start="20260301220000 +0800" stop="20260302000000 +0800" channel="中視">
+    <title lang="chi">驚奇旅明星</title>
+    <desc lang="chi">驚奇旅明星</desc>
+  </programme>
+  <programme start="20260302000000 +0800" stop="20260302020000 +0800" channel="中視">
+    <title lang="chi">飢餓遊戲阿鈣八合一強效錠</title>
+    <desc lang="chi">飢餓遊戲阿鈣八合一強效錠</desc>
+  </programme>
+</tv>

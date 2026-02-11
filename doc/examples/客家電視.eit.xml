@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="客家電視">
+    <display-name>客家電視</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="客家電視">
+    <title lang="chi">村民大會-過家?聊正事 (普)</title>
+    <desc lang="chi">第 79 集</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="客家電視">
+    <title lang="chi">福氣來了 (普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211105500 +0800" channel="客家電視">
+    <title lang="chi">我把旅行變成一道菜 (普)</title>
+    <desc lang="chi">第 3 集從茨廠街到甲洞，TED在多種族融合的馬來西亞吉隆坡(Kuala Lumpur)，尋訪客家族群身影。.....</desc>
+  </programme>
+  <programme start="20260211105500 +0800" stop="20260211110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 14 集搜查地點：1KM公園灌叢步道影片內容：直翅目昆蟲是林緣步道最容易觀察到的昆蟲了，包括蝗蟲.....</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(大埔腔) (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260211111500 +0800" stop="20260211113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(大埔腔) (普)</title>
+    <desc lang="chi">第 157 集</desc>
+  </programme>
+  <programme start="20260211113000 +0800" stop="20260211123000 +0800" channel="客家電視">
+    <title lang="chi">懂吃懂吃來煮食 (普)</title>
+    <desc lang="chi">第 51 集</desc>
+  </programme>
+  <programme start="20260211123000 +0800" stop="20260211132500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260211132500 +0800" stop="20260211133000 +0800" channel="客家電視">
+    <title lang="chi">大自然生趣 (普)</title>
+    <desc lang="chi">第 11 集赤腹鷹.....</desc>
+  </programme>
+  <programme start="20260211133000 +0800" stop="20260211143000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260211143000 +0800" stop="20260211150000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1182 集</desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 433 集這一集的《一家之煮》中，迎來了來自苗栗三灣的紅隊表姊妹檔，她們號稱是客家米食字典，無論是哪一道米.....</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211165500 +0800" channel="客家電視">
+    <title lang="chi">福氣來了(南方篇) (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260211165500 +0800" stop="20260211170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 16 集S2 有土伯：聰明生活術！小資省錢法拍攝形式：主題主要角色：喳喳、花花才月中不到，花花就.....</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(大埔腔) (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260211171500 +0800" stop="20260211173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(大埔腔) (普)</title>
+    <desc lang="chi">第 157 集</desc>
+  </programme>
+  <programme start="20260211173000 +0800" stop="20260211174500 +0800" channel="客家電視">
+    <title lang="chi">GO!蔬菜小隊! (普)</title>
+    <desc lang="chi">第 17 集GO！蔬菜小隊！ 冬季蔬菜篇！這次小隊員靖穎和怜奈，要在一大片草地裡，尋找躲在地底下的白蘿蔔！啵啵.....</desc>
+  </programme>
+  <programme start="20260211174500 +0800" stop="20260211180000 +0800" channel="客家電視">
+    <title lang="chi">GO!蔬菜小隊! (普)</title>
+    <desc lang="chi">第 18 集GO！蔬菜小隊！ 冬季蔬菜篇！第十八集，小隊員子玹和怜奈，要在白色大房子裡，尋找比子玹頭還大的高麗.....</desc>
+  </programme>
+  <programme start="20260211180000 +0800" stop="20260211183000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1598 集</desc>
+  </programme>
+  <programme start="20260211183000 +0800" stop="20260211190000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1183 集</desc>
+  </programme>
+  <programme start="20260211190000 +0800" stop="20260211195500 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260211195500 +0800" stop="20260211200000 +0800" channel="客家電視">
+    <title lang="chi">暢歌實驗所單歌 (普)</title>
+    <desc lang="chi">第 82 集曾仲瑋演唱【草莓】.....</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="客家電視">
+    <title lang="chi">後生大聲公 (普)</title>
+    <desc lang="chi">第 151 集主題:傳統與創新的平衡來賓:曾止妤、李佳、李穎珍邱若瑜、古家寧、張柏謙.....</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="客家電視">
+    <title lang="chi">誰來作客 (普)</title>
+    <desc lang="chi">第 80 集黃子軒是臺灣知名的客家歌手、創作人與音樂製作人，以融合傳統客家音樂與現代音樂風格而聞名。他擅長將客語.....</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260211233000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260211233000 +0800" stop="20260212000000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1183 集</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212050000 +0800" channel="客家電視">
+    <title lang="chi">訊號測試 (普)</title>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212053000 +0800" channel="客家電視">
+    <title lang="chi">日頭下?月光光 (普)</title>
+    <desc lang="chi">第 121 集01:00:35:00 大片頭 00’35’’ 大片頭 01:01:35:00 開場 01’00”.....</desc>
+  </programme>
+  <programme start="20260212053000 +0800" stop="20260212060000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="客家電視">
+    <title lang="chi">停動停動好健康 (普)</title>
+    <desc lang="chi">第 284 集能量瑜珈.....</desc>
+  </programme>
+  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1596 集</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212071500 +0800" channel="客家電視">
+    <title lang="chi">GO!蔬菜小隊! (普)</title>
+    <desc lang="chi">第 17 集GO！蔬菜小隊！ 冬季蔬菜篇！這次小隊員靖穎和怜奈，要在一大片草地裡，尋找躲在地底下的白蘿蔔！啵啵.....</desc>
+  </programme>
+  <programme start="20260212071500 +0800" stop="20260212073000 +0800" channel="客家電視">
+    <title lang="chi">GO!蔬菜小隊! (普)</title>
+    <desc lang="chi">第 18 集GO！蔬菜小隊！ 冬季蔬菜篇！第十八集，小隊員子玹和怜奈，要在白色大房子裡，尋找比子玹頭還大的高麗.....</desc>
+  </programme>
+  <programme start="20260212073000 +0800" stop="20260212080000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1183 集</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="客家電視">
+    <title lang="chi">後生大聲公 (普)</title>
+    <desc lang="chi">第 151 集主題:傳統與創新的平衡來賓:曾止妤、李佳、李穎珍邱若瑜、古家寧、張柏謙.....</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="客家電視">
+    <title lang="chi">福氣來了(南方篇) (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212105500 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 433 集這一集的《一家之煮》中，迎來了來自苗栗三灣的紅隊表姊妹檔，她們號稱是客家米食字典，無論是哪一道米.....</desc>
+  </programme>
+  <programme start="20260212105500 +0800" stop="20260212110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 15 集搜查地點：15KM郊山森林步道、光蠟樹（白雞油樹）、路燈下影片內容：每年到了初夏，在客家.....</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(饒平腔) (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212111500 +0800" stop="20260212113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(饒平腔) (普)</title>
+    <desc lang="chi">第 157 集</desc>
+  </programme>
+  <programme start="20260212113000 +0800" stop="20260212123000 +0800" channel="客家電視">
+    <title lang="chi">誰來作客 (普)</title>
+    <desc lang="chi">第 80 集黃子軒是臺灣知名的客家歌手、創作人與音樂製作人，以融合傳統客家音樂與現代音樂風格而聞名。他擅長將客語.....</desc>
+  </programme>
+  <programme start="20260212123000 +0800" stop="20260212132500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260212132500 +0800" stop="20260212133000 +0800" channel="客家電視">
+    <title lang="chi">大自然生趣 (普)</title>
+    <desc lang="chi">第 12 集黑面琵鷺.....</desc>
+  </programme>
+  <programme start="20260212133000 +0800" stop="20260212143000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212143000 +0800" stop="20260212150000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1183 集</desc>
+  </programme>
+  <programme start="20260212150000 +0800" stop="20260212160000 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 434 集本集的《一家之煮》，紅隊的表姊妹檔來自台中潭子，她們擅長素食料理，總能將普通食材變身為令人驚艷的.....</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212165500 +0800" channel="客家電視">
+    <title lang="chi">福氣來了(南方篇) (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260212165500 +0800" stop="20260212170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 1 集Hi！大家好，我是花花啊！手機反了...最近換了一間經紀公司，叫拉拉雜雜網紅有限公司。&quot;現在就.....</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(饒平腔) (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212171500 +0800" stop="20260212173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(饒平腔) (普)</title>
+    <desc lang="chi">第 157 集</desc>
+  </programme>
+  <programme start="20260212173000 +0800" stop="20260212180000 +0800" channel="客家電視">
+    <title lang="chi">Bilibolo唱唱跳跳 (普)</title>
+    <desc lang="chi">第 603 集</desc>
+  </programme>
+  <programme start="20260212180000 +0800" stop="20260212183000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1599 集</desc>
+  </programme>
+  <programme start="20260212183000 +0800" stop="20260212190000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1184 集</desc>
+  </programme>
+  <programme start="20260212190000 +0800" stop="20260212195500 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260212195500 +0800" stop="20260212200000 +0800" channel="客家電視">
+    <title lang="chi">《初心。登場》單歌 (普)</title>
+    <desc lang="chi">第 23 集吉那、潘信維、巴隆隆演唱【唱我們的歌】.....</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212210000 +0800" channel="客家電視">
+    <title lang="chi">【Hakka Night 我的觀點】米倉的孩子 (普)</title>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="客家電視">
+    <title lang="chi">全球最棒市場 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260212233000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260212233000 +0800" stop="20260213000000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1184 集</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213010000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213050000 +0800" channel="客家電視">
+    <title lang="chi">訊號測試 (普)</title>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213053000 +0800" channel="客家電視">
+    <title lang="chi">日頭下?月光光 (普)</title>
+    <desc lang="chi">第 122 集01:00:35:00 大片頭 00’35’’ 大片頭 01:01:35:00 開場 01’00”.....</desc>
+  </programme>
+  <programme start="20260213053000 +0800" stop="20260213060000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213063000 +0800" channel="客家電視">
+    <title lang="chi">停動停動好健康 (普)</title>
+    <desc lang="chi">第 285 集能量瑜珈.....</desc>
+  </programme>
+  <programme start="20260213063000 +0800" stop="20260213070000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1597 集</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213073000 +0800" channel="客家電視">
+    <title lang="chi">Bilibolo唱唱跳跳 (普)</title>
+    <desc lang="chi">第 603 集</desc>
+  </programme>
+  <programme start="20260213073000 +0800" stop="20260213080000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1184 集</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="客家電視">
+    <title lang="chi">【Hakka Night 我的觀點】米倉的孩子 (普)</title>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="客家電視">
+    <title lang="chi">福氣來了(南方篇) (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213105500 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 434 集本集的《一家之煮》，紅隊的表姊妹檔來自台中潭子，她們擅長素食料理，總能將普通食材變身為令人驚艷的.....</desc>
+  </programme>
+  <programme start="20260213105500 +0800" stop="20260213110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 16 集搜查地點：15KM海岸沙丘影片內容：在海岸沙灘經常可以見到，原本應該是平整的沙地，卻有一.....</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(詔安腔) (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260213111500 +0800" stop="20260213113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(詔安腔) (普)</title>
+    <desc lang="chi">第 157 集</desc>
+  </programme>
+  <programme start="20260213113000 +0800" stop="20260213123000 +0800" channel="客家電視">
+    <title lang="chi">全球最棒市場 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260213123000 +0800" stop="20260213132500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260213132500 +0800" stop="20260213133000 +0800" channel="客家電視">
+    <title lang="chi">大自然生趣 (普)</title>
+    <desc lang="chi">第 13 集帝雉.....</desc>
+  </programme>
+  <programme start="20260213133000 +0800" stop="20260213143000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260213143000 +0800" stop="20260213150000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1184 集</desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213160000 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 435 集本集的《一家之煮》中，紅隊的表姊弟檔來自苗栗大湖，他們是志龍師傅的親友團，對料理充滿熱情。藍隊的.....</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213165500 +0800" channel="客家電視">
+    <title lang="chi">福氣來了(南方篇) (普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260213165500 +0800" stop="20260213170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 2 集故事大綱：獅ㄟ為了要展現他超高智慧的一面，於是舉辦一場疊字知識擂台賽，各地好手爭相報名參加，爭取.....</desc>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(詔安腔) (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260213171500 +0800" stop="20260213173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(詔安腔) (普)</title>
+    <desc lang="chi">第 157 集</desc>
+  </programme>
+  <programme start="20260213173000 +0800" stop="20260213180000 +0800" channel="客家電視">
+    <title lang="chi">Bilibolo唱唱跳跳 (普)</title>
+    <desc lang="chi">第 604 集</desc>
+  </programme>
+  <programme start="20260213180000 +0800" stop="20260213183000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1600 集</desc>
+  </programme>
+  <programme start="20260213183000 +0800" stop="20260213190000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1185 集</desc>
+  </programme>
+  <programme start="20260213190000 +0800" stop="20260213195500 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260213195500 +0800" stop="20260213200000 +0800" channel="客家電視">
+    <title lang="chi">《初心。登場》單歌 (普)</title>
+    <desc lang="chi">第 24 集吉那演唱【吉那罐子】.....</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213210000 +0800" channel="客家電視">
+    <title lang="chi">啊喔！最kiang駐村小隊 (普)</title>
+    <desc lang="chi">第 4 集後角市集要來啦~~~為了打掃講座地點，主任與隊員的衝突一觸即發！讓人擔憂...而隊員為了這次講座.....</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="客家電視">
+    <title lang="chi">新聞做麼? (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="客家電視">
+    <title lang="chi">聚焦國際 (普)</title>
+    <desc lang="chi">第 715 集</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260213233000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260213233000 +0800" stop="20260214000000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1185 集</desc>
+  </programme>
+  <programme start="20260214000000 +0800" stop="20260214010000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="客家電視">
+    <title lang="chi">細細山路私密達 (普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214030000 +0800" channel="客家電視">
+    <title lang="chi">我把旅行變成一道菜 (普)</title>
+    <desc lang="chi">第 3 集從茨廠街到甲洞，TED在多種族融合的馬來西亞吉隆坡(Kuala Lumpur)，尋訪客家族群身影。.....</desc>
+  </programme>
+  <programme start="20260214030000 +0800" stop="20260214040000 +0800" channel="客家電視">
+    <title lang="chi">後生大聲公 (普)</title>
+    <desc lang="chi">第 151 集主題:傳統與創新的平衡來賓:曾止妤、李佳、李穎珍邱若瑜、古家寧、張柏謙.....</desc>
+  </programme>
+  <programme start="20260214040000 +0800" stop="20260214050000 +0800" channel="客家電視">
+    <title lang="chi">新聞做麼? (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214053000 +0800" channel="客家電視">
+    <title lang="chi">日頭下?月光光 (普)</title>
+    <desc lang="chi">第 123 集01:00:35:00 大片頭 00’35’’ 大片頭 01:01:35:00 開場 01’00”.....</desc>
+  </programme>
+  <programme start="20260214053000 +0800" stop="20260214060000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214070000 +0800" channel="客家電視">
+    <title lang="chi">活力新故鄉 (普)</title>
+    <desc lang="chi">第 99 集來自中越的陳香梅，原本是幼教老師，28歲時來臺工作；為了學中文，因緣際會認識了老公，並擁有兩個.....</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214073000 +0800" channel="客家電視">
+    <title lang="chi">Bilibolo唱唱跳跳 (普)</title>
+    <desc lang="chi">第 604 集</desc>
+  </programme>
+  <programme start="20260214073000 +0800" stop="20260214080000 +0800" channel="客家電視">
+    <title lang="chi">客家戲曲 (普)</title>
+    <desc lang="chi">第 1185 集</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214083000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1511 集</desc>
+  </programme>
+  <programme start="20260214083000 +0800" stop="20260214084500 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(大埔腔) (普)</title>
+    <desc lang="chi">第 159 集</desc>
+  </programme>
+  <programme start="20260214084500 +0800" stop="20260214090000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(饒平腔) (普)</title>
+    <desc lang="chi">第 160 集</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214095000 +0800" channel="客家電視">
+    <title lang="chi">客庄走透透 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260214095000 +0800" stop="20260214100000 +0800" channel="客家電視">
+    <title lang="chi">客語半生熟 (普)</title>
+    <desc lang="chi">第 41 集來賓：江老師、恐龍偶像、狄達別看「搶食胲」三個字看起來好像很難懂，其實這個東西每個人身上都有?.....</desc>
+  </programme>
+  <programme start="20260214100000 +0800" stop="20260214105500 +0800" channel="客家電視">
+    <title lang="chi">後生大聲公 (普)</title>
+    <desc lang="chi">第 151 集主題:傳統與創新的平衡來賓:曾止妤、李佳、李穎珍邱若瑜、古家寧、張柏謙.....</desc>
+  </programme>
+  <programme start="20260214105500 +0800" stop="20260214110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 17 集搜查地點：10M家屋附近牆角影片內容：人類文明在短短的數千年，發展出驚人的城市規模，建築.....</desc>
+  </programme>
+  <programme start="20260214110000 +0800" stop="20260214113000 +0800" channel="客家電視">
+    <title lang="chi">麻吉樂園LINE TOWN (普)</title>
+    <desc lang="chi">第 41 集</desc>
+  </programme>
+  <programme start="20260214113000 +0800" stop="20260214120000 +0800" channel="客家電視">
+    <title lang="chi">麻吉樂園LINE TOWN (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260214120000 +0800" stop="20260214123000 +0800" channel="客家電視">
+    <title lang="chi">練習生，衝一波! (普)</title>
+    <desc lang="chi">第 110 集</desc>
+  </programme>
+  <programme start="20260214123000 +0800" stop="20260214125500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260214125500 +0800" stop="20260214130000 +0800" channel="客家電視">
+    <title lang="chi">客客客棧 (普)</title>
+    <desc lang="chi">第 20 集辣妹，是一種讓人感覺火熱的女性。辣台妹，是一種讓人感覺火熱的台灣女性。有時借代指發言嗆辣的女總….....</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214140000 +0800" channel="客家電視">
+    <title lang="chi">電視音樂專輯 (普)</title>
+    <desc lang="chi">第 31 集童年時的樂句，從母親懷裡聽見的搖籃曲，到玩伴嬉鬧的念謠或兒歌，傳唱至今，現在孩子們還聽童謠嗎??曾經.....</desc>
+  </programme>
+  <programme start="20260214140000 +0800" stop="20260214153000 +0800" channel="客家電視">
+    <title lang="chi">【風神舞台】八音入秋 聲韻傳承 (普)</title>
+  </programme>
+  <programme start="20260214153000 +0800" stop="20260214154000 +0800" channel="客家電視">
+    <title lang="chi">暢歌實驗所 (普)</title>
+    <desc lang="chi">第 13 集李建軒演唱:1.全部都是你2.那個誰.....</desc>
+  </programme>
+  <programme start="20260214154000 +0800" stop="20260214155000 +0800" channel="客家電視">
+    <title lang="chi">暢歌實驗所 (普)</title>
+    <desc lang="chi">第 14 集吉那罐子演唱:1.兩儕2.今夜2night.....</desc>
+  </programme>
+  <programme start="20260214155000 +0800" stop="20260214160000 +0800" channel="客家電視">
+    <title lang="chi">暢歌實驗所 (普)</title>
+    <desc lang="chi">第 86 集賴予喬演唱:1.到底2.大寶藏圖.....</desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214165500 +0800" channel="客家電視">
+    <title lang="chi">客庄走透透 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260214165500 +0800" stop="20260214170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 14 集S2 有土伯：愛情相談所：心動的愛情追求術拍攝形式：主題主要角色：福菜輪、阿菸牯、阿梨姐、發.....</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214190000 +0800" channel="客家電視">
+    <title lang="chi">鬧熱打擂台 (普)</title>
+    <desc lang="chi">第 506 集</desc>
+  </programme>
+  <programme start="20260214190000 +0800" stop="20260214193000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260214193000 +0800" stop="20260214200000 +0800" channel="客家電視">
+    <title lang="chi">小O事件簿 (普)</title>
+    <desc lang="chi">第 166 集</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214205000 +0800" channel="客家電視">
+    <title lang="chi">客家新聞雜誌 (普)</title>
+    <desc lang="chi">第 987 集</desc>
+  </programme>
+  <programme start="20260214205000 +0800" stop="20260214210000 +0800" channel="客家電視">
+    <title lang="chi">客語半生熟 (普)</title>
+    <desc lang="chi">第 43 集來賓：那那大師、西西歪、又仁本集來賓加上小編堪稱音效組！不管答案對不對，總之先哦??出來就對了.....</desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214224000 +0800" channel="客家電視">
+    <title lang="chi">【客家電影院】櫻桃小丸子-友情萬歲 (普)</title>
+  </programme>
+  <programme start="20260214224000 +0800" stop="20260214225000 +0800" channel="客家電視">
+    <title lang="chi">音樂關鍵字 (普)</title>
+    <desc lang="chi">第 4 集因為想買一套家庭卡拉ok，辰爸與辰媽吵架了！為了哄媽媽開心，阿辰帶著媽媽來到了新潮的「電話亭式KTV.....</desc>
+  </programme>
+  <programme start="20260214225000 +0800" stop="20260214230000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 18 集場景： 拾光屋 (室內) 時間：日 角色： 有土伯、金吉吉▲ （※場次1，此段用意：主要.....</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260214233000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260214233000 +0800" stop="20260215003000 +0800" channel="客家電視">
+    <title lang="chi">誰來作客 (普)</title>
+    <desc lang="chi">第 80 集黃子軒是臺灣知名的客家歌手、創作人與音樂製作人，以融合傳統客家音樂與現代音樂風格而聞名。他擅長將客語.....</desc>
+  </programme>
+  <programme start="20260215003000 +0800" stop="20260215010000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215024000 +0800" channel="客家電視">
+    <title lang="chi">【客家電影院】櫻桃小丸子-友情萬歲 (普)</title>
+  </programme>
+  <programme start="20260215024000 +0800" stop="20260215025000 +0800" channel="客家電視">
+    <title lang="chi">音樂關鍵字 (普)</title>
+    <desc lang="chi">第 4 集因為想買一套家庭卡拉ok，辰爸與辰媽吵架了！為了哄媽媽開心，阿辰帶著媽媽來到了新潮的「電話亭式KTV.....</desc>
+  </programme>
+  <programme start="20260215025000 +0800" stop="20260215030000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 18 集場景： 拾光屋 (室內) 時間：日 角色： 有土伯、金吉吉▲ （※場次1，此段用意：主要.....</desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215035000 +0800" channel="客家電視">
+    <title lang="chi">客庄走透透 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260215035000 +0800" stop="20260215040000 +0800" channel="客家電視">
+    <title lang="chi">客語半生熟 (普)</title>
+    <desc lang="chi">第 43 集來賓：那那大師、西西歪、又仁本集來賓加上小編堪稱音效組！不管答案對不對，總之先哦??出來就對了.....</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215050000 +0800" channel="客家電視">
+    <title lang="chi">聚焦國際 (普)</title>
+    <desc lang="chi">第 715 集</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215053000 +0800" channel="客家電視">
+    <title lang="chi">日頭下?月光光 (普)</title>
+    <desc lang="chi">第 124 集01:00:35:00 大片頭 00’35’’ 大片頭 01:01:35:00 開場 01’00”.....</desc>
+  </programme>
+  <programme start="20260215053000 +0800" stop="20260215060000 +0800" channel="客家電視">
+    <title lang="chi">國際新聞-客觀世界 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215070000 +0800" channel="客家電視">
+    <title lang="chi">村民大會-過家?聊正事 (普)</title>
+    <desc lang="chi">第 79 集</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="客家電視">
+    <title lang="chi">細細山路私密達 (普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215083000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1512 集</desc>
+  </programme>
+  <programme start="20260215083000 +0800" stop="20260215084500 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(詔安腔) (普)</title>
+    <desc lang="chi">第 161 集</desc>
+  </programme>
+  <programme start="20260215084500 +0800" stop="20260215090000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(南四縣腔) (普)</title>
+    <desc lang="chi">第 162 集</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215095000 +0800" channel="客家電視">
+    <title lang="chi">客庄走透透 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260215095000 +0800" stop="20260215100000 +0800" channel="客家電視">
+    <title lang="chi">客語半生熟 (普)</title>
+    <desc lang="chi">第 42 集來賓：江老師、恐龍偶像、狄達不知道為什麼，只要看到「面兜兜」三個字，大家就會下意識想要裝可愛，.....</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215105500 +0800" channel="客家電視">
+    <title lang="chi">懂吃懂吃來煮食 (普)</title>
+    <desc lang="chi">第 51 集</desc>
+  </programme>
+  <programme start="20260215105500 +0800" stop="20260215110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 18 集搜查地點：15KM郊山森林步道、森林底層影片內容：蝴蝶，可不只有活躍於陽光底下明豔動人的種類.....</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(南四縣腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260215111500 +0800" stop="20260215113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(南四縣腔) (普)</title>
+    <desc lang="chi">第 158 集</desc>
+  </programme>
+  <programme start="20260215113000 +0800" stop="20260215114500 +0800" channel="客家電視">
+    <title lang="chi">嗨客嘶 (普)</title>
+    <desc lang="chi">第 57 集出外靠朋友！這集節目又有「地陪」啦，今天要跟著朋友奕守一起玩，不過在那之前，阿名先到潮州最大.....</desc>
+  </programme>
+  <programme start="20260215114500 +0800" stop="20260215120000 +0800" channel="客家電視">
+    <title lang="chi">嗨客嘶 (普)</title>
+    <desc lang="chi">第 58 集終於騎到了臺一線的終點！屏東楓港！阿名來到臺灣最南的縣市屏東，難得走一趟，當然要到國境之南拜.....</desc>
+  </programme>
+  <programme start="20260215120000 +0800" stop="20260215123000 +0800" channel="客家電視">
+    <title lang="chi">小O事件簿 (普)</title>
+    <desc lang="chi">第 166 集</desc>
+  </programme>
+  <programme start="20260215123000 +0800" stop="20260215125500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 46 集</desc>
+  </programme>
+  <programme start="20260215125500 +0800" stop="20260215130000 +0800" channel="客家電視">
+    <title lang="chi">客客客棧 (普)</title>
+    <desc lang="chi">第 6 集哈囉大家好！歡迎來到客客客棧，客客客棧(客語)。今天要跟大家聊聊，咱們身為臺灣人不可不知的客家菜.....</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215150000 +0800" channel="客家電視">
+    <title lang="chi">鬧熱打擂台 (普)</title>
+    <desc lang="chi">第 506 集</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="客家電視">
+    <title lang="chi">啊喔！最kiang駐村小隊 (普)</title>
+    <desc lang="chi">第 4 集後角市集要來啦~~~為了打掃講座地點，主任與隊員的衝突一觸即發！讓人擔憂...而隊員為了這次講座.....</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215165500 +0800" channel="客家電視">
+    <title lang="chi">客庄走透透 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260215165500 +0800" stop="20260215170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 4 集旁白：油花老街，人稱客家美食天堂，so many饕客慕名而來，people mountain p.....</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(南四縣腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260215171500 +0800" stop="20260215173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(南四縣腔) (普)</title>
+    <desc lang="chi">第 158 集</desc>
+  </programme>
+  <programme start="20260215173000 +0800" stop="20260215180000 +0800" channel="客家電視">
+    <title lang="chi">山歌唱來鬧連連 (普)</title>
+    <desc lang="chi">第 5 集許學傳演唱「山歌子」「平板」溫子梅演唱「山歌子」「送郎」呂紹枝演唱「老山歌」.....</desc>
+  </programme>
+  <programme start="20260215180000 +0800" stop="20260215190000 +0800" channel="客家電視">
+    <title lang="chi">村民大會-過家?聊正事 (普)</title>
+    <desc lang="chi">第 80 集</desc>
+  </programme>
+  <programme start="20260215190000 +0800" stop="20260215193000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 46 集</desc>
+  </programme>
+  <programme start="20260215193000 +0800" stop="20260215200000 +0800" channel="客家電視">
+    <title lang="chi">練習生，衝一波! (普)</title>
+    <desc lang="chi">第 53 集熱血青春啦啦隊首播11/13(日)19:30重播11/19(六)12:00啦啦隊總帶.....</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215205000 +0800" channel="客家電視">
+    <title lang="chi">細細山路私密達 (普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260215205000 +0800" stop="20260215210000 +0800" channel="客家電視">
+    <title lang="chi">客語半生熟 (普)</title>
+    <desc lang="chi">第 44 集來賓：那那大師、西西歪、又仁總覺得那那大師的解讀有點道理，但又好像有點引人遐想的空間……「尾仃.....</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215224000 +0800" channel="客家電視">
+    <title lang="chi">八戒：決戰未來(多元語特別版) (普)</title>
+  </programme>
+  <programme start="20260215224000 +0800" stop="20260215225000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 19 集★本集三個重點：1.火旁龍活動的目的與相關節慶科普。2.追溯到苗栗最早出現包龍慶典的地點─5.....</desc>
+  </programme>
+  <programme start="20260215225000 +0800" stop="20260215230000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 25 集★本集三個重點：1.早期六堆抵禦外敵，會在田邊架起竹竿，上方掛著裝著鞭炮的竹籃。當敵人來襲時.....</desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260216000000 +0800" channel="客家電視">
+    <title lang="chi">【新春饗宴】打八音 (普)</title>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="客家電視">
+    <title lang="chi">打八音 (普)</title>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216024000 +0800" channel="客家電視">
+    <title lang="chi">八戒：決戰未來(多元語特別版) (普)</title>
+  </programme>
+  <programme start="20260216024000 +0800" stop="20260216025000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 19 集★本集三個重點：1.火旁龍活動的目的與相關節慶科普。2.追溯到苗栗最早出現包龍慶典的地點─5.....</desc>
+  </programme>
+  <programme start="20260216025000 +0800" stop="20260216030000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 25 集★本集三個重點：1.早期六堆抵禦外敵，會在田邊架起竹竿，上方掛著裝著鞭炮的竹籃。當敵人來襲時.....</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216035000 +0800" channel="客家電視">
+    <title lang="chi">客庄走透透 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260216035000 +0800" stop="20260216040000 +0800" channel="客家電視">
+    <title lang="chi">客語半生熟 (普)</title>
+    <desc lang="chi">第 44 集來賓：那那大師、西西歪、又仁總覺得那那大師的解讀有點道理，但又好像有點引人遐想的空間……「尾仃.....</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="客家電視">
+    <title lang="chi">【桐花劇場】出境事務所 (普)</title>
+    <desc lang="chi">第 6 集一連串的大日子讓眾新人疲憊不堪，努力找樂子想要讓生活有點樂趣，於是大家緊盯著阿聖遲到找八卦，曉恩才知.....</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 4 集大華國樂團位於桃園龍潭.....</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216063000 +0800" channel="客家電視">
+    <title lang="chi">停動停動好健康 (普)</title>
+    <desc lang="chi">第 286 集能量瑜珈.....</desc>
+  </programme>
+  <programme start="20260216063000 +0800" stop="20260216070000 +0800" channel="客家電視">
+    <title lang="chi">麻吉樂園LINE TOWN (普)</title>
+    <desc lang="chi">第 41 集</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="客家電視">
+    <title lang="chi">電視音樂專輯 (普)</title>
+    <desc lang="chi">第 30 集世界各形各色的族群中，因歷史背景、自然環境、人物崇拜延伸出來的民間宗教及活動，在庶民生命各種階段佔有.....</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216100000 +0800" channel="客家電視">
+    <title lang="chi">【新春大戲】新新 (普)</title>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216105500 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 435 集本集的《一家之煮》中，紅隊的表姊弟檔來自苗栗大湖，他們是志龍師傅的親友團，對料理充滿熱情。藍隊的.....</desc>
+  </programme>
+  <programme start="20260216105500 +0800" stop="20260216110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 19 集搜查地點：5KM水塘、水田、溼地影片內容：在客家村落的埤塘和水稻田裡，還有一種昆蟲界裡的潛水.....</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(北四縣腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260216111500 +0800" stop="20260216113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(四縣腔) (普)</title>
+    <desc lang="chi">第 158 集幼兒客語語言學習節目，採取單元模式，單元篇幅有長有短，長短交織，調節節目不同的節奏，除了長短的篇幅，.....</desc>
+  </programme>
+  <programme start="20260216113000 +0800" stop="20260216123000 +0800" channel="客家電視">
+    <title lang="chi">啊喔！最kiang駐村小隊 (普)</title>
+    <desc lang="chi">第 4 集後角市集要來啦~~~為了打掃講座地點，主任與隊員的衝突一觸即發！讓人擔憂...而隊員為了這次講座.....</desc>
+  </programme>
+  <programme start="20260216123000 +0800" stop="20260216125500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 47 集</desc>
+  </programme>
+  <programme start="20260216125500 +0800" stop="20260216130000 +0800" channel="客家電視">
+    <title lang="chi">大自然生趣 (普)</title>
+    <desc lang="chi">第 14 集紅柿子.....</desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216144000 +0800" channel="客家電視">
+    <title lang="chi">【新春影院】八戒：決戰未來(多元語特別版) (普)</title>
+  </programme>
+  <programme start="20260216144000 +0800" stop="20260216145000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 19 集★本集三個重點：1.火旁龍活動的目的與相關節慶科普。2.追溯到苗栗最早出現包龍慶典的地點─5.....</desc>
+  </programme>
+  <programme start="20260216145000 +0800" stop="20260216150000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 25 集★本集三個重點：1.早期六堆抵禦外敵，會在田邊架起竹竿，上方掛著裝著鞭炮的竹籃。當敵人來襲時.....</desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="客家電視">
+    <title lang="chi">細細山路私密達 (普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216165500 +0800" channel="客家電視">
+    <title lang="chi">吉日良辰客家封 (普)</title>
+    <desc lang="chi">第 1 集冬藏迎春冬藏迎春，是一年復一年循環的時間，充滿著溫馨的氛圍。這是人們最期待的時節，他們感恩過.....</desc>
+  </programme>
+  <programme start="20260216165500 +0800" stop="20260216170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 5 集一群女生一起去看桐花季，嘰嘰喳喳地聊天，看到一片雪白的桐花大家都很興富，要背著大包小包的工具人金.....</desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(北四縣腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260216171500 +0800" stop="20260216173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(四縣腔) (普)</title>
+    <desc lang="chi">第 158 集幼兒客語語言學習節目，採取單元模式，單元篇幅有長有短，長短交織，調節節目不同的節奏，除了長短的篇幅，.....</desc>
+  </programme>
+  <programme start="20260216173000 +0800" stop="20260216174500 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260216174500 +0800" stop="20260216180000 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260216180000 +0800" stop="20260216183000 +0800" channel="客家電視">
+    <title lang="chi">麻吉樂園LINE TOWN (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260216183000 +0800" stop="20260216190000 +0800" channel="客家電視">
+    <title lang="chi">義俠劉明善 (普)</title>
+    <desc lang="chi">第 1 集劉明善西元1828年度年渡台  先居住在打貓(民雄)  後來居住在西螺廣興  最後阿善師在西螺七.....</desc>
+  </programme>
+  <programme start="20260216190000 +0800" stop="20260216193000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 47 集</desc>
+  </programme>
+  <programme start="20260216193000 +0800" stop="20260216220000 +0800" channel="客家電視">
+    <title lang="chi">【除夕看大戲】無巧不成書 (普)</title>
+  </programme>
+  <programme start="20260216220000 +0800" stop="20260216230000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260216230000 +0800" stop="20260217000000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 43 集田屋北管八音團演奏 醉月樓 柳青娘 看芙蓉大伍對  嗩吶吹戲--北管西路曲 嗩吶吹戲--上山採茶客.....</desc>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217010000 +0800" channel="客家電視">
+    <title lang="chi">樹說新語 (普)</title>
+    <desc lang="chi">第 1 集臺灣首次用「樹」介紹「客家」遷徙與生活的人文紀錄片。透過客家先民所倚賴的樹種，探索它們數千年來和.....</desc>
+  </programme>
+  <programme start="20260217010000 +0800" stop="20260217020000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217043000 +0800" channel="客家電視">
+    <title lang="chi">【除夕看大戲】無巧不成書 (普)</title>
+  </programme>
+  <programme start="20260217043000 +0800" stop="20260217044500 +0800" channel="客家電視">
+    <title lang="chi">嗨客嘶 (普)</title>
+    <desc lang="chi">第 57 集出外靠朋友！這集節目又有「地陪」啦，今天要跟著朋友奕守一起玩，不過在那之前，阿名先到潮州最大.....</desc>
+  </programme>
+  <programme start="20260217044500 +0800" stop="20260217050000 +0800" channel="客家電視">
+    <title lang="chi">嗨客嘶 (普)</title>
+    <desc lang="chi">第 58 集終於騎到了臺一線的終點！屏東楓港！阿名來到臺灣最南的縣市屏東，難得走一趟，當然要到國境之南拜.....</desc>
+  </programme>
+  <programme start="20260217050000 +0800" stop="20260217060000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 5 集美濃福安國小位於高雄縣美濃鎮全校只有六個班級一百多位學生學校雖小.....</desc>
+  </programme>
+  <programme start="20260217060000 +0800" stop="20260217063000 +0800" channel="客家電視">
+    <title lang="chi">停動停動好健康 (普)</title>
+    <desc lang="chi">第 287 集能量瑜珈.....</desc>
+  </programme>
+  <programme start="20260217063000 +0800" stop="20260217070000 +0800" channel="客家電視">
+    <title lang="chi">麻吉樂園LINE TOWN (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260217070000 +0800" stop="20260217071500 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260217071500 +0800" stop="20260217073000 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260217073000 +0800" stop="20260217100000 +0800" channel="客家電視">
+    <title lang="chi">【除夕看大戲】無巧不成書 (普)</title>
+  </programme>
+  <programme start="20260217100000 +0800" stop="20260217105500 +0800" channel="客家電視">
+    <title lang="chi">細細山路私密達 (普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260217105500 +0800" stop="20260217110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 20 集搜查地點：10m居家盆栽、社區花圃影片內容：如果家裡有個小庭院的話，是否常在辛苦種植的植物莖.....</desc>
+  </programme>
+  <programme start="20260217110000 +0800" stop="20260217111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(海陸腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260217111500 +0800" stop="20260217113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(海陸腔) (普)</title>
+    <desc lang="chi">第 158 集</desc>
+  </programme>
+  <programme start="20260217113000 +0800" stop="20260217123000 +0800" channel="客家電視">
+    <title lang="chi">水路光影 (普)</title>
+    <desc lang="chi">第 1 集客家族群住在靠山地帶，雖近水而居，卻是灌溉困難的地區。依山而闢的家園，如何讓珍貴稀少的水源灌溉到.....</desc>
+  </programme>
+  <programme start="20260217123000 +0800" stop="20260217125500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 48 集</desc>
+  </programme>
+  <programme start="20260217125500 +0800" stop="20260217130000 +0800" channel="客家電視">
+    <title lang="chi">大自然生趣 (普)</title>
+    <desc lang="chi">第 15 集燕?.....</desc>
+  </programme>
+  <programme start="20260217130000 +0800" stop="20260217140000 +0800" channel="客家電視">
+    <title lang="chi">初心。登場 (普)</title>
+    <desc lang="chi">第 7 集客家金曲歌后吉那，搖身一變，搖聲一變！將以國際巨星之姿全新登場！將一首首初心歌曲，以最直擊靈魂的歌.....</desc>
+  </programme>
+  <programme start="20260217140000 +0800" stop="20260217150000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260217150000 +0800" stop="20260217160000 +0800" channel="客家電視">
+    <title lang="chi">我把旅行變成一道菜 (普)</title>
+    <desc lang="chi">第 4 集30歲出頭的子健，離開馬來西亞到臺灣念書、工作已經十多年了，生命中大概有一半的時間都在臺灣，忍受在異.....</desc>
+  </programme>
+  <programme start="20260217160000 +0800" stop="20260217165500 +0800" channel="客家電視">
+    <title lang="chi">吉日良辰客家封 (普)</title>
+    <desc lang="chi">第 2 集客家茶經擂茶、東方美人茶、酸柑茶，人們對茶的喜愛，是自古以來，也是當代流行。在創新與懷舊.....</desc>
+  </programme>
+  <programme start="20260217165500 +0800" stop="20260217170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 6 集伴侶間常見的NG行為五大ＮＧ的情侶行為！你中了幾招？福菜倫：那些花言巧語(花花假假的情話)不.....</desc>
+  </programme>
+  <programme start="20260217170000 +0800" stop="20260217171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(海陸腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260217171500 +0800" stop="20260217173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(海陸腔) (普)</title>
+    <desc lang="chi">第 158 集</desc>
+  </programme>
+  <programme start="20260217173000 +0800" stop="20260217174500 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 11 集</desc>
+  </programme>
+  <programme start="20260217174500 +0800" stop="20260217180000 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 12 集</desc>
+  </programme>
+  <programme start="20260217180000 +0800" stop="20260217183000 +0800" channel="客家電視">
+    <title lang="chi">麻吉樂園LINE TOWN (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260217183000 +0800" stop="20260217190000 +0800" channel="客家電視">
+    <title lang="chi">義俠劉明善 (普)</title>
+    <desc lang="chi">第 2 集王重安、廖玉翠討論要如何對付劉明善劉明善  廖振聞  廖添福  廖玉純  阿成  楊琇芸  何伯.....</desc>
+  </programme>
+  <programme start="20260217190000 +0800" stop="20260217193000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 48 集</desc>
+  </programme>
+  <programme start="20260217193000 +0800" stop="20260217200000 +0800" channel="客家電視">
+    <title lang="chi">山歌唱來鬧連連 (普)</title>
+    <desc lang="chi">第 81 集山歌裡女人的情感世界李泳杰、黃珮舒演唱「桃花開調」謝宇威、彭月春演唱「撐船歌調」(新打茶壺錫打鉛.....</desc>
+  </programme>
+  <programme start="20260217200000 +0800" stop="20260217220000 +0800" channel="客家電視">
+    <title lang="chi">【新春特別節目】馬到成功好年冬 (普)</title>
+  </programme>
+  <programme start="20260217220000 +0800" stop="20260217230000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260217230000 +0800" stop="20260218000000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 45 集美濃客家八音團演奏  大埔調 二八佳人 四大調  老採茶 花飄  三斤蕃薯  百家春 紅大調客家民.....</desc>
+  </programme>
+  <programme start="20260218000000 +0800" stop="20260218010000 +0800" channel="客家電視">
+    <title lang="chi">樹說新語 (普)</title>
+    <desc lang="chi">第 2 集臺灣首次用「樹」介紹「客家」遷徙與生活的人文紀錄片。透過客家先民所倚賴的樹種，探索它們數千年來和.....</desc>
+  </programme>
+  <programme start="20260218010000 +0800" stop="20260218020000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260218020000 +0800" stop="20260218040000 +0800" channel="客家電視">
+    <title lang="chi">【新春特別節目】馬到成功好年冬 (普)</title>
+  </programme>
+  <programme start="20260218040000 +0800" stop="20260218050000 +0800" channel="客家電視">
+    <title lang="chi">電視音樂專輯 (普)</title>
+    <desc lang="chi">第 30 集世界各形各色的族群中，因歷史背景、自然環境、人物崇拜延伸出來的民間宗教及活動，在庶民生命各種階段佔有.....</desc>
+  </programme>
+  <programme start="20260218050000 +0800" stop="20260218060000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 6 集在鍾聰明先生的邀請下深入客家庄找尋民間吹奏八音的老樂師記錄了數十首曲牌.....</desc>
+  </programme>
+  <programme start="20260218060000 +0800" stop="20260218063000 +0800" channel="客家電視">
+    <title lang="chi">停動停動好健康 (普)</title>
+    <desc lang="chi">第 288 集能量瑜珈.....</desc>
+  </programme>
+  <programme start="20260218063000 +0800" stop="20260218070000 +0800" channel="客家電視">
+    <title lang="chi">奧林P客 (普)</title>
+    <desc lang="chi">第 1598 集</desc>
+  </programme>
+  <programme start="20260218070000 +0800" stop="20260218071500 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 11 集</desc>
+  </programme>
+  <programme start="20260218071500 +0800" stop="20260218073000 +0800" channel="客家電視">
+    <title lang="chi">魔法小廚師 (普)</title>
+    <desc lang="chi">第 12 集</desc>
+  </programme>
+  <programme start="20260218073000 +0800" stop="20260218080000 +0800" channel="客家電視">
+    <title lang="chi">山歌唱來鬧連連 (普)</title>
+    <desc lang="chi">第 81 集山歌裡女人的情感世界李泳杰、黃珮舒演唱「桃花開調」謝宇威、彭月春演唱「撐船歌調」(新打茶壺錫打鉛.....</desc>
+  </programme>
+  <programme start="20260218080000 +0800" stop="20260218100000 +0800" channel="客家電視">
+    <title lang="chi">【新春特別節目】馬到成功好年冬 (普)</title>
+  </programme>
+  <programme start="20260218100000 +0800" stop="20260218105500 +0800" channel="客家電視">
+    <title lang="chi">我把旅行變成一道菜 (普)</title>
+    <desc lang="chi">第 4 集30歲出頭的子健，離開馬來西亞到臺灣念書、工作已經十多年了，生命中大概有一半的時間都在臺灣，忍受在異.....</desc>
+  </programme>
+  <programme start="20260218105500 +0800" stop="20260218110000 +0800" channel="客家電視">
+    <title lang="chi">昆蟲捉迷藏 (普)</title>
+    <desc lang="chi">第 21 集搜查地點：5KM郊區草叢與灌叢影片內容：只要離開市區，鄉間整片的芒草叢是常見的景觀，草蟬最.....</desc>
+  </programme>
+  <programme start="20260218110000 +0800" stop="20260218111500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(大埔腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260218111500 +0800" stop="20260218113000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(大埔腔) (普)</title>
+    <desc lang="chi">第 158 集</desc>
+  </programme>
+  <programme start="20260218113000 +0800" stop="20260218123000 +0800" channel="客家電視">
+    <title lang="chi">水路光影 (普)</title>
+    <desc lang="chi">第 2 集在我們腳下這片土地岩層中，涓涓流動著「伏流水」，遇到岩層薄弱之處，會直接竄流而出，名為「湧泉」。.....</desc>
+  </programme>
+  <programme start="20260218123000 +0800" stop="20260218125500 +0800" channel="客家電視">
+    <title lang="chi">當晝新聞 (普)</title>
+    <desc lang="chi">第 49 集</desc>
+  </programme>
+  <programme start="20260218125500 +0800" stop="20260218130000 +0800" channel="客家電視">
+    <title lang="chi">大自然生趣 (普)</title>
+    <desc lang="chi">第 16 集鴛鴦.....</desc>
+  </programme>
+  <programme start="20260218130000 +0800" stop="20260218140000 +0800" channel="客家電視">
+    <title lang="chi">初心。登場 (普)</title>
+    <desc lang="chi">第 8 集客家金曲歌后吉那，搖身一變，搖聲一變！將以國際巨星之姿全新登場！將一首首初心歌曲，以最直擊靈魂的歌.....</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218150000 +0800" channel="客家電視">
+    <title lang="chi">【客家尋味劇場】女孩上場2 (普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260218150000 +0800" stop="20260218160000 +0800" channel="客家電視">
+    <title lang="chi">一家之煮 (普)</title>
+    <desc lang="chi">第 436 集本集的《一家之煮》中，紅隊的表兄弟檔來自桃園大園，他們經營著友善農場，對健康料理充滿熱情。而藍隊.....</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218165500 +0800" channel="客家電視">
+    <title lang="chi">吉日良辰客家封 (普)</title>
+    <desc lang="chi">第 10 集年華初綻 FALABIBO雷聲驚蟄，也如鬧鐘，賴床已久的大地自冷冽中甦醒，自樸素的被窩上綻放.....</desc>
+  </programme>
+  <programme start="20260218165500 +0800" stop="20260218170000 +0800" channel="客家電視">
+    <title lang="chi">拉拉雜雜有土伯 (普)</title>
+    <desc lang="chi">第 7 集抓狂健身房阿菸牯：上、下勒、上上下勒……(韓國歌we a lat we we a lat).....</desc>
+  </programme>
+  <programme start="20260218170000 +0800" stop="20260218171500 +0800" channel="客家電視">
+    <title lang="chi">森林偵探隊Ⅲ(大埔腔) (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260218171500 +0800" stop="20260218173000 +0800" channel="客家電視">
+    <title lang="chi">ㄤ牯ㄤ牯咕咕咕(大埔腔) (普)</title>
+    <desc lang="chi">第 158 集</desc>
+  </programme>
+  <programme start="20260218173000 +0800" stop="20260218174500 +0800" channel="客家電視">
+    <title lang="chi">GO!蔬菜小隊! (普)</title>
+    <desc lang="chi">第 19 集第19集，小隊員宸睿和岳和，來到位在苗栗大湖的橘子園迷宮，爬橘子樹、尋找好吃的橘子！橘子有綠又有黃，.....</desc>
+  </programme>
+  <programme start="20260218174500 +0800" stop="20260218180000 +0800" channel="客家電視">
+    <title lang="chi">GO!蔬菜小隊! (普)</title>
+    <desc lang="chi">第 20 集第20集，小隊員唯愷和家螢，來到台中東勢，果園裡種滿各種水果，有水梨、橘子，還有小隊員要找的柿子！有.....</desc>
+  </programme>
+  <programme start="20260218180000 +0800" stop="20260218183000 +0800" channel="客家電視">
+    <title lang="chi">【新春特企】奧林P客 (普)</title>
+    <desc lang="chi">第 1601 集</desc>
+  </programme>
+  <programme start="20260218183000 +0800" stop="20260218190000 +0800" channel="客家電視">
+    <title lang="chi">義俠劉明善 (普)</title>
+    <desc lang="chi">第 3 集賊眾湧至 阿成一人擋關 雙方激戰片刻 賊眾不是對手 被阿成打的東倒西歪 阿善師親自出馬戰趙霸 雙.....</desc>
+  </programme>
+  <programme start="20260218190000 +0800" stop="20260218193000 +0800" channel="客家電視">
+    <title lang="chi">暗夜新聞 (普)</title>
+    <desc lang="chi">第 49 集</desc>
+  </programme>
+  <programme start="20260218193000 +0800" stop="20260218200000 +0800" channel="客家電視">
+    <title lang="chi">山歌唱來鬧連連 (普)</title>
+    <desc lang="chi">第 89 集陳石貴演唱「船夫歌」詹鎧亦+吳侑涵演唱「糶酒」李文宏+羅茵茵演唱「桃花過渡」彭月春演唱「十二月.....</desc>
+  </programme>
+  <programme start="20260218200000 +0800" stop="20260218213000 +0800" channel="客家電視">
+    <title lang="chi">【樂迎新春】Virtuoso 炫技新竹 (普)</title>
+  </programme>
+  <programme start="20260218213000 +0800" stop="20260218214500 +0800" channel="客家電視">
+    <title lang="chi">音樂關鍵字 (普)</title>
+    <desc lang="chi">第 1 集本片從靈異故事出發，基礎物理學為主架構，錄音技術為輔，探索聲音是如何被傳遞和接收？跟環境又產生什麼影.....</desc>
+  </programme>
+  <programme start="20260218214500 +0800" stop="20260218220000 +0800" channel="客家電視">
+    <title lang="chi">音樂關鍵字 (普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260218220000 +0800" stop="20260218230000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260218230000 +0800" stop="20260219000000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 47 集和成八音團演奏 新一巾姑  精神早  鐵段橋   泠泡茶 四大金剛  九連環 客家民俗喜慶音樂，邀.....</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219010000 +0800" channel="客家電視">
+    <title lang="chi">樹說新語 (普)</title>
+    <desc lang="chi">第 3 集臺灣首次用「樹」介紹「客家」遷徙與生活的人文紀錄片。透過客家先民所倚賴的樹種，探索它們數千年來和.....</desc>
+  </programme>
+  <programme start="20260219010000 +0800" stop="20260219020000 +0800" channel="客家電視">
+    <title lang="chi">【客家回聲劇場】愛的辛香料 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219050000 +0800" channel="客家電視">
+    <title lang="chi">訊號測試 (普)</title>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219060000 +0800" channel="客家電視">
+    <title lang="chi">八音迎新春 (普)</title>
+    <desc lang="chi">第 7 集本團於於92年元旦成立，從小在叔叔八音團的環境長大，當時從未碰過樂器。如果在任何地方有聽到北管八音的.....</desc>
+  </programme>
+</tv>

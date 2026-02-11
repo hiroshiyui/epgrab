@@ -29,3 +29,6 @@ epgrab
 # Added by cargo
 
 /target
+
+/epg
+/etc/channels.conf*

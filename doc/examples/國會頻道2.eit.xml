@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="國會頻道2">
+    <display-name>國會頻道2</display-name>
+  </channel>
+  <programme start="20260211121800 +0800" stop="20260211133700 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/08(下)「災後復原重建及清理因應作為」報告</desc>
+  </programme>
+  <programme start="20260211133700 +0800" stop="20260211134700 +0800" channel="國會頻道2">
+    <title lang="chi">教育及文化委員會(普)</title>
+    <desc lang="chi">10/08審查人民請願案</desc>
+  </programme>
+  <programme start="20260211134700 +0800" stop="20260211175100 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/08(上)交通部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260211175100 +0800" stop="20260211182600 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/08(下)交通部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260211182600 +0800" stop="20260211220000 +0800" channel="國會頻道2">
+    <title lang="chi">司法及法制委員會(普)</title>
+    <desc lang="chi">10/08法務部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260212023100 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/08(上)「災後復原重建及清理因應作為」報告</desc>
+  </programme>
+  <programme start="20260212023100 +0800" stop="20260212035000 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/08(下)「災後復原重建及清理因應作為」報告</desc>
+  </programme>
+  <programme start="20260212035000 +0800" stop="20260212045000 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/08(上)交通部長報告業務概況並備詢A</desc>
+  </programme>
+  <programme start="20260212045000 +0800" stop="20260212075400 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/08(上)交通部長報告業務概況並備詢B</desc>
+  </programme>
+  <programme start="20260212075400 +0800" stop="20260212082900 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/08(下)交通部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260212082900 +0800" stop="20260212123000 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/09「因關稅造成市場就業及勞動環境衝擊」報告</desc>
+  </programme>
+  <programme start="20260212123000 +0800" stop="20260212155100 +0800" channel="國會頻道2">
+    <title lang="chi">司法及法制委員會(普)</title>
+    <desc lang="chi">10/09考試院秘書長說明立法計畫並備詢</desc>
+  </programme>
+  <programme start="20260212155100 +0800" stop="20260212202600 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/13「重大食安事件處理之檢討」報告</desc>
+  </programme>
+  <programme start="20260212202600 +0800" stop="20260212203500 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14國是論壇</desc>
+  </programme>
+  <programme start="20260212203500 +0800" stop="20260212223000 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260212223000 +0800" stop="20260213012100 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(下)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260213012100 +0800" stop="20260213013400 +0800" channel="國會頻道2">
+    <title lang="chi">程序委員會(普)</title>
+    <desc lang="chi">10/14審定第4會期第5次會議議事日程</desc>
+  </programme>
+  <programme start="20260213013400 +0800" stop="20260213013800 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14臨時提案</desc>
+  </programme>
+  <programme start="20260213013800 +0800" stop="20260213014800 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14國是論壇</desc>
+  </programme>
+  <programme start="20260213014800 +0800" stop="20260213034200 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260213034200 +0800" stop="20260213051200 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(下)行政院長提出施政報告並備詢A</desc>
+  </programme>
+  <programme start="20260213051200 +0800" stop="20260213063300 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(下)行政院長提出施政報告並備詢B</desc>
+  </programme>
+  <programme start="20260213063300 +0800" stop="20260213114200 +0800" channel="國會頻道2">
+    <title lang="chi">教育及文化委員會(普)</title>
+    <desc lang="chi">10/15教育部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260213114200 +0800" stop="20260213160400 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/15數發部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260213160400 +0800" stop="20260213190100 +0800" channel="國會頻道2">
+    <title lang="chi">司法及法制委員會(普)</title>
+    <desc lang="chi">10/15監察院秘書長說明立法計畫並備詢</desc>
+  </programme>
+  <programme start="20260213190100 +0800" stop="20260213225800 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">(焦點議題)10/15(上)「長榮空勤人員因病延誤就醫」報告</desc>
+  </programme>
+  <programme start="20260213225800 +0800" stop="20260214005200 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/15(下)審查「職業安全衛生法修正草案」</desc>
+  </programme>
+  <programme start="20260214005200 +0800" stop="20260214045200 +0800" channel="國會頻道2">
+    <title lang="chi">教育及文化委員會(普)</title>
+    <desc lang="chi">10/15教育部長報告業務概況並備詢A</desc>
+  </programme>
+  <programme start="20260214045200 +0800" stop="20260214060100 +0800" channel="國會頻道2">
+    <title lang="chi">教育及文化委員會(普)</title>
+    <desc lang="chi">10/15教育部長報告業務概況並備詢B</desc>
+  </programme>
+  <programme start="20260214060100 +0800" stop="20260214090000 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/15數發部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214123100 +0800" channel="國會頻道2">
+    <title lang="chi">黨團協商(普)</title>
+    <desc lang="chi">(焦點議題)10/15研商「強化國安韌性特別預算案」</desc>
+  </programme>
+  <programme start="20260214123100 +0800" stop="20260214162400 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/16運安會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260214162400 +0800" stop="20260214191900 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/16(上)審查「兒童托育服務法草案」</desc>
+  </programme>
+  <programme start="20260214191900 +0800" stop="20260214200000 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/16(下)審查「兒童托育服務法草案」</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214210500 +0800" channel="國會頻道2">
+    <title lang="chi">黨團協商(普)</title>
+    <desc lang="chi">(焦點議題)10/16研商「114年度中央政府總預算案」</desc>
+  </programme>
+  <programme start="20260214210500 +0800" stop="20260214212800 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17國是論壇</desc>
+  </programme>
+  <programme start="20260214212800 +0800" stop="20260214232700 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17(上)審議「強化國安韌性特別預算案」</desc>
+  </programme>
+  <programme start="20260214232700 +0800" stop="20260215020300 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17(下)議事日程</desc>
+  </programme>
+  <programme start="20260215020300 +0800" stop="20260215021200 +0800" channel="國會頻道2">
+    <title lang="chi">紀律委員會(普)</title>
+    <desc lang="chi">10/17排定第4會期各月輪值召集委員人選</desc>
+  </programme>
+  <programme start="20260215021200 +0800" stop="20260215023000 +0800" channel="國會頻道2">
+    <title lang="chi">經費稽核委員會(普)</title>
+    <desc lang="chi">10/17第130屆第4次會議</desc>
+  </programme>
+  <programme start="20260215023000 +0800" stop="20260215052500 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/16(上)審查「兒童托育服務法草案」</desc>
+  </programme>
+  <programme start="20260215052500 +0800" stop="20260215065600 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/16(下)審查「兒童托育服務法草案」</desc>
+  </programme>
+  <programme start="20260215065600 +0800" stop="20260215071900 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17國是論壇</desc>
+  </programme>
+  <programme start="20260215071900 +0800" stop="20260215090000 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17(上)審議「強化國安韌性特別預算案」</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215121800 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">(焦點議題)10/20(上)通傳會人事同意權案審查</desc>
+  </programme>
+  <programme start="20260215121800 +0800" stop="20260215135800 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/20(下)通傳會人事同意權案審查</desc>
+  </programme>
+  <programme start="20260215135800 +0800" stop="20260215171900 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/20(上)「太陽能光電板及廢棄物管理」報告</desc>
+  </programme>
+  <programme start="20260215171900 +0800" stop="20260215185100 +0800" channel="國會頻道2">
+    <title lang="chi">社會福利及衛生環境委員會(普)</title>
+    <desc lang="chi">10/20(下)「太陽能光電板及廢棄物管理」報告</desc>
+  </programme>
+  <programme start="20260215185100 +0800" stop="20260215200000 +0800" channel="國會頻道2">
+    <title lang="chi">司法及法制委員會(普)</title>
+    <desc lang="chi">10/20審查「公立學校教職員退撫條例修正草案」</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215225200 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">(焦點議題)10/21(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260215225200 +0800" stop="20260216013400 +0800" channel="國會頻道2">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/21(下)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260216013400 +0800" stop="20260216014900 +0800" channel="國會頻道2">
+    <title lang="chi">程序委員會(普)</title>
+    <desc lang="chi">10/21審定第4會期第6次會議議事日程</desc>
+  </programme>
+  <programme start="20260216014900 +0800" stop="20260216044900 +0800" channel="國會頻道2">
+    <title lang="chi">司法及法制委員會(普)</title>
+    <desc lang="chi">10/20審查「公立學校教職員退撫條例修正草案」A</desc>
+  </programme>
+  <programme start="20260216044900 +0800" stop="20260216055600 +0800" channel="國會頻道2">
+    <title lang="chi">司法及法制委員會(普)</title>
+    <desc lang="chi">10/20審查「公立學校教職員退撫條例修正草案」B</desc>
+  </programme>
+  <programme start="20260216055600 +0800" stop="20260216083500 +0800" channel="國會頻道2">
+    <title lang="chi">交通委員會(普)</title>
+    <desc lang="chi">10/22(上)通傳會人事同意權案審查</desc>
+  </programme>
+</tv>

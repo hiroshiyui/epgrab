@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="華視CTS">
+    <display-name>華視CTS</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="華視CTS">
+    <title lang="chi">施公奇案(普)</title>
+    <desc lang="chi">又見龍兒(4)</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="華視CTS">
+    <title lang="chi">施公奇案(普)</title>
+    <desc lang="chi">又見龍兒(5)</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211105800 +0800" channel="華視CTS">
+    <title lang="chi">包青天(普)</title>
+    <desc lang="chi">鍘美案2</desc>
+  </programme>
+  <programme start="20260211105800 +0800" stop="20260211115800 +0800" channel="華視CTS">
+    <title lang="chi">包青天(普)</title>
+    <desc lang="chi">鍘美案3</desc>
+  </programme>
+  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="華視CTS">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 6524 集</desc>
+  </programme>
+  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211160000 +0800" channel="華視CTS">
+    <title lang="chi">警世劇場-台灣靈異事件(護)</title>
+    <desc lang="chi">陰陽眼神(完)</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211165300 +0800" channel="華視CTS">
+    <title lang="chi">華視在地新聞(普)</title>
+    <desc lang="chi">第 3603 集</desc>
+  </programme>
+  <programme start="20260211165300 +0800" stop="20260211165800 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">華視生活廣場</desc>
+  </programme>
+  <programme start="20260211165800 +0800" stop="20260211172800 +0800" channel="華視CTS">
+    <title lang="chi">電影哆啦A夢：大雄的日本誕生(普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260211172800 +0800" stop="20260211175800 +0800" channel="華視CTS">
+    <title lang="chi">烏龍派出所(普)</title>
+    <desc lang="chi">第 177 集</desc>
+  </programme>
+  <programme start="20260211175800 +0800" stop="20260211182800 +0800" channel="華視CTS">
+    <title lang="chi">烏龍派出所(普)</title>
+    <desc lang="chi">第 178 集</desc>
+  </programme>
+  <programme start="20260211182800 +0800" stop="20260211185800 +0800" channel="華視CTS">
+    <title lang="chi">電影哆啦A夢：大雄的日本誕生(普)</title>
+    <desc lang="chi">第 3 集</desc>
+  </programme>
+  <programme start="20260211185800 +0800" stop="20260211200000 +0800" channel="華視CTS">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 6534 集</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="華視CTS">
+    <title lang="chi">社長之路(普)</title>
+    <desc lang="chi">宜蘭</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260211235500 +0800" channel="華視CTS">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3242 集</desc>
+  </programme>
+  <programme start="20260211235500 +0800" stop="20260212000000 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">華視生活廣場</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="華視CTS">
+    <title lang="chi">社長之路(普)</title>
+    <desc lang="chi">宜蘭</desc>
+  </programme>
+  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="華視CTS">
+    <title lang="chi">歡喜來逗陣(普)</title>
+    <desc lang="chi">第 66 集</desc>
+  </programme>
+  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="華視CTS">
+    <title lang="chi">歡喜來逗陣(普)</title>
+    <desc lang="chi">第 67 集</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="華視CTS">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 310 集</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="華視CTS">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 266 集</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="華視CTS">
+    <title lang="chi">施公奇案(普)</title>
+    <desc lang="chi">又見龍兒(6)</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="華視CTS">
+    <title lang="chi">施公奇案(普)</title>
+    <desc lang="chi">又見龍兒(7)</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212105800 +0800" channel="華視CTS">
+    <title lang="chi">包青天(普)</title>
+    <desc lang="chi">鍘美案4</desc>
+  </programme>
+  <programme start="20260212105800 +0800" stop="20260212115800 +0800" channel="華視CTS">
+    <title lang="chi">包青天(普)</title>
+    <desc lang="chi">鍘美案5</desc>
+  </programme>
+  <programme start="20260212115800 +0800" stop="20260212130000 +0800" channel="華視CTS">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 6525 集</desc>
+  </programme>
+  <programme start="20260212130000 +0800" stop="20260212140000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212153000 +0800" channel="華視CTS">
+    <title lang="chi">莒光園地(護)</title>
+    <desc lang="chi">第 2667 集</desc>
+  </programme>
+  <programme start="20260212153000 +0800" stop="20260212160000 +0800" channel="華視CTS">
+    <title lang="chi">健康早知道(普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212165300 +0800" channel="華視CTS">
+    <title lang="chi">華視在地新聞(普)</title>
+    <desc lang="chi">第 3604 集</desc>
+  </programme>
+  <programme start="20260212165300 +0800" stop="20260212165800 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">華視生活廣場</desc>
+  </programme>
+  <programme start="20260212165800 +0800" stop="20260212172800 +0800" channel="華視CTS">
+    <title lang="chi">電影哆啦A夢：大雄的日本誕生(普)</title>
+    <desc lang="chi">第 3 集</desc>
+  </programme>
+  <programme start="20260212172800 +0800" stop="20260212175800 +0800" channel="華視CTS">
+    <title lang="chi">烏龍派出所(普)</title>
+    <desc lang="chi">第 178 集</desc>
+  </programme>
+  <programme start="20260212175800 +0800" stop="20260212182800 +0800" channel="華視CTS">
+    <title lang="chi">烏龍派出所(普)</title>
+    <desc lang="chi">第 179 集</desc>
+  </programme>
+  <programme start="20260212182800 +0800" stop="20260212185800 +0800" channel="華視CTS">
+    <title lang="chi">電影哆啦A夢：大雄的日本誕生(普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260212185800 +0800" stop="20260212200000 +0800" channel="華視CTS">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 6535 集</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212210000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212223000 +0800" channel="華視CTS">
+    <title lang="chi">台灣引路人(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260212223000 +0800" stop="20260212230000 +0800" channel="華視CTS">
+    <title lang="chi">健康早知道(普)</title>
+    <desc lang="chi">第 16 集</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260212235500 +0800" channel="華視CTS">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3243 集</desc>
+  </programme>
+  <programme start="20260212235500 +0800" stop="20260213000000 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">第 1420 集</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213010000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213023000 +0800" channel="華視CTS">
+    <title lang="chi">台灣引路人(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260213023000 +0800" stop="20260213030000 +0800" channel="華視CTS">
+    <title lang="chi">健康早知道(普)</title>
+    <desc lang="chi">第 16 集</desc>
+  </programme>
+  <programme start="20260213030000 +0800" stop="20260213040000 +0800" channel="華視CTS">
+    <title lang="chi">歡喜來逗陣(普)</title>
+    <desc lang="chi">第 68 集</desc>
+  </programme>
+  <programme start="20260213040000 +0800" stop="20260213050000 +0800" channel="華視CTS">
+    <title lang="chi">歡喜來逗陣(普)</title>
+    <desc lang="chi">第 69 集</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213060000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="華視CTS">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 311 集</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="華視CTS">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 267 集</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="華視CTS">
+    <title lang="chi">施公奇案(普)</title>
+    <desc lang="chi">又見龍兒(8)</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="華視CTS">
+    <title lang="chi">施公奇案(普)</title>
+    <desc lang="chi">又見龍兒(9)</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213105800 +0800" channel="華視CTS">
+    <title lang="chi">包青天(普)</title>
+    <desc lang="chi">鍘美案6(完)</desc>
+  </programme>
+  <programme start="20260213105800 +0800" stop="20260213115800 +0800" channel="華視CTS">
+    <title lang="chi">包青天(普)</title>
+    <desc lang="chi">真假狀元1</desc>
+  </programme>
+  <programme start="20260213115800 +0800" stop="20260213130000 +0800" channel="華視CTS">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 6526 集</desc>
+  </programme>
+  <programme start="20260213130000 +0800" stop="20260213140000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213153000 +0800" channel="華視CTS">
+    <title lang="chi">莒光園地(護)</title>
+    <desc lang="chi">第 2667 集</desc>
+  </programme>
+  <programme start="20260213153000 +0800" stop="20260213155500 +0800" channel="華視CTS">
+    <title lang="chi">健康早知道(普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260213155500 +0800" stop="20260213165400 +0800" channel="華視CTS">
+    <title lang="chi">華視新聞雜誌(普)</title>
+    <desc lang="chi">第 2495 集</desc>
+  </programme>
+  <programme start="20260213165400 +0800" stop="20260213165800 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">第 1421 集</desc>
+  </programme>
+  <programme start="20260213165800 +0800" stop="20260213172800 +0800" channel="華視CTS">
+    <title lang="chi">電影哆啦A夢：大雄的日本誕生(普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260213172800 +0800" stop="20260213175800 +0800" channel="華視CTS">
+    <title lang="chi">烏龍派出所(普)</title>
+    <desc lang="chi">第 179 集</desc>
+  </programme>
+  <programme start="20260213175800 +0800" stop="20260213182800 +0800" channel="華視CTS">
+    <title lang="chi">烏龍派出所(普)</title>
+    <desc lang="chi">第 180 集</desc>
+  </programme>
+  <programme start="20260213182800 +0800" stop="20260213185800 +0800" channel="華視CTS">
+    <title lang="chi">電影哆啦A夢：大雄的日本誕生(普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260213185800 +0800" stop="20260213200000 +0800" channel="華視CTS">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 6536 集</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213210000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="華視CTS">
+    <title lang="chi">上山吧！台灣隊(普)</title>
+    <desc lang="chi">第 11 集</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260213235500 +0800" channel="華視CTS">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3244 集</desc>
+  </programme>
+  <programme start="20260213235500 +0800" stop="20260214000000 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">第 1422 集</desc>
+  </programme>
+  <programme start="20260214000000 +0800" stop="20260214010000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214050000 +0800" channel="華視CTS">
+    <title lang="chi">2026 冬季奧運(普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214060000 +0800" channel="華視CTS">
+    <title lang="chi">咱的城  咱的市  咱台灣的味(普)</title>
+    <desc lang="chi">台中接地氣的台味風景</desc>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214070000 +0800" channel="華視CTS">
+    <title lang="chi">華視台語新聞雜誌(普)</title>
+    <desc lang="chi">第 796 集</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="華視CTS">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 268 集</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214093000 +0800" channel="華視CTS">
+    <title lang="chi">莒光園地(護)</title>
+    <desc lang="chi">第 2667 集</desc>
+  </programme>
+  <programme start="20260214093000 +0800" stop="20260214100000 +0800" channel="華視CTS">
+    <title lang="chi">品牌人物誌(普)</title>
+    <desc lang="chi">第 32 集</desc>
+  </programme>
+  <programme start="20260214100000 +0800" stop="20260214105700 +0800" channel="華視CTS">
+    <title lang="chi">倚天屠龍記(普)</title>
+    <desc lang="chi">第 39 集</desc>
+  </programme>
+  <programme start="20260214105700 +0800" stop="20260214115700 +0800" channel="華視CTS">
+    <title lang="chi">倚天屠龍記(普)</title>
+    <desc lang="chi">第 40 集</desc>
+  </programme>
+  <programme start="20260214115700 +0800" stop="20260214130000 +0800" channel="華視CTS">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 6527 集</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214150000 +0800" channel="華視CTS">
+    <title lang="chi">行！鬥陣出國去！(普)</title>
+    <desc lang="chi">越南ELLY</desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214170000 +0800" channel="華視CTS">
+    <title lang="chi">2026 冬季奧運(普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214173000 +0800" channel="華視CTS">
+    <title lang="chi">擁有超常技能的異世界流浪美食家 第2季(普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260214173000 +0800" stop="20260214180000 +0800" channel="華視CTS">
+    <title lang="chi">擁有超常技能的異世界流浪美食家 第2季(普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260214180000 +0800" stop="20260214183000 +0800" channel="華視CTS">
+    <title lang="chi">名偵探柯南(普)</title>
+    <desc lang="chi">第 744 集</desc>
+  </programme>
+  <programme start="20260214183000 +0800" stop="20260214190000 +0800" channel="華視CTS">
+    <title lang="chi">名偵探柯南 灰原哀物語 黑鐵的神祕列車(普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260214190000 +0800" stop="20260214200000 +0800" channel="華視CTS">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 6537 集</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214220000 +0800" channel="華視CTS">
+    <title lang="chi">週末最強大(普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260215001000 +0800" channel="華視CTS">
+    <title lang="chi">天才衝衝衝(護)</title>
+    <desc lang="chi">第 1004 集</desc>
+  </programme>
+  <programme start="20260215001000 +0800" stop="20260215021000 +0800" channel="華視CTS">
+    <title lang="chi">週末最強大(普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260215021000 +0800" stop="20260215041000 +0800" channel="華視CTS">
+    <title lang="chi">天才衝衝衝(護)</title>
+    <desc lang="chi">第 1003 集</desc>
+  </programme>
+  <programme start="20260215041000 +0800" stop="20260215050000 +0800" channel="華視CTS">
+    <title lang="chi">咱的城  咱的市  咱台灣的味(普)</title>
+    <desc lang="chi">台中接地氣的台味風景</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215070000 +0800" channel="華視CTS">
+    <title lang="chi">名模出任務(普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="華視CTS">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 269 集</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215090000 +0800" channel="華視CTS">
+    <title lang="chi">華視台語新聞雜誌(普)</title>
+    <desc lang="chi">第 796 集</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215100000 +0800" channel="華視CTS">
+    <title lang="chi">衝吧！小鐵人(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215105900 +0800" channel="華視CTS">
+    <title lang="chi">土地公傳奇(普)</title>
+    <desc lang="chi">子母線(一)</desc>
+  </programme>
+  <programme start="20260215105900 +0800" stop="20260215115900 +0800" channel="華視CTS">
+    <title lang="chi">土地公傳奇(普)</title>
+    <desc lang="chi">子母線(二)</desc>
+  </programme>
+  <programme start="20260215115900 +0800" stop="20260215125500 +0800" channel="華視CTS">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 6528 集</desc>
+  </programme>
+  <programme start="20260215125500 +0800" stop="20260215130000 +0800" channel="華視CTS">
+    <title lang="chi">華視生活廣場(普)</title>
+    <desc lang="chi">第 1423 集</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215150000 +0800" channel="華視CTS">
+    <title lang="chi">天才衝衝衝(護)</title>
+    <desc lang="chi">第 1003 集</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215170000 +0800" channel="華視CTS">
+    <title lang="chi">週末最強大(普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215173000 +0800" channel="華視CTS">
+    <title lang="chi">擁有超常技能的異世界流浪美食家 第2季(普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260215173000 +0800" stop="20260215180000 +0800" channel="華視CTS">
+    <title lang="chi">擁有超常技能的異世界流浪美食家 第2季(普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260215180000 +0800" stop="20260215183000 +0800" channel="華視CTS">
+    <title lang="chi">名偵探柯南 灰原哀物語 黑鐵的神祕列車(普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260215183000 +0800" stop="20260215190000 +0800" channel="華視CTS">
+    <title lang="chi">名偵探柯南 灰原哀物語 黑鐵的神祕列車(普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260215190000 +0800" stop="20260215200000 +0800" channel="華視CTS">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 6538 集</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215220000 +0800" channel="華視CTS">
+    <title lang="chi">極智對決-誰梭了算(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215225500 +0800" channel="華視CTS">
+    <title lang="chi">喝酒吧！笨蛋(護)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260215225500 +0800" stop="20260216010000 +0800" channel="華視CTS">
+    <title lang="chi">2026 冬季奧運(普)</title>
+    <desc lang="chi">第 3 集</desc>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216030000 +0800" channel="華視CTS">
+    <title lang="chi">極智對決-誰梭了算(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="華視CTS">
+    <title lang="chi">喝酒吧！笨蛋(護)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="華視CTS">
+    <title lang="chi">咱的城  咱的市  咱台灣的味(普)</title>
+    <desc lang="chi">台中接地氣的台味風景</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="華視CTS">
+    <title lang="chi">院長爸爸(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="華視CTS">
+    <title lang="chi">三國演議(普)</title>
+    <desc lang="chi">第 486 集</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="華視CTS">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 270 集</desc>
+  </programme>
+</tv>

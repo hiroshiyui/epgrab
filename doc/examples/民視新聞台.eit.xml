@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="民視新聞台">
+    <display-name>民視新聞台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260211083000 +0800" stop="20260211090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260211115000 +0800" stop="20260211135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260211135000 +0800" stop="20260211160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260211163000 +0800" stop="20260211170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260211175500 +0800" stop="20260211182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260211182500 +0800" stop="20260211195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260211195500 +0800" stop="20260211204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260211204000 +0800" stop="20260211215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260211215500 +0800" stop="20260211233000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260211233000 +0800" stop="20260212010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260212013000 +0800" stop="20260212023000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260212023000 +0800" stop="20260212033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260212033000 +0800" stop="20260212041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260212041500 +0800" stop="20260212053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260212053000 +0800" stop="20260212060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260212083000 +0800" stop="20260212090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212093000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260212093000 +0800" stop="20260212100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260212115000 +0800" stop="20260212135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260212135000 +0800" stop="20260212160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260212163000 +0800" stop="20260212170000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260212175500 +0800" stop="20260212182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260212182500 +0800" stop="20260212195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260212195500 +0800" stop="20260212204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260212204000 +0800" stop="20260212215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260212215500 +0800" stop="20260212233000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260212233000 +0800" stop="20260213010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260213013000 +0800" stop="20260213023000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260213023000 +0800" stop="20260213033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260213033000 +0800" stop="20260213041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260213041500 +0800" stop="20260213053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260213053000 +0800" stop="20260213060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260213083000 +0800" stop="20260213090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213093000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260213093000 +0800" stop="20260213100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260213115000 +0800" stop="20260213135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260213135000 +0800" stop="20260213160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260213163000 +0800" stop="20260213170000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260213175500 +0800" stop="20260213182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260213182500 +0800" stop="20260213195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260213195500 +0800" stop="20260213204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214174500 +0800" channel="民視新聞台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260214174500 +0800" stop="20260214175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞搶先報(普)</title>
+    <desc lang="chi">民視晚間新聞搶先報(普)</desc>
+  </programme>
+  <programme start="20260214175500 +0800" stop="20260214182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260214182500 +0800" stop="20260214195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260214195500 +0800" stop="20260214215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260214215500 +0800" stop="20260214225500 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260214225500 +0800" stop="20260214235500 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260214235500 +0800" stop="20260215020000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215030000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215060000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215070000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260215083000 +0800" stop="20260215090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215093000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260215093000 +0800" stop="20260215100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215110000 +0800" channel="民視新聞台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215114500 +0800" channel="民視新聞台">
+    <title lang="chi">決策者(普)</title>
+    <desc lang="chi">決策者(普)</desc>
+  </programme>
+  <programme start="20260215114500 +0800" stop="20260215140000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215143000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260215143000 +0800" stop="20260215150000 +0800" channel="民視新聞台">
+    <title lang="chi">民視二點新聞(普)</title>
+    <desc lang="chi">民視二點新聞(普)</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="民視新聞台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="民視新聞台">
+    <title lang="chi">財經週日趴(普)</title>
+    <desc lang="chi">財經週日趴(普)</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260215175500 +0800" stop="20260215184500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260215184500 +0800" stop="20260215195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260215195500 +0800" stop="20260215210000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣演義(普)</title>
+    <desc lang="chi">台灣演義(普)</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215223000 +0800" channel="民視新聞台">
+    <title lang="chi">挑戰新聞(普)</title>
+    <desc lang="chi">挑戰新聞(普)</desc>
+  </programme>
+  <programme start="20260215223000 +0800" stop="20260215233000 +0800" channel="民視新聞台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260215233000 +0800" stop="20260216003000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260216003000 +0800" stop="20260216013000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣演義(普)</title>
+    <desc lang="chi">台灣演義(普)</desc>
+  </programme>
+  <programme start="20260216013000 +0800" stop="20260216030000 +0800" channel="民視新聞台">
+    <title lang="chi">挑戰新聞(普)</title>
+    <desc lang="chi">挑戰新聞(普)</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="民視新聞台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260216083000 +0800" stop="20260216090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216093000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260216093000 +0800" stop="20260216100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260216115000 +0800" stop="20260216140000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216143000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260216143000 +0800" stop="20260216150000 +0800" channel="民視新聞台">
+    <title lang="chi">護國神山-台積電傳奇(普)</title>
+    <desc lang="chi">護國神山-台積電傳奇(普)</desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="民視新聞台">
+    <title lang="chi">民視三點新聞(普)</title>
+    <desc lang="chi">民視三點新聞(普)</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216170000 +0800" channel="民視新聞台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260216175500 +0800" stop="20260216182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260216182500 +0800" stop="20260216195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260216195500 +0800" stop="20260216204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260216204000 +0800" stop="20260216215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260216215500 +0800" stop="20260216230000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260216230000 +0800" stop="20260217000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217004500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260217004500 +0800" stop="20260217020000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217030000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260217030000 +0800" stop="20260217040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217050000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218143000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260218143000 +0800" stop="20260218150000 +0800" channel="民視新聞台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260218150000 +0800" stop="20260218160000 +0800" channel="民視新聞台">
+    <title lang="chi">民視三點新聞(普)</title>
+    <desc lang="chi">民視三點新聞(普)</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218170000 +0800" channel="民視新聞台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260218170000 +0800" stop="20260218175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260218175500 +0800" stop="20260218182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260218182500 +0800" stop="20260218195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260218195500 +0800" stop="20260218204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260218204000 +0800" stop="20260218215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260218215500 +0800" stop="20260218230000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260218230000 +0800" stop="20260219000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219004500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260219004500 +0800" stop="20260219020000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219030000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260219030000 +0800" stop="20260219040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260219040000 +0800" stop="20260219050000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219060000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260219090000 +0800" stop="20260219093000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260219093000 +0800" stop="20260219100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260219115000 +0800" stop="20260219140000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219143000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260219143000 +0800" stop="20260219150000 +0800" channel="民視新聞台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219160000 +0800" channel="民視新聞台">
+    <title lang="chi">民視三點新聞(普)</title>
+    <desc lang="chi">民視三點新聞(普)</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219170000 +0800" channel="民視新聞台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260219175500 +0800" stop="20260219182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260219182500 +0800" stop="20260219195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260219195500 +0800" stop="20260219204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260219204000 +0800" stop="20260219215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260219215500 +0800" stop="20260219230000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260219230000 +0800" stop="20260220000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220004500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260220004500 +0800" stop="20260220020000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220030000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260220030000 +0800" stop="20260220040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220050000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260220050000 +0800" stop="20260220060000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260220060000 +0800" stop="20260220070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260220070000 +0800" stop="20260220080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260220080000 +0800" stop="20260220083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260220083000 +0800" stop="20260220090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260220090000 +0800" stop="20260220093000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260220093000 +0800" stop="20260220100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260220100000 +0800" stop="20260220110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260220110000 +0800" stop="20260220115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260220115000 +0800" stop="20260220140000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260220140000 +0800" stop="20260220143000 +0800" channel="民視新聞台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260220143000 +0800" stop="20260220150000 +0800" channel="民視新聞台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260220150000 +0800" stop="20260220160000 +0800" channel="民視新聞台">
+    <title lang="chi">民視三點新聞(普)</title>
+    <desc lang="chi">民視三點新聞(普)</desc>
+  </programme>
+  <programme start="20260220160000 +0800" stop="20260220170000 +0800" channel="民視新聞台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260220170000 +0800" stop="20260220175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260220175500 +0800" stop="20260220182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260220182500 +0800" stop="20260220195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260220195500 +0800" stop="20260220204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260220204000 +0800" stop="20260220215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260220215500 +0800" stop="20260220230000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260220230000 +0800" stop="20260221000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260221004500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260221004500 +0800" stop="20260221020000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260221020000 +0800" stop="20260221030000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260221030000 +0800" stop="20260221040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260221040000 +0800" stop="20260221050000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260222140000 +0800" stop="20260222150000 +0800" channel="民視新聞台">
+    <title lang="chi">民視二點新聞(普)</title>
+    <desc lang="chi">民視二點新聞(普)</desc>
+  </programme>
+  <programme start="20260222150000 +0800" stop="20260222160000 +0800" channel="民視新聞台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260222160000 +0800" stop="20260222163000 +0800" channel="民視新聞台">
+    <title lang="chi">護國神山-台積電傳奇(普)</title>
+    <desc lang="chi">護國神山-台積電傳奇(普)</desc>
+  </programme>
+  <programme start="20260222163000 +0800" stop="20260222170000 +0800" channel="民視新聞台">
+    <title lang="chi">AI浪潮-黃仁勳旋風(普)</title>
+    <desc lang="chi">AI浪潮-黃仁勳旋風(普)</desc>
+  </programme>
+  <programme start="20260222170000 +0800" stop="20260222175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260222175500 +0800" stop="20260222184500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260222184500 +0800" stop="20260222195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260222195500 +0800" stop="20260222210000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣演義(普)</title>
+    <desc lang="chi">台灣演義(普)</desc>
+  </programme>
+  <programme start="20260222210000 +0800" stop="20260222223000 +0800" channel="民視新聞台">
+    <title lang="chi">挑戰新聞(普)</title>
+    <desc lang="chi">挑戰新聞(普)</desc>
+  </programme>
+  <programme start="20260222223000 +0800" stop="20260222233000 +0800" channel="民視新聞台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260222233000 +0800" stop="20260223003000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260223003000 +0800" stop="20260223013000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣演義(普)</title>
+    <desc lang="chi">台灣演義(普)</desc>
+  </programme>
+  <programme start="20260223013000 +0800" stop="20260223020000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260223020000 +0800" stop="20260223030000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260223030000 +0800" stop="20260223040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260223040000 +0800" stop="20260223050000 +0800" channel="民視新聞台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260223050000 +0800" stop="20260223060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260223060000 +0800" stop="20260223070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260223070000 +0800" stop="20260223080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260223080000 +0800" stop="20260223083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260223083000 +0800" stop="20260223090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260223090000 +0800" stop="20260223100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260223100000 +0800" stop="20260223110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260223110000 +0800" stop="20260223115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260223115000 +0800" stop="20260223135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260223135000 +0800" stop="20260223160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260223160000 +0800" stop="20260223163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260223163000 +0800" stop="20260223170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260223170000 +0800" stop="20260223175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260223175500 +0800" stop="20260223182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260223182500 +0800" stop="20260223195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260223195500 +0800" stop="20260223204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260223204000 +0800" stop="20260223215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260223215500 +0800" stop="20260223230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260223230000 +0800" stop="20260224000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260224000000 +0800" stop="20260224010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260224010000 +0800" stop="20260224013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260224013000 +0800" stop="20260224023000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣看世界(普)</title>
+    <desc lang="chi">台灣看世界(普)</desc>
+  </programme>
+  <programme start="20260224023000 +0800" stop="20260224033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260224033000 +0800" stop="20260224041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260224041500 +0800" stop="20260224053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260224053000 +0800" stop="20260224060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260224060000 +0800" stop="20260224070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260224070000 +0800" stop="20260224080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260224080000 +0800" stop="20260224083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260224083000 +0800" stop="20260224090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260224090000 +0800" stop="20260224100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260224100000 +0800" stop="20260224110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260224110000 +0800" stop="20260224115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260224115000 +0800" stop="20260224135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260224135000 +0800" stop="20260224160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260224160000 +0800" stop="20260224163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260224163000 +0800" stop="20260224170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260224170000 +0800" stop="20260224175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260224175500 +0800" stop="20260224182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260224182500 +0800" stop="20260224195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260224195500 +0800" stop="20260224204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260224204000 +0800" stop="20260224215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260224215500 +0800" stop="20260224230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260224230000 +0800" stop="20260225000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260225000000 +0800" stop="20260225010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260225010000 +0800" stop="20260225013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260225013000 +0800" stop="20260225023000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣看世界(普)</title>
+    <desc lang="chi">台灣看世界(普)</desc>
+  </programme>
+  <programme start="20260225023000 +0800" stop="20260225033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260225033000 +0800" stop="20260225041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260225041500 +0800" stop="20260225053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260226115000 +0800" stop="20260226135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260226135000 +0800" stop="20260226160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260226163000 +0800" stop="20260226170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260226175500 +0800" stop="20260226182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260226182500 +0800" stop="20260226195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260226195500 +0800" stop="20260226204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260226204000 +0800" stop="20260226215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260226215500 +0800" stop="20260226230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260226230000 +0800" stop="20260227000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260227000000 +0800" stop="20260227010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260227010000 +0800" stop="20260227013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260227013000 +0800" stop="20260227023000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣看世界(普)</title>
+    <desc lang="chi">台灣看世界(普)</desc>
+  </programme>
+  <programme start="20260227023000 +0800" stop="20260227033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260227033000 +0800" stop="20260227041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260227041500 +0800" stop="20260227053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260227053000 +0800" stop="20260227060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260227060000 +0800" stop="20260227070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260227070000 +0800" stop="20260227080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260227080000 +0800" stop="20260227083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260227083000 +0800" stop="20260227090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260227090000 +0800" stop="20260227100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260227100000 +0800" stop="20260227110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260227110000 +0800" stop="20260227115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260227115000 +0800" stop="20260227135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260227135000 +0800" stop="20260227160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260227160000 +0800" stop="20260227163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260227163000 +0800" stop="20260227170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260227170000 +0800" stop="20260227175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260227175500 +0800" stop="20260227182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260227182500 +0800" stop="20260227195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260227195500 +0800" stop="20260227204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260227204000 +0800" stop="20260227215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260227215500 +0800" stop="20260227230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260227230000 +0800" stop="20260228000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260228000000 +0800" stop="20260228010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260228010000 +0800" stop="20260228013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260228013000 +0800" stop="20260228023000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣看世界(普)</title>
+    <desc lang="chi">台灣看世界(普)</desc>
+  </programme>
+  <programme start="20260228023000 +0800" stop="20260228033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260228033000 +0800" stop="20260228041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260228041500 +0800" stop="20260228053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260228053000 +0800" stop="20260228060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260228060000 +0800" stop="20260228070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260228070000 +0800" stop="20260228080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260228080000 +0800" stop="20260228083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260228083000 +0800" stop="20260228090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260228090000 +0800" stop="20260228100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260228100000 +0800" stop="20260228110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點新聞(普)</title>
+    <desc lang="chi">民視十點新聞(普)</desc>
+  </programme>
+  <programme start="20260228110000 +0800" stop="20260228115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260228115000 +0800" stop="20260228135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260228135000 +0800" stop="20260228160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260228160000 +0800" stop="20260228170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260228170000 +0800" stop="20260228174500 +0800" channel="民視新聞台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260228174500 +0800" stop="20260228175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞搶先報(普)</title>
+    <desc lang="chi">民視晚間新聞搶先報(普)</desc>
+  </programme>
+  <programme start="20260228175500 +0800" stop="20260228182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260228182500 +0800" stop="20260228195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260228195500 +0800" stop="20260228215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260228215500 +0800" stop="20260228225500 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260228225500 +0800" stop="20260228235500 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260228235500 +0800" stop="20260301020000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260301020000 +0800" stop="20260301030000 +0800" channel="民視新聞台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260301030000 +0800" stop="20260301040000 +0800" channel="民視新聞台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260301040000 +0800" stop="20260301060000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260302110000 +0800" stop="20260302115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260302115000 +0800" stop="20260302135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260302135000 +0800" stop="20260302160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260302160000 +0800" stop="20260302163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260302163000 +0800" stop="20260302170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260302170000 +0800" stop="20260302175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260302175500 +0800" stop="20260302182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260302182500 +0800" stop="20260302195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260302195500 +0800" stop="20260302204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260302204000 +0800" stop="20260302215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260302215500 +0800" stop="20260302230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260302230000 +0800" stop="20260303000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260303000000 +0800" stop="20260303010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260303010000 +0800" stop="20260303013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260303013000 +0800" stop="20260303023000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣看世界(普)</title>
+    <desc lang="chi">台灣看世界(普)</desc>
+  </programme>
+  <programme start="20260303023000 +0800" stop="20260303033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260303033000 +0800" stop="20260303041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260303041500 +0800" stop="20260303053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260303053000 +0800" stop="20260303060000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260303060000 +0800" stop="20260303070000 +0800" channel="民視新聞台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260303070000 +0800" stop="20260303080000 +0800" channel="民視新聞台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260303080000 +0800" stop="20260303083000 +0800" channel="民視新聞台">
+    <title lang="chi">民視八點晨間新聞(普)</title>
+    <desc lang="chi">民視八點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260303083000 +0800" stop="20260303090000 +0800" channel="民視新聞台">
+    <title lang="chi">國際早報(普)</title>
+    <desc lang="chi">國際早報(普)</desc>
+  </programme>
+  <programme start="20260303090000 +0800" stop="20260303100000 +0800" channel="民視新聞台">
+    <title lang="chi">民視九點新聞(普)</title>
+    <desc lang="chi">民視九點新聞(普)</desc>
+  </programme>
+  <programme start="20260303100000 +0800" stop="20260303110000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十點台語新聞(普)</title>
+    <desc lang="chi">民視十點台語新聞(普)</desc>
+  </programme>
+  <programme start="20260303110000 +0800" stop="20260303115000 +0800" channel="民視新聞台">
+    <title lang="chi">民視十一點新聞(普)</title>
+    <desc lang="chi">民視十一點新聞(普)</desc>
+  </programme>
+  <programme start="20260303115000 +0800" stop="20260303135000 +0800" channel="民視新聞台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260303135000 +0800" stop="20260303160000 +0800" channel="民視新聞台">
+    <title lang="chi">頭家來開講(普)</title>
+    <desc lang="chi">頭家來開講(普)</desc>
+  </programme>
+  <programme start="20260303160000 +0800" stop="20260303163000 +0800" channel="民視新聞台">
+    <title lang="chi">民視四點新聞(普)</title>
+    <desc lang="chi">民視四點新聞(普)</desc>
+  </programme>
+  <programme start="20260303163000 +0800" stop="20260303170000 +0800" channel="民視新聞台">
+    <title lang="chi">民視國際新聞(普)</title>
+    <desc lang="chi">民視國際新聞(普)</desc>
+  </programme>
+  <programme start="20260303170000 +0800" stop="20260303175500 +0800" channel="民視新聞台">
+    <title lang="chi">民視五點新聞(普)</title>
+    <desc lang="chi">民視五點新聞(普)</desc>
+  </programme>
+  <programme start="20260303175500 +0800" stop="20260303182500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260303182500 +0800" stop="20260303195500 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260303195500 +0800" stop="20260303204000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260303204000 +0800" stop="20260303215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260303215500 +0800" stop="20260303230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260303230000 +0800" stop="20260304000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260304000000 +0800" stop="20260304010000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+  <programme start="20260304010000 +0800" stop="20260304013000 +0800" channel="民視新聞台">
+    <title lang="chi">民視英語新聞(普)</title>
+    <desc lang="chi">民視英語新聞(普)</desc>
+  </programme>
+  <programme start="20260304013000 +0800" stop="20260304023000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣看世界(普)</title>
+    <desc lang="chi">台灣看世界(普)</desc>
+  </programme>
+  <programme start="20260304023000 +0800" stop="20260304033000 +0800" channel="民視新聞台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260304033000 +0800" stop="20260304041500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260304041500 +0800" stop="20260304053000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260304204000 +0800" stop="20260304215500 +0800" channel="民視新聞台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260304215500 +0800" stop="20260304230000 +0800" channel="民視新聞台">
+    <title lang="chi">台灣向前行(普)</title>
+    <desc lang="chi">台灣向前行(普)</desc>
+  </programme>
+  <programme start="20260304230000 +0800" stop="20260305000000 +0800" channel="民視新聞台">
+    <title lang="chi">民視夜線新聞(普)</title>
+    <desc lang="chi">民視夜線新聞(普)</desc>
+  </programme>
+</tv>

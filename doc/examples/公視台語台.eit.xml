@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="公視台語台">
+    <display-name>公視台語台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="公視台語台">
+    <title lang="chi">聖俠白雲生 (普)</title>
+    <desc lang="chi">第 16 集千年魔尊重現武林，並前往佛門聖地一會釋空梵，兩人各自清楚對方的狀況，雖沒有決戰，但大戰已是難免。 .....</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="公視台語台">
+    <title lang="chi">早起新聞 (普)</title>
+    <desc lang="chi">第 30 集</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1364 集</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 11 集</desc>
+  </programme>
+  <programme start="20260211120000 +0800" stop="20260211130000 +0800" channel="公視台語台">
+    <title lang="chi">中晝新聞 (普)</title>
+    <desc lang="chi">第 30 集</desc>
+  </programme>
+  <programme start="20260211130000 +0800" stop="20260211135500 +0800" channel="公視台語台">
+    <title lang="chi">春梅 (普)</title>
+    <desc lang="chi">第 54 集#54　　1959年，俊彥來到日本參加亞洲醫學研討會，順道向小野打探宮本的消息，然而卻只得到宮本早.....</desc>
+  </programme>
+  <programme start="20260211135500 +0800" stop="20260211140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 400 集世界巨星「士林狄翁」潘若迪 開場先為自己的台語道歉？舞團「築夢者」帶上熱騰騰的18歲世界冠軍 大.....</desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="公視台語台">
+    <title lang="chi">文學跳曼波 (普)</title>
+    <desc lang="chi">第 16 集</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 43 集那是誰啊？真厲害，光是靠模仿就能招攬客人讓生意好得不得了，不過三松屋推出的卡片蓋章集點大放送也不是蓋.....</desc>
+  </programme>
+  <programme start="20260211173000 +0800" stop="20260211180000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 276 集參賽者：明星隊(新北市三重區二重國小)遊戲：啥物攏好耍(杯墊)、有話做你講、選你無毋著船.....</desc>
+  </programme>
+  <programme start="20260211180000 +0800" stop="20260211190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 12 集</desc>
+  </programme>
+  <programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 42 集</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 401 集張峰奇被讚120分好爸爸！八點檔不是演假的 李亮瑾賽前嗆聲好兇 除了棒球 這項運動也曾代表台灣登.....</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="公視台語台">
+    <title lang="chi">幸福好厝邊 (普)</title>
+    <desc lang="chi">第 61 集</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1365 集</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260211233000 +0800" channel="公視台語台">
+    <title lang="chi">新聞世界通 (普)</title>
+    <desc lang="chi">第 30 集</desc>
+  </programme>
+  <programme start="20260211233000 +0800" stop="20260212003000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 401 集張峰奇被讚120分好爸爸！八點檔不是演假的 李亮瑾賽前嗆聲好兇 除了棒球 這項運動也曾代表台灣登.....</desc>
+  </programme>
+  <programme start="20260212003000 +0800" stop="20260212010000 +0800" channel="公視台語台">
+    <title lang="chi">新聞世界通 (普)</title>
+    <desc lang="chi">第 30 集</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1365 集</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 276 集參賽者：明星隊(新北市三重區二重國小)遊戲：啥物攏好耍(杯墊)、有話做你講、選你無毋著船.....</desc>
+  </programme>
+  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 43 集那是誰啊？真厲害，光是靠模仿就能招攬客人讓生意好得不得了，不過三松屋推出的卡片蓋章集點大放送也不是蓋.....</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="公視台語台">
+    <title lang="chi">幸福好厝邊 (普)</title>
+    <desc lang="chi">第 61 集</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="公視台語台">
+    <title lang="chi">聖俠白雲生 (普)</title>
+    <desc lang="chi">第 17 集武林決鬥坪，武林決鬥坪，今日萬教眾人齊集，要觀視聖教教主一代聖君武帝  與萬毒派之主萬毒天王的決戰，.....</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="公視台語台">
+    <title lang="chi">早起新聞 (普)</title>
+    <desc lang="chi">第 31 集</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212110000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1365 集</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 12 集</desc>
+  </programme>
+  <programme start="20260212120000 +0800" stop="20260212130000 +0800" channel="公視台語台">
+    <title lang="chi">中晝新聞 (普)</title>
+    <desc lang="chi">第 31 集</desc>
+  </programme>
+  <programme start="20260212130000 +0800" stop="20260212135500 +0800" channel="公視台語台">
+    <title lang="chi">阿叔 (普)</title>
+    <desc lang="chi">第 1 集嘉義正興堂木業的木工師傅王文欽，獨力扶養失蹤兄長的兩個孩子家倫、怡雯成長，他把姪子當親生子女照顧，期.....</desc>
+  </programme>
+  <programme start="20260212135500 +0800" stop="20260212140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212150000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 401 集張峰奇被讚120分好爸爸！八點檔不是演假的 李亮瑾賽前嗆聲好兇 除了棒球 這項運動也曾代表台灣登.....</desc>
+  </programme>
+  <programme start="20260212150000 +0800" stop="20260212160000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212170000 +0800" channel="公視台語台">
+    <title lang="chi">幸福好厝邊 (普)</title>
+    <desc lang="chi">第 61 集</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 44 集那件衣服真酷耶，媽媽如果不要就給我好啦，人家要穿那件衣服跟爸爸一起去阿拉斯加，正好適合在大自然中穿上.....</desc>
+  </programme>
+  <programme start="20260212173000 +0800" stop="20260212174500 +0800" channel="公視台語台">
+    <title lang="chi">趖來趖去3隻蟲 (普)</title>
+    <desc lang="chi">第 3 集夏天的空氣裡，樹上傳來熟悉的聲音——阿廷帶著崴崴、阿岳和亮曦仔細一聽，是蟬在唱歌！他們觀察蟬的叫.....</desc>
+  </programme>
+  <programme start="20260212174500 +0800" stop="20260212180000 +0800" channel="公視台語台">
+    <title lang="chi">趖來趖去3隻蟲 (普)</title>
+    <desc lang="chi">第 4 集不只是森林，溪流裡也藏著好多熱鬧的小生命。這一集，阿廷帶著阿和、阿平和阿弟，親手做出水桶鏡和蝦籠.....</desc>
+  </programme>
+  <programme start="20260212180000 +0800" stop="20260212190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260212190000 +0800" stop="20260212200000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 43 集</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212210000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="公視台語台">
+    <title lang="chi">奔馳世界絕景鐵道(台語版) (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1366 集</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260212233000 +0800" channel="公視台語台">
+    <title lang="chi">新聞世界通 (普)</title>
+    <desc lang="chi">第 31 集</desc>
+  </programme>
+  <programme start="20260212233000 +0800" stop="20260213003000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260213003000 +0800" stop="20260213010000 +0800" channel="公視台語台">
+    <title lang="chi">新聞世界通 (普)</title>
+    <desc lang="chi">第 31 集</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1366 集</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213061500 +0800" channel="公視台語台">
+    <title lang="chi">趖來趖去3隻蟲 (普)</title>
+    <desc lang="chi">第 3 集夏天的空氣裡，樹上傳來熟悉的聲音——阿廷帶著崴崴、阿岳和亮曦仔細一聽，是蟬在唱歌！他們觀察蟬的叫.....</desc>
+  </programme>
+  <programme start="20260213061500 +0800" stop="20260213063000 +0800" channel="公視台語台">
+    <title lang="chi">趖來趖去3隻蟲 (普)</title>
+    <desc lang="chi">第 4 集不只是森林，溪流裡也藏著好多熱鬧的小生命。這一集，阿廷帶著阿和、阿平和阿弟，親手做出水桶鏡和蝦籠.....</desc>
+  </programme>
+  <programme start="20260213063000 +0800" stop="20260213070000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 44 集那件衣服真酷耶，媽媽如果不要就給我好啦，人家要穿那件衣服跟爸爸一起去阿拉斯加，正好適合在大自然中穿上.....</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="公視台語台">
+    <title lang="chi">奔馳世界絕景鐵道(台語版) (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="公視台語台">
+    <title lang="chi">聖俠白雲生 (普)</title>
+    <desc lang="chi">第 18 集萬毒天王用陰謀指使聖教副教主玉玨璺，在聖教主一代聖君武帝的茶水下毒  武帝王在全然不知的情形下，仍然.....</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="公視台語台">
+    <title lang="chi">早起新聞 (普)</title>
+    <desc lang="chi">第 32 集</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="公視台語台">
+    <title lang="chi">台灣新眼界 (普)</title>
+    <desc lang="chi">第 1366 集</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260213120000 +0800" stop="20260213130000 +0800" channel="公視台語台">
+    <title lang="chi">中晝新聞 (普)</title>
+    <desc lang="chi">第 32 集</desc>
+  </programme>
+  <programme start="20260213130000 +0800" stop="20260213135500 +0800" channel="公視台語台">
+    <title lang="chi">阿叔 (普)</title>
+    <desc lang="chi">第 2 集在竹科當工程師的家倫自認為是天之驕子感情、事業兩得意，然而卻莫名其妙無法控制起自己的身體，懷疑起自己.....</desc>
+  </programme>
+  <programme start="20260213135500 +0800" stop="20260213140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 15 集</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213150000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213160000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213170000 +0800" channel="公視台語台">
+    <title lang="chi">奔馳世界絕景鐵道(台語版) (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 45 集跟大人玩鬼抓人和捉迷藏，怎麼樣才能贏咧？體育課上傳接球，說不定吐司邊戰術能派上用場喔，那就是低調的閃.....</desc>
+  </programme>
+  <programme start="20260213173000 +0800" stop="20260213180000 +0800" channel="公視台語台">
+    <title lang="chi">阿猴出任務 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260213180000 +0800" stop="20260213190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260213190000 +0800" stop="20260213200000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 44 集</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213210000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 174 集</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="公視台語台">
+    <title lang="chi">無事坐巴士 (普)</title>
+    <desc lang="chi">第 179 集【#179 巴士去???-1】台東/大武,太麻里,東河,長濱,花蓮/玉里路線：巴士專車題材類型：.....</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="公視台語台">
+    <title lang="chi">文化相放伴 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260213233000 +0800" channel="公視台語台">
+    <title lang="chi">新聞世界通 (普)</title>
+    <desc lang="chi">第 32 集</desc>
+  </programme>
+  <programme start="20260213233000 +0800" stop="20260214003000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 174 集</desc>
+  </programme>
+  <programme start="20260214003000 +0800" stop="20260214010000 +0800" channel="公視台語台">
+    <title lang="chi">新聞世界通 (普)</title>
+    <desc lang="chi">第 32 集</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="公視台語台">
+    <title lang="chi">文化相放伴 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214061500 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 17 集原114Leaf it Alone藍精靈果賈不妙讓毛毛蟲吃光藍精靈果，想要引誘藍色小精靈到他的.....</desc>
+  </programme>
+  <programme start="20260214061500 +0800" stop="20260214063000 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 18 集原113The Makeover時尚改造小自戀和裁縫大師為了替藍色小精靈設計出新服裝而意見不合.....</desc>
+  </programme>
+  <programme start="20260214063000 +0800" stop="20260214070000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 45 集跟大人玩鬼抓人和捉迷藏，怎麼樣才能贏咧？體育課上傳接球，說不定吐司邊戰術能派上用場喔，那就是低調的閃.....</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="公視台語台">
+    <title lang="chi">文化相放伴 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214090000 +0800" channel="公視台語台">
+    <title lang="chi">文化新台灣 (普)</title>
+    <desc lang="chi">第 13 集</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214120000 +0800" channel="公視台語台">
+    <title lang="chi">相看儼然 (普)</title>
+    <desc lang="chi">「若相逢是沉淪，不如兩個人分離。」一份情緣，纏繞兩人三生三世。本作從張曼娟文學作品〈儼然記〉進行編創.....</desc>
+  </programme>
+  <programme start="20260214120000 +0800" stop="20260214123000 +0800" channel="公視台語台">
+    <title lang="chi">新聞看南方 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260214123000 +0800" stop="20260214130000 +0800" channel="公視台語台">
+    <title lang="chi">半點鐘 講人生 (普)</title>
+    <desc lang="chi">第 9 集劉秀庭 歌仔戲編劇家 臺中人，就讀臺大哲學系期間，師承歌仔戲國寶廖瓊枝老師。著有《台灣第一苦旦—廖.....</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214140000 +0800" channel="公視台語台">
+    <title lang="chi">人生只租不賣 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260214140000 +0800" stop="20260214150000 +0800" channel="公視台語台">
+    <title lang="chi">人生只租不賣 (普)</title>
+    <desc lang="chi">第 10 集</desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214153000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260214153000 +0800" stop="20260214160000 +0800" channel="公視台語台">
+    <title lang="chi">台灣記事簿 (普)</title>
+    <desc lang="chi">第 331 集樂齡非洲鼓舞團！打出精彩人生下半場【人生後半場 拍出性命新節奏】2026.02.08 台灣記事簿 第.....</desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214170000 +0800" channel="公視台語台">
+    <title lang="chi">廣告START (普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214171500 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 19 集原127The Pluffs ! - Part 1灰色小精靈 - 上集小聰明和盛開小精靈在暴風.....</desc>
+  </programme>
+  <programme start="20260214171500 +0800" stop="20260214173000 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 20 集原128The Pluffs ! - Part 2灰色小精靈 - 下集小聰明和盛開小精靈在暴風.....</desc>
+  </programme>
+  <programme start="20260214173000 +0800" stop="20260214174500 +0800" channel="公視台語台">
+    <title lang="chi">穎仔穎仔育 (普)</title>
+    <desc lang="chi">第 45 集串頭 牧謙-藏寶圖偶外景 鐵窗花工場認知外景 來去馬戲團耍MV-動畫 摒掃Party外景 古.....</desc>
+  </programme>
+  <programme start="20260214174500 +0800" stop="20260214180000 +0800" channel="公視台語台">
+    <title lang="chi">穎仔穎仔育 (普)</title>
+    <desc lang="chi">第 46 集串頭 阿穹-喜歡的動物偶外景 動物園的灶跤認知外景 阿佳_大姑做e衫MV-動畫 團圓好過年外.....</desc>
+  </programme>
+  <programme start="20260214180000 +0800" stop="20260214190000 +0800" channel="公視台語台">
+    <title lang="chi">無事坐巴士 (普)</title>
+    <desc lang="chi">第 179 集【#179 巴士去???-1】台東/大武,太麻里,東河,長濱,花蓮/玉里路線：巴士專車題材類型：.....</desc>
+  </programme>
+  <programme start="20260214190000 +0800" stop="20260214193000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 45 集</desc>
+  </programme>
+  <programme start="20260214193000 +0800" stop="20260214200000 +0800" channel="公視台語台">
+    <title lang="chi">青春 咱的夢 (普)</title>
+    <desc lang="chi">第 278 集在濃厚的香火煙霧中，傳統廟宇的性別界線曾經如同神龕前的門檻，不可輕易跨越。在傳統觀念裡女子不能碰神轎.....</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214220000 +0800" channel="公視台語台">
+    <title lang="chi">行!鬥陣出國去! (普)</title>
+    <desc lang="chi">第 11 集在越南打拚台灣人：強尼 (youtuber)*胡志明市大劇院前高唱節目名稱，與在地台灣人相遇。.....</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214230000 +0800" channel="公視台語台">
+    <title lang="chi">霹靂兵燹之刀戟戡魔錄 (普)</title>
+    <desc lang="chi">第 35 集公開亭之上，慕少艾以魔心為交易，一換傲笑紅塵，但四周魔君重重包圍，情勢險之又險，而在遠處高峰之上，白.....</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260215004000 +0800" channel="公視台語台">
+    <title lang="chi">台北發的早車 (數位修復-台文字幕版) (護)</title>
+    <desc lang="chi">片名：台北發的早車導演：梁哲夫  片長：約97分鐘1964年出品《台北發的早車》(Earl.....</desc>
+  </programme>
+  <programme start="20260215004000 +0800" stop="20260215010000 +0800" channel="公視台語台">
+    <title lang="chi">健康好厝邊 (普)</title>
+    <desc lang="chi">第 5 集皮膚醫生來開講，痘痘不再來。青春期是身體發育的關鍵時期，許多青少年飽受痘痘困擾。本集節目邀請到沈孟暵.....</desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215020000 +0800" channel="公視台語台">
+    <title lang="chi">戀戀火金姑 (普)</title>
+    <desc lang="chi">本片以水生螢火蟲－黃緣螢的生活史為拍攝主題，透過台北縣石門鄉老梅村黃天機及其梯田為拍攝場景，環境中豐.....</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215061500 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 19 集原127The Pluffs ! - Part 1灰色小精靈 - 上集小聰明和盛開小精靈在暴風.....</desc>
+  </programme>
+  <programme start="20260215061500 +0800" stop="20260215063000 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 20 集原128The Pluffs ! - Part 2灰色小精靈 - 下集小聰明和盛開小精靈在暴風.....</desc>
+  </programme>
+  <programme start="20260215063000 +0800" stop="20260215070000 +0800" channel="公視台語台">
+    <title lang="chi">阿猴出任務 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215073000 +0800" channel="公視台語台">
+    <title lang="chi">青春 咱的夢 (普)</title>
+    <desc lang="chi">第 278 集在濃厚的香火煙霧中，傳統廟宇的性別界線曾經如同神龕前的門檻，不可輕易跨越。在傳統觀念裡女子不能碰神轎.....</desc>
+  </programme>
+  <programme start="20260215073000 +0800" stop="20260215080000 +0800" channel="公視台語台">
+    <title lang="chi">新聞看南方 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215090000 +0800" channel="公視台語台">
+    <title lang="chi">文化新台灣 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215113000 +0800" channel="公視台語台">
+    <title lang="chi">牽阮的手 (護)</title>
+    <desc lang="chi">《牽阮的手》是紀錄片《無米樂》導演顏蘭權、莊益增兩位投入四年考據、拍攝，之後又花了一年奔走所推出的紀.....</desc>
+  </programme>
+  <programme start="20260215113000 +0800" stop="20260215120000 +0800" channel="公視台語台">
+    <title lang="chi">阿里山百年記憶 (普)</title>
+  </programme>
+  <programme start="20260215120000 +0800" stop="20260215123000 +0800" channel="公視台語台">
+    <title lang="chi">公民,咱的新聞 (普)</title>
+    <desc lang="chi">第 89 集</desc>
+  </programme>
+  <programme start="20260215123000 +0800" stop="20260215130000 +0800" channel="公視台語台">
+    <title lang="chi">半點鐘 講人生 (普)</title>
+    <desc lang="chi">第 10 集劉怡琪  職棒啦啦隊管理來自高雄的劉怡琪，現任味全龍啦啦隊管理。國中時因母親離世，身為長女的她努力.....</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215150000 +0800" channel="公視台語台">
+    <title lang="chi">行!鬥陣出國去! (普)</title>
+    <desc lang="chi">第 11 集在越南打拚台灣人：強尼 (youtuber)*胡志明市大劇院前高唱節目名稱，與在地台灣人相遇。.....</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215153000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 46 集</desc>
+  </programme>
+  <programme start="20260215153000 +0800" stop="20260215160000 +0800" channel="公視台語台">
+    <title lang="chi">青春 咱的夢 (普)</title>
+    <desc lang="chi">第 278 集在濃厚的香火煙霧中，傳統廟宇的性別界線曾經如同神龕前的門檻，不可輕易跨越。在傳統觀念裡女子不能碰神轎.....</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="公視台語台">
+    <title lang="chi">霹靂兵燹之刀戟戡魔錄 (普)</title>
+    <desc lang="chi">第 35 集公開亭之上，慕少艾以魔心為交易，一換傲笑紅塵，但四周魔君重重包圍，情勢險之又險，而在遠處高峰之上，白.....</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215171500 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 21 集原111The Majestic 5神奇五人組精靈老爹主持特殊投票，選出緊急救援小組，提防賈不.....</desc>
+  </programme>
+  <programme start="20260215171500 +0800" stop="20260215173000 +0800" channel="公視台語台">
+    <title lang="chi">藍色小精靈 (普)</title>
+    <desc lang="chi">第 22 集原108Kitchen Klutz廚房助手小笨蛋救了小廚師一命後，他提出想要擔任小廚師的副主廚.....</desc>
+  </programme>
+  <programme start="20260215173000 +0800" stop="20260215174500 +0800" channel="公視台語台">
+    <title lang="chi">穎仔穎仔育 (普)</title>
+    <desc lang="chi">第 43 集偶外景 牛的厝認知外景 芊蓓＿美國e厝MV-動畫 洗手歌外景 &quot;PIZZA 家己做，家己食&quot;.....</desc>
+  </programme>
+  <programme start="20260215174500 +0800" stop="20260215180000 +0800" channel="公視台語台">
+    <title lang="chi">穎仔穎仔育 (普)</title>
+    <desc lang="chi">第 44 集偶外景 公車休睏的所在認知外景 yy_波士頓挽蘋果MV-動畫 蘋果面外景 共阿公阿媽鬥跤手.....</desc>
+  </programme>
+  <programme start="20260215180000 +0800" stop="20260215190000 +0800" channel="公視台語台">
+    <title lang="chi">廣告START (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260215190000 +0800" stop="20260215193000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 46 集</desc>
+  </programme>
+  <programme start="20260215193000 +0800" stop="20260215200000 +0800" channel="公視台語台">
+    <title lang="chi">台灣記事簿 (普)</title>
+    <desc lang="chi">第 332 集異鄉中的故鄉！飄洋過海台灣話【石垣島 台灣人台灣話】2025.09.28 台灣記事簿 第312集二.....</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="公視台語台">
+    <title lang="chi">人生只租不賣 (普)</title>
+    <desc lang="chi">第 11 集</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="公視台語台">
+    <title lang="chi">人生只租不賣 (普)</title>
+    <desc lang="chi">第 12 集</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215223000 +0800" channel="公視台語台">
+    <title lang="chi">人生只租不賣幕後紀實 (普)</title>
+  </programme>
+  <programme start="20260215223000 +0800" stop="20260216010000 +0800" channel="公視台語台">
+    <title lang="chi">隔壁親家 (普)</title>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216013000 +0800" channel="公視台語台">
+    <title lang="chi">公民,咱的新聞 (普)</title>
+    <desc lang="chi">第 89 集</desc>
+  </programme>
+  <programme start="20260216013000 +0800" stop="20260216020000 +0800" channel="公視台語台">
+    <title lang="chi">台灣記事簿 (普)</title>
+    <desc lang="chi">第 332 集異鄉中的故鄉！飄洋過海台灣話【石垣島 台灣人台灣話】2025.09.28 台灣記事簿 第312集二.....</desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216063000 +0800" channel="公視台語台">
+    <title lang="chi">阿猴出任務 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260216063000 +0800" stop="20260216070000 +0800" channel="公視台語台">
+    <title lang="chi">台灣記事簿 (普)</title>
+    <desc lang="chi">第 332 集異鄉中的故鄉！飄洋過海台灣話【石垣島 台灣人台灣話】2025.09.28 台灣記事簿 第312集二.....</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="公視台語台">
+    <title lang="chi">無事坐巴士 (普)</title>
+    <desc lang="chi">第 179 集【#179 巴士去???-1】台東/大武,太麻里,東河,長濱,花蓮/玉里路線：巴士專車題材類型：.....</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216100000 +0800" channel="公視台語台">
+    <title lang="chi">神戲 (普)</title>
+    <desc lang="chi">漂流的命運成為她的傳奇人生，十年越南清化放牛的小孩，十年河內馬戲團高空特技明星，十年嘉義野台戲班當家.....</desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="公視台語台">
+    <title lang="chi">文化相放伴 (普)</title>
+    <desc lang="chi">第 173 集</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 14 集</desc>
+  </programme>
+  <programme start="20260216120000 +0800" stop="20260216130000 +0800" channel="公視台語台">
+    <title lang="chi">光榮島轉來PLUS (普)</title>
+    <desc lang="chi">第 2 集為了大兒子彭Q的健康，而前來挑戰的郭婷筠一家，能夠靠老公彭正敏捷的反應能力，完成也是遊戲挑戰，拿走.....</desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216135500 +0800" channel="公視台語台">
+    <title lang="chi">阿叔 (普)</title>
+    <desc lang="chi">第 3 集家倫無端起乩，搞得工作與感情一團混亂，瞎忙一通後才搞清楚，降臨在他身上的竟然是濟公！文化部專員欲認.....</desc>
+  </programme>
+  <programme start="20260216135500 +0800" stop="20260216140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 16 集</desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 174 集</desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216153000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 47 集</desc>
+  </programme>
+  <programme start="20260216153000 +0800" stop="20260216160000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 6 集傳唱近半世紀的台語囡仔歌(童謠)〈點仔膠〉、〈大箍呆〉和〈羞羞羞〉，這些你我都能能琅琅上口的台語歌曲.....</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216170000 +0800" channel="公視台語台">
+    <title lang="chi">無事坐巴士 (普)</title>
+    <desc lang="chi">第 179 集【#179 巴士去???-1】台東/大武,太麻里,東河,長濱,花蓮/玉里路線：巴士專車題材類型：.....</desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 46 集最近運氣好像不太好耶，不知道這附近有沒有像石頭一樣轉啊轉就能帶來好運的地方，要是有人帶路，人家一定會.....</desc>
+  </programme>
+  <programme start="20260216173000 +0800" stop="20260216180000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 277 集參賽者：碇內腳數好隊(基隆市暖暖區碇內國小)遊戲：佮我做伙徙、有話做你講、啥人無?款除夕.....</desc>
+  </programme>
+  <programme start="20260216180000 +0800" stop="20260216190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 15 集</desc>
+  </programme>
+  <programme start="20260216190000 +0800" stop="20260216193000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 47 集</desc>
+  </programme>
+  <programme start="20260216193000 +0800" stop="20260216200000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 1 集《老先仔講透機》用口述歷史的方式，紀錄十個人間國寶非凡的生命歷程，一起來認識這位宋江陣武術國寶大師－.....</desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260217000000 +0800" channel="公視台語台">
+    <title lang="chi">2026 WE ARE 我們的除夕夜 (普)</title>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217003000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 1 集MISSION 26【跟蹤父親與母親吧】因〈花園〉的工作負傷的約兒，忍著疼痛回到了家中。洛伊德看到她.....</desc>
+  </programme>
+  <programme start="20260217003000 +0800" stop="20260217010000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 2 集MISSION 27【彭德的生存戰略 達米安的野外學習】#27(A) 彭德預知到危險的未來，並推測原.....</desc>
+  </programme>
+  <programme start="20260217010000 +0800" stop="20260217013000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 3 集MISSION 28【任務與家人 華麗的彭德曼 童心 鬧鐘】#28(A) 尤利努力在做著祕密警察的工.....</desc>
+  </programme>
+  <programme start="20260217013000 +0800" stop="20260217020000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 4 集MISSION 29 【智慧甜品 情報商的戀愛大作戰Ⅱ】#29(A)夢幻甜品出現在伊甸學園的學生餐廳.....</desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260217060000 +0800" stop="20260217063000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 277 集參賽者：碇內腳數好隊(基隆市暖暖區碇內國小)遊戲：佮我做伙徙、有話做你講、啥人無?款除夕.....</desc>
+  </programme>
+  <programme start="20260217063000 +0800" stop="20260217070000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 46 集最近運氣好像不太好耶，不知道這附近有沒有像石頭一樣轉啊轉就能帶來好運的地方，要是有人帶路，人家一定會.....</desc>
+  </programme>
+  <programme start="20260217070000 +0800" stop="20260217110000 +0800" channel="公視台語台">
+    <title lang="chi">2026 WE ARE 我們的除夕夜 (普)</title>
+  </programme>
+  <programme start="20260217110000 +0800" stop="20260217120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 15 集</desc>
+  </programme>
+  <programme start="20260217120000 +0800" stop="20260217130000 +0800" channel="公視台語台">
+    <title lang="chi">光榮島轉來PLUS (普)</title>
+    <desc lang="chi">第 7 集孟賢到底做了什麼....讓媽媽和哥哥以為家裡遭小偷?孟賢一家的遊戲挑戰滑稽又搞笑，粉絲差點炸裂攝影棚.....</desc>
+  </programme>
+  <programme start="20260217130000 +0800" stop="20260217135500 +0800" channel="公視台語台">
+    <title lang="chi">阿叔 (普)</title>
+    <desc lang="chi">第 4 集眾人轉而詢問能否讓怡雯來修清水嬸的櫃台，擲筊得到同意。在文欽的指導下，怡雯進行修復工作，卻也因為文欽.....</desc>
+  </programme>
+  <programme start="20260217135500 +0800" stop="20260217140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 17 集</desc>
+  </programme>
+  <programme start="20260217140000 +0800" stop="20260217150000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 402 集沒有血緣的關係 卻比親人還緊密《夾縫人生》四大卡司大牙、楊麗音大飆演技！金瓜石地名由來跟南瓜有關.....</desc>
+  </programme>
+  <programme start="20260217150000 +0800" stop="20260217153000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 48 集</desc>
+  </programme>
+  <programme start="20260217153000 +0800" stop="20260217160000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 7 集「恆春民謠人人愛，轟動全國通人知，這是祖先傳下來，望欲一代傳一代。」創作這首恆春民謠的陳英阿嬤。今年.....</desc>
+  </programme>
+  <programme start="20260217160000 +0800" stop="20260217170000 +0800" channel="公視台語台">
+    <title lang="chi">心 所愛的歌 (普)</title>
+    <desc lang="chi">第 94 集俞隆華自幼雖未接受過音樂科班教育，卻能自學哼唱創作詞曲。1983年間，以〈舞女〉一曲初試啼聲，從夜市.....</desc>
+  </programme>
+  <programme start="20260217170000 +0800" stop="20260217173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 47 集年子的手作拼布手提包好美喔，如果可以背那種包包出門就太美好了，說不定會有好事發生，像是遇見超帥氣的人.....</desc>
+  </programme>
+  <programme start="20260217173000 +0800" stop="20260217180000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 278 集參賽者：基隆海港隊(基隆市聖心國小)遊戲：叫阮的名(過年) 、佮我做伙徙、總講一句過年期.....</desc>
+  </programme>
+  <programme start="20260217180000 +0800" stop="20260217190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 16 集</desc>
+  </programme>
+  <programme start="20260217190000 +0800" stop="20260217193000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 48 集</desc>
+  </programme>
+  <programme start="20260217193000 +0800" stop="20260217200000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 2 集『我拍片已經69年了，我拍片有一?基本的觀念，就是愛有正能量善良的，因為電影是一?社會教育工具，袂使.....</desc>
+  </programme>
+  <programme start="20260217200000 +0800" stop="20260217210000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 403 集台語練喙花高手齊聚！阿松給浩子提示太明顯 王彩樺親自幫忙「拍痰」台灣鳳梨罐頭產銷曾創下世界第一！.....</desc>
+  </programme>
+  <programme start="20260217210000 +0800" stop="20260218000000 +0800" channel="公視台語台">
+    <title lang="chi">藍寶石大歌廳 真愛秀 (普)</title>
+    <desc lang="chi">第 2 集音樂經過無數人傳頌，成為經典。故事在時間的打磨下，匯聚成世代的記憶。藍寶石大歌廳便是如此乘載了高雄一.....</desc>
+  </programme>
+  <programme start="20260218000000 +0800" stop="20260218003000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 5 集MISSION 30【越境作戰】約兒為執行〈睡美人〉的任務，要偽裝成搭乘豪華郵輪出市政府的公差，同時.....</desc>
+  </programme>
+  <programme start="20260218003000 +0800" stop="20260218010000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 6 集MISSION 31 【戰慄的豪華郵輪】約兒搭上郵輪，在客房護衛著歐爾嘉等人。另一方面，約兒的上司馬.....</desc>
+  </programme>
+  <programme start="20260218010000 +0800" stop="20260218013000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 7 集MISSION 32 【為了誰的任務】洛伊德為了討好安妮亞，努力當個「開心且愉快的父親」並選起了伴手.....</desc>
+  </programme>
+  <programme start="20260218013000 +0800" stop="20260218020000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 8 集MISSION 33【船上的交響曲 姊姊的藥草茶】郵輪甲板在煙火秀開始前顯得熱鬧非凡，安妮亞也和洛伊.....</desc>
+  </programme>
+  <programme start="20260218020000 +0800" stop="20260218060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260218060000 +0800" stop="20260218063000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 278 集參賽者：基隆海港隊(基隆市聖心國小)遊戲：叫阮的名(過年) 、佮我做伙徙、總講一句過年期.....</desc>
+  </programme>
+  <programme start="20260218063000 +0800" stop="20260218070000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 47 集年子的手作拼布手提包好美喔，如果可以背那種包包出門就太美好了，說不定會有好事發生，像是遇見超帥氣的人.....</desc>
+  </programme>
+  <programme start="20260218070000 +0800" stop="20260218080000 +0800" channel="公視台語台">
+    <title lang="chi">文學跳曼波 (普)</title>
+    <desc lang="chi">第 1 集當現代詩遇到rap、遇到民歌、遇到合唱團可以擦出什麼樣的火花?詩人向陽13歲開始寫詩，他嘗試十行.....</desc>
+  </programme>
+  <programme start="20260218080000 +0800" stop="20260218110000 +0800" channel="公視台語台">
+    <title lang="chi">藍寶石大歌廳 真愛秀 (普)</title>
+    <desc lang="chi">第 2 集音樂經過無數人傳頌，成為經典。故事在時間的打磨下，匯聚成世代的記憶。藍寶石大歌廳便是如此乘載了高雄一.....</desc>
+  </programme>
+  <programme start="20260218110000 +0800" stop="20260218120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 16 集</desc>
+  </programme>
+  <programme start="20260218120000 +0800" stop="20260218130000 +0800" channel="公視台語台">
+    <title lang="chi">光榮島轉來PLUS (普)</title>
+    <desc lang="chi">第 9 集孩子一句「現在的爸爸是努力養家的爸爸」，讓他邊哭邊騎車！一首「鬥陣拼落去」，唱出方順吉染毒風波後東山.....</desc>
+  </programme>
+  <programme start="20260218130000 +0800" stop="20260218135500 +0800" channel="公視台語台">
+    <title lang="chi">阿叔 (普)</title>
+    <desc lang="chi">第 5 集濟公的鐵則遇到玟莉就失效了，家倫疑惑原因，也因此對玟莉產生興趣。明珠整理清水嬸遺物，閱讀其生前日記.....</desc>
+  </programme>
+  <programme start="20260218135500 +0800" stop="20260218140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 18 集</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218150000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 403 集台語練喙花高手齊聚！阿松給浩子提示太明顯 王彩樺親自幫忙「拍痰」台灣鳳梨罐頭產銷曾創下世界第一！.....</desc>
+  </programme>
+  <programme start="20260218150000 +0800" stop="20260218153000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 49 集</desc>
+  </programme>
+  <programme start="20260218153000 +0800" stop="20260218160000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 8 集『木雕這號物件佮人生的哲理是仝款的，去就是不回頭，阮刻柴，柴刻掉就補袂轉來矣。所以雕刻佮人生，攏愛留.....</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218170000 +0800" channel="公視台語台">
+    <title lang="chi">文學跳曼波 (普)</title>
+    <desc lang="chi">第 1 集當現代詩遇到rap、遇到民歌、遇到合唱團可以擦出什麼樣的火花?詩人向陽13歲開始寫詩，他嘗試十行.....</desc>
+  </programme>
+  <programme start="20260218170000 +0800" stop="20260218173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 48 集我們無意間跟一位大姐姐成為了好朋友，說不定她是來自未來的不可思議超能力者耶，你們知道嗎？小丸子現在超.....</desc>
+  </programme>
+  <programme start="20260218173000 +0800" stop="20260218180000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 279 集參賽者：土牛好客隊(臺中市石岡區土牛國小)遊戲：叫阮的名(客家文化)、啥物攏好耍(杯墊)、選你.....</desc>
+  </programme>
+  <programme start="20260218180000 +0800" stop="20260218190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 17 集</desc>
+  </programme>
+  <programme start="20260218190000 +0800" stop="20260218193000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 49 集</desc>
+  </programme>
+  <programme start="20260218193000 +0800" stop="20260218200000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 3 集『我是全心、閒的時陣，就是佇咧整理劇本，整理袂完啦！劇本保存的工課，會感覺這是一?使命感，我真感謝這.....</desc>
+  </programme>
+  <programme start="20260218200000 +0800" stop="20260218210000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 404 集舒子晨攜國手老公許美中 台語程度讓全隊擔憂XD 林志遠夫妻斜槓超級房仲！「奢侈品」台語大家都唸討.....</desc>
+  </programme>
+  <programme start="20260218210000 +0800" stop="20260218220000 +0800" channel="公視台語台">
+    <title lang="chi">幸福好厝邊 (普)</title>
+    <desc lang="chi">第 62 集</desc>
+  </programme>
+  <programme start="20260218220000 +0800" stop="20260219000000 +0800" channel="公視台語台">
+    <title lang="chi">幸福路上 (普)</title>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219003000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 9 集MISSION:34【維繫未來的手】洛伊德從保安局人員的言行舉動中，得知了船上被設置炸彈的事情。他趕.....</desc>
+  </programme>
+  <programme start="20260219003000 +0800" stop="20260219010000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 10 集MISSION:35【享受度假勝地吧 炫耀休假】在殺手襲擊與炸彈騷動結束後隔天早上，郵輪抵達了度假小.....</desc>
+  </programme>
+  <programme start="20260219010000 +0800" stop="20260219013000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 11 集MISSION:36【伯林特戀曲 &quot;夜帷&quot;的日常】貝琪因為看戀愛連續劇看到情緒亢奮，為了見到自己對照.....</desc>
+  </programme>
+  <programme start="20260219013000 +0800" stop="20260219020000 +0800" channel="公視台語台">
+    <title lang="chi">間諜家家酒 第二季 (護)</title>
+    <desc lang="chi">第 12 集MISSION:37【家族的一員】彭德與洛伊德一起出外散步，牠打算阻止預知到的街頭事故結果引起騷動，.....</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+</tv>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="華視新聞資訊台">
+    <display-name>華視新聞資訊台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 276 集</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視0900整點新聞(普)</title>
+    <desc lang="chi">第 996 集</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1000新聞搶先報(普)</title>
+    <desc lang="chi">第 938 集</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211115800 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1100新聞搶先報(普)</title>
+    <desc lang="chi">第 1046 集</desc>
+  </programme>
+  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 4878 集</desc>
+  </programme>
+  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1300午間新聞(普)</title>
+    <desc lang="chi">第 1053 集</desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1400整點新聞(普)</title>
+    <desc lang="chi">第 994 集</desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1500整點新聞(普)</title>
+    <desc lang="chi">第 747 集</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211165300 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視在地新聞(普)</title>
+    <desc lang="chi">第 3414 集</desc>
+  </programme>
+  <programme start="20260211165300 +0800" stop="20260211200000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞晚報(普)</title>
+    <desc lang="chi">第 840 集</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視2000整點新聞(普)</title>
+    <desc lang="chi">第 743 集</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 710 集</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52政經點(普)</title>
+    <desc lang="chi">第 228 集</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260211235500 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3768 集</desc>
+  </programme>
+  <programme start="20260211235500 +0800" stop="20260212010000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 770 集</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 710 集</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 770 集</desc>
+  </programme>
+  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 710 集</desc>
+  </programme>
+  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 770 集</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 710 集</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 770 集</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 277 集</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 277 集</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視0900整點新聞(普)</title>
+    <desc lang="chi">第 997 集</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212110000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1000新聞搶先報(普)</title>
+    <desc lang="chi">第 939 集</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212115800 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1100新聞搶先報(普)</title>
+    <desc lang="chi">第 1047 集</desc>
+  </programme>
+  <programme start="20260212115800 +0800" stop="20260212130000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 4879 集</desc>
+  </programme>
+  <programme start="20260212130000 +0800" stop="20260212140000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1300午間新聞(普)</title>
+    <desc lang="chi">第 1054 集</desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212150000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1400整點新聞(普)</title>
+    <desc lang="chi">第 995 集</desc>
+  </programme>
+  <programme start="20260212150000 +0800" stop="20260212160000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1500整點新聞(普)</title>
+    <desc lang="chi">第 748 集</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212165300 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視在地新聞(普)</title>
+    <desc lang="chi">第 3415 集</desc>
+  </programme>
+  <programme start="20260212165300 +0800" stop="20260212200000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞晚報(普)</title>
+    <desc lang="chi">第 841 集</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212210000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視2000整點新聞(普)</title>
+    <desc lang="chi">第 744 集</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 711 集</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52政經點(普)</title>
+    <desc lang="chi">第 229 集</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260212235500 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3769 集</desc>
+  </programme>
+  <programme start="20260212235500 +0800" stop="20260213010000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 771 集</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 711 集</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213030000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 771 集</desc>
+  </programme>
+  <programme start="20260213030000 +0800" stop="20260213040000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 711 集</desc>
+  </programme>
+  <programme start="20260213040000 +0800" stop="20260213050000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 771 集</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213060000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 711 集</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 771 集</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 278 集</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 278 集</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視0900整點新聞(普)</title>
+    <desc lang="chi">第 998 集</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1000新聞搶先報(普)</title>
+    <desc lang="chi">第 940 集</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213115800 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1100新聞搶先報(普)</title>
+    <desc lang="chi">第 1048 集</desc>
+  </programme>
+  <programme start="20260213115800 +0800" stop="20260213130000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 4880 集</desc>
+  </programme>
+  <programme start="20260213130000 +0800" stop="20260213140000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1300午間新聞(普)</title>
+    <desc lang="chi">第 1055 集</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213150000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1400整點新聞(普)</title>
+    <desc lang="chi">第 996 集</desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213160000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1500整點新聞(普)</title>
+    <desc lang="chi">第 749 集</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213165300 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視在地新聞(普)</title>
+    <desc lang="chi">第 3416 集</desc>
+  </programme>
+  <programme start="20260213165300 +0800" stop="20260213200000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞晚報(普)</title>
+    <desc lang="chi">第 842 集</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213210000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視2000整點新聞(普)</title>
+    <desc lang="chi">第 745 集</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 712 集</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52政經點(普)</title>
+    <desc lang="chi">第 230 集</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260213235500 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3770 集</desc>
+  </programme>
+  <programme start="20260213235500 +0800" stop="20260214010000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 772 集</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 712 集</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214030000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 772 集</desc>
+  </programme>
+  <programme start="20260214030000 +0800" stop="20260214040000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 712 集</desc>
+  </programme>
+  <programme start="20260214040000 +0800" stop="20260214050000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 772 集</desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214060000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">World News 9(普)</title>
+    <desc lang="chi">第 712 集</desc>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214070000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 772 集</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 279 集</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214090000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 279 集</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214100000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視0900整點新聞(普)</title>
+    <desc lang="chi">第 999 集</desc>
+  </programme>
+  <programme start="20260214100000 +0800" stop="20260214110000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1000新聞搶先報(普)</title>
+    <desc lang="chi">第 941 集</desc>
+  </programme>
+  <programme start="20260214110000 +0800" stop="20260214115700 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1100新聞搶先報(普)</title>
+    <desc lang="chi">第 1049 集</desc>
+  </programme>
+  <programme start="20260214115700 +0800" stop="20260214130000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 4881 集</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214140000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1300午間新聞(普)</title>
+    <desc lang="chi">第 1056 集</desc>
+  </programme>
+  <programme start="20260214140000 +0800" stop="20260214150000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1400整點新聞(普)</title>
+    <desc lang="chi">第 997 集</desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214160000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">三國演議(普)</title>
+    <desc lang="chi">第 486 集</desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214170000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視1600整點新聞(普)</title>
+    <desc lang="chi">第 227 集</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214190000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞晚報(普)</title>
+    <desc lang="chi">第 843 集</desc>
+  </programme>
+  <programme start="20260214190000 +0800" stop="20260214200000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 4136 集</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214210000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞雜誌(普)</title>
+    <desc lang="chi">第 2496 集</desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214220000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">國際線，出發！(普)</title>
+    <desc lang="chi">第 296 集</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214223000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視2200夜間新聞(普)</title>
+    <desc lang="chi">第 474 集</desc>
+  </programme>
+  <programme start="20260214223000 +0800" stop="20260214230000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">WBC經典英雄(普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260215000000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3771 集</desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215010000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 773 集</desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215020000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3771 集</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215030000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 773 集</desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215040000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞雜誌(普)</title>
+    <desc lang="chi">第 2496 集</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215050000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 773 集</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215060000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3771 集</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215070000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 773 集</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 280 集</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215090000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 280 集</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215100000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視0900整點新聞(普)</title>
+    <desc lang="chi">第 1000 集</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215110000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1000新聞搶先報(普)</title>
+    <desc lang="chi">第 942 集</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215115900 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1100新聞搶先報(普)</title>
+    <desc lang="chi">第 1050 集</desc>
+  </programme>
+  <programme start="20260215115900 +0800" stop="20260215125500 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視午間新聞(普)</title>
+    <desc lang="chi">第 4882 集</desc>
+  </programme>
+  <programme start="20260215125500 +0800" stop="20260215140000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1300午間新聞(普)</title>
+    <desc lang="chi">第 1057 集</desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215150000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視1400整點新聞(普)</title>
+    <desc lang="chi">第 998 集</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">三國演議(普)</title>
+    <desc lang="chi">第 487 集</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215163000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">WBC經典英雄(普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260215163000 +0800" stop="20260215170000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視1600整點新聞(普)</title>
+    <desc lang="chi">第 228 集</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215190000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視新聞晚報(普)</title>
+    <desc lang="chi">第 844 集</desc>
+  </programme>
+  <programme start="20260215190000 +0800" stop="20260215200000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視晚間新聞(普)</title>
+    <desc lang="chi">第 4137 集</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">新聞高峰會(普)</title>
+    <desc lang="chi">你我牠的共存</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">國際線，出發！(普)</title>
+    <desc lang="chi">第 297 集</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215223000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Top People 封面人物(普)</title>
+    <desc lang="chi">第 63 集</desc>
+  </programme>
+  <programme start="20260215223000 +0800" stop="20260215230000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">52華視2200夜間新聞(普)</title>
+    <desc lang="chi">第 475 集</desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260216000000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3772 集</desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 774 集</desc>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216020000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3772 集</desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216030000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 774 集</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">新聞高峰會(普)</title>
+    <desc lang="chi">你我牠的共存</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 774 集</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視夜間新聞(普)</title>
+    <desc lang="chi">第 3772 集</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">華視2400夜間新聞(普)</title>
+    <desc lang="chi">第 774 集</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="華視新聞資訊台">
+    <title lang="chi">Good morning 台灣(普)</title>
+    <desc lang="chi">第 281 集</desc>
+  </programme>
+</tv>

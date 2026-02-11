@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="華視教育體育文化台">
+    <display-name>華視教育體育文化台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">大家說英語(普)</title>
+    <desc lang="chi">第 5331 集</desc>
+  </programme>
+  <programme start="20260211083000 +0800" stop="20260211085000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">素干貝白菜滷</desc>
+  </programme>
+  <programme start="20260211085000 +0800" stop="20260211090000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">甜蜜陷阱、校園裡沒說完的故事</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211093000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">風中旅者：黑面琵鷺</desc>
+  </programme>
+  <programme start="20260211093000 +0800" stop="20260211100000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-英文版(普)</title>
+    <desc lang="chi">家事服務系列~2</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211103000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">日語的發音（一）</desc>
+  </programme>
+  <programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">商用英文(二)(商專)(普)</title>
+    <desc lang="chi">SocialMedia</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211113000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">擺脫惱人的酷酷嗽</desc>
+  </programme>
+  <programme start="20260211113000 +0800" stop="20260211120000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">女性七大體質調整</desc>
+  </programme>
+  <programme start="20260211120000 +0800" stop="20260211123000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-英文版(普)</title>
+    <desc lang="chi">家事服務系列~3</desc>
+  </programme>
+  <programme start="20260211123000 +0800" stop="20260211130000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">人際關係(商專)(普)</title>
+    <desc lang="chi">協商與談判-1※課程名稱：人際關係17集本集主題：親密關係主講老師：楊慕慈學習目標：了解人際關係意義、重要性、發展、類型，並讓觀眾認識網際網路與人際關係之相關性，也在</desc>
+  </programme>
+  <programme start="20260211130000 +0800" stop="20260211133000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(二)(普)</title>
+    <desc lang="chi">我不抽菸</desc>
+  </programme>
+  <programme start="20260211133000 +0800" stop="20260211140000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">生活日語(普)</title>
+    <desc lang="chi">學習（原第八集）</desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211143000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券市場(商專)(普)</title>
+    <desc lang="chi">投資組合的分析本集主題－第１１集證券的公開發行管理學習目標－＜一＞認識市場的組織概況。＜二＞證券市場的交易工具。＜三＞證券的承銷與管理。＜四＞證券市場現況與未來發展。</desc>
+  </programme>
+  <programme start="20260211143000 +0800" stop="20260211150000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">金融市場(商專)(普)</title>
+    <desc lang="chi">資產證券化第11集:衍生性金融商品〈2〉大綱：自金融市場、貨幣市場、資本市場，及衍生性金融商品、期貨市場等，作重點提示，使同學能對各課題多方面深入了解。</desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211153000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">稅務法規(學院)(普)</title>
+    <desc lang="chi">加值型及非加值型營業稅(下)第16集：贈與稅探討稅捐稽徵法與行政救濟、營利事業所得稅、所得稅稽徵程序、加值型及非加值型營業稅法、遺產稅與贈與稅等。</desc>
+  </programme>
+  <programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">坐姿上肢運動</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健身活力Show(普)</title>
+    <desc lang="chi">辦公室運動及伸展</desc>
+  </programme>
+  <programme start="20260211163000 +0800" stop="20260211170000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">毛小孩相伴防失智</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211173000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">News學生週報(國中)(普)</title>
+    <desc lang="chi">自然科題型講解</desc>
+  </programme>
+  <programme start="20260211173000 +0800" stop="20260211180000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">News學生週報(國中)(普)</title>
+    <desc lang="chi">自然科題型講解</desc>
+  </programme>
+  <programme start="20260211180000 +0800" stop="20260211183000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">kakudan 時光機(普)</title>
+    <desc lang="chi">排灣族雙管口鼻笛</desc>
+  </programme>
+  <programme start="20260211183000 +0800" stop="20260211190000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">雙金豆腐</desc>
+  </programme>
+  <programme start="20260211190000 +0800" stop="20260211193000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">海角鷹飛(下)</desc>
+  </programme>
+  <programme start="20260211193000 +0800" stop="20260211200000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">臺灣好味道-足好食 臺灣味(普)</title>
+    <desc lang="chi">嘴裡的月亮：屏東鹹鴨蛋</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211203000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">毛巾防跌核心運動</desc>
+  </programme>
+  <programme start="20260211203000 +0800" stop="20260211205000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-要健康就運動(普)</title>
+    <desc lang="chi">雕雕腹側肌</desc>
+  </programme>
+  <programme start="20260211205000 +0800" stop="20260211210000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">甜蜜陷阱、校園裡沒說完的故事</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211213000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">時哉時哉-國學講座(普)</title>
+    <desc lang="chi">君道學聖能重靜-問答</desc>
+  </programme>
+  <programme start="20260211213000 +0800" stop="20260211220000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">醫學與保健(商專)(普)</title>
+    <desc lang="chi">老年人常見精神疾病學習目標：概論、生長與發展、壓力與適應、認識疼痛、出血、便秘與腹瀉、發燒、肥胖與消瘦、高血壓與低血壓。簡介：便秘；腹瀉。</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211223000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">民法概要(商專)(普)</title>
+    <desc lang="chi">債之移轉與消滅</desc>
+  </programme>
+  <programme start="20260211223000 +0800" stop="20260211230000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券經營與實務(學院)(普)</title>
+    <desc lang="chi">股市投資策略本集主題-衍生性金融商品介紹本集內容-權利金的內容價值和時間價值、影響選擇權價格之主要因素、台指選擇權交易策略、個股選擇權介紹、認購權證介紹。</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260211233000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">網路行銷(學院)(普)</title>
+    <desc lang="chi">機器學習，讓你事半功倍第13集：企業網路行銷迷思〈下〉介紹網路行銷活動、科技化服務與消費者行為、企業網路行銷迷思、網路行銷活動設計與製作等。</desc>
+  </programme>
+  <programme start="20260211233000 +0800" stop="20260212000000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">電子商務(商專)(普)</title>
+    <desc lang="chi">大數據分析第13集─E─learning與知識管理之一
+e─learning透過介紹各式電子商務的應用，讓學習者知道國內外目前電子商務的發展，以及未來趨勢。</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212003000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">擺脫惱人的酷酷嗽</desc>
+  </programme>
+  <programme start="20260212003000 +0800" stop="20260212010000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">女性七大體質調整</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212012000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">素干貝白菜滷</desc>
+  </programme>
+  <programme start="20260212012000 +0800" stop="20260212013000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">甜蜜陷阱、校園裡沒說完的故事</desc>
+  </programme>
+  <programme start="20260212013000 +0800" stop="20260212020000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">風中旅者：黑面琵鷺</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212023000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-英文版(普)</title>
+    <desc lang="chi">家事服務系列~2</desc>
+  </programme>
+  <programme start="20260212023000 +0800" stop="20260212030000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-英文版(普)</title>
+    <desc lang="chi">家事服務系列~3</desc>
+  </programme>
+  <programme start="20260212030000 +0800" stop="20260212033000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">生活日語(普)</title>
+    <desc lang="chi">病院（原第十一集）</desc>
+  </programme>
+  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">頸部腫瘤隱痕手術</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212053000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">應用英文(學院)(普)</title>
+    <desc lang="chi">AttitudeandAltitude</desc>
+  </programme>
+  <programme start="20260212053000 +0800" stop="20260212060000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英語口語訓練(一)(商專)(普)</title>
+    <desc lang="chi">FakeNews假新聞第14集－FailingaTest學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">國際貿易英文(商專)(普)</title>
+    <desc lang="chi">出貨通知信</desc>
+  </programme>
+  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新聞英文(一)(商專)(普)</title>
+    <desc lang="chi">體育新聞(II)</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212073000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文作文(一)(商專)(普)</title>
+    <desc lang="chi">簡單句</desc>
+  </programme>
+  <programme start="20260212073000 +0800" stop="20260212080000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">空中英語教室(普)</title>
+    <desc lang="chi">第 6424 集</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">大家說英語(普)</title>
+    <desc lang="chi">第 5332 集</desc>
+  </programme>
+  <programme start="20260212083000 +0800" stop="20260212085000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">五行時蔬燴鍋巴</desc>
+  </programme>
+  <programme start="20260212085000 +0800" stop="20260212090000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">反毒妙招，他們來教你、糖果不甜的那天</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212093000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">逐鹿山林</desc>
+  </programme>
+  <programme start="20260212093000 +0800" stop="20260212100000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~1</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212103000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">日語的發音（二）濁音、半濁音</desc>
+  </programme>
+  <programme start="20260212103000 +0800" stop="20260212110000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">商用英文(二)(商專)(普)</title>
+    <desc lang="chi">MobileDevices</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212113000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">培養孩子的耐挫力</desc>
+  </programme>
+  <programme start="20260212113000 +0800" stop="20260212120000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">現代父母好難為</desc>
+  </programme>
+  <programme start="20260212120000 +0800" stop="20260212123000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~2</desc>
+  </programme>
+  <programme start="20260212123000 +0800" stop="20260212130000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">人際關係(商專)(普)</title>
+    <desc lang="chi">協商與談判-2第18集：創傷、恐懼與親密關係課程簡介：一、摡論。二、二十一世紀的人際關係。三、社會心理與人際關係。四、人際溝通。五、創傷與人際關係。</desc>
+  </programme>
+  <programme start="20260212130000 +0800" stop="20260212133000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">日本的文字及發音</desc>
+  </programme>
+  <programme start="20260212133000 +0800" stop="20260212140000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">生活日語(普)</title>
+    <desc lang="chi">四季（二）（原第十集）</desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212143000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券市場(商專)(普)</title>
+    <desc lang="chi">資本市場線理論的應用本集主題－第１２集證券市場的交易學習目標－＜一＞認識市場的組織概況。＜二＞證券市場的交易工具。＜三＞證券的承銷與管理。＜四＞證券市場現況與未來發展。</desc>
+  </programme>
+  <programme start="20260212143000 +0800" stop="20260212150000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">金融市場(商專)(普)</title>
+    <desc lang="chi">台灣金融制度與改革第12集:期貨市場大綱：自金融市場、貨幣市場、資本市場，及衍生性金融商品、期貨市場等，作重點提示，使同學能對各課題多方面深入了解。</desc>
+  </programme>
+  <programme start="20260212150000 +0800" stop="20260212153000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">稅務法規(學院)(普)</title>
+    <desc lang="chi">貨物稅第17集：促進產業升級條例探討稅捐稽徵法與行政救濟、營利事業所得稅、所得稅稽徵程序、加值型及非加值型營業稅法、遺產稅與贈與稅等。</desc>
+  </programme>
+  <programme start="20260212153000 +0800" stop="20260212160000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">坐姿下肢運動</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212163000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健身活力Show(普)</title>
+    <desc lang="chi">有球必硬</desc>
+  </programme>
+  <programme start="20260212163000 +0800" stop="20260212170000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">控制血糖怎麼吃</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212173000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">News學生週報(國中)(普)</title>
+    <desc lang="chi">自然科題型講解</desc>
+  </programme>
+  <programme start="20260212173000 +0800" stop="20260212180000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">News學生週報(國中)(普)</title>
+    <desc lang="chi">自然科題型講解</desc>
+  </programme>
+  <programme start="20260212180000 +0800" stop="20260212183000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">台灣路一號(普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260212183000 +0800" stop="20260212190000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">日式筑前煮</desc>
+  </programme>
+  <programme start="20260212190000 +0800" stop="20260212193000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">聖稜樹冠</desc>
+  </programme>
+  <programme start="20260212193000 +0800" stop="20260212200000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">臺灣好味道-足好食 臺灣味(普)</title>
+    <desc lang="chi">馬祖家宴</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212203000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">彈力帶上肢運動</desc>
+  </programme>
+  <programme start="20260212203000 +0800" stop="20260212205000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-要健康就運動(普)</title>
+    <desc lang="chi">解壓舒眠瑜珈</desc>
+  </programme>
+  <programme start="20260212205000 +0800" stop="20260212210000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">反毒妙招，他們來教你、糖果不甜的那天</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212213000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">時哉時哉-國學講座(普)</title>
+    <desc lang="chi">聖人入世妙行</desc>
+  </programme>
+  <programme start="20260212213000 +0800" stop="20260212220000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">醫學與保健(商專)(普)</title>
+    <desc lang="chi">發燒學習目標：概論、生長與發展、壓力與適應、認識疼痛、出血、便秘與腹瀉、發燒、肥胖與消瘦、高血壓與低血壓。簡介：發燒的原因、發燒對人體的影響、發燒的自我照護。</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212223000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">民法概要(商專)(普)</title>
+    <desc lang="chi">略述各種之債</desc>
+  </programme>
+  <programme start="20260212223000 +0800" stop="20260212230000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券經營與實務(學院)(普)</title>
+    <desc lang="chi">全面了解股票的類型本集主題-金融商品套利本集內容-套利之定義、常見套利類型、股票除權套利、存託憑證套利、GDR套利、可轉換公司債套利、期貨與現貨套利、公司股票併套利、ETF套利。</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260212233000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">網路行銷(學院)(普)</title>
+    <desc lang="chi">數位廣告的特性第14集：關鍵字廣告與垃圾郵件法律問題介紹網路行銷活動、科技化服務與消費者行為、企業網路行銷迷思、網路行銷活動設計與製作等。</desc>
+  </programme>
+  <programme start="20260212233000 +0800" stop="20260213000000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">電子商務(商專)(普)</title>
+    <desc lang="chi">物聯網第14集─E─learning與知識管理之二知識管理透過介紹各式電子商務的應用，讓學習者知道國內外目前電子商務的發展，以及未來趨勢。</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213003000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">培養孩子的耐挫力</desc>
+  </programme>
+  <programme start="20260213003000 +0800" stop="20260213010000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">現代父母好難為</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213012000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">五行時蔬燴鍋巴</desc>
+  </programme>
+  <programme start="20260213012000 +0800" stop="20260213013000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">反毒妙招，他們來教你、糖果不甜的那天</desc>
+  </programme>
+  <programme start="20260213013000 +0800" stop="20260213020000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">逐鹿山林</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213023000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~1</desc>
+  </programme>
+  <programme start="20260213023000 +0800" stop="20260213030000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~2</desc>
+  </programme>
+  <programme start="20260213030000 +0800" stop="20260213033000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">生活日語(普)</title>
+    <desc lang="chi">約束（原第十四集）</desc>
+  </programme>
+  <programme start="20260213033000 +0800" stop="20260213040000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">認識大腸鏡檢查</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213053000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">應用英文(學院)(普)</title>
+    <desc lang="chi">WhenInspirationBecomes</desc>
+  </programme>
+  <programme start="20260213053000 +0800" stop="20260213060000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英語口語訓練(一)(商專)(普)</title>
+    <desc lang="chi">CarnivalFun嘉年華之樂第15集－Rejection學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213063000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">國際貿易英文(商專)(普)</title>
+    <desc lang="chi">出貨後的關懷信</desc>
+  </programme>
+  <programme start="20260213063000 +0800" stop="20260213070000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新聞英文(一)(商專)(普)</title>
+    <desc lang="chi">健康醫療新聞(I)</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213073000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文作文(一)(商專)(普)</title>
+    <desc lang="chi">CompoundSentence合句</desc>
+  </programme>
+  <programme start="20260213073000 +0800" stop="20260213080000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">空中英語教室(普)</title>
+    <desc lang="chi">第 6425 集</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213083000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">大家說英語(普)</title>
+    <desc lang="chi">第 5333 集</desc>
+  </programme>
+  <programme start="20260213083000 +0800" stop="20260213085000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">松露蔬食蛋炒飯</desc>
+  </programme>
+  <programme start="20260213085000 +0800" stop="20260213090000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">一夕染塵，濡沫千迴、Wecanchoose</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213093000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">雲海上的島嶼(上)</desc>
+  </programme>
+  <programme start="20260213093000 +0800" stop="20260213100000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~3</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213103000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">日語的發音（三）拗音</desc>
+  </programme>
+  <programme start="20260213103000 +0800" stop="20260213110000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文(一)(商專)(普)</title>
+    <desc lang="chi">HealthyEating第1集：CrazyEnglish〈1〉介紹各種生活上實用的用法，讓觀眾能體認不同的使用時機。</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213113000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">超音波脂雕</desc>
+  </programme>
+  <programme start="20260213113000 +0800" stop="20260213120000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">自體脂肪臉部補脂</desc>
+  </programme>
+  <programme start="20260213120000 +0800" stop="20260213123000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~4</desc>
+  </programme>
+  <programme start="20260213123000 +0800" stop="20260213130000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">民法概要(商專)(普)</title>
+    <desc lang="chi">法例</desc>
+  </programme>
+  <programme start="20260213130000 +0800" stop="20260213133000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">日語的發音（一）</desc>
+  </programme>
+  <programme start="20260213133000 +0800" stop="20260213140000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">生活日語(普)</title>
+    <desc lang="chi">電話（原第十五集）</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213143000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券市場(商專)(普)</title>
+    <desc lang="chi">共同基金與指數股票型基金(ETF)本集主題－第１３集其他的交易方式學習目標－＜一＞認識市場的組織概況。＜二＞證券市場的交易工具。＜三＞證券的承銷與管理。＜四＞證券市場現況與未來發展。</desc>
+  </programme>
+  <programme start="20260213143000 +0800" stop="20260213150000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">金融市場(商專)(普)</title>
+    <desc lang="chi">金融科技與創新第13集:選擇權市場〈上〉大綱：自金融市場、貨幣市場、資本市場，及衍生性金融商品、期貨市場等，作重點提示，使同學能對各課題多方面深入了解。</desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213153000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">稅務法規(學院)(普)</title>
+    <desc lang="chi">菸酒稅與娛樂稅第18集：租稅法學研究方法與租稅策略探討稅捐稽徵法與行政救濟、營利事業所得稅、所得稅稽徵程序、加值型及非加值型營業稅法、遺產稅與贈與稅等。</desc>
+  </programme>
+  <programme start="20260213153000 +0800" stop="20260213160000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">坐姿有氧跑步運動</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213163000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健身活力Show(普)</title>
+    <desc lang="chi">勇骨健身操（1）</desc>
+  </programme>
+  <programme start="20260213163000 +0800" stop="20260213170000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">擊退高血脂飲食</desc>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213180000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">名人書房7(普)</title>
+    <desc lang="chi">姚仁喜</desc>
+  </programme>
+  <programme start="20260213180000 +0800" stop="20260213183000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">台灣路一號(普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260213183000 +0800" stop="20260213190000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">煙燻素鵝</desc>
+  </programme>
+  <programme start="20260213190000 +0800" stop="20260213193000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">暗夜謎禽-黃魚鴞</desc>
+  </programme>
+  <programme start="20260213193000 +0800" stop="20260213200000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">臺灣好味道-足好食 臺灣味(普)</title>
+    <desc lang="chi">火腿</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213203000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">彈力帶下肢運動</desc>
+  </programme>
+  <programme start="20260213203000 +0800" stop="20260213205000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-要健康就運動(普)</title>
+    <desc lang="chi">能量提升瑜珈</desc>
+  </programme>
+  <programme start="20260213205000 +0800" stop="20260213210000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">一夕染塵，濡沫千迴、Wecanchoose</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213213000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">時哉時哉-國學講座(普)</title>
+    <desc lang="chi">聖人入世妙行-問答</desc>
+  </programme>
+  <programme start="20260213213000 +0800" stop="20260213220000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">醫學與保健(商專)(普)</title>
+    <desc lang="chi">運動傷害學習目標：概論、生長與發展、壓力與適應、認識疼痛、出血、便秘與腹瀉、發燒、肥胖與消瘦、高血壓與低血壓。簡介：體重的評估方式。</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213223000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">民法概要(商專)(普)</title>
+    <desc lang="chi">物權通則</desc>
+  </programme>
+  <programme start="20260213223000 +0800" stop="20260213230000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券經營與實務(學院)(普)</title>
+    <desc lang="chi">概念股選股秘笈本集主題-全球化證券投資本集內容-全球化證券投資觀念之建立、全球化證券投資之特徵、方法、及注意事項；全球主要股市之認識。</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260213233000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">網路行銷(學院)(普)</title>
+    <desc lang="chi">消費者心理學的應用第15集：網路禁止銷售產品與不實廣告探討介紹網路行銷活動、科技化服務與消費者行為、企業網路行銷迷思、網路行銷活動設計與製作等。</desc>
+  </programme>
+  <programme start="20260213233000 +0800" stop="20260214000000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">電子商務(商專)(普)</title>
+    <desc lang="chi">行動商務第15集─網路行銷概論透過介紹各式電子商務的應用，讓學習者知道國內外目前電子商務的發展，以及未來趨勢。</desc>
+  </programme>
+  <programme start="20260214000000 +0800" stop="20260214003000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">超音波脂雕</desc>
+  </programme>
+  <programme start="20260214003000 +0800" stop="20260214010000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">自體脂肪臉部補脂</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214012000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">松露蔬食蛋炒飯</desc>
+  </programme>
+  <programme start="20260214012000 +0800" stop="20260214013000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">我的未來我作主(普)</title>
+    <desc lang="chi">一夕染塵，濡沫千迴、Wecanchoose</desc>
+  </programme>
+  <programme start="20260214013000 +0800" stop="20260214020000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視生態筆記(普)</title>
+    <desc lang="chi">雲海上的島嶼(上)</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214023000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~3</desc>
+  </programme>
+  <programme start="20260214023000 +0800" stop="20260214030000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新住民網上學(六)-越文版(普)</title>
+    <desc lang="chi">烘焙食品餅乾類~4</desc>
+  </programme>
+  <programme start="20260214030000 +0800" stop="20260214033000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">生活日語(普)</title>
+    <desc lang="chi">迷路（原第十六集）</desc>
+  </programme>
+  <programme start="20260214033000 +0800" stop="20260214040000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">大便出血</desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214053000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">應用英文(學院)(普)</title>
+    <desc lang="chi">F.O.G.</desc>
+  </programme>
+  <programme start="20260214053000 +0800" stop="20260214060000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英語口語訓練(一)(商專)(普)</title>
+    <desc lang="chi">科技趨勢:利與弊第16集－CompulsiveBehavior學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</desc>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214063000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">國際貿易英文(商專)(普)</title>
+    <desc lang="chi">抱怨與索賠信</desc>
+  </programme>
+  <programme start="20260214063000 +0800" stop="20260214070000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新聞英文(一)(商專)(普)</title>
+    <desc lang="chi">健康醫療新聞(II)</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214073000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文作文(一)(商專)(普)</title>
+    <desc lang="chi">ComplexSentence複句</desc>
+  </programme>
+  <programme start="20260214073000 +0800" stop="20260214080000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">商用英語會話(上)(商專)(普)</title>
+    <desc lang="chi">MakingInvitations第10集－MakingandChangingAppointment商用英語會話使用的各種表達方法及如何靈活運用。</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214083000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">大家說英語(普)</title>
+    <desc lang="chi">第 5334 集</desc>
+  </programme>
+  <programme start="20260214083000 +0800" stop="20260214100000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">莒光園地(護)</title>
+    <desc lang="chi">第 2667 集</desc>
+  </programme>
+  <programme start="20260214100000 +0800" stop="20260214103000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">日語的發音（四）特殊音</desc>
+  </programme>
+  <programme start="20260214103000 +0800" stop="20260214110000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文(一)(商專)(普)</title>
+    <desc lang="chi">MentalNourishment第2集：CrazyEnglish〈2〉介紹各種生活上實用的用法，讓觀眾能體認不同的使用時機。</desc>
+  </programme>
+  <programme start="20260214110000 +0800" stop="20260214113000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">香炒鈕扣蘑菇藍紋乳酪鍋</desc>
+  </programme>
+  <programme start="20260214113000 +0800" stop="20260214120000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">素食砂鍋魚頭</desc>
+  </programme>
+  <programme start="20260214120000 +0800" stop="20260214130000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視新聞雜誌(普)</title>
+    <desc lang="chi">第 2495 集</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214133000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">台灣好滋味(普)</title>
+    <desc lang="chi">古早味冰品</desc>
+  </programme>
+  <programme start="20260214133000 +0800" stop="20260214140000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">台灣好滋味(普)</title>
+    <desc lang="chi">白玉蘿蔔</desc>
+  </programme>
+  <programme start="20260214140000 +0800" stop="20260214143000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">在家就能練(普)</title>
+    <desc lang="chi">高階平衡運動</desc>
+  </programme>
+  <programme start="20260214143000 +0800" stop="20260214150000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-健康新知(普)</title>
+    <desc lang="chi">下肢疼痛保健</desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214160000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">敏隆講堂-台灣的文化與地景(普)</title>
+    <desc lang="chi">西化的黎明</desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214170000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">CASE說書人(普)</title>
+    <desc lang="chi">心靈黑洞(上)</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214173000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">華視藝文光影(普)</title>
+    <desc lang="chi">臺灣行卷臺南‧起點</desc>
+  </programme>
+  <programme start="20260214173000 +0800" stop="20260214180000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">香炒鈕扣蘑菇藍紋乳酪鍋</desc>
+  </programme>
+  <programme start="20260214180000 +0800" stop="20260214183000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">News學生週報(國中)(普)</title>
+    <desc lang="chi">我的悅讀好朋友_小和尚念經</desc>
+  </programme>
+  <programme start="20260214183000 +0800" stop="20260214190000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">怪咖紀錄片(普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260214190000 +0800" stop="20260214200000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">名人書房7(普)</title>
+    <desc lang="chi">江賢二</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214203000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健康最前線Ⅱ(普)</title>
+    <desc lang="chi">從「代謝開關」開始的好開端</desc>
+  </programme>
+  <programme start="20260214203000 +0800" stop="20260214210000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健康最前線Ⅱ(普)</title>
+    <desc lang="chi">眼周微整+眼周保養迷思</desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214213000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健康好料理(普)</title>
+    <desc lang="chi">抗發炎、提升免疫力，雙重防護不能少</desc>
+  </programme>
+  <programme start="20260214213000 +0800" stop="20260214220000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">醫學與保健(商專)(普)</title>
+    <desc lang="chi">黃金救援學習目標：概論、生長與發展、壓力與適應、認識疼痛、出血、便秘與腹瀉、發燒、肥胖與消瘦、高血壓與低血壓。簡介：肥胖與消瘦。</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214223000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">民法概要(商專)(普)</title>
+    <desc lang="chi">所有權</desc>
+  </programme>
+  <programme start="20260214223000 +0800" stop="20260214230000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券經營與實務(學院)(普)</title>
+    <desc lang="chi">股票市場的風險控管本集主題-美國股市本集內容-美國股市發展之歷史軌跡、美國股市三大證交所、三大主要指數。</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260214233000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">網路行銷(學院)(普)</title>
+    <desc lang="chi">資訊落差產生的獲利第16集：網路智慧財產權與隱私權探討介紹網路行銷活動、科技化服務與消費者行為、企業網路行銷迷思、網路行銷活動設計與製作等。</desc>
+  </programme>
+  <programme start="20260214233000 +0800" stop="20260215000000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">電子商務(商專)(普)</title>
+    <desc lang="chi">網路行銷第16集─網路行銷４Ｐ＋４Ｃ透過介紹各式電子商務的應用，讓學習者知道國內外目前電子商務的發展，以及未來趨勢。</desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215003000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">空中大講堂(普)</title>
+    <desc lang="chi">國際企業管理~105下</desc>
+  </programme>
+  <programme start="20260215003000 +0800" stop="20260215010000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">鑽石鑽石亮晶晶(普)</title>
+    <desc lang="chi">禮敬天地</desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215040000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">馬叔禮國學講座-詩經(普)</title>
+    <desc lang="chi">齊風十一篇</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215053000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">應用英文(學院)(普)</title>
+    <desc lang="chi">OnUFO</desc>
+  </programme>
+  <programme start="20260215053000 +0800" stop="20260215060000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英語口語訓練(一)(商專)(普)</title>
+    <desc lang="chi">Gift-GivingCustoms送禮習俗第17集－Accident學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考試等。</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215063000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">國際貿易英文(商專)(普)</title>
+    <desc lang="chi">回覆抱怨與索賠信</desc>
+  </programme>
+  <programme start="20260215063000 +0800" stop="20260215070000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新聞英文(一)(商專)(普)</title>
+    <desc lang="chi">旅遊休閒新聞(I)</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215073000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文作文(一)(商專)(普)</title>
+    <desc lang="chi">複合句</desc>
+  </programme>
+  <programme start="20260215073000 +0800" stop="20260215080000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">商用英語會話(上)(商專)(普)</title>
+    <desc lang="chi">MakingSuggestions第11集－ChairingaMeeting商用英語會話使用的各種表達方法及如何靈活運用。</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215093000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">莒光園地(護)</title>
+    <desc lang="chi">第 2667 集</desc>
+  </programme>
+  <programme start="20260215093000 +0800" stop="20260215100000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">她和她的畫(普)</title>
+    <desc lang="chi">第 2 集</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215103000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">通用日文(一)(普)</title>
+    <desc lang="chi">片假名</desc>
+  </programme>
+  <programme start="20260215103000 +0800" stop="20260215110000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文(一)(商專)(普)</title>
+    <desc lang="chi">IsPriceLinkedtoHappiness?第3集：A&quot;Colorful&quot;Language〈1〉介紹各種生活上實用的用法，讓觀眾能體認不同的使用時機。</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215120000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">唐獎(普)</title>
+    <desc lang="chi">細胞激素革命自體免疫治療新篇章</desc>
+  </programme>
+  <programme start="20260215120000 +0800" stop="20260215130000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">敏隆講堂-台灣的文化與地景(普)</title>
+    <desc lang="chi">西化的黎明</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215133000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">台灣好滋味(普)</title>
+    <desc lang="chi">粿</desc>
+  </programme>
+  <programme start="20260215133000 +0800" stop="20260215140000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">台灣好滋味(普)</title>
+    <desc lang="chi">彰化青農</desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215143000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">時哉時哉-國學講座(普)</title>
+    <desc lang="chi">論語篇（5）</desc>
+  </programme>
+  <programme start="20260215143000 +0800" stop="20260215150000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">時哉時哉-國學講座(普)</title>
+    <desc lang="chi">論語篇（6）</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215171000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">敏隆講堂-現代建築系列(普)</title>
+    <desc lang="chi">歐州的回應（三）</desc>
+  </programme>
+  <programme start="20260215171000 +0800" stop="20260215173000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">樹子醬野菇蒸魚</desc>
+  </programme>
+  <programme start="20260215173000 +0800" stop="20260215180000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">希望系列-蔬食GO健康(普)</title>
+    <desc lang="chi">素食砂鍋魚頭</desc>
+  </programme>
+  <programme start="20260215180000 +0800" stop="20260215183000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">News學生週報(國中)(普)</title>
+    <desc lang="chi">我的悅讀好朋友_小和尚念經</desc>
+  </programme>
+  <programme start="20260215183000 +0800" stop="20260215190000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">怪咖紀錄片(普)</title>
+    <desc lang="chi">KULO</desc>
+  </programme>
+  <programme start="20260215190000 +0800" stop="20260215200000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">名人書房7(普)</title>
+    <desc lang="chi">姚仁喜</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215203000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健康最前線Ⅱ(普)</title>
+    <desc lang="chi">從百人挑戰到驚人的纖順成果</desc>
+  </programme>
+  <programme start="20260215203000 +0800" stop="20260215210000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健康最前線Ⅱ(普)</title>
+    <desc lang="chi">備孕&amp;amp;孕期胎兒各階段的發展</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215213000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">健康好料理(普)</title>
+    <desc lang="chi">預防三高，從草本開始的日常守護</desc>
+  </programme>
+  <programme start="20260215213000 +0800" stop="20260215220000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">醫學與保健(商專)(普)</title>
+    <desc lang="chi">傳染病防治、法定傳染病及疫苗介紹學習目標：概論、生長與發展、壓力與適應、認識疼痛、出血、便秘與腹瀉、發燒、肥胖與消瘦、高血壓與低血壓。簡介：血壓的定義、決定血壓高低的因素、高血壓的定義、高血壓的分類。</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215223000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">民法概要(商專)(普)</title>
+    <desc lang="chi">用益物權</desc>
+  </programme>
+  <programme start="20260215223000 +0800" stop="20260215230000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">證券經營與實務(學院)(普)</title>
+    <desc lang="chi">證券市場的金融商品本集主題-日本股市本集內容-日本股市之發展過程與特徵、日本股市與日本經濟的認識、日經指數之概況。</desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260215233000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">網路行銷(學院)(普)</title>
+    <desc lang="chi">制定策略套用在數位媒體工具第17集：網路媒體─廣告介紹網路行銷活動、科技化服務與消費者行為、企業網路行銷迷思、網路行銷活動設計與製作等。</desc>
+  </programme>
+  <programme start="20260215233000 +0800" stop="20260216000000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">電子商務(商專)(普)</title>
+    <desc lang="chi">社群媒體行銷與網路廣告第17集：一對一網路行銷透過介紹各式電子商務的應用，讓學習者知道國內外目前電子商務的發展，以及未來趨勢。</desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">CASE說書人(普)</title>
+    <desc lang="chi">基因編輯大革命</desc>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216040000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">馬叔禮國學講座-千古文壇的廿四顆巨星(普)</title>
+    <desc lang="chi">無名氏古詩選粹(一)</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216053000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">應用英文(學院)(普)</title>
+    <desc lang="chi">Formosa</desc>
+  </programme>
+  <programme start="20260216053000 +0800" stop="20260216060000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英語口語訓練(一)(商專)(普)</title>
+    <desc lang="chi">WhenEastMeetsWest當東方遇見西方第18集－ReviewLessonforUnitThree學習目標－練習各種句型之變化，如問候語與介紹詞、約會、與導師碰面、規化時間、終身學習、失業、考</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216063000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">國際貿易英文(商專)(普)</title>
+    <desc lang="chi">業績促進信:PromotionLetters</desc>
+  </programme>
+  <programme start="20260216063000 +0800" stop="20260216070000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">新聞英文(一)(商專)(普)</title>
+    <desc lang="chi">旅遊休閒新聞(II)</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216073000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">英文作文(一)(商專)(普)</title>
+    <desc lang="chi">Punctuation標點符號</desc>
+  </programme>
+  <programme start="20260216073000 +0800" stop="20260216080000 +0800" channel="華視教育體育文化台">
+    <title lang="chi">空中英語教室(普)</title>
+    <desc lang="chi">第 6426 集</desc>
+  </programme>
+</tv>

@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="民視第一台">
+    <display-name>民視第一台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260211083000 +0800" stop="20260211093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260211093000 +0800" stop="20260211100000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260211113000 +0800" stop="20260211114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260211114000 +0800" stop="20260211115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260211115000 +0800" stop="20260211135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260211135000 +0800" stop="20260211145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260211145000 +0800" stop="20260211155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260211155000 +0800" stop="20260211162000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260211162000 +0800" stop="20260211165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260211165000 +0800" stop="20260211165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260211165500 +0800" stop="20260211175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260211175500 +0800" stop="20260211182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260211182500 +0800" stop="20260211200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝新時代台塑石油APP(普)</title>
+    <desc lang="chi">綜藝新時代台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="民視第一台">
+    <title lang="chi">豬哥亮經典秀TCL變頻空調(普)</title>
+    <desc lang="chi">豬哥亮經典秀TCL變頻空調(普)</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212021500 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260212021500 +0800" stop="20260212023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260212023000 +0800" stop="20260212033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260212040000 +0800" stop="20260212043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260212043000 +0800" stop="20260212050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260212053000 +0800" stop="20260212070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212083000 +0800" stop="20260212093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212093000 +0800" stop="20260212100000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212103000 +0800" stop="20260212110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260212113000 +0800" stop="20260212114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212114000 +0800" stop="20260212115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260212115000 +0800" stop="20260212135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260212135000 +0800" stop="20260212145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212145000 +0800" stop="20260212155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212155000 +0800" stop="20260212162000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260212162000 +0800" stop="20260212165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212165000 +0800" stop="20260212165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212165500 +0800" stop="20260212175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212175500 +0800" stop="20260212182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260212182500 +0800" stop="20260212200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212203000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260212203000 +0800" stop="20260212210000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="民視第一台">
+    <title lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260213000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213021500 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260213021500 +0800" stop="20260213023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260213023000 +0800" stop="20260213033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213033000 +0800" stop="20260213040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260213040000 +0800" stop="20260213043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260213043000 +0800" stop="20260213050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260213053000 +0800" stop="20260213070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260213083000 +0800" stop="20260213093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213093000 +0800" stop="20260213100000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260213103000 +0800" stop="20260213110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260213113000 +0800" stop="20260213114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260213114000 +0800" stop="20260213115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260213115000 +0800" stop="20260213135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260213135000 +0800" stop="20260213145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213145000 +0800" stop="20260213155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213155000 +0800" stop="20260213162000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260213162000 +0800" stop="20260213165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260213165000 +0800" stop="20260213165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260213165500 +0800" stop="20260213175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214173000 +0800" channel="民視第一台">
+    <title lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260214173000 +0800" stop="20260214174500 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260214174500 +0800" stop="20260214175500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260214175500 +0800" stop="20260214182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260214182500 +0800" stop="20260214200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214210000 +0800" channel="民視第一台">
+    <title lang="chi">醫學大聯盟萬士益冷氣(普)</title>
+    <desc lang="chi">醫學大聯盟萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214220000 +0800" channel="民視第一台">
+    <title lang="chi">醫學大聯盟萬士益冷氣(普)</title>
+    <desc lang="chi">醫學大聯盟萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260215000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215020000 +0800" channel="民視第一台">
+    <title lang="chi">超級冰冰Show安美諾美白修護霜(普)</title>
+    <desc lang="chi">超級冰冰Show安美諾美白修護霜(普)</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215023000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260215023000 +0800" stop="20260215030000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215033000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215033000 +0800" stop="20260215040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260215043000 +0800" stop="20260215050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215053000 +0800" stop="20260215060000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215063000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215063000 +0800" stop="20260215070000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215083000 +0800" channel="民視第一台">
+    <title lang="chi">健康零極限(普)</title>
+    <desc lang="chi">健康零極限(普)</desc>
+  </programme>
+  <programme start="20260215083000 +0800" stop="20260215090000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215100000 +0800" channel="民視第一台">
+    <title lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215103000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260215103000 +0800" stop="20260215110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215113000 +0800" stop="20260215114500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260215114500 +0800" stop="20260215123000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260215123000 +0800" stop="20260215130000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215140000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝新時代台塑石油APP(普)</title>
+    <desc lang="chi">綜藝新時代台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215160000 +0800" channel="民視第一台">
+    <title lang="chi">最強綜藝秀(普)</title>
+    <desc lang="chi">最強綜藝秀(普)</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215163000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260215163000 +0800" stop="20260215170000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215173000 +0800" channel="民視第一台">
+    <title lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260215173000 +0800" stop="20260215174500 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260215174500 +0800" stop="20260215175500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260215175500 +0800" stop="20260215184500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260215184500 +0800" stop="20260215200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="民視第一台">
+    <title lang="chi">姊妹亮起來找到了旅行社(普)</title>
+    <desc lang="chi">姊妹亮起來找到了旅行社(普)</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="民視第一台">
+    <title lang="chi">姊妹亮起來找到了旅行社(普)</title>
+    <desc lang="chi">姊妹亮起來找到了旅行社(普)</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260216000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216020000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝大集合台塑石油APP(普)</title>
+    <desc lang="chi">綜藝大集合台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216030000 +0800" channel="民視第一台">
+    <title lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216033000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260216033000 +0800" stop="20260216040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260216043000 +0800" stop="20260216050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260216053000 +0800" stop="20260216070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260216083000 +0800" stop="20260216093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216093000 +0800" stop="20260216100000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260216103000 +0800" stop="20260216110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260216113000 +0800" stop="20260216114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260216114000 +0800" stop="20260216115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260216115000 +0800" stop="20260216140000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216163000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約新春特別節目(普)</title>
+    <desc lang="chi">美鳳有約新春特別節目(普)</desc>
+  </programme>
+  <programme start="20260216163000 +0800" stop="20260216164000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260216164000 +0800" stop="20260216165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260216165500 +0800" stop="20260216175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216175500 +0800" stop="20260216182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260216182500 +0800" stop="20260216200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260216210000 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發宇澄創業迎新春(普)</title>
+    <desc lang="chi">民視第一發發發宇澄創業迎新春(普)</desc>
+  </programme>
+  <programme start="20260216210000 +0800" stop="20260216225500 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發宇澄創業慶豐年(普)</title>
+    <desc lang="chi">民視第一發發發宇澄創業慶豐年(普)</desc>
+  </programme>
+  <programme start="20260216225500 +0800" stop="20260217005000 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發萬士益冷氣萬象新(普)</title>
+    <desc lang="chi">民視第一發發發萬士益冷氣萬象新(普)</desc>
+  </programme>
+  <programme start="20260217005000 +0800" stop="20260217020000 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發萬士益冷氣慶團圓(普)</title>
+    <desc lang="chi">民視第一發發發萬士益冷氣慶團圓(普)</desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260217023000 +0800" stop="20260217033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260217033000 +0800" stop="20260217040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260217043000 +0800" stop="20260217053000 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發宇澄創業迎新春(普)</title>
+    <desc lang="chi">民視第一發發發宇澄創業迎新春(普)</desc>
+  </programme>
+  <programme start="20260218110000 +0800" stop="20260218113000 +0800" channel="民視第一台">
+    <title lang="chi">感動心台灣(普)</title>
+    <desc lang="chi">感動心台灣(普)</desc>
+  </programme>
+  <programme start="20260218113000 +0800" stop="20260218114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260218114000 +0800" stop="20260218115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260218115000 +0800" stop="20260218140000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218150000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260218150000 +0800" stop="20260218160000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218163000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約新春特別節目(普)</title>
+    <desc lang="chi">美鳳有約新春特別節目(普)</desc>
+  </programme>
+  <programme start="20260218163000 +0800" stop="20260218164000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260218164000 +0800" stop="20260218165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260218165500 +0800" stop="20260218175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260218175500 +0800" stop="20260218182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260218182500 +0800" stop="20260218200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260218200000 +0800" stop="20260218210000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝新時代台塑石油APP(普)</title>
+    <desc lang="chi">綜藝新時代台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260218210000 +0800" stop="20260218220000 +0800" channel="民視第一台">
+    <title lang="chi">豬哥亮經典秀TCL變頻空調(普)</title>
+    <desc lang="chi">豬哥亮經典秀TCL變頻空調(普)</desc>
+  </programme>
+  <programme start="20260218220000 +0800" stop="20260218230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260218230000 +0800" stop="20260219000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219020000 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260219023000 +0800" stop="20260219033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219033000 +0800" stop="20260219040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260219040000 +0800" stop="20260219043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260219043000 +0800" stop="20260219050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260219053000 +0800" stop="20260219070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219093000 +0800" stop="20260219112500 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發萬士益冷氣萬象新(普)</title>
+    <desc lang="chi">民視第一發發發萬士益冷氣萬象新(普)</desc>
+  </programme>
+  <programme start="20260219112500 +0800" stop="20260219113500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260219113500 +0800" stop="20260219115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260219115000 +0800" stop="20260219140000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219150000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219160000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219163000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260219163000 +0800" stop="20260219164000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260219164000 +0800" stop="20260219165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260219165500 +0800" stop="20260219175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219175500 +0800" stop="20260219182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260219182500 +0800" stop="20260219200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219203000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260219203000 +0800" stop="20260219210000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219220000 +0800" channel="民視第一台">
+    <title lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260219230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219230000 +0800" stop="20260220000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220020000 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260220023000 +0800" stop="20260220033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220033000 +0800" stop="20260220040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260220043000 +0800" stop="20260220050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260220050000 +0800" stop="20260220053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260220053000 +0800" stop="20260220070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220070000 +0800" stop="20260220080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260220080000 +0800" stop="20260220083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260220083000 +0800" stop="20260220093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220093000 +0800" stop="20260220100000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260220100000 +0800" stop="20260220111000 +0800" channel="民視第一台">
+    <title lang="chi">民視第一發發發萬士益冷氣慶團圓(普)</title>
+    <desc lang="chi">民視第一發發發萬士益冷氣慶團圓(普)</desc>
+  </programme>
+  <programme start="20260220111000 +0800" stop="20260220114000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260220114000 +0800" stop="20260220115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260220115000 +0800" stop="20260220140000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260220140000 +0800" stop="20260220150000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220150000 +0800" stop="20260220160000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220160000 +0800" stop="20260220163000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260220163000 +0800" stop="20260220164000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260220164000 +0800" stop="20260220165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260220165500 +0800" stop="20260220175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220175500 +0800" stop="20260220182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260220182500 +0800" stop="20260220200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260220200000 +0800" stop="20260220213000 +0800" channel="民視第一台">
+    <title lang="chi">舞力全開(普)</title>
+    <desc lang="chi">舞力全開(普)</desc>
+  </programme>
+  <programme start="20260220213000 +0800" stop="20260220220000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260220220000 +0800" stop="20260220230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220230000 +0800" stop="20260221000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260221020000 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260221020000 +0800" stop="20260221023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260221023000 +0800" stop="20260221033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260221033000 +0800" stop="20260221040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260221040000 +0800" stop="20260221043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260221043000 +0800" stop="20260221050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260222110000 +0800" stop="20260222113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260222113000 +0800" stop="20260222114500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260222114500 +0800" stop="20260222123000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260222123000 +0800" stop="20260222130000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260222130000 +0800" stop="20260222140000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝新時代台塑石油APP(普)</title>
+    <desc lang="chi">綜藝新時代台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260222140000 +0800" stop="20260222160000 +0800" channel="民視第一台">
+    <title lang="chi">最強綜藝秀(普)</title>
+    <desc lang="chi">最強綜藝秀(普)</desc>
+  </programme>
+  <programme start="20260222160000 +0800" stop="20260222163000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260222163000 +0800" stop="20260222170000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260222170000 +0800" stop="20260222173000 +0800" channel="民視第一台">
+    <title lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260222173000 +0800" stop="20260222174500 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260222174500 +0800" stop="20260222175500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260222175500 +0800" stop="20260222184500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260222184500 +0800" stop="20260222200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260222200000 +0800" stop="20260222210000 +0800" channel="民視第一台">
+    <title lang="chi">姊妹亮起來找到了旅行社(普)</title>
+    <desc lang="chi">姊妹亮起來找到了旅行社(普)</desc>
+  </programme>
+  <programme start="20260222210000 +0800" stop="20260222220000 +0800" channel="民視第一台">
+    <title lang="chi">姊妹亮起來找到了旅行社(普)</title>
+    <desc lang="chi">姊妹亮起來找到了旅行社(普)</desc>
+  </programme>
+  <programme start="20260222220000 +0800" stop="20260222230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260222230000 +0800" stop="20260223000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223000000 +0800" stop="20260223020000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝大集合台塑石油APP(普)</title>
+    <desc lang="chi">綜藝大集合台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260223020000 +0800" stop="20260223030000 +0800" channel="民視第一台">
+    <title lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223030000 +0800" stop="20260223033000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260223033000 +0800" stop="20260223040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260223040000 +0800" stop="20260223043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260223043000 +0800" stop="20260223050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260223050000 +0800" stop="20260223053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260223053000 +0800" stop="20260223070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223070000 +0800" stop="20260223080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260223080000 +0800" stop="20260223083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260223083000 +0800" stop="20260223093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223093000 +0800" stop="20260223100000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260223100000 +0800" stop="20260223103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260223103000 +0800" stop="20260223110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260223110000 +0800" stop="20260223113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260223113000 +0800" stop="20260223114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260223114000 +0800" stop="20260223115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260223115000 +0800" stop="20260223135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260223135000 +0800" stop="20260223145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223145000 +0800" stop="20260223155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223155000 +0800" stop="20260223162000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260223162000 +0800" stop="20260223165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260223165000 +0800" stop="20260223165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260223165500 +0800" stop="20260223175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223175500 +0800" stop="20260223182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260223182500 +0800" stop="20260223200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260223200000 +0800" stop="20260223220000 +0800" channel="民視第一台">
+    <title lang="chi">超級冰冰Show安美諾美白修護霜(普)</title>
+    <desc lang="chi">超級冰冰Show安美諾美白修護霜(普)</desc>
+  </programme>
+  <programme start="20260223220000 +0800" stop="20260223230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223230000 +0800" stop="20260224000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224000000 +0800" stop="20260224021500 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260224021500 +0800" stop="20260224023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260224023000 +0800" stop="20260224033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224033000 +0800" stop="20260224040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260224040000 +0800" stop="20260224043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260224043000 +0800" stop="20260224050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260224050000 +0800" stop="20260224053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260224053000 +0800" stop="20260224070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224070000 +0800" stop="20260224080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260224080000 +0800" stop="20260224083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260224083000 +0800" stop="20260224093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224093000 +0800" stop="20260224100000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260224100000 +0800" stop="20260224103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260224103000 +0800" stop="20260224110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260224110000 +0800" stop="20260224113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260224113000 +0800" stop="20260224114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260224114000 +0800" stop="20260224115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260224115000 +0800" stop="20260224135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260224135000 +0800" stop="20260224145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224145000 +0800" stop="20260224155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224155000 +0800" stop="20260224162000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260224162000 +0800" stop="20260224165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260224165000 +0800" stop="20260224165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260224165500 +0800" stop="20260224175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224175500 +0800" stop="20260224182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260224182500 +0800" stop="20260224200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260224200000 +0800" stop="20260224220000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝大集合台塑石油APP(普)</title>
+    <desc lang="chi">綜藝大集合台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260224220000 +0800" stop="20260224230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224230000 +0800" stop="20260225000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260225000000 +0800" stop="20260225021500 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260225021500 +0800" stop="20260225023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260225023000 +0800" stop="20260225033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260225033000 +0800" stop="20260225040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260225040000 +0800" stop="20260225043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260225043000 +0800" stop="20260225050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260226113000 +0800" stop="20260226114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260226114000 +0800" stop="20260226115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260226115000 +0800" stop="20260226135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260226135000 +0800" stop="20260226145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226145000 +0800" stop="20260226155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226155000 +0800" stop="20260226162000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260226162000 +0800" stop="20260226165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260226165000 +0800" stop="20260226165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260226165500 +0800" stop="20260226175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226175500 +0800" stop="20260226182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260226182500 +0800" stop="20260226200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260226200000 +0800" stop="20260226203000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260226203000 +0800" stop="20260226210000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260226210000 +0800" stop="20260226220000 +0800" channel="民視第一台">
+    <title lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226220000 +0800" stop="20260226230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226230000 +0800" stop="20260227000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227000000 +0800" stop="20260227021500 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260227021500 +0800" stop="20260227023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260227023000 +0800" stop="20260227033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227033000 +0800" stop="20260227040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260227040000 +0800" stop="20260227043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260227043000 +0800" stop="20260227050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260227050000 +0800" stop="20260227053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260227053000 +0800" stop="20260227070000 +0800" channel="民視第一台">
+    <title lang="chi">台灣傳奇娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">台灣傳奇娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227070000 +0800" stop="20260227080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260227080000 +0800" stop="20260227083000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260227083000 +0800" stop="20260227093000 +0800" channel="民視第一台">
+    <title lang="chi">嫁妝娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">嫁妝娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227093000 +0800" stop="20260227100000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260227100000 +0800" stop="20260227103000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260227103000 +0800" stop="20260227110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260227110000 +0800" stop="20260227113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260227113000 +0800" stop="20260227114000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260227114000 +0800" stop="20260227115000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260227115000 +0800" stop="20260227135000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260227135000 +0800" stop="20260227145000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227145000 +0800" stop="20260227155000 +0800" channel="民視第一台">
+    <title lang="chi">2020夜市人生娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">2020夜市人生娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227155000 +0800" stop="20260227162000 +0800" channel="民視第一台">
+    <title lang="chi">名醫的餐桌(普)</title>
+    <desc lang="chi">名醫的餐桌(普)</desc>
+  </programme>
+  <programme start="20260227162000 +0800" stop="20260227165000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260227165000 +0800" stop="20260227165500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手精選PP石墨烯(普)</title>
+    <desc lang="chi">消費高手精選PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260227165500 +0800" stop="20260227175500 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227175500 +0800" stop="20260227182500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260227182500 +0800" stop="20260227200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260227200000 +0800" stop="20260227213000 +0800" channel="民視第一台">
+    <title lang="chi">舞力全開(普)</title>
+    <desc lang="chi">舞力全開(普)</desc>
+  </programme>
+  <programme start="20260227213000 +0800" stop="20260227220000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr(普)</title>
+    <desc lang="chi">娛樂超skr(普)</desc>
+  </programme>
+  <programme start="20260227220000 +0800" stop="20260227230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227230000 +0800" stop="20260228000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">大時代娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260228000000 +0800" stop="20260228021500 +0800" channel="民視第一台">
+    <title lang="chi">豆腐媽媽萬士益冷氣(普)</title>
+    <desc lang="chi">豆腐媽媽萬士益冷氣(普)</desc>
+  </programme>
+  <programme start="20260228021500 +0800" stop="20260228023000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228023000 +0800" stop="20260228033000 +0800" channel="民視第一台">
+    <title lang="chi">春花望露娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">春花望露娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260228033000 +0800" stop="20260228040000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228040000 +0800" stop="20260228043000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260228043000 +0800" stop="20260228050000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260228050000 +0800" stop="20260228053000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228053000 +0800" stop="20260228060000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260228060000 +0800" stop="20260228063000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228063000 +0800" stop="20260228070000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260228070000 +0800" stop="20260228080000 +0800" channel="民視第一台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260228080000 +0800" stop="20260228083000 +0800" channel="民視第一台">
+    <title lang="chi">健康Dear+(普)</title>
+    <desc lang="chi">健康Dear+(普)</desc>
+  </programme>
+  <programme start="20260228083000 +0800" stop="20260228090000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228090000 +0800" stop="20260228093000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260228093000 +0800" stop="20260228100000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260228100000 +0800" stop="20260228103000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260228103000 +0800" stop="20260228110000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約悟饕池上飯包(普)</title>
+    <desc lang="chi">美鳳有約悟饕池上飯包(普)</desc>
+  </programme>
+  <programme start="20260228110000 +0800" stop="20260228113000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228113000 +0800" stop="20260228120000 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260228120000 +0800" stop="20260228123000 +0800" channel="民視第一台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260228123000 +0800" stop="20260228130000 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260228130000 +0800" stop="20260228140000 +0800" channel="民視第一台">
+    <title lang="chi">綜藝新時代台塑石油APP(普)</title>
+    <desc lang="chi">綜藝新時代台塑石油APP(普)</desc>
+  </programme>
+  <programme start="20260301140000 +0800" stop="20260301160000 +0800" channel="民視第一台">
+    <title lang="chi">最強綜藝秀(普)</title>
+    <desc lang="chi">最強綜藝秀(普)</desc>
+  </programme>
+  <programme start="20260301160000 +0800" stop="20260301163000 +0800" channel="民視第一台">
+    <title lang="chi">娛樂超skr民視四季線上(普)</title>
+    <desc lang="chi">娛樂超skr民視四季線上(普)</desc>
+  </programme>
+  <programme start="20260301163000 +0800" stop="20260301170000 +0800" channel="民視第一台">
+    <title lang="chi">美鳳有約民視四季線上(普)</title>
+    <desc lang="chi">美鳳有約民視四季線上(普)</desc>
+  </programme>
+  <programme start="20260301170000 +0800" stop="20260301173000 +0800" channel="民視第一台">
+    <title lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260301173000 +0800" stop="20260301174500 +0800" channel="民視第一台">
+    <title lang="chi">元氣加油站消費高手一起購(普)</title>
+    <desc lang="chi">元氣加油站消費高手一起購(普)</desc>
+  </programme>
+  <programme start="20260301174500 +0800" stop="20260301175500 +0800" channel="民視第一台">
+    <title lang="chi">消費高手PP石墨烯(普)</title>
+    <desc lang="chi">消費高手PP石墨烯(普)</desc>
+  </programme>
+  <programme start="20260301175500 +0800" stop="20260301184500 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260301184500 +0800" stop="20260301200000 +0800" channel="民視第一台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260301200000 +0800" stop="20260301210000 +0800" channel="民視第一台">
+    <title lang="chi">姊妹亮起來找到了旅行社(普)</title>
+    <desc lang="chi">姊妹亮起來找到了旅行社(普)</desc>
+  </programme>
+  <programme start="20260301210000 +0800" stop="20260301220000 +0800" channel="民視第一台">
+    <title lang="chi">姊妹亮起來找到了旅行社(普)</title>
+    <desc lang="chi">姊妹亮起來找到了旅行社(普)</desc>
+  </programme>
+  <programme start="20260301220000 +0800" stop="20260301230000 +0800" channel="民視第一台">
+    <title lang="chi">大時代民視四季線上(普)</title>
+    <desc lang="chi">大時代民視四季線上(普)</desc>
+  </programme>
+  <programme start="20260301230000 +0800" stop="20260302000000 +0800" channel="民視第一台">
+    <title lang="chi">大時代民視四季線上(普)</title>
+    <desc lang="chi">大時代民視四季線上(普)</desc>
+  </programme>
+</tv>

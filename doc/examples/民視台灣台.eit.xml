@@ -1,0 +1,1703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="民視台灣台">
+    <display-name>民視台灣台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211103000 +0800" channel="民視台灣台">
+    <title lang="chi">教科書外的台灣史(普)</title>
+    <desc lang="chi">教科書外的台灣史(普)</desc>
+  </programme>
+  <programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣新文學史(普)</title>
+    <desc lang="chi">台灣新文學史(普)</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260211120000 +0800" stop="20260211134000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260211134000 +0800" stop="20260211152000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260211152000 +0800" stop="20260211170000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211184000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260211184000 +0800" stop="20260211202000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260211202000 +0800" stop="20260211210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260211213000 +0800" stop="20260211220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260211224500 +0800" stop="20260212000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260212030000 +0800" stop="20260212033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212053000 +0800" channel="民視台灣台">
+    <title lang="chi">教科書外的台灣史(普)</title>
+    <desc lang="chi">教科書外的台灣史(普)</desc>
+  </programme>
+  <programme start="20260212053000 +0800" stop="20260212060000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣新文學史(普)</title>
+    <desc lang="chi">台灣新文學史(普)</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="民視台灣台">
+    <title lang="chi">福爾摩沙音樂廳(普)</title>
+    <desc lang="chi">福爾摩沙音樂廳(普)</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212103000 +0800" channel="民視台灣台">
+    <title lang="chi">台語講世事(普)</title>
+    <desc lang="chi">台語講世事(普)</desc>
+  </programme>
+  <programme start="20260212103000 +0800" stop="20260212110000 +0800" channel="民視台灣台">
+    <title lang="chi">講台語當著時(普)</title>
+    <desc lang="chi">講台語當著時(普)</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260212120000 +0800" stop="20260212134000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260212134000 +0800" stop="20260212152000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260212152000 +0800" stop="20260212170000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212184000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260212184000 +0800" stop="20260212202000 +0800" channel="民視台灣台">
+    <title lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</title>
+    <desc lang="chi">114學年度高中籃球甲級聯賽女生組複賽暨男生組準決賽(普)</desc>
+  </programme>
+  <programme start="20260212202000 +0800" stop="20260212210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260212213000 +0800" stop="20260212220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260212224500 +0800" stop="20260213000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213030000 +0800" stop="20260213033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260213033000 +0800" stop="20260213040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260213040000 +0800" stop="20260213050000 +0800" channel="民視台灣台">
+    <title lang="chi">福爾摩沙音樂廳(普)</title>
+    <desc lang="chi">福爾摩沙音樂廳(普)</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213053000 +0800" channel="民視台灣台">
+    <title lang="chi">台語講世事(普)</title>
+    <desc lang="chi">台語講世事(普)</desc>
+  </programme>
+  <programme start="20260213053000 +0800" stop="20260213060000 +0800" channel="民視台灣台">
+    <title lang="chi">講台語當著時(普)</title>
+    <desc lang="chi">講台語當著時(普)</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213093000 +0800" channel="民視台灣台">
+    <title lang="chi">邁向十字架之路(普)</title>
+    <desc lang="chi">邁向十字架之路(普)</desc>
+  </programme>
+  <programme start="20260213093000 +0800" stop="20260213101500 +0800" channel="民視台灣台">
+    <title lang="chi">決策者(普)</title>
+    <desc lang="chi">決策者(普)</desc>
+  </programme>
+  <programme start="20260213101500 +0800" stop="20260213110000 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260213120000 +0800" stop="20260213135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260213135000 +0800" stop="20260213135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260213135500 +0800" stop="20260213140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213153000 +0800" channel="民視台灣台">
+    <title lang="chi">邁向十字架之路(普)</title>
+    <desc lang="chi">邁向十字架之路(普)</desc>
+  </programme>
+  <programme start="20260213153000 +0800" stop="20260213161500 +0800" channel="民視台灣台">
+    <title lang="chi">決策者(普)</title>
+    <desc lang="chi">決策者(普)</desc>
+  </programme>
+  <programme start="20260213161500 +0800" stop="20260213170000 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214174500 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260214174500 +0800" stop="20260214175500 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞搶先報(普)</title>
+    <desc lang="chi">民視晚間新聞搶先報(普)</desc>
+  </programme>
+  <programme start="20260214175500 +0800" stop="20260214182500 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260214182500 +0800" stop="20260214200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214220000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣演義(普)</title>
+    <desc lang="chi">台灣演義(普)</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214230000 +0800" channel="民視台灣台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260215000000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215010000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">想像台灣-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215040000 +0800" channel="民視台灣台">
+    <title lang="chi">唱頌台灣(普)</title>
+    <desc lang="chi">唱頌台灣(普)</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215050000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215060000 +0800" channel="民視台灣台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215063000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260215063000 +0800" stop="20260215070000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215100000 +0800" channel="民視台灣台">
+    <title lang="chi">要健康就運動(普)</title>
+    <desc lang="chi">要健康就運動(普)</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215110000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260215120000 +0800" stop="20260215140000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215150000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="民視台灣台">
+    <title lang="chi">唱頌台灣(普)</title>
+    <desc lang="chi">唱頌台灣(普)</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">想像台灣-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215180000 +0800" channel="民視台灣台">
+    <title lang="chi">財經週日趴(普)</title>
+    <desc lang="chi">財經週日趴(普)</desc>
+  </programme>
+  <programme start="20260215180000 +0800" stop="20260215184500 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260215184500 +0800" stop="20260215200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215213000 +0800" channel="民視台灣台">
+    <title lang="chi">校園阿雷U(普)</title>
+    <desc lang="chi">校園阿雷U(普)</desc>
+  </programme>
+  <programme start="20260215213000 +0800" stop="20260215220000 +0800" channel="民視台灣台">
+    <title lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215230000 +0800" channel="民視台灣台">
+    <title lang="chi">財經週日趴(普)</title>
+    <desc lang="chi">財經週日趴(普)</desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260215233000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260215233000 +0800" stop="20260216000000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216020000 +0800" channel="民視台灣台">
+    <title lang="chi">福爾摩沙音樂廳(普)</title>
+    <desc lang="chi">福爾摩沙音樂廳(普)</desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216023000 +0800" channel="民視台灣台">
+    <title lang="chi">教科書外的台灣史(普)</title>
+    <desc lang="chi">教科書外的台灣史(普)</desc>
+  </programme>
+  <programme start="20260216023000 +0800" stop="20260216030000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣新文學史(普)</title>
+    <desc lang="chi">台灣新文學史(普)</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="民視台灣台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="民視台灣台">
+    <title lang="chi">財經週日趴(普)</title>
+    <desc lang="chi">財經週日趴(普)</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216070000 +0800" channel="民視台灣台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216090000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216100000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260216120000 +0800" stop="20260216140000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216163000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260216163000 +0800" stop="20260216170000 +0800" channel="民視台灣台">
+    <title lang="chi">校園阿雷U(普)</title>
+    <desc lang="chi">校園阿雷U(普)</desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260216180000 +0800" stop="20260216183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視除夕新聞(普)</title>
+    <desc lang="chi">民視除夕新聞(普)</desc>
+  </programme>
+  <programme start="20260216183000 +0800" stop="20260216200000 +0800" channel="民視台灣台">
+    <title lang="chi">114年全國大專校院熱舞大賽(普)</title>
+    <desc lang="chi">114年全國大專校院熱舞大賽(普)</desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260216210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260216210000 +0800" stop="20260216213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260216213000 +0800" stop="20260216220000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260216220000 +0800" stop="20260216233000 +0800" channel="民視台灣台">
+    <title lang="chi">星星之火(普)</title>
+    <desc lang="chi">星星之火(普)</desc>
+  </programme>
+  <programme start="20260216233000 +0800" stop="20260217000000 +0800" channel="民視台灣台">
+    <title lang="chi">護國神山-台積電傳奇(普)</title>
+    <desc lang="chi">護國神山-台積電傳奇(普)</desc>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260217010000 +0800" stop="20260217020000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260217030000 +0800" stop="20260217033000 +0800" channel="民視台灣台">
+    <title lang="chi">護國神山-台積電傳奇(普)</title>
+    <desc lang="chi">護國神山-台積電傳奇(普)</desc>
+  </programme>
+  <programme start="20260217033000 +0800" stop="20260217040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217043000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260217043000 +0800" stop="20260217050000 +0800" channel="民視台灣台">
+    <title lang="chi">校園阿雷U(普)</title>
+    <desc lang="chi">校園阿雷U(普)</desc>
+  </programme>
+  <programme start="20260218110000 +0800" stop="20260218120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260218120000 +0800" stop="20260218140000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260218150000 +0800" stop="20260218160000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218163000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260218163000 +0800" stop="20260218170000 +0800" channel="民視台灣台">
+    <title lang="chi">校園阿雷U(普)</title>
+    <desc lang="chi">校園阿雷U(普)</desc>
+  </programme>
+  <programme start="20260218170000 +0800" stop="20260218180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260218180000 +0800" stop="20260218183000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260218183000 +0800" stop="20260218190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260218190000 +0800" stop="20260218200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260218200000 +0800" stop="20260218210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260218210000 +0800" stop="20260218213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260218213000 +0800" stop="20260218220000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260218220000 +0800" stop="20260218224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260218224500 +0800" stop="20260219000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260219010000 +0800" stop="20260219020000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219030000 +0800" stop="20260219033000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260219033000 +0800" stop="20260219040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260219040000 +0800" stop="20260219043000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260219043000 +0800" stop="20260219050000 +0800" channel="民視台灣台">
+    <title lang="chi">校園阿雷U(普)</title>
+    <desc lang="chi">校園阿雷U(普)</desc>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219060000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219070000 +0800" channel="民視台灣台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219090000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260219090000 +0800" stop="20260219100000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219110000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260219120000 +0800" stop="20260219140000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219160000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219163000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260219163000 +0800" stop="20260219170000 +0800" channel="民視台灣台">
+    <title lang="chi">護國神山-台積電傳奇(普)</title>
+    <desc lang="chi">護國神山-台積電傳奇(普)</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260219180000 +0800" stop="20260219183000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260219183000 +0800" stop="20260219190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260219190000 +0800" stop="20260219200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260219213000 +0800" stop="20260219220000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260219224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260219224500 +0800" stop="20260220000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260220010000 +0800" stop="20260220020000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220030000 +0800" stop="20260220033000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260220033000 +0800" stop="20260220040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220043000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260220043000 +0800" stop="20260220050000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260220050000 +0800" stop="20260220060000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260220060000 +0800" stop="20260220070000 +0800" channel="民視台灣台">
+    <title lang="chi">能戰！全民新視界(普)</title>
+    <desc lang="chi">能戰！全民新視界(普)</desc>
+  </programme>
+  <programme start="20260220070000 +0800" stop="20260220080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260220080000 +0800" stop="20260220090000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260220090000 +0800" stop="20260220100000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260220100000 +0800" stop="20260220110000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260220110000 +0800" stop="20260220120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260220120000 +0800" stop="20260220140000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260220140000 +0800" stop="20260220150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260220150000 +0800" stop="20260220160000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260220160000 +0800" stop="20260220163000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260220163000 +0800" stop="20260220170000 +0800" channel="民視台灣台">
+    <title lang="chi">AI浪潮-黃仁勳旋風(普)</title>
+    <desc lang="chi">AI浪潮-黃仁勳旋風(普)</desc>
+  </programme>
+  <programme start="20260220170000 +0800" stop="20260220180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260220180000 +0800" stop="20260220183000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260220183000 +0800" stop="20260220190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260220190000 +0800" stop="20260220200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260220200000 +0800" stop="20260220210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260220210000 +0800" stop="20260220213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260220213000 +0800" stop="20260220220000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260220220000 +0800" stop="20260220224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260220224500 +0800" stop="20260221000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260221010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260221010000 +0800" stop="20260221020000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260221020000 +0800" stop="20260221030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260221030000 +0800" stop="20260221033000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260221033000 +0800" stop="20260221040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260221040000 +0800" stop="20260221043000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260221043000 +0800" stop="20260221050000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260222110000 +0800" stop="20260222120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260222120000 +0800" stop="20260222140000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260222140000 +0800" stop="20260222150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260222150000 +0800" stop="20260222160000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260222160000 +0800" stop="20260222163000 +0800" channel="民視台灣台">
+    <title lang="chi">新春自由行(普)</title>
+    <desc lang="chi">新春自由行(普)</desc>
+  </programme>
+  <programme start="20260222163000 +0800" stop="20260222170000 +0800" channel="民視台灣台">
+    <title lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260222170000 +0800" stop="20260222180000 +0800" channel="民視台灣台">
+    <title lang="chi">要健康就運動(普)</title>
+    <desc lang="chi">要健康就運動(普)</desc>
+  </programme>
+  <programme start="20260222180000 +0800" stop="20260222184500 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260222184500 +0800" stop="20260222200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260222200000 +0800" stop="20260222210000 +0800" channel="民視台灣台">
+    <title lang="chi">島國島民(普)</title>
+    <desc lang="chi">島國島民(普)</desc>
+  </programme>
+  <programme start="20260222210000 +0800" stop="20260222213000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260222213000 +0800" stop="20260222220000 +0800" channel="民視台灣台">
+    <title lang="chi">夜市人生(普)</title>
+    <desc lang="chi">夜市人生(普)</desc>
+  </programme>
+  <programme start="20260222220000 +0800" stop="20260222233000 +0800" channel="民視台灣台">
+    <title lang="chi">114年全國大專校院熱舞大賽(普)</title>
+    <desc lang="chi">114年全國大專校院熱舞大賽(普)</desc>
+  </programme>
+  <programme start="20260222233000 +0800" stop="20260223000000 +0800" channel="民視台灣台">
+    <title lang="chi">AI浪潮-黃仁勳旋風(普)</title>
+    <desc lang="chi">AI浪潮-黃仁勳旋風(普)</desc>
+  </programme>
+  <programme start="20260223000000 +0800" stop="20260223010000 +0800" channel="民視台灣台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260223010000 +0800" stop="20260223023000 +0800" channel="民視台灣台">
+    <title lang="chi">星星之火(普)</title>
+    <desc lang="chi">星星之火(普)</desc>
+  </programme>
+  <programme start="20260223023000 +0800" stop="20260223030000 +0800" channel="民視台灣台">
+    <title lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260223030000 +0800" stop="20260223040000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260223040000 +0800" stop="20260223050000 +0800" channel="民視台灣台">
+    <title lang="chi">民視全球新聞(普)</title>
+    <desc lang="chi">民視全球新聞(普)</desc>
+  </programme>
+  <programme start="20260223050000 +0800" stop="20260223060000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午夜新聞(普)</title>
+    <desc lang="chi">民視午夜新聞(普)</desc>
+  </programme>
+  <programme start="20260223060000 +0800" stop="20260223070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260223070000 +0800" stop="20260223080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260223080000 +0800" stop="20260223090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260223090000 +0800" stop="20260223100000 +0800" channel="民視台灣台">
+    <title lang="chi">名醫妙方(普)</title>
+    <desc lang="chi">名醫妙方(普)</desc>
+  </programme>
+  <programme start="20260223100000 +0800" stop="20260223103000 +0800" channel="民視台灣台">
+    <title lang="chi">哲學談淺淺地(普)</title>
+    <desc lang="chi">哲學談淺淺地(普)</desc>
+  </programme>
+  <programme start="20260223103000 +0800" stop="20260223110000 +0800" channel="民視台灣台">
+    <title lang="chi">客家歷史共下來讀(普)</title>
+    <desc lang="chi">客家歷史共下來讀(普)</desc>
+  </programme>
+  <programme start="20260223110000 +0800" stop="20260223120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260223120000 +0800" stop="20260223135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260223135000 +0800" stop="20260223135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260223135500 +0800" stop="20260223140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260223140000 +0800" stop="20260223150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260223150000 +0800" stop="20260223160000 +0800" channel="民視台灣台">
+    <title lang="chi">名醫妙方(普)</title>
+    <desc lang="chi">名醫妙方(普)</desc>
+  </programme>
+  <programme start="20260223160000 +0800" stop="20260223163000 +0800" channel="民視台灣台">
+    <title lang="chi">哲學談淺淺地(普)</title>
+    <desc lang="chi">哲學談淺淺地(普)</desc>
+  </programme>
+  <programme start="20260223163000 +0800" stop="20260223170000 +0800" channel="民視台灣台">
+    <title lang="chi">客家歷史共下來讀(普)</title>
+    <desc lang="chi">客家歷史共下來讀(普)</desc>
+  </programme>
+  <programme start="20260223170000 +0800" stop="20260223180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260223180000 +0800" stop="20260223183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260223183000 +0800" stop="20260223190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260223190000 +0800" stop="20260223200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260223200000 +0800" stop="20260223210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260223210000 +0800" stop="20260223213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260223213000 +0800" stop="20260223220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260223220000 +0800" stop="20260223224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260223224500 +0800" stop="20260224000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260224000000 +0800" stop="20260224010000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260224010000 +0800" stop="20260224020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260224020000 +0800" stop="20260224030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224030000 +0800" stop="20260224033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260224033000 +0800" stop="20260224040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260224040000 +0800" stop="20260224050000 +0800" channel="民視台灣台">
+    <title lang="chi">名醫妙方(普)</title>
+    <desc lang="chi">名醫妙方(普)</desc>
+  </programme>
+  <programme start="20260224050000 +0800" stop="20260224053000 +0800" channel="民視台灣台">
+    <title lang="chi">哲學談淺淺地(普)</title>
+    <desc lang="chi">哲學談淺淺地(普)</desc>
+  </programme>
+  <programme start="20260224053000 +0800" stop="20260224060000 +0800" channel="民視台灣台">
+    <title lang="chi">客家歷史共下來讀(普)</title>
+    <desc lang="chi">客家歷史共下來讀(普)</desc>
+  </programme>
+  <programme start="20260224060000 +0800" stop="20260224070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260224070000 +0800" stop="20260224080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260224080000 +0800" stop="20260224090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260224090000 +0800" stop="20260224100000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">想像台灣-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224100000 +0800" stop="20260224110000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260224110000 +0800" stop="20260224120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260224120000 +0800" stop="20260224135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260224135000 +0800" stop="20260224135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260224135500 +0800" stop="20260224140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260224140000 +0800" stop="20260224150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224150000 +0800" stop="20260224160000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">想像台灣-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260224160000 +0800" stop="20260224170000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260224170000 +0800" stop="20260224180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260224180000 +0800" stop="20260224183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260224183000 +0800" stop="20260224190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260224190000 +0800" stop="20260224200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260224200000 +0800" stop="20260224210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260224210000 +0800" stop="20260224213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260224213000 +0800" stop="20260224220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260224220000 +0800" stop="20260224224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260224224500 +0800" stop="20260225000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260225000000 +0800" stop="20260225010000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260225010000 +0800" stop="20260225020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260225020000 +0800" stop="20260225030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260225030000 +0800" stop="20260225033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260225033000 +0800" stop="20260225040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260225040000 +0800" stop="20260225050000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">想像台灣-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226110000 +0800" stop="20260226120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260226120000 +0800" stop="20260226135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260226135000 +0800" stop="20260226135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260226135500 +0800" stop="20260226140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260226140000 +0800" stop="20260226150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260226150000 +0800" stop="20260226160000 +0800" channel="民視台灣台">
+    <title lang="chi">福爾摩沙音樂廳(普)</title>
+    <desc lang="chi">福爾摩沙音樂廳(普)</desc>
+  </programme>
+  <programme start="20260226160000 +0800" stop="20260226163000 +0800" channel="民視台灣台">
+    <title lang="chi">台語講世事(普)</title>
+    <desc lang="chi">台語講世事(普)</desc>
+  </programme>
+  <programme start="20260226163000 +0800" stop="20260226170000 +0800" channel="民視台灣台">
+    <title lang="chi">講台語當著時(普)</title>
+    <desc lang="chi">講台語當著時(普)</desc>
+  </programme>
+  <programme start="20260226170000 +0800" stop="20260226180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260226180000 +0800" stop="20260226183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260226183000 +0800" stop="20260226190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260226190000 +0800" stop="20260226200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260226200000 +0800" stop="20260226210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260226210000 +0800" stop="20260226213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260226213000 +0800" stop="20260226220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260226220000 +0800" stop="20260226224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260226224500 +0800" stop="20260227000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260227000000 +0800" stop="20260227010000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260227010000 +0800" stop="20260227020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260227020000 +0800" stop="20260227030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227030000 +0800" stop="20260227033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260227033000 +0800" stop="20260227040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260227040000 +0800" stop="20260227050000 +0800" channel="民視台灣台">
+    <title lang="chi">福爾摩沙音樂廳(普)</title>
+    <desc lang="chi">福爾摩沙音樂廳(普)</desc>
+  </programme>
+  <programme start="20260227050000 +0800" stop="20260227053000 +0800" channel="民視台灣台">
+    <title lang="chi">台語講世事(普)</title>
+    <desc lang="chi">台語講世事(普)</desc>
+  </programme>
+  <programme start="20260227053000 +0800" stop="20260227060000 +0800" channel="民視台灣台">
+    <title lang="chi">講台語當著時(普)</title>
+    <desc lang="chi">講台語當著時(普)</desc>
+  </programme>
+  <programme start="20260227060000 +0800" stop="20260227070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260227070000 +0800" stop="20260227080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260227080000 +0800" stop="20260227090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260227090000 +0800" stop="20260227093000 +0800" channel="民視台灣台">
+    <title lang="chi">邁向十字架之路(普)</title>
+    <desc lang="chi">邁向十字架之路(普)</desc>
+  </programme>
+  <programme start="20260227093000 +0800" stop="20260227101500 +0800" channel="民視台灣台">
+    <title lang="chi">決策者(普)</title>
+    <desc lang="chi">決策者(普)</desc>
+  </programme>
+  <programme start="20260227101500 +0800" stop="20260227110000 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260227110000 +0800" stop="20260227120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260227120000 +0800" stop="20260227135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260227135000 +0800" stop="20260227135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260227135500 +0800" stop="20260227140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260227140000 +0800" stop="20260227150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260227150000 +0800" stop="20260227153000 +0800" channel="民視台灣台">
+    <title lang="chi">邁向十字架之路(普)</title>
+    <desc lang="chi">邁向十字架之路(普)</desc>
+  </programme>
+  <programme start="20260227153000 +0800" stop="20260227161500 +0800" channel="民視台灣台">
+    <title lang="chi">決策者(普)</title>
+    <desc lang="chi">決策者(普)</desc>
+  </programme>
+  <programme start="20260227161500 +0800" stop="20260227170000 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260227170000 +0800" stop="20260227180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260227180000 +0800" stop="20260227183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260227183000 +0800" stop="20260227190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260227190000 +0800" stop="20260227200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260227200000 +0800" stop="20260227210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260227210000 +0800" stop="20260227213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260227213000 +0800" stop="20260227220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260227220000 +0800" stop="20260227224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260227224500 +0800" stop="20260228000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260228000000 +0800" stop="20260228010000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260228010000 +0800" stop="20260228020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260228020000 +0800" stop="20260228030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260228030000 +0800" stop="20260228033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260228033000 +0800" stop="20260228040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260228040000 +0800" stop="20260228043000 +0800" channel="民視台灣台">
+    <title lang="chi">邁向十字架之路(普)</title>
+    <desc lang="chi">邁向十字架之路(普)</desc>
+  </programme>
+  <programme start="20260228043000 +0800" stop="20260228051500 +0800" channel="民視台灣台">
+    <title lang="chi">決策者(普)</title>
+    <desc lang="chi">決策者(普)</desc>
+  </programme>
+  <programme start="20260228051500 +0800" stop="20260228060000 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260228060000 +0800" stop="20260228070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260228070000 +0800" stop="20260228080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260228080000 +0800" stop="20260228090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260228090000 +0800" stop="20260228100000 +0800" channel="民視台灣台">
+    <title lang="chi">要健康就運動(普)</title>
+    <desc lang="chi">要健康就運動(普)</desc>
+  </programme>
+  <programme start="20260228100000 +0800" stop="20260228110000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">想像台灣-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260228110000 +0800" stop="20260228120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260228120000 +0800" stop="20260228135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260228135000 +0800" stop="20260228135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260228135500 +0800" stop="20260228140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260228140000 +0800" stop="20260228150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</title>
+    <desc lang="chi">Go Go Taiwan-娘家山苦瓜勝?(普)</desc>
+  </programme>
+  <programme start="20260228150000 +0800" stop="20260228160000 +0800" channel="民視台灣台">
+    <title lang="chi">島嶼之眼-咱ㄟ故事(普)</title>
+    <desc lang="chi">島嶼之眼-咱ㄟ故事(普)</desc>
+  </programme>
+  <programme start="20260228160000 +0800" stop="20260228163000 +0800" channel="民視台灣台">
+    <title lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</title>
+    <desc lang="chi">台籃吃瓜第一品牌 台塑潤滑油ACE1(普)</desc>
+  </programme>
+  <programme start="20260228163000 +0800" stop="20260228170000 +0800" channel="民視台灣台">
+    <title lang="chi">走吧!漫遊趣2(普)</title>
+    <desc lang="chi">走吧!漫遊趣2(普)</desc>
+  </programme>
+  <programme start="20260228170000 +0800" stop="20260228174500 +0800" channel="民視台灣台">
+    <title lang="chi">新聞觀測站(普)</title>
+    <desc lang="chi">新聞觀測站(普)</desc>
+  </programme>
+  <programme start="20260228174500 +0800" stop="20260228175500 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞搶先報(普)</title>
+    <desc lang="chi">民視晚間新聞搶先報(普)</desc>
+  </programme>
+  <programme start="20260228175500 +0800" stop="20260228182500 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260228182500 +0800" stop="20260228200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260228200000 +0800" stop="20260228210000 +0800" channel="民視台灣台">
+    <title lang="chi">青春異言堂(普)</title>
+    <desc lang="chi">青春異言堂(普)</desc>
+  </programme>
+  <programme start="20260228210000 +0800" stop="20260228220000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣演義(普)</title>
+    <desc lang="chi">台灣演義(普)</desc>
+  </programme>
+  <programme start="20260228220000 +0800" stop="20260228230000 +0800" channel="民視台灣台">
+    <title lang="chi">十點不一樣(普)</title>
+    <desc lang="chi">十點不一樣(普)</desc>
+  </programme>
+  <programme start="20260228230000 +0800" stop="20260301000000 +0800" channel="民視台灣台">
+    <title lang="chi">民視異言堂(普)</title>
+    <desc lang="chi">民視異言堂(普)</desc>
+  </programme>
+  <programme start="20260301000000 +0800" stop="20260301010000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-四季線上(普)</title>
+    <desc lang="chi">想像台灣-四季線上(普)</desc>
+  </programme>
+  <programme start="20260301010000 +0800" stop="20260301020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260301020000 +0800" stop="20260301030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-四季線上(普)</title>
+    <desc lang="chi">Go Go Taiwan-四季線上(普)</desc>
+  </programme>
+  <programme start="20260301030000 +0800" stop="20260301040000 +0800" channel="民視台灣台">
+    <title lang="chi">唱頌台灣(普)</title>
+    <desc lang="chi">唱頌台灣(普)</desc>
+  </programme>
+  <programme start="20260301040000 +0800" stop="20260301050000 +0800" channel="民視台灣台">
+    <title lang="chi">青春異言堂(普)</title>
+    <desc lang="chi">青春異言堂(普)</desc>
+  </programme>
+  <programme start="20260302110000 +0800" stop="20260302120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260302120000 +0800" stop="20260302135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260302135000 +0800" stop="20260302135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260302135500 +0800" stop="20260302140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260302140000 +0800" stop="20260302150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-四季線上(普)</title>
+    <desc lang="chi">Go Go Taiwan-四季線上(普)</desc>
+  </programme>
+  <programme start="20260302150000 +0800" stop="20260302160000 +0800" channel="民視台灣台">
+    <title lang="chi">名醫妙方(普)</title>
+    <desc lang="chi">名醫妙方(普)</desc>
+  </programme>
+  <programme start="20260302160000 +0800" stop="20260302163000 +0800" channel="民視台灣台">
+    <title lang="chi">哲學談淺淺地(普)</title>
+    <desc lang="chi">哲學談淺淺地(普)</desc>
+  </programme>
+  <programme start="20260302163000 +0800" stop="20260302170000 +0800" channel="民視台灣台">
+    <title lang="chi">客家歷史共下來讀(普)</title>
+    <desc lang="chi">客家歷史共下來讀(普)</desc>
+  </programme>
+  <programme start="20260302170000 +0800" stop="20260302180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260302180000 +0800" stop="20260302183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260302183000 +0800" stop="20260302190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260302190000 +0800" stop="20260302200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260302200000 +0800" stop="20260302210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260302210000 +0800" stop="20260302213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260302213000 +0800" stop="20260302220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260302220000 +0800" stop="20260302224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260302224500 +0800" stop="20260303000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260303000000 +0800" stop="20260303010000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260303010000 +0800" stop="20260303020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260303020000 +0800" stop="20260303030000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-四季線上(普)</title>
+    <desc lang="chi">Go Go Taiwan-四季線上(普)</desc>
+  </programme>
+  <programme start="20260303030000 +0800" stop="20260303033000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260303033000 +0800" stop="20260303040000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260303040000 +0800" stop="20260303050000 +0800" channel="民視台灣台">
+    <title lang="chi">名醫妙方(普)</title>
+    <desc lang="chi">名醫妙方(普)</desc>
+  </programme>
+  <programme start="20260303050000 +0800" stop="20260303053000 +0800" channel="民視台灣台">
+    <title lang="chi">哲學談淺淺地(普)</title>
+    <desc lang="chi">哲學談淺淺地(普)</desc>
+  </programme>
+  <programme start="20260303053000 +0800" stop="20260303060000 +0800" channel="民視台灣台">
+    <title lang="chi">客家歷史共下來讀(普)</title>
+    <desc lang="chi">客家歷史共下來讀(普)</desc>
+  </programme>
+  <programme start="20260303060000 +0800" stop="20260303070000 +0800" channel="民視台灣台">
+    <title lang="chi">民視六點晨間新聞(普)</title>
+    <desc lang="chi">民視六點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260303070000 +0800" stop="20260303080000 +0800" channel="民視台灣台">
+    <title lang="chi">民視七點晨間新聞(普)</title>
+    <desc lang="chi">民視七點晨間新聞(普)</desc>
+  </programme>
+  <programme start="20260303080000 +0800" stop="20260303090000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260303090000 +0800" stop="20260303100000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-四季線上(普)</title>
+    <desc lang="chi">想像台灣-四季線上(普)</desc>
+  </programme>
+  <programme start="20260303100000 +0800" stop="20260303110000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260303110000 +0800" stop="20260303120000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260303120000 +0800" stop="20260303135000 +0800" channel="民視台灣台">
+    <title lang="chi">民視午間新聞(普)</title>
+    <desc lang="chi">民視午間新聞(普)</desc>
+  </programme>
+  <programme start="20260303135000 +0800" stop="20260303135500 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260303135500 +0800" stop="20260303140000 +0800" channel="民視台灣台">
+    <title lang="chi">飛閱文學地景X(普)</title>
+    <desc lang="chi">飛閱文學地景X(普)</desc>
+  </programme>
+  <programme start="20260303140000 +0800" stop="20260303150000 +0800" channel="民視台灣台">
+    <title lang="chi">Go Go Taiwan-四季線上(普)</title>
+    <desc lang="chi">Go Go Taiwan-四季線上(普)</desc>
+  </programme>
+  <programme start="20260303150000 +0800" stop="20260303160000 +0800" channel="民視台灣台">
+    <title lang="chi">想像台灣-四季線上(普)</title>
+    <desc lang="chi">想像台灣-四季線上(普)</desc>
+  </programme>
+  <programme start="20260303160000 +0800" stop="20260303170000 +0800" channel="民視台灣台">
+    <title lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</title>
+    <desc lang="chi">我們一家人 WE ARE TEAM TAIWAN!(普)</desc>
+  </programme>
+  <programme start="20260303170000 +0800" stop="20260303180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260303180000 +0800" stop="20260303183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260303183000 +0800" stop="20260303190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260303190000 +0800" stop="20260303200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260303200000 +0800" stop="20260303210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260303210000 +0800" stop="20260303213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260303213000 +0800" stop="20260303220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260303220000 +0800" stop="20260303224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260303224500 +0800" stop="20260304000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260304000000 +0800" stop="20260304010000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260304010000 +0800" stop="20260304020000 +0800" channel="民視台灣台">
+    <title lang="chi">科學再發現(普)</title>
+    <desc lang="chi">科學再發現(普)</desc>
+  </programme>
+  <programme start="20260304170000 +0800" stop="20260304180000 +0800" channel="民視台灣台">
+    <title lang="chi">蔬食GO健康(普)</title>
+    <desc lang="chi">蔬食GO健康(普)</desc>
+  </programme>
+  <programme start="20260304180000 +0800" stop="20260304183000 +0800" channel="民視台灣台">
+    <title lang="chi">民視台語新聞(普)</title>
+    <desc lang="chi">民視台語新聞(普)</desc>
+  </programme>
+  <programme start="20260304183000 +0800" stop="20260304190000 +0800" channel="民視台灣台">
+    <title lang="chi">快樂故事屋(普)</title>
+    <desc lang="chi">快樂故事屋(普)</desc>
+  </programme>
+  <programme start="20260304190000 +0800" stop="20260304200000 +0800" channel="民視台灣台">
+    <title lang="chi">民視晚間新聞(普)</title>
+    <desc lang="chi">民視晚間新聞(普)</desc>
+  </programme>
+  <programme start="20260304200000 +0800" stop="20260304210000 +0800" channel="民視台灣台">
+    <title lang="chi">世界大舞台(普)</title>
+    <desc lang="chi">世界大舞台(普)</desc>
+  </programme>
+  <programme start="20260304210000 +0800" stop="20260304213000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣心在地情(普)</title>
+    <desc lang="chi">台灣心在地情(普)</desc>
+  </programme>
+  <programme start="20260304213000 +0800" stop="20260304220000 +0800" channel="民視台灣台">
+    <title lang="chi">TaiwanTonight(普)</title>
+    <desc lang="chi">TaiwanTonight(普)</desc>
+  </programme>
+  <programme start="20260304220000 +0800" stop="20260304224500 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+  <programme start="20260304224500 +0800" stop="20260305000000 +0800" channel="民視台灣台">
+    <title lang="chi">台灣最前線(普)</title>
+    <desc lang="chi">台灣最前線(普)</desc>
+  </programme>
+</tv>

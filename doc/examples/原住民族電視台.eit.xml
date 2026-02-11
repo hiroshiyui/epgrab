@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="原住民族電視台">
+    <display-name>原住民族電視台</display-name>
+  </channel>
+  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 41</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 41</desc>
+  </programme>
+  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 96</title>
+    <desc lang="chi">Mathariri說說話 96</desc>
+  </programme>
+  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="原住民族電視台">
+    <title lang="chi">Zalan見識南島 116</title>
+    <desc lang="chi">Zalan見識南島 116</desc>
+  </programme>
+  <programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 【首】 42</title>
+    <desc lang="chi">看見族語-鄒族 Cou 【首】 42</desc>
+  </programme>
+  <programme start="20260211120000 +0800" stop="20260211130000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】 42</title>
+    <desc lang="chi">原視《午安報新聞》 【首】 42</desc>
+  </programme>
+  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 96</title>
+    <desc lang="chi">Mathariri說說話 96</desc>
+  </programme>
+  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 41</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 41</desc>
+  </programme>
+  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-雅美族 Yami 41</title>
+    <desc lang="chi">看見族語-雅美族 Yami 41</desc>
+  </programme>
+  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Ita看世界 242</title>
+    <desc lang="chi">Ita看世界 242</desc>
+  </programme>
+  <programme start="20260211170000 +0800" stop="20260211173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台  37</title>
+    <desc lang="chi">族語E樂園繪本平台  37</desc>
+  </programme>
+  <programme start="20260211173000 +0800" stop="20260211180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 10</title>
+    <desc lang="chi">senay345 10</desc>
+  </programme>
+  <programme start="20260211180000 +0800" stop="20260211183000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 74</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 74</desc>
+  </programme>
+  <programme start="20260211183000 +0800" stop="20260211190000 +0800" channel="原住民族電視台">
+    <title lang="chi">malo&apos;lay 聽故事 1</title>
+    <desc lang="chi">malo&apos;lay 聽故事 1</desc>
+  </programme>
+  <programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 42</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 42</desc>
+  </programme>
+  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 【首】 42</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 【首】 42</desc>
+  </programme>
+  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 97</title>
+    <desc lang="chi">Mathariri說說話 97</desc>
+  </programme>
+  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 6</title>
+    <desc lang="chi">來去部落kivala 6</desc>
+  </programme>
+  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 42</title>
+    <desc lang="chi">原視《晚安報新聞》 42</desc>
+  </programme>
+  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="原住民族電視台">
+    <title lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 4</title>
+    <desc lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 4</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 42</title>
+    <desc lang="chi">看見族語-鄒族 Cou 42</desc>
+  </programme>
+  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 42</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 42</desc>
+  </programme>
+  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 42</title>
+    <desc lang="chi">看見族語-鄒族 Cou 42</desc>
+  </programme>
+  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 42</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 42</desc>
+  </programme>
+  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="原住民族電視台">
+    <title lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 4</title>
+    <desc lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 4</desc>
+  </programme>
+  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 10</title>
+    <desc lang="chi">senay345 10</desc>
+  </programme>
+  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 75</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 75</desc>
+  </programme>
+  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 6</title>
+    <desc lang="chi">來去部落kivala 6</desc>
+  </programme>
+  <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 42</title>
+    <desc lang="chi">看見族語-鄒族 Cou 42</desc>
+  </programme>
+  <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 97</title>
+    <desc lang="chi">Mathariri說說話 97</desc>
+  </programme>
+  <programme start="20260212100000 +0800" stop="20260212110000 +0800" channel="原住民族電視台">
+    <title lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 4</title>
+    <desc lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 4</desc>
+  </programme>
+  <programme start="20260212110000 +0800" stop="20260212120000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 【首】 43</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 【首】 43</desc>
+  </programme>
+  <programme start="20260212120000 +0800" stop="20260212130000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  43</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  43</desc>
+  </programme>
+  <programme start="20260212130000 +0800" stop="20260212140000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 97</title>
+    <desc lang="chi">Mathariri說說話 97</desc>
+  </programme>
+  <programme start="20260212140000 +0800" stop="20260212150000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 42</title>
+    <desc lang="chi">看見族語-鄒族 Cou 42</desc>
+  </programme>
+  <programme start="20260212150000 +0800" stop="20260212160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 42</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 42</desc>
+  </programme>
+  <programme start="20260212160000 +0800" stop="20260212170000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 6</title>
+    <desc lang="chi">來去部落kivala 6</desc>
+  </programme>
+  <programme start="20260212170000 +0800" stop="20260212173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 38</title>
+    <desc lang="chi">族語E樂園繪本平台 38</desc>
+  </programme>
+  <programme start="20260212173000 +0800" stop="20260212180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 11</title>
+    <desc lang="chi">senay345 11</desc>
+  </programme>
+  <programme start="20260212180000 +0800" stop="20260212183000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 75</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 75</desc>
+  </programme>
+  <programme start="20260212183000 +0800" stop="20260212190000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 1</title>
+    <desc lang="chi">樹人大冒險 1</desc>
+  </programme>
+  <programme start="20260212190000 +0800" stop="20260212200000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 43</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 43</desc>
+  </programme>
+  <programme start="20260212200000 +0800" stop="20260212210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 【首】 43</title>
+    <desc lang="chi">看見族語-布農族 Bunun 【首】 43</desc>
+  </programme>
+  <programme start="20260212210000 +0800" stop="20260212220000 +0800" channel="原住民族電視台">
+    <title lang="chi">老同學我就問 127</title>
+    <desc lang="chi">老同學我就問 127</desc>
+  </programme>
+  <programme start="20260212220000 +0800" stop="20260212230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 94</title>
+    <desc lang="chi">Mahalinga好好講 94</desc>
+  </programme>
+  <programme start="20260212230000 +0800" stop="20260213000000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 43</title>
+    <desc lang="chi">原視《晚安報新聞》 43</desc>
+  </programme>
+  <programme start="20260213000000 +0800" stop="20260213010000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 45</title>
+    <desc lang="chi">ila跟土地學做飯 45</desc>
+  </programme>
+  <programme start="20260213010000 +0800" stop="20260213020000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 43</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 43</desc>
+  </programme>
+  <programme start="20260213020000 +0800" stop="20260213030000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 43</title>
+    <desc lang="chi">看見族語-布農族 Bunun 43</desc>
+  </programme>
+  <programme start="20260213030000 +0800" stop="20260213040000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 43</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 43</desc>
+  </programme>
+  <programme start="20260213040000 +0800" stop="20260213050000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 43</title>
+    <desc lang="chi">看見族語-布農族 Bunun 43</desc>
+  </programme>
+  <programme start="20260213050000 +0800" stop="20260213060000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 45</title>
+    <desc lang="chi">ila跟土地學做飯 45</desc>
+  </programme>
+  <programme start="20260213060000 +0800" stop="20260213063000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 11</title>
+    <desc lang="chi">senay345 11</desc>
+  </programme>
+  <programme start="20260213063000 +0800" stop="20260213070000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 76</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 76</desc>
+  </programme>
+  <programme start="20260213070000 +0800" stop="20260213080000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 94</title>
+    <desc lang="chi">Mahalinga好好講 94</desc>
+  </programme>
+  <programme start="20260213080000 +0800" stop="20260213090000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 43</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 43</desc>
+  </programme>
+  <programme start="20260213090000 +0800" stop="20260213100000 +0800" channel="原住民族電視台">
+    <title lang="chi">老同學我就問 127</title>
+    <desc lang="chi">老同學我就問 127</desc>
+  </programme>
+  <programme start="20260213100000 +0800" stop="20260213110000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 45</title>
+    <desc lang="chi">ila跟土地學做飯 45</desc>
+  </programme>
+  <programme start="20260213110000 +0800" stop="20260213120000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 【首】 44</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 【首】 44</desc>
+  </programme>
+  <programme start="20260213120000 +0800" stop="20260213130000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  44</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  44</desc>
+  </programme>
+  <programme start="20260213130000 +0800" stop="20260213140000 +0800" channel="原住民族電視台">
+    <title lang="chi">老同學我就問 127</title>
+    <desc lang="chi">老同學我就問 127</desc>
+  </programme>
+  <programme start="20260213140000 +0800" stop="20260213150000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 43</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 43</desc>
+  </programme>
+  <programme start="20260213150000 +0800" stop="20260213160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 43</title>
+    <desc lang="chi">看見族語-布農族 Bunun 43</desc>
+  </programme>
+  <programme start="20260213160000 +0800" stop="20260213170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 94</title>
+    <desc lang="chi">Mahalinga好好講 94</desc>
+  </programme>
+  <programme start="20260213170000 +0800" stop="20260213173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園動畫平台 85</title>
+    <desc lang="chi">族語E樂園動畫平台 85</desc>
+  </programme>
+  <programme start="20260213173000 +0800" stop="20260213180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 12</title>
+    <desc lang="chi">senay345 12</desc>
+  </programme>
+  <programme start="20260213180000 +0800" stop="20260213183000 +0800" channel="原住民族電視台">
+    <title lang="chi">Talagay 我最強 4</title>
+    <desc lang="chi">Talagay 我最強 4</desc>
+  </programme>
+  <programme start="20260213183000 +0800" stop="20260213190000 +0800" channel="原住民族電視台">
+    <title lang="chi">kakudan時光機 93</title>
+    <desc lang="chi">kakudan時光機 93</desc>
+  </programme>
+  <programme start="20260213190000 +0800" stop="20260213200000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 44</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 44</desc>
+  </programme>
+  <programme start="20260213200000 +0800" stop="20260213210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat 【首】 44</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat 【首】 44</desc>
+  </programme>
+  <programme start="20260213210000 +0800" stop="20260213220000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kai試英雄 127</title>
+    <desc lang="chi">Kai試英雄 127</desc>
+  </programme>
+  <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="原住民族電視台">
+    <title lang="chi">LiMA新聞世界 【首】  629</title>
+    <desc lang="chi">LiMA新聞世界 【首】  629</desc>
+  </programme>
+  <programme start="20260213230000 +0800" stop="20260214000000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 44</title>
+    <desc lang="chi">原視《晚安報新聞》 44</desc>
+  </programme>
+  <programme start="20260214000000 +0800" stop="20260214010000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kai試英雄 127</title>
+    <desc lang="chi">Kai試英雄 127</desc>
+  </programme>
+  <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 44</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 44</desc>
+  </programme>
+  <programme start="20260214020000 +0800" stop="20260214030000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat  44</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat  44</desc>
+  </programme>
+  <programme start="20260214030000 +0800" stop="20260214040000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 44</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 44</desc>
+  </programme>
+  <programme start="20260214040000 +0800" stop="20260214050000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat  44</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat  44</desc>
+  </programme>
+  <programme start="20260214050000 +0800" stop="20260214060000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kai試英雄 127</title>
+    <desc lang="chi">Kai試英雄 127</desc>
+  </programme>
+  <programme start="20260214060000 +0800" stop="20260214063000 +0800" channel="原住民族電視台">
+    <title lang="chi">kari不停學 3</title>
+    <desc lang="chi">kari不停學 3</desc>
+  </programme>
+  <programme start="20260214063000 +0800" stop="20260214070000 +0800" channel="原住民族電視台">
+    <title lang="chi">kiratam預備起 11</title>
+    <desc lang="chi">kiratam預備起 11</desc>
+  </programme>
+  <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="原住民族電視台">
+    <title lang="chi">LiMA新聞世界 629</title>
+    <desc lang="chi">LiMA新聞世界 629</desc>
+  </programme>
+  <programme start="20260214080000 +0800" stop="20260214090000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-邵族 Thau 【首】 45</title>
+    <desc lang="chi">看見族語-邵族 Thau 【首】 45</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214100000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 44</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 44</desc>
+  </programme>
+  <programme start="20260214100000 +0800" stop="20260214103000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 8</title>
+    <desc lang="chi">Matazua 唱 就對了 8</desc>
+  </programme>
+  <programme start="20260214103000 +0800" stop="20260214110000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 1</title>
+    <desc lang="chi">Matazua 唱 就對了 1</desc>
+  </programme>
+  <programme start="20260214110000 +0800" stop="20260214120000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 【首】 45</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 【首】 45</desc>
+  </programme>
+  <programme start="20260214120000 +0800" stop="20260214123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  45</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  45</desc>
+  </programme>
+  <programme start="20260214123000 +0800" stop="20260214130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 8</title>
+    <desc lang="chi">Matazua 唱 就對了 8</desc>
+  </programme>
+  <programme start="20260214130000 +0800" stop="20260214140000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kai試英雄 127</title>
+    <desc lang="chi">Kai試英雄 127</desc>
+  </programme>
+  <programme start="20260214140000 +0800" stop="20260214150000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 44</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 44</desc>
+  </programme>
+  <programme start="20260214150000 +0800" stop="20260214160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat  44</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat  44</desc>
+  </programme>
+  <programme start="20260214160000 +0800" stop="20260214170000 +0800" channel="原住民族電視台">
+    <title lang="chi">LiMA新聞世界 629</title>
+    <desc lang="chi">LiMA新聞世界 629</desc>
+  </programme>
+  <programme start="20260214170000 +0800" stop="20260214173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 37</title>
+    <desc lang="chi">族語E樂園繪本平台 37</desc>
+  </programme>
+  <programme start="20260214173000 +0800" stop="20260214180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 11</title>
+    <desc lang="chi">senay345 11</desc>
+  </programme>
+  <programme start="20260214180000 +0800" stop="20260214183000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 75</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 75</desc>
+  </programme>
+  <programme start="20260214183000 +0800" stop="20260214190000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 1</title>
+    <desc lang="chi">樹人大冒險 1</desc>
+  </programme>
+  <programme start="20260214190000 +0800" stop="20260214193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 45</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 45</desc>
+  </programme>
+  <programme start="20260214193000 +0800" stop="20260214200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 8</title>
+    <desc lang="chi">Matazua 唱 就對了 8</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260214210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan 【首】 45</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan 【首】 45</desc>
+  </programme>
+  <programme start="20260214210000 +0800" stop="20260214220000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 46</title>
+    <desc lang="chi">ila跟土地學做飯 46</desc>
+  </programme>
+  <programme start="20260214220000 +0800" stop="20260214230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Musasuhis百年之路 【首】 20</title>
+    <desc lang="chi">Musasuhis百年之路 【首】 20</desc>
+  </programme>
+  <programme start="20260214230000 +0800" stop="20260214233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 45</title>
+    <desc lang="chi">原視《晚安報新聞》 45</desc>
+  </programme>
+  <programme start="20260214233000 +0800" stop="20260215000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 8</title>
+    <desc lang="chi">Matazua 唱 就對了 8</desc>
+  </programme>
+  <programme start="20260215000000 +0800" stop="20260215003000 +0800" channel="原住民族電視台">
+    <title lang="chi">malo&apos;lay 聽故事 1</title>
+    <desc lang="chi">malo&apos;lay 聽故事 1</desc>
+  </programme>
+  <programme start="20260215003000 +0800" stop="20260215010000 +0800" channel="原住民族電視台">
+    <title lang="chi">malo&apos;lay 聽故事 2</title>
+    <desc lang="chi">malo&apos;lay 聽故事 2</desc>
+  </programme>
+  <programme start="20260215010000 +0800" stop="20260215020000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 45</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 45</desc>
+  </programme>
+  <programme start="20260215020000 +0800" stop="20260215030000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan  45</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan  45</desc>
+  </programme>
+  <programme start="20260215030000 +0800" stop="20260215040000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 45</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 45</desc>
+  </programme>
+  <programme start="20260215040000 +0800" stop="20260215050000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan  45</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan  45</desc>
+  </programme>
+  <programme start="20260215050000 +0800" stop="20260215053000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 1</title>
+    <desc lang="chi">樹人大冒險 1</desc>
+  </programme>
+  <programme start="20260215053000 +0800" stop="20260215054500 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 2</title>
+    <desc lang="chi">樹人大冒險 2</desc>
+  </programme>
+  <programme start="20260215054500 +0800" stop="20260215060000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 3</title>
+    <desc lang="chi">樹人大冒險 3</desc>
+  </programme>
+  <programme start="20260215060000 +0800" stop="20260215070000 +0800" channel="原住民族電視台">
+    <title lang="chi">Musasuhis百年之路 20</title>
+    <desc lang="chi">Musasuhis百年之路 20</desc>
+  </programme>
+  <programme start="20260215070000 +0800" stop="20260215080000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 6</title>
+    <desc lang="chi">來去部落kivala 6</desc>
+  </programme>
+  <programme start="20260215080000 +0800" stop="20260215090000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-拉阿魯哇族 Hla&apos;alua 【首】 46</title>
+    <desc lang="chi">看見族語-拉阿魯哇族 Hla&apos;alua 【首】 46</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215100000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 45</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 45</desc>
+  </programme>
+  <programme start="20260215100000 +0800" stop="20260215110000 +0800" channel="原住民族電視台">
+    <title lang="chi">Musasuhis百年之路 20</title>
+    <desc lang="chi">Musasuhis百年之路 20</desc>
+  </programme>
+  <programme start="20260215110000 +0800" stop="20260215120000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 【首】 46</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 【首】 46</desc>
+  </programme>
+  <programme start="20260215120000 +0800" stop="20260215123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  46</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  46</desc>
+  </programme>
+  <programme start="20260215123000 +0800" stop="20260215130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了  1</title>
+    <desc lang="chi">Matazua 唱 就對了  1</desc>
+  </programme>
+  <programme start="20260215130000 +0800" stop="20260215140000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 46</title>
+    <desc lang="chi">ila跟土地學做飯 46</desc>
+  </programme>
+  <programme start="20260215140000 +0800" stop="20260215150000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 45</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 45</desc>
+  </programme>
+  <programme start="20260215150000 +0800" stop="20260215160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan  45</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan  45</desc>
+  </programme>
+  <programme start="20260215160000 +0800" stop="20260215170000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 6</title>
+    <desc lang="chi">來去部落kivala 6</desc>
+  </programme>
+  <programme start="20260215170000 +0800" stop="20260215173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 38</title>
+    <desc lang="chi">族語E樂園繪本平台 38</desc>
+  </programme>
+  <programme start="20260215173000 +0800" stop="20260215180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 12</title>
+    <desc lang="chi">senay345 12</desc>
+  </programme>
+  <programme start="20260215180000 +0800" stop="20260215183000 +0800" channel="原住民族電視台">
+    <title lang="chi">Talagay 我最強 4</title>
+    <desc lang="chi">Talagay 我最強 4</desc>
+  </programme>
+  <programme start="20260215183000 +0800" stop="20260215190000 +0800" channel="原住民族電視台">
+    <title lang="chi">kakudan時光機 93</title>
+    <desc lang="chi">kakudan時光機 93</desc>
+  </programme>
+  <programme start="20260215190000 +0800" stop="20260215193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 46</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 46</desc>
+  </programme>
+  <programme start="20260215193000 +0800" stop="20260215200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 1</title>
+    <desc lang="chi">Matazua 唱 就對了 1</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 【首】 46</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 【首】 46</desc>
+  </programme>
+  <programme start="20260215210000 +0800" stop="20260215220000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 5</title>
+    <desc lang="chi">Radiw不打烊 5</desc>
+  </programme>
+  <programme start="20260215220000 +0800" stop="20260215230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Zalan見識南島 【首】 117</title>
+    <desc lang="chi">Zalan見識南島 【首】 117</desc>
+  </programme>
+  <programme start="20260215230000 +0800" stop="20260215233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 46</title>
+    <desc lang="chi">原視《晚安報新聞》 46</desc>
+  </programme>
+  <programme start="20260215233000 +0800" stop="20260216000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 1</title>
+    <desc lang="chi">Matazua 唱 就對了 1</desc>
+  </programme>
+  <programme start="20260216000000 +0800" stop="20260216010000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 5</title>
+    <desc lang="chi">Radiw不打烊 5</desc>
+  </programme>
+  <programme start="20260216010000 +0800" stop="20260216020000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</desc>
+  </programme>
+  <programme start="20260216020000 +0800" stop="20260216030000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 46</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 46</desc>
+  </programme>
+  <programme start="20260216030000 +0800" stop="20260216040000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</desc>
+  </programme>
+  <programme start="20260216040000 +0800" stop="20260216050000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 46</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 46</desc>
+  </programme>
+  <programme start="20260216050000 +0800" stop="20260216060000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 5</title>
+    <desc lang="chi">Radiw不打烊 5</desc>
+  </programme>
+  <programme start="20260216060000 +0800" stop="20260216063000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 1</title>
+    <desc lang="chi">樹人大冒險 1</desc>
+  </programme>
+  <programme start="20260216063000 +0800" stop="20260216064500 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 2</title>
+    <desc lang="chi">樹人大冒險 2</desc>
+  </programme>
+  <programme start="20260216064500 +0800" stop="20260216070000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 3</title>
+    <desc lang="chi">樹人大冒險 3</desc>
+  </programme>
+  <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 94</title>
+    <desc lang="chi">Mahalinga好好講 94</desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216090000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216100000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 93</title>
+    <desc lang="chi">Mathariri說說話 93</desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 5</title>
+    <desc lang="chi">Radiw不打烊 5</desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-泰雅族 Atayal 【首】 47</title>
+    <desc lang="chi">看見族語-泰雅族 Atayal 【首】 47</desc>
+  </programme>
+  <programme start="20260216113000 +0800" stop="20260216120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 1</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 1</desc>
+  </programme>
+  <programme start="20260216120000 +0800" stop="20260216123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  47</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  47</desc>
+  </programme>
+  <programme start="20260216123000 +0800" stop="20260216130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 1</title>
+    <desc lang="chi">Matazua 唱 就對了 1</desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 93</title>
+    <desc lang="chi">Mathariri說說話 93</desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 46</desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 46</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 46</desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 94</title>
+    <desc lang="chi">Mahalinga好好講 94</desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 【首】 39</title>
+    <desc lang="chi">族語E樂園繪本平台 【首】 39</desc>
+  </programme>
+  <programme start="20260216173000 +0800" stop="20260216180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 13</title>
+    <desc lang="chi">senay345 13</desc>
+  </programme>
+  <programme start="20260216180000 +0800" stop="20260216183000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 77</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 77</desc>
+  </programme>
+  <programme start="20260216183000 +0800" stop="20260216190000 +0800" channel="原住民族電視台">
+    <title lang="chi">malo&apos;lay 聽故事 1</title>
+    <desc lang="chi">malo&apos;lay 聽故事 1</desc>
+  </programme>
+  <programme start="20260216190000 +0800" stop="20260216193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 47</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 47</desc>
+  </programme>
+  <programme start="20260216193000 +0800" stop="20260216200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 2</title>
+    <desc lang="chi">Matazua 唱 就對了 2</desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260216203000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-阿美族 Amis 【首】 47</title>
+    <desc lang="chi">看見族語-阿美族 Amis 【首】 47</desc>
+  </programme>
+  <programme start="20260216203000 +0800" stop="20260216210000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 1</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 1</desc>
+  </programme>
+  <programme start="20260216210000 +0800" stop="20260216220000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 【首】 1</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 【首】 1</desc>
+  </programme>
+  <programme start="20260216220000 +0800" stop="20260216230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光 7</title>
+    <desc lang="chi">Kari Snruwan紀時光 7</desc>
+  </programme>
+  <programme start="20260216230000 +0800" stop="20260216233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 47</title>
+    <desc lang="chi">原視《晚安報新聞》 47</desc>
+  </programme>
+  <programme start="20260216233000 +0800" stop="20260217000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 2</title>
+    <desc lang="chi">Matazua 唱 就對了 2</desc>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217010000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila部落住一晚 12</title>
+    <desc lang="chi">ila部落住一晚 12</desc>
+  </programme>
+  <programme start="20260217010000 +0800" stop="20260217013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-泰雅族 Atayal 47</title>
+    <desc lang="chi">看見族語-泰雅族 Atayal 47</desc>
+  </programme>
+  <programme start="20260217013000 +0800" stop="20260217020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 1</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 1</desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217023000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-阿美族 Amis 47</title>
+    <desc lang="chi">看見族語-阿美族 Amis 47</desc>
+  </programme>
+  <programme start="20260217023000 +0800" stop="20260217030000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 1</title>
+    <desc lang="chi">來去部落kivala新春特輯 1</desc>
+  </programme>
+  <programme start="20260217030000 +0800" stop="20260217033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-泰雅族 Atayal 47</title>
+    <desc lang="chi">看見族語-泰雅族 Atayal 47</desc>
+  </programme>
+  <programme start="20260217033000 +0800" stop="20260217040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 1</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 1</desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217043000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-阿美族 Amis 47</title>
+    <desc lang="chi">看見族語-阿美族 Amis 47</desc>
+  </programme>
+  <programme start="20260217043000 +0800" stop="20260217050000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 1</title>
+    <desc lang="chi">來去部落kivala新春特輯 1</desc>
+  </programme>
+  <programme start="20260217050000 +0800" stop="20260217060000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila部落住一晚 12</title>
+    <desc lang="chi">ila部落住一晚 12</desc>
+  </programme>
+  <programme start="20260217060000 +0800" stop="20260217063000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 13</title>
+    <desc lang="chi">senay345 13</desc>
+  </programme>
+  <programme start="20260217063000 +0800" stop="20260217070000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 78</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 78</desc>
+  </programme>
+  <programme start="20260217070000 +0800" stop="20260217080000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光 7</title>
+    <desc lang="chi">Kari Snruwan紀時光 7</desc>
+  </programme>
+  <programme start="20260217080000 +0800" stop="20260217083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-泰雅族 Atayal 47</title>
+    <desc lang="chi">看見族語-泰雅族 Atayal 47</desc>
+  </programme>
+  <programme start="20260217083000 +0800" stop="20260217090000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 1</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 1</desc>
+  </programme>
+  <programme start="20260217090000 +0800" stop="20260217100000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 94</title>
+    <desc lang="chi">Mathariri說說話 94</desc>
+  </programme>
+  <programme start="20260217100000 +0800" stop="20260217110000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 1</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 1</desc>
+  </programme>
+  <programme start="20260217110000 +0800" stop="20260217113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 【首】 48</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 【首】 48</desc>
+  </programme>
+  <programme start="20260217113000 +0800" stop="20260217120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 2</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 2</desc>
+  </programme>
+  <programme start="20260217120000 +0800" stop="20260217123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】 48</title>
+    <desc lang="chi">原視《午安報新聞》 【首】 48</desc>
+  </programme>
+  <programme start="20260217123000 +0800" stop="20260217130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 2</title>
+    <desc lang="chi">Matazua 唱 就對了 2</desc>
+  </programme>
+  <programme start="20260217130000 +0800" stop="20260217140000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 1</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 1</desc>
+  </programme>
+  <programme start="20260217140000 +0800" stop="20260217143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-泰雅族 Atayal 47</title>
+    <desc lang="chi">看見族語-泰雅族 Atayal 47</desc>
+  </programme>
+  <programme start="20260217143000 +0800" stop="20260217150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 1</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 1</desc>
+  </programme>
+  <programme start="20260217150000 +0800" stop="20260217153000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-阿美族 Amis 47</title>
+    <desc lang="chi">看見族語-阿美族 Amis 47</desc>
+  </programme>
+  <programme start="20260217153000 +0800" stop="20260217160000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 1</title>
+    <desc lang="chi">來去部落kivala新春特輯 1</desc>
+  </programme>
+  <programme start="20260217160000 +0800" stop="20260217170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光 7</title>
+    <desc lang="chi">Kari Snruwan紀時光 7</desc>
+  </programme>
+  <programme start="20260217170000 +0800" stop="20260217173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 【首】 40</title>
+    <desc lang="chi">族語E樂園繪本平台 【首】 40</desc>
+  </programme>
+  <programme start="20260217173000 +0800" stop="20260217180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 14</title>
+    <desc lang="chi">senay345 14</desc>
+  </programme>
+  <programme start="20260217180000 +0800" stop="20260217190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 1</title>
+    <desc lang="chi">zangali 群島之力 【首】 1</desc>
+  </programme>
+  <programme start="20260217190000 +0800" stop="20260217193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 48</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 48</desc>
+  </programme>
+  <programme start="20260217193000 +0800" stop="20260217200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 3</title>
+    <desc lang="chi">Matazua 唱 就對了 3</desc>
+  </programme>
+  <programme start="20260217200000 +0800" stop="20260217210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-雅美族 Yami 【首】 48</title>
+    <desc lang="chi">看見族語-雅美族 Yami 【首】 48</desc>
+  </programme>
+  <programme start="20260217210000 +0800" stop="20260217220000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 【首】 2</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 【首】 2</desc>
+  </programme>
+  <programme start="20260217220000 +0800" stop="20260217230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Ita看世界 【首】   243</title>
+    <desc lang="chi">Ita看世界 【首】   243</desc>
+  </programme>
+  <programme start="20260217230000 +0800" stop="20260217233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 48</title>
+    <desc lang="chi">原視《晚安報新聞》 48</desc>
+  </programme>
+  <programme start="20260217233000 +0800" stop="20260218000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 3</title>
+    <desc lang="chi">Matazua 唱 就對了 3</desc>
+  </programme>
+  <programme start="20260218000000 +0800" stop="20260218010000 +0800" channel="原住民族電視台">
+    <title lang="chi">Zalan見識南島 117</title>
+    <desc lang="chi">Zalan見識南島 117</desc>
+  </programme>
+  <programme start="20260218010000 +0800" stop="20260218013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 48</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 48</desc>
+  </programme>
+  <programme start="20260218013000 +0800" stop="20260218020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 2</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 2</desc>
+  </programme>
+  <programme start="20260218020000 +0800" stop="20260218030000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-雅美族 Yami 48</title>
+    <desc lang="chi">看見族語-雅美族 Yami 48</desc>
+  </programme>
+  <programme start="20260218030000 +0800" stop="20260218033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 48</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 48</desc>
+  </programme>
+  <programme start="20260218033000 +0800" stop="20260218040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 2</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 2</desc>
+  </programme>
+  <programme start="20260218040000 +0800" stop="20260218050000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-雅美族 Yami 48</title>
+    <desc lang="chi">看見族語-雅美族 Yami 48</desc>
+  </programme>
+  <programme start="20260218050000 +0800" stop="20260218060000 +0800" channel="原住民族電視台">
+    <title lang="chi">Zalan見識南島 117</title>
+    <desc lang="chi">Zalan見識南島 117</desc>
+  </programme>
+  <programme start="20260218060000 +0800" stop="20260218063000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 14</title>
+    <desc lang="chi">senay345 14</desc>
+  </programme>
+  <programme start="20260218063000 +0800" stop="20260218070000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 79</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 79</desc>
+  </programme>
+  <programme start="20260218070000 +0800" stop="20260218080000 +0800" channel="原住民族電視台">
+    <title lang="chi">Ita看世界 243</title>
+    <desc lang="chi">Ita看世界 243</desc>
+  </programme>
+  <programme start="20260218080000 +0800" stop="20260218083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 48</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 48</desc>
+  </programme>
+  <programme start="20260218083000 +0800" stop="20260218090000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 2</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 2</desc>
+  </programme>
+  <programme start="20260218090000 +0800" stop="20260218100000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 1</title>
+    <desc lang="chi">zangali 群島之力 1</desc>
+  </programme>
+  <programme start="20260218100000 +0800" stop="20260218110000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 2</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 2</desc>
+  </programme>
+  <programme start="20260218110000 +0800" stop="20260218113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 【首】 49</title>
+    <desc lang="chi">看見族語-鄒族 Cou 【首】 49</desc>
+  </programme>
+  <programme start="20260218113000 +0800" stop="20260218120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 3</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 3</desc>
+  </programme>
+  <programme start="20260218120000 +0800" stop="20260218123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】 49</title>
+    <desc lang="chi">原視《午安報新聞》 【首】 49</desc>
+  </programme>
+  <programme start="20260218123000 +0800" stop="20260218130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 3</title>
+    <desc lang="chi">Matazua 唱 就對了 3</desc>
+  </programme>
+  <programme start="20260218130000 +0800" stop="20260218140000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 2</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 2</desc>
+  </programme>
+  <programme start="20260218140000 +0800" stop="20260218143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-噶瑪蘭族 Kavalan 48</title>
+    <desc lang="chi">看見族語-噶瑪蘭族 Kavalan 48</desc>
+  </programme>
+  <programme start="20260218143000 +0800" stop="20260218150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 2</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 2</desc>
+  </programme>
+  <programme start="20260218150000 +0800" stop="20260218160000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-雅美族 Yami 48</title>
+    <desc lang="chi">看見族語-雅美族 Yami 48</desc>
+  </programme>
+  <programme start="20260218160000 +0800" stop="20260218170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Ita看世界 243</title>
+    <desc lang="chi">Ita看世界 243</desc>
+  </programme>
+  <programme start="20260218170000 +0800" stop="20260218173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 39</title>
+    <desc lang="chi">族語E樂園繪本平台 39</desc>
+  </programme>
+  <programme start="20260218173000 +0800" stop="20260218180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 15</title>
+    <desc lang="chi">senay345 15</desc>
+  </programme>
+  <programme start="20260218180000 +0800" stop="20260218190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 2</title>
+    <desc lang="chi">zangali 群島之力 【首】 2</desc>
+  </programme>
+  <programme start="20260218190000 +0800" stop="20260218193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 49</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 49</desc>
+  </programme>
+  <programme start="20260218193000 +0800" stop="20260218200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 4</title>
+    <desc lang="chi">Matazua 唱 就對了 4</desc>
+  </programme>
+  <programme start="20260218200000 +0800" stop="20260218203000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 【首】 49</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 【首】 49</desc>
+  </programme>
+  <programme start="20260218203000 +0800" stop="20260218210000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 2</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 2</desc>
+  </programme>
+  <programme start="20260218210000 +0800" stop="20260218220000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 【首】 3</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 【首】 3</desc>
+  </programme>
+  <programme start="20260218220000 +0800" stop="20260218230000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 7</title>
+    <desc lang="chi">來去部落kivala 7</desc>
+  </programme>
+  <programme start="20260218230000 +0800" stop="20260218233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 49</title>
+    <desc lang="chi">原視《晚安報新聞》 49</desc>
+  </programme>
+  <programme start="20260218233000 +0800" stop="20260219000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 4</title>
+    <desc lang="chi">Matazua 唱 就對了 4</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219010000 +0800" channel="原住民族電視台">
+    <title lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 5</title>
+    <desc lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 5</desc>
+  </programme>
+  <programme start="20260219010000 +0800" stop="20260219013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 49</title>
+    <desc lang="chi">看見族語-鄒族 Cou 49</desc>
+  </programme>
+  <programme start="20260219013000 +0800" stop="20260219020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 3</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 3</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219023000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 49</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 49</desc>
+  </programme>
+  <programme start="20260219023000 +0800" stop="20260219030000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 2</title>
+    <desc lang="chi">來去部落kivala新春特輯 2</desc>
+  </programme>
+  <programme start="20260219030000 +0800" stop="20260219033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 49</title>
+    <desc lang="chi">看見族語-鄒族 Cou 49</desc>
+  </programme>
+  <programme start="20260219033000 +0800" stop="20260219040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 3</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 3</desc>
+  </programme>
+  <programme start="20260219040000 +0800" stop="20260219043000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 49</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 49</desc>
+  </programme>
+  <programme start="20260219043000 +0800" stop="20260219050000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 2</title>
+    <desc lang="chi">來去部落kivala新春特輯 2</desc>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219060000 +0800" channel="原住民族電視台">
+    <title lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 5</title>
+    <desc lang="chi">藝術二分之一 Art kak&apos;I&apos;iyaeh 5</desc>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219063000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 15</title>
+    <desc lang="chi">senay345 15</desc>
+  </programme>
+  <programme start="20260219063000 +0800" stop="20260219070000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 80</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 80</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219080000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 7</title>
+    <desc lang="chi">來去部落kivala 7</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 49</title>
+    <desc lang="chi">看見族語-鄒族 Cou 49</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219090000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 3</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 3</desc>
+  </programme>
+  <programme start="20260219090000 +0800" stop="20260219100000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 2</title>
+    <desc lang="chi">zangali 群島之力 2</desc>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219110000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 3</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 3</desc>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 【首】 50</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 【首】 50</desc>
+  </programme>
+  <programme start="20260219113000 +0800" stop="20260219120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 4</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 4</desc>
+  </programme>
+  <programme start="20260219120000 +0800" stop="20260219123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】 50</title>
+    <desc lang="chi">原視《午安報新聞》 【首】 50</desc>
+  </programme>
+  <programme start="20260219123000 +0800" stop="20260219130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 4</title>
+    <desc lang="chi">Matazua 唱 就對了 4</desc>
+  </programme>
+  <programme start="20260219130000 +0800" stop="20260219140000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 3</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 3</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-鄒族 Cou 49</title>
+    <desc lang="chi">看見族語-鄒族 Cou 49</desc>
+  </programme>
+  <programme start="20260219143000 +0800" stop="20260219150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 3</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 3</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219153000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-撒奇萊雅族 Sakizaya 49</title>
+    <desc lang="chi">看見族語-撒奇萊雅族 Sakizaya 49</desc>
+  </programme>
+  <programme start="20260219153000 +0800" stop="20260219160000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 2</title>
+    <desc lang="chi">來去部落kivala新春特輯 2</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219170000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 7</title>
+    <desc lang="chi">來去部落kivala 7</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 40</title>
+    <desc lang="chi">族語E樂園繪本平台 40</desc>
+  </programme>
+  <programme start="20260219173000 +0800" stop="20260219180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 16</title>
+    <desc lang="chi">senay345 16</desc>
+  </programme>
+  <programme start="20260219180000 +0800" stop="20260219190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 3</title>
+    <desc lang="chi">zangali 群島之力 【首】 3</desc>
+  </programme>
+  <programme start="20260219190000 +0800" stop="20260219193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 50</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 50</desc>
+  </programme>
+  <programme start="20260219193000 +0800" stop="20260219200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 5</title>
+    <desc lang="chi">Matazua 唱 就對了 5</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219203000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 【首】 50</title>
+    <desc lang="chi">看見族語-布農族 Bunun 【首】 50</desc>
+  </programme>
+  <programme start="20260219203000 +0800" stop="20260219210000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 3</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 3</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219220000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 【首】 4</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 【首】 4</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260219230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 【首】 95</title>
+    <desc lang="chi">Mahalinga好好講 【首】 95</desc>
+  </programme>
+  <programme start="20260219230000 +0800" stop="20260219233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 50</title>
+    <desc lang="chi">原視《晚安報新聞》 50</desc>
+  </programme>
+  <programme start="20260219233000 +0800" stop="20260220000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 5</title>
+    <desc lang="chi">Matazua 唱 就對了 5</desc>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220010000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 46</title>
+    <desc lang="chi">ila跟土地學做飯 46</desc>
+  </programme>
+  <programme start="20260220010000 +0800" stop="20260220013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 50</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 50</desc>
+  </programme>
+  <programme start="20260220013000 +0800" stop="20260220020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 4</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 4</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220023000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 50</title>
+    <desc lang="chi">看見族語-布農族 Bunun 50</desc>
+  </programme>
+  <programme start="20260220023000 +0800" stop="20260220030000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 3</title>
+    <desc lang="chi">來去部落kivala新春特輯 3</desc>
+  </programme>
+  <programme start="20260220030000 +0800" stop="20260220033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 50</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 50</desc>
+  </programme>
+  <programme start="20260220033000 +0800" stop="20260220040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 4</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 4</desc>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220043000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 50</title>
+    <desc lang="chi">看見族語-布農族 Bunun 50</desc>
+  </programme>
+  <programme start="20260220043000 +0800" stop="20260220050000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 3</title>
+    <desc lang="chi">來去部落kivala新春特輯 3</desc>
+  </programme>
+  <programme start="20260220050000 +0800" stop="20260220060000 +0800" channel="原住民族電視台">
+    <title lang="chi">ila跟土地學做飯 46</title>
+    <desc lang="chi">ila跟土地學做飯 46</desc>
+  </programme>
+  <programme start="20260220060000 +0800" stop="20260220063000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 16</title>
+    <desc lang="chi">senay345 16</desc>
+  </programme>
+  <programme start="20260220063000 +0800" stop="20260220070000 +0800" channel="原住民族電視台">
+    <title lang="chi">pito pitju mpitu7個為什麼 81</title>
+    <desc lang="chi">pito pitju mpitu7個為什麼 81</desc>
+  </programme>
+  <programme start="20260220070000 +0800" stop="20260220080000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 95</title>
+    <desc lang="chi">Mahalinga好好講 95</desc>
+  </programme>
+  <programme start="20260220080000 +0800" stop="20260220083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 50</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 50</desc>
+  </programme>
+  <programme start="20260220083000 +0800" stop="20260220090000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 4</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 4</desc>
+  </programme>
+  <programme start="20260220090000 +0800" stop="20260220100000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 3</title>
+    <desc lang="chi">zangali 群島之力 3</desc>
+  </programme>
+  <programme start="20260220100000 +0800" stop="20260220110000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 4</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 4</desc>
+  </programme>
+  <programme start="20260220110000 +0800" stop="20260220113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 【首】 51</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 【首】 51</desc>
+  </programme>
+  <programme start="20260220113000 +0800" stop="20260220120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 5</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 5</desc>
+  </programme>
+  <programme start="20260220120000 +0800" stop="20260220123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】 51</title>
+    <desc lang="chi">原視《午安報新聞》 【首】 51</desc>
+  </programme>
+  <programme start="20260220123000 +0800" stop="20260220130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 5</title>
+    <desc lang="chi">Matazua 唱 就對了 5</desc>
+  </programme>
+  <programme start="20260220130000 +0800" stop="20260220140000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Mapolong聚會了 4</title>
+    <desc lang="chi">新春團聚過原年-Mapolong聚會了 4</desc>
+  </programme>
+  <programme start="20260220140000 +0800" stop="20260220143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-太魯閣族 Truku 50</title>
+    <desc lang="chi">看見族語-太魯閣族 Truku 50</desc>
+  </programme>
+  <programme start="20260220143000 +0800" stop="20260220150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 4</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 4</desc>
+  </programme>
+  <programme start="20260220150000 +0800" stop="20260220153000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-布農族 Bunun 50</title>
+    <desc lang="chi">看見族語-布農族 Bunun 50</desc>
+  </programme>
+  <programme start="20260220153000 +0800" stop="20260220160000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 3</title>
+    <desc lang="chi">來去部落kivala新春特輯 3</desc>
+  </programme>
+  <programme start="20260220160000 +0800" stop="20260220170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 95</title>
+    <desc lang="chi">Mahalinga好好講 95</desc>
+  </programme>
+  <programme start="20260220170000 +0800" stop="20260220173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園動畫平台 86</title>
+    <desc lang="chi">族語E樂園動畫平台 86</desc>
+  </programme>
+  <programme start="20260220173000 +0800" stop="20260220180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 17</title>
+    <desc lang="chi">senay345 17</desc>
+  </programme>
+  <programme start="20260220180000 +0800" stop="20260220190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 4</title>
+    <desc lang="chi">zangali 群島之力 【首】 4</desc>
+  </programme>
+  <programme start="20260220190000 +0800" stop="20260220193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 51</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 51</desc>
+  </programme>
+  <programme start="20260220193000 +0800" stop="20260220200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 6</title>
+    <desc lang="chi">Matazua 唱 就對了 6</desc>
+  </programme>
+  <programme start="20260220200000 +0800" stop="20260220203000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat 【首】 51</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat 【首】 51</desc>
+  </programme>
+  <programme start="20260220203000 +0800" stop="20260220210000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 4</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 4</desc>
+  </programme>
+  <programme start="20260220210000 +0800" stop="20260220220000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Let’s go 馬年營新春 【首】 1</title>
+    <desc lang="chi">新春團聚過原年-Let’s go 馬年營新春 【首】 1</desc>
+  </programme>
+  <programme start="20260220220000 +0800" stop="20260220230000 +0800" channel="原住民族電視台">
+    <title lang="chi">LiMA新聞世界 【首】 630</title>
+    <desc lang="chi">LiMA新聞世界 【首】 630</desc>
+  </programme>
+  <programme start="20260220230000 +0800" stop="20260220233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 51</title>
+    <desc lang="chi">原視《晚安報新聞》 51</desc>
+  </programme>
+  <programme start="20260220233000 +0800" stop="20260221000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 6</title>
+    <desc lang="chi">Matazua 唱 就對了 6</desc>
+  </programme>
+  <programme start="20260221000000 +0800" stop="20260221010000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kai試英雄 128</title>
+    <desc lang="chi">Kai試英雄 128</desc>
+  </programme>
+  <programme start="20260221010000 +0800" stop="20260221013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 51</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 51</desc>
+  </programme>
+  <programme start="20260221013000 +0800" stop="20260221020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 5</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 5</desc>
+  </programme>
+  <programme start="20260221020000 +0800" stop="20260221023000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat 51</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat 51</desc>
+  </programme>
+  <programme start="20260221023000 +0800" stop="20260221030000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 4</title>
+    <desc lang="chi">來去部落kivala新春特輯 4</desc>
+  </programme>
+  <programme start="20260221030000 +0800" stop="20260221033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 51</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 51</desc>
+  </programme>
+  <programme start="20260221033000 +0800" stop="20260221040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 5</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 5</desc>
+  </programme>
+  <programme start="20260221040000 +0800" stop="20260221043000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat 51</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat 51</desc>
+  </programme>
+  <programme start="20260221043000 +0800" stop="20260221050000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 4</title>
+    <desc lang="chi">來去部落kivala新春特輯 4</desc>
+  </programme>
+  <programme start="20260221050000 +0800" stop="20260221060000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kai試英雄 128</title>
+    <desc lang="chi">Kai試英雄 128</desc>
+  </programme>
+  <programme start="20260221060000 +0800" stop="20260221063000 +0800" channel="原住民族電視台">
+    <title lang="chi">kari不停學 4</title>
+    <desc lang="chi">kari不停學 4</desc>
+  </programme>
+  <programme start="20260221063000 +0800" stop="20260221070000 +0800" channel="原住民族電視台">
+    <title lang="chi">kiratam預備起 12</title>
+    <desc lang="chi">kiratam預備起 12</desc>
+  </programme>
+  <programme start="20260221070000 +0800" stop="20260221080000 +0800" channel="原住民族電視台">
+    <title lang="chi">LiMA新聞世界 630</title>
+    <desc lang="chi">LiMA新聞世界 630</desc>
+  </programme>
+  <programme start="20260221080000 +0800" stop="20260221083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-邵族 Thau 【首】 52</title>
+    <desc lang="chi">看見族語-邵族 Thau 【首】 52</desc>
+  </programme>
+  <programme start="20260221083000 +0800" stop="20260221090000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 5</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 5</desc>
+  </programme>
+  <programme start="20260221090000 +0800" stop="20260221100000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 4</title>
+    <desc lang="chi">zangali 群島之力 4</desc>
+  </programme>
+  <programme start="20260221100000 +0800" stop="20260221110000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Let’s go 馬年營新春 1</title>
+    <desc lang="chi">新春團聚過原年-Let’s go 馬年營新春 1</desc>
+  </programme>
+  <programme start="20260221110000 +0800" stop="20260221113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 【首】 52</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 【首】 52</desc>
+  </programme>
+  <programme start="20260221113000 +0800" stop="20260221120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 6</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 6</desc>
+  </programme>
+  <programme start="20260221120000 +0800" stop="20260221123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  52</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  52</desc>
+  </programme>
+  <programme start="20260221123000 +0800" stop="20260221130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 6</title>
+    <desc lang="chi">Matazua 唱 就對了 6</desc>
+  </programme>
+  <programme start="20260221130000 +0800" stop="20260221140000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Let’s go 馬年營新春 1</title>
+    <desc lang="chi">新春團聚過原年-Let’s go 馬年營新春 1</desc>
+  </programme>
+  <programme start="20260221140000 +0800" stop="20260221143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 51</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 51</desc>
+  </programme>
+  <programme start="20260221143000 +0800" stop="20260221150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 5</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 5</desc>
+  </programme>
+  <programme start="20260221150000 +0800" stop="20260221153000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽夏族 SaySiyat  51</title>
+    <desc lang="chi">看見族語-賽夏族 SaySiyat  51</desc>
+  </programme>
+  <programme start="20260221153000 +0800" stop="20260221160000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 5</title>
+    <desc lang="chi">來去部落kivala新春特輯 5</desc>
+  </programme>
+  <programme start="20260221160000 +0800" stop="20260221170000 +0800" channel="原住民族電視台">
+    <title lang="chi">LiMA新聞世界 630</title>
+    <desc lang="chi">LiMA新聞世界 630</desc>
+  </programme>
+  <programme start="20260221170000 +0800" stop="20260221173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 39</title>
+    <desc lang="chi">族語E樂園繪本平台 39</desc>
+  </programme>
+  <programme start="20260221173000 +0800" stop="20260221180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 16</title>
+    <desc lang="chi">senay345 16</desc>
+  </programme>
+  <programme start="20260221180000 +0800" stop="20260221190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 5</title>
+    <desc lang="chi">zangali 群島之力 【首】 5</desc>
+  </programme>
+  <programme start="20260221190000 +0800" stop="20260221193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 52</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 52</desc>
+  </programme>
+  <programme start="20260221193000 +0800" stop="20260221200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 7</title>
+    <desc lang="chi">Matazua 唱 就對了 7</desc>
+  </programme>
+  <programme start="20260221200000 +0800" stop="20260221203000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan 【首】 52</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan 【首】 52</desc>
+  </programme>
+  <programme start="20260221203000 +0800" stop="20260221210000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 6</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 6</desc>
+  </programme>
+  <programme start="20260221210000 +0800" stop="20260221220000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Let’s go 馬年營新春 【首】 2</title>
+    <desc lang="chi">新春團聚過原年-Let’s go 馬年營新春 【首】 2</desc>
+  </programme>
+  <programme start="20260221220000 +0800" stop="20260221230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Musasuhis百年之路 【首】 21</title>
+    <desc lang="chi">Musasuhis百年之路 【首】 21</desc>
+  </programme>
+  <programme start="20260221230000 +0800" stop="20260221233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 52</title>
+    <desc lang="chi">原視《晚安報新聞》 52</desc>
+  </programme>
+  <programme start="20260221233000 +0800" stop="20260222000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 7</title>
+    <desc lang="chi">Matazua 唱 就對了 7</desc>
+  </programme>
+  <programme start="20260222000000 +0800" stop="20260222003000 +0800" channel="原住民族電視台">
+    <title lang="chi">malo&apos;lay 聽故事 1</title>
+    <desc lang="chi">malo&apos;lay 聽故事 1</desc>
+  </programme>
+  <programme start="20260222003000 +0800" stop="20260222010000 +0800" channel="原住民族電視台">
+    <title lang="chi">malo&apos;lay 聽故事 2</title>
+    <desc lang="chi">malo&apos;lay 聽故事 2</desc>
+  </programme>
+  <programme start="20260222010000 +0800" stop="20260222013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 52</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 52</desc>
+  </programme>
+  <programme start="20260222013000 +0800" stop="20260222020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 6</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 6</desc>
+  </programme>
+  <programme start="20260222020000 +0800" stop="20260222023000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan 52</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan 52</desc>
+  </programme>
+  <programme start="20260222023000 +0800" stop="20260222030000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 6</title>
+    <desc lang="chi">來去部落kivala新春特輯 6</desc>
+  </programme>
+  <programme start="20260222030000 +0800" stop="20260222033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 52</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 52</desc>
+  </programme>
+  <programme start="20260222033000 +0800" stop="20260222040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 6</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 6</desc>
+  </programme>
+  <programme start="20260222040000 +0800" stop="20260222043000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan 52</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan 52</desc>
+  </programme>
+  <programme start="20260222043000 +0800" stop="20260222050000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 6</title>
+    <desc lang="chi">來去部落kivala新春特輯 6</desc>
+  </programme>
+  <programme start="20260222050000 +0800" stop="20260222053000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 1</title>
+    <desc lang="chi">樹人大冒險 1</desc>
+  </programme>
+  <programme start="20260222053000 +0800" stop="20260222054500 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 2</title>
+    <desc lang="chi">樹人大冒險 2</desc>
+  </programme>
+  <programme start="20260222054500 +0800" stop="20260222060000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 3</title>
+    <desc lang="chi">樹人大冒險 3</desc>
+  </programme>
+  <programme start="20260222060000 +0800" stop="20260222070000 +0800" channel="原住民族電視台">
+    <title lang="chi">Musasuhis百年之路 21</title>
+    <desc lang="chi">Musasuhis百年之路 21</desc>
+  </programme>
+  <programme start="20260222070000 +0800" stop="20260222080000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 7</title>
+    <desc lang="chi">來去部落kivala 7</desc>
+  </programme>
+  <programme start="20260222080000 +0800" stop="20260222083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-拉阿魯哇族 Hla&apos;alua 【首】 53</title>
+    <desc lang="chi">看見族語-拉阿魯哇族 Hla&apos;alua 【首】 53</desc>
+  </programme>
+  <programme start="20260222083000 +0800" stop="20260222090000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 7</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 7</desc>
+  </programme>
+  <programme start="20260222090000 +0800" stop="20260222100000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 5</title>
+    <desc lang="chi">zangali 群島之力 5</desc>
+  </programme>
+  <programme start="20260222100000 +0800" stop="20260222110000 +0800" channel="原住民族電視台">
+    <title lang="chi">Musasuhis百年之路 21</title>
+    <desc lang="chi">Musasuhis百年之路 21</desc>
+  </programme>
+  <programme start="20260222110000 +0800" stop="20260222113000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 【首】 53</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 【首】 53</desc>
+  </programme>
+  <programme start="20260222113000 +0800" stop="20260222120000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 【首】 7</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 【首】 7</desc>
+  </programme>
+  <programme start="20260222120000 +0800" stop="20260222123000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】 53</title>
+    <desc lang="chi">原視《午安報新聞》 【首】 53</desc>
+  </programme>
+  <programme start="20260222123000 +0800" stop="20260222130000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了  7</title>
+    <desc lang="chi">Matazua 唱 就對了  7</desc>
+  </programme>
+  <programme start="20260222130000 +0800" stop="20260222140000 +0800" channel="原住民族電視台">
+    <title lang="chi">新春團聚過原年-Let’s go 馬年營新春 2</title>
+    <desc lang="chi">新春團聚過原年-Let’s go 馬年營新春 2</desc>
+  </programme>
+  <programme start="20260222140000 +0800" stop="20260222143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-賽德克族 Seediq 52</title>
+    <desc lang="chi">看見族語-賽德克族 Seediq 52</desc>
+  </programme>
+  <programme start="20260222143000 +0800" stop="20260222150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 7</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 7</desc>
+  </programme>
+  <programme start="20260222150000 +0800" stop="20260222153000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-排灣族 Paiwan 52</title>
+    <desc lang="chi">看見族語-排灣族 Paiwan 52</desc>
+  </programme>
+  <programme start="20260222153000 +0800" stop="20260222160000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 7</title>
+    <desc lang="chi">來去部落kivala新春特輯 7</desc>
+  </programme>
+  <programme start="20260222160000 +0800" stop="20260222170000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala 7</title>
+    <desc lang="chi">來去部落kivala 7</desc>
+  </programme>
+  <programme start="20260222170000 +0800" stop="20260222173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 40</title>
+    <desc lang="chi">族語E樂園繪本平台 40</desc>
+  </programme>
+  <programme start="20260222173000 +0800" stop="20260222180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 17</title>
+    <desc lang="chi">senay345 17</desc>
+  </programme>
+  <programme start="20260222180000 +0800" stop="20260222190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 6</title>
+    <desc lang="chi">zangali 群島之力 【首】 6</desc>
+  </programme>
+  <programme start="20260222190000 +0800" stop="20260222193000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 53</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 53</desc>
+  </programme>
+  <programme start="20260222193000 +0800" stop="20260222200000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 8</title>
+    <desc lang="chi">Matazua 唱 就對了 8</desc>
+  </programme>
+  <programme start="20260222200000 +0800" stop="20260222203000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 【首】 53</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 【首】 53</desc>
+  </programme>
+  <programme start="20260222203000 +0800" stop="20260222210000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 【首】 8</title>
+    <desc lang="chi">來去部落kivala新春特輯 【首】 8</desc>
+  </programme>
+  <programme start="20260222210000 +0800" stop="20260222220000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 14</title>
+    <desc lang="chi">Radiw不打烊 14</desc>
+  </programme>
+  <programme start="20260222220000 +0800" stop="20260222230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Zalan見識南島 【首】 118</title>
+    <desc lang="chi">Zalan見識南島 【首】 118</desc>
+  </programme>
+  <programme start="20260222230000 +0800" stop="20260222233000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 53</title>
+    <desc lang="chi">原視《晚安報新聞》 53</desc>
+  </programme>
+  <programme start="20260222233000 +0800" stop="20260223000000 +0800" channel="原住民族電視台">
+    <title lang="chi">Matazua 唱 就對了 8</title>
+    <desc lang="chi">Matazua 唱 就對了 8</desc>
+  </programme>
+  <programme start="20260223000000 +0800" stop="20260223010000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 6</title>
+    <desc lang="chi">Radiw不打烊 6</desc>
+  </programme>
+  <programme start="20260223010000 +0800" stop="20260223013000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</desc>
+  </programme>
+  <programme start="20260223013000 +0800" stop="20260223020000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 7</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 7</desc>
+  </programme>
+  <programme start="20260223020000 +0800" stop="20260223023000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 53</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 53</desc>
+  </programme>
+  <programme start="20260223023000 +0800" stop="20260223030000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 8</title>
+    <desc lang="chi">來去部落kivala新春特輯 8</desc>
+  </programme>
+  <programme start="20260223030000 +0800" stop="20260223033000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</desc>
+  </programme>
+  <programme start="20260223033000 +0800" stop="20260223040000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 7</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 7</desc>
+  </programme>
+  <programme start="20260223040000 +0800" stop="20260223043000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 53</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 53</desc>
+  </programme>
+  <programme start="20260223043000 +0800" stop="20260223050000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 8</title>
+    <desc lang="chi">來去部落kivala新春特輯 8</desc>
+  </programme>
+  <programme start="20260223050000 +0800" stop="20260223053000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-魯凱族 Rukai 51</title>
+    <desc lang="chi">看見族語-魯凱族 Rukai 51</desc>
+  </programme>
+  <programme start="20260223053000 +0800" stop="20260223060000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 5</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 5</desc>
+  </programme>
+  <programme start="20260223060000 +0800" stop="20260223063000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 1</title>
+    <desc lang="chi">樹人大冒險 1</desc>
+  </programme>
+  <programme start="20260223063000 +0800" stop="20260223064500 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 2</title>
+    <desc lang="chi">樹人大冒險 2</desc>
+  </programme>
+  <programme start="20260223064500 +0800" stop="20260223070000 +0800" channel="原住民族電視台">
+    <title lang="chi">樹人大冒險 3</title>
+    <desc lang="chi">樹人大冒險 3</desc>
+  </programme>
+  <programme start="20260223070000 +0800" stop="20260223080000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 95</title>
+    <desc lang="chi">Mahalinga好好講 95</desc>
+  </programme>
+  <programme start="20260223080000 +0800" stop="20260223083000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</desc>
+  </programme>
+  <programme start="20260223083000 +0800" stop="20260223090000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 7</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 7</desc>
+  </programme>
+  <programme start="20260223090000 +0800" stop="20260223100000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 6</title>
+    <desc lang="chi">zangali 群島之力 6</desc>
+  </programme>
+  <programme start="20260223100000 +0800" stop="20260223110000 +0800" channel="原住民族電視台">
+    <title lang="chi">Radiw不打烊 6</title>
+    <desc lang="chi">Radiw不打烊 6</desc>
+  </programme>
+  <programme start="20260223110000 +0800" stop="20260223120000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-泰雅族 Atayal 【首】 54</title>
+    <desc lang="chi">看見族語-泰雅族 Atayal 【首】 54</desc>
+  </programme>
+  <programme start="20260223120000 +0800" stop="20260223130000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《午安報新聞》 【首】  54</title>
+    <desc lang="chi">原視《午安報新聞》 【首】  54</desc>
+  </programme>
+  <programme start="20260223130000 +0800" stop="20260223140000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 97</title>
+    <desc lang="chi">Mathariri說說話 97</desc>
+  </programme>
+  <programme start="20260223140000 +0800" stop="20260223143000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</title>
+    <desc lang="chi">看見族語-卡那卡那富族 Kanakanavu 53</desc>
+  </programme>
+  <programme start="20260223143000 +0800" stop="20260223150000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光新春特輯 7</title>
+    <desc lang="chi">Kari Snruwan紀時光新春特輯 7</desc>
+  </programme>
+  <programme start="20260223150000 +0800" stop="20260223153000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-卑南族 Pinuyumayan 53</title>
+    <desc lang="chi">看見族語-卑南族 Pinuyumayan 53</desc>
+  </programme>
+  <programme start="20260223153000 +0800" stop="20260223160000 +0800" channel="原住民族電視台">
+    <title lang="chi">來去部落kivala新春特輯 8</title>
+    <desc lang="chi">來去部落kivala新春特輯 8</desc>
+  </programme>
+  <programme start="20260223160000 +0800" stop="20260223170000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mahalinga好好講 95</title>
+    <desc lang="chi">Mahalinga好好講 95</desc>
+  </programme>
+  <programme start="20260223170000 +0800" stop="20260223173000 +0800" channel="原住民族電視台">
+    <title lang="chi">族語E樂園繪本平台 【首】 41</title>
+    <desc lang="chi">族語E樂園繪本平台 【首】 41</desc>
+  </programme>
+  <programme start="20260223173000 +0800" stop="20260223180000 +0800" channel="原住民族電視台">
+    <title lang="chi">senay345 18</title>
+    <desc lang="chi">senay345 18</desc>
+  </programme>
+  <programme start="20260223180000 +0800" stop="20260223190000 +0800" channel="原住民族電視台">
+    <title lang="chi">zangali 群島之力 【首】 7</title>
+    <desc lang="chi">zangali 群島之力 【首】 7</desc>
+  </programme>
+  <programme start="20260223190000 +0800" stop="20260223200000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 【首】 54</title>
+    <desc lang="chi">原視《晚安報新聞》 【首】 54</desc>
+  </programme>
+  <programme start="20260223200000 +0800" stop="20260223210000 +0800" channel="原住民族電視台">
+    <title lang="chi">看見族語-阿美族 Amis 【首】 54</title>
+    <desc lang="chi">看見族語-阿美族 Amis 【首】 54</desc>
+  </programme>
+  <programme start="20260223210000 +0800" stop="20260223220000 +0800" channel="原住民族電視台">
+    <title lang="chi">Mathariri說說話 【首】 98</title>
+    <desc lang="chi">Mathariri說說話 【首】 98</desc>
+  </programme>
+  <programme start="20260223220000 +0800" stop="20260223230000 +0800" channel="原住民族電視台">
+    <title lang="chi">Kari Snruwan紀時光 8</title>
+    <desc lang="chi">Kari Snruwan紀時光 8</desc>
+  </programme>
+  <programme start="20260223230000 +0800" stop="20260224000000 +0800" channel="原住民族電視台">
+    <title lang="chi">原視《晚安報新聞》 54</title>
+    <desc lang="chi">原視《晚安報新聞》 54</desc>
+  </programme>
+</tv>

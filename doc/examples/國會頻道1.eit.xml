@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="epgrab">
+  <channel id="國會頻道1">
+    <display-name>國會頻道1</display-name>
+  </channel>
+  <programme start="20260211095100 +0800" stop="20260211123500 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/09審查「強化國安韌性特別預算案」</desc>
+  </programme>
+  <programme start="20260211123500 +0800" stop="20260211162000 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/13「丹娜絲颱風及728豪雨災後復原」報告</desc>
+  </programme>
+  <programme start="20260211162000 +0800" stop="20260211194900 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/13金管會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260211194900 +0800" stop="20260212010000 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/13「堰塞湖監測、預警通報及復原重建」報告</desc>
+  </programme>
+  <programme start="20260212010000 +0800" stop="20260212044500 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/13「丹娜絲颱風及728豪雨災後復原」報告</desc>
+  </programme>
+  <programme start="20260212044500 +0800" stop="20260212081400 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/13金管會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260212081400 +0800" stop="20260212082300 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14國是論壇</desc>
+  </programme>
+  <programme start="20260212082300 +0800" stop="20260212101800 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260212101800 +0800" stop="20260212102200 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14臨時提案</desc>
+  </programme>
+  <programme start="20260212102200 +0800" stop="20260212131200 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(下)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260212131200 +0800" stop="20260212164400 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/15主計總處.審計部報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260212164400 +0800" stop="20260212205000 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/15農業部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260212205000 +0800" stop="20260213002100 +0800" channel="國會頻道1">
+    <title lang="chi">黨團協商(普)</title>
+    <desc lang="chi">10/15研商「強化國安韌性特別預算案」</desc>
+  </programme>
+  <programme start="20260213002100 +0800" stop="20260213003100 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14國是論壇</desc>
+  </programme>
+  <programme start="20260213003100 +0800" stop="20260213022600 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260213022600 +0800" stop="20260213022900 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14臨時提案</desc>
+  </programme>
+  <programme start="20260213022900 +0800" stop="20260213052000 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/14(下)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260213052000 +0800" stop="20260213073200 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/15「國家情報工作暨國家安全局業務」報告</desc>
+  </programme>
+  <programme start="20260213073200 +0800" stop="20260213100200 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/15客委會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260213100200 +0800" stop="20260213131500 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/16財政部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260213131500 +0800" stop="20260213170500 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/16警消海巡空勤人員危勞津貼及退休權益報告</desc>
+  </programme>
+  <programme start="20260213170500 +0800" stop="20260213191000 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/16外交部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260213191000 +0800" stop="20260213215600 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/16公平會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260213215600 +0800" stop="20260213230100 +0800" channel="國會頻道1">
+    <title lang="chi">黨團協商(普)</title>
+    <desc lang="chi">10/16研商「114年度中央政府總預算案」</desc>
+  </programme>
+  <programme start="20260213230100 +0800" stop="20260213232400 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17國是論壇</desc>
+  </programme>
+  <programme start="20260213232400 +0800" stop="20260214012400 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17(上)審議「強化國安韌性特別預算案」</desc>
+  </programme>
+  <programme start="20260214012400 +0800" stop="20260214040000 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/17(下)議事日程</desc>
+  </programme>
+  <programme start="20260214040000 +0800" stop="20260214050500 +0800" channel="國會頻道1">
+    <title lang="chi">黨團協商(普)</title>
+    <desc lang="chi">10/16研商「114年度中央政府總預算案」</desc>
+  </programme>
+  <programme start="20260214050500 +0800" stop="20260214071000 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/16外交部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260214071000 +0800" stop="20260214090000 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/16公平會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260214090000 +0800" stop="20260214115200 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">(焦點議題)10/21(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260214115200 +0800" stop="20260214143400 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/21(下)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260214143400 +0800" stop="20260214163400 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/20「強化總統安全警衛作業」報告</desc>
+  </programme>
+  <programme start="20260214163400 +0800" stop="20260214190900 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/20「潛艦國造原型艦海測執行現況」報告</desc>
+  </programme>
+  <programme start="20260214190900 +0800" stop="20260214200000 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/20國發會主委報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260214200000 +0800" stop="20260215001800 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">(焦點議題)10/22經濟部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260215001800 +0800" stop="20260215021800 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/20「強化總統安全警衛作業」報告</desc>
+  </programme>
+  <programme start="20260215021800 +0800" stop="20260215045300 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/20「潛艦國造原型艦海測執行現況」報告</desc>
+  </programme>
+  <programme start="20260215045300 +0800" stop="20260215064900 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/22「替代役訓練及備役召集運用」報告</desc>
+  </programme>
+  <programme start="20260215064900 +0800" stop="20260215090000 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/22「一般性補助款」報告</desc>
+  </programme>
+  <programme start="20260215090000 +0800" stop="20260215115800 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">(焦點議題)10/22「近期台美關係及關稅談判進展」報告</desc>
+  </programme>
+  <programme start="20260215115800 +0800" stop="20260215150900 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/23央行總裁報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260215150900 +0800" stop="20260215183100 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/23「非洲豬瘟防檢疫後續防疫精進作為」報告</desc>
+  </programme>
+  <programme start="20260215183100 +0800" stop="20260215200000 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/23國防部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260215200000 +0800" stop="20260215215100 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">(焦點議題)10/28(上)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260215215100 +0800" stop="20260216011500 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/28(下)行政院長提出施政報告並備詢</desc>
+  </programme>
+  <programme start="20260216011500 +0800" stop="20260216012700 +0800" channel="國會頻道1">
+    <title lang="chi">立法院院會(普)</title>
+    <desc lang="chi">10/28國是論壇</desc>
+  </programme>
+  <programme start="20260216012700 +0800" stop="20260216043900 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/23央行總裁報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260216043900 +0800" stop="20260216084100 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/23國防部長報告業務概況並備詢</desc>
+  </programme>
+</tv>
