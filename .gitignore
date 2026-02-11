@@ -24,3 +24,8 @@ langidents.c
 Makefile
 
 epgrab
+
+
+# Added by cargo
+
+/target
