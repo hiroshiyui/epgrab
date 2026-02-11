@@ -1,33 +1,12 @@
 use std::fs;
-use std::fs::OpenOptions;
 use std::io::Read;
 use std::os::unix::io::AsRawFd;
 
 use nix::poll::{poll, PollFd, PollFlags, PollTimeout};
 
 use crate::channel::Channel;
+use crate::dmx;
 use crate::eit::decode_dvb_text;
-
-// Demux constants
-const DMX_FILTER_SIZE: usize = 16;
-const DMX_IMMEDIATE_START: u32 = 4;
-
-#[repr(C)]
-struct DmxFilter {
-    filter: [u8; DMX_FILTER_SIZE],
-    mask: [u8; DMX_FILTER_SIZE],
-    mode: [u8; DMX_FILTER_SIZE],
-}
-
-#[repr(C)]
-struct DmxSctFilterParams {
-    pid: u16,
-    filter: DmxFilter,
-    timeout: u32,
-    flags: u32,
-}
-
-nix::ioctl_write_ptr!(dmx_set_filter, b'o', 43, DmxSctFilterParams);
 
 // --- ScanEntry and dvbv5 file parsing ---
 
@@ -239,29 +218,8 @@ impl ScanEntry {
 /// Read all sections for a given PID/table_id, collecting until we have
 /// section_number 0 through last_section_number. Returns all raw section buffers.
 fn read_all_sections(adapter: u32, pid: u16, table_id: u8, timeout_secs: u64) -> Result<Vec<Vec<u8>>, String> {
-    let path = format!("/dev/dvb/adapter{adapter}/demux0");
-    let mut demux_file = OpenOptions::new()
-        .read(true)
-        .write(true)
-        .open(&path)
-        .map_err(|e| format!("Failed to open {path}: {e}"))?;
-
+    let mut demux_file = dmx::open_demux_with_filter(adapter, pid)?;
     let fd = demux_file.as_raw_fd();
-
-    let params = DmxSctFilterParams {
-        pid,
-        filter: DmxFilter {
-            filter: [0u8; DMX_FILTER_SIZE],
-            mask: [0u8; DMX_FILTER_SIZE],
-            mode: [0u8; DMX_FILTER_SIZE],
-        },
-        timeout: 0,
-        flags: DMX_IMMEDIATE_START,
-    };
-
-    unsafe {
-        dmx_set_filter(fd, &params).map_err(|e| format!("DMX_SET_FILTER failed: {e}"))?;
-    }
 
     let mut buf = [0u8; 4096];
     let start = std::time::Instant::now();

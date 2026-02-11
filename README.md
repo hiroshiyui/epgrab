@@ -70,7 +70,7 @@ This will:
 ```
 src/
   lib.rs           -- library crate, exposes shared modules
-  main.rs          -- epgrab binary: subcommand dispatch (run, scan-channels, doctor)
+  main.rs          -- epgrab binary: subcommand dispatch (run, save-xmltv, scan-channels, doctor)
   channel.rs       -- channels.conf parser (zap format)
   dvb_device.rs    -- DVB USB device detection via sysfs
   tuner.rs         -- DVB frontend tuning (DVB v5 API)

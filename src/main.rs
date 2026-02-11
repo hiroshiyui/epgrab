@@ -42,8 +42,8 @@ fn cmd_run() {
     let devices = dvb_device::detect_devices();
 
     if devices.is_empty() {
-        println!("No DVB-T devices found.");
-        return;
+        eprintln!("No DVB-T devices found.");
+        process::exit(1);
     }
 
     // Extract adapter number from first device (e.g., "dvb0.frontend0" → 0)
@@ -73,7 +73,7 @@ fn cmd_run() {
         }
         Err(e) => {
             eprintln!("Error parsing channels.conf: {e}");
-            return;
+            process::exit(1);
         }
     };
 
@@ -88,7 +88,7 @@ fn cmd_run() {
         Ok(t) => t,
         Err(e) => {
             eprintln!("Failed to open tuner: {e}");
-            return;
+            process::exit(1);
         }
     };
 
@@ -304,7 +304,8 @@ fn cmd_save_xmltv() {
             continue;
         }
 
-        let filename = format!("epg/{}.eit.xml", name);
+        let safe_name = sanitize_filename(name);
+        let filename = format!("epg/{}.eit.xml", safe_name);
         let xml = generate_xmltv(name, events);
 
         match std::fs::write(&filename, &xml) {
@@ -381,6 +382,16 @@ fn format_xmltv_time(ts: i64) -> String {
         offset_h,
         offset_m,
     )
+}
+
+fn sanitize_filename(s: &str) -> String {
+    s.chars()
+        .map(|c| match c {
+            '/' | '\\' | '\0' => '_',
+            '.' if s.starts_with('.') => '_',
+            _ => c,
+        })
+        .collect()
 }
 
 fn xml_escape(s: &str) -> String {

@@ -1,15 +1,10 @@
-use std::fs::OpenOptions;
 use std::io::Read;
 use std::os::unix::io::AsRawFd;
 use std::time::Instant;
 
 use nix::poll::{poll, PollFd, PollFlags, PollTimeout};
 
-// Demux constants
-const DMX_FILTER_SIZE: usize = 16;
-#[allow(dead_code)]
-const DMX_CHECK_CRC: u32 = 1;
-const DMX_IMMEDIATE_START: u32 = 4;
+use crate::dmx;
 
 // EIT PID
 const EIT_PID: u16 = 0x12;
@@ -21,24 +16,6 @@ const EIT_SCHEDULE_ACTUAL_MAX: u8 = 0x5F;
 
 // Short event descriptor tag
 const SHORT_EVENT_DESCRIPTOR: u8 = 0x4D;
-
-// Demux filter structs matching kernel layout
-#[repr(C)]
-struct DmxFilter {
-    filter: [u8; DMX_FILTER_SIZE],
-    mask: [u8; DMX_FILTER_SIZE],
-    mode: [u8; DMX_FILTER_SIZE],
-}
-
-#[repr(C)]
-struct DmxSctFilterParams {
-    pid: u16,
-    filter: DmxFilter,
-    timeout: u32,
-    flags: u32,
-}
-
-nix::ioctl_write_ptr!(dmx_set_filter, b'o', 43, DmxSctFilterParams);
 
 #[allow(dead_code)]
 pub struct EitEvent {
@@ -293,34 +270,8 @@ pub struct EitReader {
 
 impl EitReader {
     /// Open the demux device and set up the EIT section filter.
-    /// Call this BEFORE tuning the frontend.
     pub fn open(adapter: u32) -> Result<Self, String> {
-        let path = format!("/dev/dvb/adapter{adapter}/demux0");
-        let demux_file = OpenOptions::new()
-            .read(true)
-            .write(true)
-            .open(&path)
-            .map_err(|e| format!("Failed to open {path}: {e}"))?;
-
-        let fd = demux_file.as_raw_fd();
-
-        // Set up section filter for EIT PID 0x12 (filter table_id in userspace
-        // since some drivers don't support section header filtering correctly)
-        let params = DmxSctFilterParams {
-            pid: EIT_PID,
-            filter: DmxFilter {
-                filter: [0u8; DMX_FILTER_SIZE],
-                mask: [0u8; DMX_FILTER_SIZE],
-                mode: [0u8; DMX_FILTER_SIZE],
-            },
-            timeout: 0,
-            flags: DMX_IMMEDIATE_START,
-        };
-
-        unsafe {
-            dmx_set_filter(fd, &params).map_err(|e| format!("DMX_SET_FILTER failed: {e}"))?;
-        }
-
+        let demux_file = dmx::open_demux_with_filter(adapter, EIT_PID)?;
         Ok(EitReader { demux_file })
     }
 

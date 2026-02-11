@@ -62,14 +62,21 @@ Once channels are known, the EPG collection flow is:
 3. For each frequency:
    1. Tune to the frequency
    2. Open the demux device and set a section filter for PID 0x0012 (EIT)
-   3. Read EIT sections (table ID 0x4E = present/following on actual TS)
+   3. Read EIT sections: table ID 0x4E (present/following) and 0x50-0x5F (schedule) on actual TS
    4. Parse events: start time (MJD + BCD), duration (BCD), short event descriptor (tag 0x4D)
-   5. Map events to channels using `service_id`
+   5. Deduplicate events by (service_id, event_id) and map to channels using `service_id`
 4. Output the collected programme data (e.g. as XMLTV)
 
 ## EIT Section Structure
 
-An EIT section (table ID 0x4E for present/following) contains:
+EIT table IDs on the actual transport stream:
+
+| Table ID    | Content                                        |
+|-------------|------------------------------------------------|
+| 0x4E        | Present/following events (current + next)      |
+| 0x50 - 0x5F | Schedule events (up to 16 sub-tables of future programmes) |
+
+An EIT section contains:
 
 * 14-byte header: table_id, section_length, service_id, version, section_number, transport_stream_id, original_network_id, etc.
 * Event entries (12-byte header each): event_id, start_time (5 bytes: MJD + BCD HMS), duration (3 bytes: BCD HMS), running_status, descriptors
