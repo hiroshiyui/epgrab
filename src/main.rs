@@ -16,6 +16,7 @@ fn main() {
         Some("run") => cmd_run(),
         Some("scan-channels") => cmd_scan_channels(&args[2..]),
         Some("doctor") => cmd_doctor(),
+        Some("save-xmltv") => cmd_save_xmltv(),
         _ => print_usage(),
     }
 }
@@ -25,11 +26,13 @@ fn print_usage() {
     eprintln!();
     eprintln!("Commands:");
     eprintln!("  run              Grab EPG data from DVB-T tuner device");
+    eprintln!("  save-xmltv       Save EPG data as XMLTV files");
     eprintln!("  scan-channels    Scan for available channels");
     eprintln!("  doctor           Check system readiness");
     eprintln!();
     eprintln!("Examples:");
     eprintln!("  epgrab run");
+    eprintln!("  epgrab save-xmltv");
     eprintln!("  epgrab scan-channels -C /usr/share/dvb/dvb-t/tw-All");
     eprintln!("  epgrab doctor");
     process::exit(1);
@@ -188,6 +191,204 @@ fn cmd_run() {
         }
         println!();
     }
+}
+
+fn cmd_save_xmltv() {
+    let devices = dvb_device::detect_devices();
+
+    if devices.is_empty() {
+        eprintln!("No DVB-T devices found.");
+        process::exit(1);
+    }
+
+    let adapter: u32 = devices[0]
+        .adapter_name
+        .strip_prefix("dvb")
+        .and_then(|s| s.split('.').next())
+        .and_then(|s| s.parse().ok())
+        .unwrap_or(0);
+
+    let conf_path = Path::new("etc/channels.conf");
+    let channels = match channel::parse_channels_conf(conf_path) {
+        Ok(channels) => {
+            println!("Loaded {} channels.", channels.len());
+            channels
+        }
+        Err(e) => {
+            eprintln!("Error parsing channels.conf: {e}");
+            process::exit(1);
+        }
+    };
+
+    // Group channels by frequency
+    let mut freq_groups: BTreeMap<u64, Vec<&Channel>> = BTreeMap::new();
+    for ch in &channels {
+        freq_groups.entry(ch.frequency).or_default().push(ch);
+    }
+
+    // Open tuner
+    let tuner = match tuner::Tuner::open(adapter) {
+        Ok(t) => t,
+        Err(e) => {
+            eprintln!("Failed to open tuner: {e}");
+            process::exit(1);
+        }
+    };
+
+    // Create output directory
+    if let Err(e) = std::fs::create_dir_all("epg") {
+        eprintln!("Failed to create epg/ directory: {e}");
+        process::exit(1);
+    }
+
+    // Collect all events keyed by channel name
+    let mut channel_events: BTreeMap<String, (u16, Vec<eit::EitEvent>)> = BTreeMap::new();
+    for ch in &channels {
+        channel_events.insert(ch.name.clone(), (ch.service_id, Vec::new()));
+    }
+
+    let num_freqs = freq_groups.len();
+    for (i, (freq, group)) in freq_groups.iter().enumerate() {
+        println!(
+            "[{}/{}] Tuning to {} MHz ({} channels)...",
+            i + 1,
+            num_freqs,
+            freq / 1_000_000,
+            group.len(),
+        );
+
+        if let Err(e) = tuner.tune(group[0]) {
+            eprintln!("  Skipped: {e}");
+            println!();
+            continue;
+        }
+
+        let mut eit_reader = match eit::EitReader::open(adapter) {
+            Ok(r) => r,
+            Err(e) => {
+                eprintln!("  Failed to open demux: {e}");
+                println!();
+                continue;
+            }
+        };
+
+        if !tuner.has_lock() {
+            eprintln!("  Warning: frontend lost lock before EIT reading");
+        }
+
+        println!("  Reading EIT data...");
+        match eit_reader.read_events(30) {
+            Ok(events) => {
+                let event_count = events.len();
+                for event in events {
+                    for ch in group {
+                        if event.service_id == ch.service_id {
+                            if let Some((_, evts)) = channel_events.get_mut(&ch.name) {
+                                evts.push(event);
+                                break;
+                            }
+                        }
+                    }
+                }
+                println!("  Received {event_count} events.");
+            }
+            Err(e) => eprintln!("  Failed to read EIT: {e}"),
+        }
+        println!();
+    }
+
+    // Write XMLTV files
+    let mut files_written = 0;
+    for (name, (_sid, events)) in &channel_events {
+        if events.is_empty() {
+            continue;
+        }
+
+        let filename = format!("epg/{}.eit.xml", name);
+        let xml = generate_xmltv(name, events);
+
+        match std::fs::write(&filename, &xml) {
+            Ok(()) => {
+                println!("Wrote {} ({} events)", filename, events.len());
+                files_written += 1;
+            }
+            Err(e) => eprintln!("Failed to write {filename}: {e}"),
+        }
+    }
+
+    println!("\nSaved {files_written} XMLTV files to epg/");
+}
+
+fn generate_xmltv(channel_name: &str, events: &[eit::EitEvent]) -> String {
+    let mut xml = String::new();
+    xml.push_str("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
+    xml.push_str("<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n");
+    xml.push_str("<tv generator-info-name=\"epgrab\">\n");
+
+    // Channel element
+    let channel_id = xml_escape(channel_name);
+    xml.push_str(&format!(
+        "  <channel id=\"{channel_id}\">\n    <display-name>{channel_id}</display-name>\n  </channel>\n"
+    ));
+
+    // Programme elements
+    for event in events {
+        let start = format_xmltv_time(event.start_time);
+        let stop = format_xmltv_time(event.start_time + event.duration as i64);
+        let title = xml_escape(&event.event_name);
+        let lang = if event.language.is_empty() {
+            String::new()
+        } else {
+            format!(" lang=\"{}\"", xml_escape(&event.language))
+        };
+
+        xml.push_str(&format!(
+            "  <programme start=\"{start}\" stop=\"{stop}\" channel=\"{channel_id}\">\n"
+        ));
+        xml.push_str(&format!("    <title{lang}>{title}</title>\n"));
+
+        if !event.description.is_empty() {
+            let desc = xml_escape(&event.description);
+            xml.push_str(&format!("    <desc{lang}>{desc}</desc>\n"));
+        }
+
+        xml.push_str("  </programme>\n");
+    }
+
+    xml.push_str("</tv>\n");
+    xml
+}
+
+fn format_xmltv_time(ts: i64) -> String {
+    let time_t = ts as libc::time_t;
+    let mut tm: libc::tm = unsafe { std::mem::zeroed() };
+    unsafe { libc::localtime_r(&time_t, &mut tm) };
+
+    let offset_secs = tm.tm_gmtoff;
+    let offset_h = offset_secs.abs() / 3600;
+    let offset_m = (offset_secs.abs() % 3600) / 60;
+    let sign = if offset_secs >= 0 { '+' } else { '-' };
+
+    format!(
+        "{:04}{:02}{:02}{:02}{:02}{:02} {}{:02}{:02}",
+        tm.tm_year + 1900,
+        tm.tm_mon + 1,
+        tm.tm_mday,
+        tm.tm_hour,
+        tm.tm_min,
+        tm.tm_sec,
+        sign,
+        offset_h,
+        offset_m,
+    )
+}
+
+fn xml_escape(s: &str) -> String {
+    s.replace('&', "&amp;")
+        .replace('<', "&lt;")
+        .replace('>', "&gt;")
+        .replace('"', "&quot;")
+        .replace('\'', "&apos;")
 }
 
 fn cmd_doctor() {
