@@ -16,6 +16,8 @@ const EIT_PID: u16 = 0x12;
 
 // EIT table IDs
 const EIT_PRESENT_FOLLOWING_ACTUAL: u8 = 0x4E;
+const EIT_SCHEDULE_ACTUAL_MIN: u8 = 0x50;
+const EIT_SCHEDULE_ACTUAL_MAX: u8 = 0x5F;
 
 // Short event descriptor tag
 const SHORT_EVENT_DESCRIPTOR: u8 = 0x4D;
@@ -77,7 +79,7 @@ pub fn decode_dvb_text(data: &[u8]) -> String {
     if data.is_empty() {
         return String::new();
     }
-    match data[0] {
+    let mut raw = match data[0] {
         0x14 => {
             // Big5 subset of ISO/IEC 10646: UTF-16 BE
             if data.len() < 3 {
@@ -121,7 +123,26 @@ pub fn decode_dvb_text(data: &[u8]) -> String {
             String::from_utf8_lossy(data).to_string()
         }
         _ => String::new(),
-    }
+    };
+    // Strip DVB control characters and other non-printable characters:
+    // U+0000-U+001F: C0 controls (except U+000A newline)
+    // U+007F: DELETE
+    // U+0080-U+009F: C1 controls (DVB emphasis on/off 0x86/0x87, line break 0x8A, etc.)
+    // U+E080-U+E09F: some DVB implementations map control codes to Private Use Area
+    raw.retain(|c| {
+        let cp = c as u32;
+        if cp == 0x0A {
+            return true; // keep newline
+        }
+        if cp <= 0x1F || cp == 0x7F || (0x80..=0x9F).contains(&cp) {
+            return false;
+        }
+        if (0xE080..=0xE09F).contains(&cp) {
+            return false;
+        }
+        true
+    });
+    raw
 }
 
 fn parse_short_event_descriptor(data: &[u8]) -> (String, String, String) {
@@ -223,7 +244,7 @@ fn parse_eit_section(buf: &[u8]) -> Result<(u16, Vec<EitEvent>), String> {
         return Err("Section too short".to_string());
     }
 
-    let _table_id = buf[0];
+    let table_id = buf[0];
     let section_length = (((buf[1] & 0x0F) as usize) << 8) | buf[2] as usize;
     let service_id = u16::from_be_bytes([buf[3], buf[4]]);
 
@@ -244,7 +265,7 @@ fn parse_eit_section(buf: &[u8]) -> Result<(u16, Vec<EitEvent>), String> {
 
     // Sanity check: for table 0x4E, last_section_number should be 0 or 1
     let last_section_number = buf[7];
-    if _table_id == 0x4E && last_section_number > 1 {
+    if table_id == 0x4E && last_section_number > 1 {
         return Err(format!(
             "Corrupted section: table 0x4E has last_section_number={last_section_number} (expected 0 or 1)"
         ));
@@ -310,8 +331,8 @@ impl EitReader {
         let mut section_buf = [0u8; 4096];
         let start = Instant::now();
         let timeout = std::time::Duration::from_secs(timeout_secs);
-        let mut seen_sections = std::collections::HashSet::new();
-        let mut _read_count = 0u32;
+        let mut seen_sections: std::collections::HashSet<(u16, u8, u8)> = std::collections::HashSet::new();
+        let mut seen_events: std::collections::HashSet<(u16, u16)> = std::collections::HashSet::new();
 
         while start.elapsed() < timeout {
             let remaining_ms = timeout
@@ -343,22 +364,23 @@ impl EitReader {
                 Err(_) => continue,
             };
 
-            _read_count += 1;
-
             if n < 18 {
                 continue;
             }
 
-            // Filter for EIT present/following (table_id 0x4E) in userspace
+            // Filter for EIT present/following (0x4E) and schedule (0x50-0x5F)
             let table_id = section_buf[0];
-            if table_id != EIT_PRESENT_FOLLOWING_ACTUAL {
+            let is_pf = table_id == EIT_PRESENT_FOLLOWING_ACTUAL;
+            let is_sched = table_id >= EIT_SCHEDULE_ACTUAL_MIN
+                && table_id <= EIT_SCHEDULE_ACTUAL_MAX;
+            if !is_pf && !is_sched {
                 continue;
             }
 
             // Track sections to avoid duplicates
             let section_number = section_buf[6];
             let service_id = u16::from_be_bytes([section_buf[3], section_buf[4]]);
-            let key = (service_id, section_number);
+            let key = (service_id, table_id, section_number);
 
             if seen_sections.contains(&key) {
                 continue;
@@ -367,12 +389,18 @@ impl EitReader {
 
             match parse_eit_section(&section_buf[..n]) {
                 Ok((_sid, events)) => {
-                    all_events.extend(events);
+                    for event in events {
+                        let event_key = (event.service_id, event.event_id);
+                        if seen_events.insert(event_key) {
+                            all_events.push(event);
+                        }
+                    }
                 }
                 Err(_) => {}
             }
         }
 
+        all_events.sort_by_key(|e| e.start_time);
         Ok(all_events)
     }
 }
