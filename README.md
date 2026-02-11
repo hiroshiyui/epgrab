@@ -20,25 +20,34 @@ This produces a single binary `target/release/epgrab` with subcommands.
 
 ## Usage
 
-### 1. Scan channels
-
-First, scan for available channels using a DVB scan file. On Debian-based systems, scan files are provided by the `dtv-scan-tables` package.
+### Check system readiness
 
 ```
-cargo run --release -- scan-channels -C /usr/share/dvb/dvb-t/tw-All
+epgrab doctor
+```
+
+This checks whether a DVB-T device is detected and `etc/channels.conf` exists with valid content.
+
+### Scan channels
+
+Scan for available channels using a DVB scan file. On Debian-based systems, scan files are provided by the `dtv-scan-tables` package.
+
+```
+epgrab scan-channels -C /usr/share/dvb/dvb-t/tw-All
 ```
 
 This will:
 * Tune to each frequency listed in the scan file
 * Read PAT/SDT/PMT tables to discover services, channel names, and PIDs
+* Back up any existing `etc/channels.conf` to `etc/channels.conf.old`
 * Write the results to `etc/channels.conf` in zap format
 
-### 2. Grab EPG data
+### Grab EPG data
 
 Once you have a `etc/channels.conf`, run the EPG grabber:
 
 ```
-cargo run --release -- run
+epgrab run
 ```
 
 This will:
@@ -51,7 +60,7 @@ This will:
 ```
 src/
   lib.rs           -- library crate, exposes shared modules
-  main.rs          -- epgrab binary: subcommand dispatch (run, scan-channels)
+  main.rs          -- epgrab binary: subcommand dispatch (run, scan-channels, doctor)
   channel.rs       -- channels.conf parser (zap format)
   dvb_device.rs    -- DVB USB device detection via sysfs
   tuner.rs         -- DVB frontend tuning (DVB v5 API)

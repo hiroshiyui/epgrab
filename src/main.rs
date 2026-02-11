@@ -15,6 +15,7 @@ fn main() {
     match args.get(1).map(|s| s.as_str()) {
         Some("run") => cmd_run(),
         Some("scan-channels") => cmd_scan_channels(&args[2..]),
+        Some("doctor") => cmd_doctor(),
         _ => print_usage(),
     }
 }
@@ -25,10 +26,12 @@ fn print_usage() {
     eprintln!("Commands:");
     eprintln!("  run              Grab EPG data from DVB-T tuner device");
     eprintln!("  scan-channels    Scan for available channels");
+    eprintln!("  doctor           Check system readiness");
     eprintln!();
     eprintln!("Examples:");
     eprintln!("  epgrab run");
     eprintln!("  epgrab scan-channels -C /usr/share/dvb/dvb-t/tw-All");
+    eprintln!("  epgrab doctor");
     process::exit(1);
 }
 
@@ -184,6 +187,60 @@ fn cmd_run() {
             Err(e) => eprintln!("  Failed to read EIT: {e}"),
         }
         println!();
+    }
+}
+
+fn cmd_doctor() {
+    const GREEN: &str = "\x1b[32m";
+    const RED: &str = "\x1b[31m";
+    const BOLD: &str = "\x1b[1m";
+    const RESET: &str = "\x1b[0m";
+
+    let mut ok = true;
+
+    // 1. Check DVB-T device
+    print!("DVB-T device ... ");
+    let devices = dvb_device::detect_devices();
+    if devices.is_empty() {
+        println!("{RED}{BOLD}NOT FOUND{RESET}");
+        ok = false;
+    } else {
+        let dev = &devices[0];
+        let vendor = dev.vendor_name.as_deref().unwrap_or("Unknown vendor");
+        let product = dev.product_name.as_deref().unwrap_or("Unknown device");
+        println!("{GREEN}OK{RESET} ({}: {} - {})", dev.adapter_name, vendor, product);
+    }
+
+    // 2. Check etc/channels.conf
+    print!("etc/channels.conf ... ");
+    let conf_path = Path::new("etc/channels.conf");
+    if !conf_path.exists() {
+        println!("{RED}{BOLD}NOT FOUND{RESET}");
+        println!("  Run 'epgrab scan-channels -C <scan-file>' to create it.");
+        ok = false;
+    } else {
+        match channel::parse_channels_conf(conf_path) {
+            Ok(channels) if channels.is_empty() => {
+                println!("{RED}{BOLD}EMPTY{RESET} (no channels)");
+                ok = false;
+            }
+            Ok(channels) => {
+                println!("{GREEN}OK{RESET} ({} channels)", channels.len());
+            }
+            Err(e) => {
+                println!("{RED}{BOLD}INVALID{RESET}");
+                println!("  {e}");
+                ok = false;
+            }
+        }
+    }
+
+    println!();
+    if ok {
+        println!("{GREEN}{BOLD}All checks passed.{RESET}");
+    } else {
+        println!("{RED}{BOLD}Some checks failed.{RESET}");
+        process::exit(1);
     }
 }
 
