@@ -1,108 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="公視台語台">
     <display-name>公視台語台</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="公視台語台">
-    <title lang="chi">聖俠白雲生 (普)</title>
-    <desc lang="chi">第 16 集千年魔尊重現武林，並前往佛門聖地一會釋空梵，兩人各自清楚對方的狀況，雖沒有決戰，但大戰已是難免。 .....</desc>
-  </programme>
-  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="公視台語台">
-    <title lang="chi">早起新聞 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="公視台語台">
-    <title lang="chi">台灣新眼界 (普)</title>
-    <desc lang="chi">第 1364 集</desc>
-  </programme>
-  <programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="公視台語台">
-    <title lang="chi">熱海戀歌 (普)</title>
-    <desc lang="chi">第 11 集</desc>
-  </programme>
-  <programme start="20260211120000 +0800" stop="20260211130000 +0800" channel="公視台語台">
-    <title lang="chi">中晝新聞 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211135500 +0800" channel="公視台語台">
-    <title lang="chi">春梅 (普)</title>
-    <desc lang="chi">第 54 集#54　　1959年，俊彥來到日本參加亞洲醫學研討會，順道向小野打探宮本的消息，然而卻只得到宮本早.....</desc>
-  </programme>
-  <programme start="20260211135500 +0800" stop="20260211140000 +0800" channel="公視台語台">
-    <title lang="chi">車頭 (普)</title>
-    <desc lang="chi">第 13 集</desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="公視台語台">
-    <title lang="chi">全家有智慧 (普)</title>
-    <desc lang="chi">第 400 集世界巨星「士林狄翁」潘若迪 開場先為自己的台語道歉？舞團「築夢者」帶上熱騰騰的18歲世界冠軍 大.....</desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="公視台語台">
-    <title lang="chi">下晡新聞 (普)</title>
-    <desc lang="chi">第 42 集</desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="公視台語台">
-    <title lang="chi">文學跳曼波 (普)</title>
-    <desc lang="chi">第 16 集</desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211173000 +0800" channel="公視台語台">
-    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
-    <desc lang="chi">第 43 集那是誰啊？真厲害，光是靠模仿就能招攬客人讓生意好得不得了，不過三松屋推出的卡片蓋章集點大放送也不是蓋.....</desc>
-  </programme>
-  <programme start="20260211173000 +0800" stop="20260211180000 +0800" channel="公視台語台">
-    <title lang="chi">非常了不起 (普)</title>
-    <desc lang="chi">第 276 集參賽者：明星隊(新北市三重區二重國小)遊戲：啥物攏好耍(杯墊)、有話做你講、選你無毋著船.....</desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211190000 +0800" channel="公視台語台">
-    <title lang="chi">熱海戀歌 (普)</title>
-    <desc lang="chi">第 12 集</desc>
-  </programme>
-  <programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="公視台語台">
-    <title lang="chi">下暗新聞 (普)</title>
-    <desc lang="chi">第 42 集</desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="公視台語台">
-    <title lang="chi">全家有智慧 (普)</title>
-    <desc lang="chi">第 401 集張峰奇被讚120分好爸爸！八點檔不是演假的 李亮瑾賽前嗆聲好兇 除了棒球 這項運動也曾代表台灣登.....</desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="公視台語台">
-    <title lang="chi">幸福好厝邊 (普)</title>
-    <desc lang="chi">第 61 集</desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="公視台語台">
-    <title lang="chi">台灣新眼界 (普)</title>
-    <desc lang="chi">第 1365 集</desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260211233000 +0800" channel="公視台語台">
-    <title lang="chi">新聞世界通 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211233000 +0800" stop="20260212003000 +0800" channel="公視台語台">
-    <title lang="chi">全家有智慧 (普)</title>
-    <desc lang="chi">第 401 集張峰奇被讚120分好爸爸！八點檔不是演假的 李亮瑾賽前嗆聲好兇 除了棒球 這項運動也曾代表台灣登.....</desc>
-  </programme>
-  <programme start="20260212003000 +0800" stop="20260212010000 +0800" channel="公視台語台">
-    <title lang="chi">新聞世界通 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="公視台語台">
-    <title lang="chi">台灣新眼界 (普)</title>
-    <desc lang="chi">第 1365 集</desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212060000 +0800" channel="公視台語台">
-    <title lang="chi">收播 (普)</title>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="公視台語台">
-    <title lang="chi">非常了不起 (普)</title>
-    <desc lang="chi">第 276 集參賽者：明星隊(新北市三重區二重國小)遊戲：啥物攏好耍(杯墊)、有話做你講、選你無毋著船.....</desc>
-  </programme>
-  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="公視台語台">
-    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
-    <desc lang="chi">第 43 集那是誰啊？真厲害，光是靠模仿就能招攬客人讓生意好得不得了，不過三松屋推出的卡片蓋章集點大放送也不是蓋.....</desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="公視台語台">
-    <title lang="chi">幸福好厝邊 (普)</title>
-    <desc lang="chi">第 61 集</desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="公視台語台">
     <title lang="chi">聖俠白雲生 (普)</title>
     <desc lang="chi">第 17 集武林決鬥坪，武林決鬥坪，今日萬教眾人齊集，要觀視聖教教主一代聖君武帝  與萬毒派之主萬毒天王的決戰，.....</desc>
@@ -276,7 +178,7 @@
   </programme>
   <programme start="20260213220000 +0800" stop="20260213230000 +0800" channel="公視台語台">
     <title lang="chi">文化相放伴 (普)</title>
-    <desc lang="chi">第 173 集</desc>
+    <desc lang="chi">第 173 集蛇年來到上尾段，就欲開春囉！阿雞佇遮先向逐家拜年，祝福文化相放伴的老朋友、新朋友、好朋友攏會使闔家平.....</desc>
   </programme>
   <programme start="20260213230000 +0800" stop="20260213233000 +0800" channel="公視台語台">
     <title lang="chi">新聞世界通 (普)</title>
@@ -292,7 +194,7 @@
   </programme>
   <programme start="20260214010000 +0800" stop="20260214020000 +0800" channel="公視台語台">
     <title lang="chi">文化相放伴 (普)</title>
-    <desc lang="chi">第 173 集</desc>
+    <desc lang="chi">第 173 集蛇年來到上尾段，就欲開春囉！阿雞佇遮先向逐家拜年，祝福文化相放伴的老朋友、新朋友、好朋友攏會使闔家平.....</desc>
   </programme>
   <programme start="20260214020000 +0800" stop="20260214060000 +0800" channel="公視台語台">
     <title lang="chi">收播 (普)</title>
@@ -311,7 +213,7 @@
   </programme>
   <programme start="20260214070000 +0800" stop="20260214080000 +0800" channel="公視台語台">
     <title lang="chi">文化相放伴 (普)</title>
-    <desc lang="chi">第 173 集</desc>
+    <desc lang="chi">第 173 集蛇年來到上尾段，就欲開春囉！阿雞佇遮先向逐家拜年，祝福文化相放伴的老朋友、新朋友、好朋友攏會使闔家平.....</desc>
   </programme>
   <programme start="20260214080000 +0800" stop="20260214090000 +0800" channel="公視台語台">
     <title lang="chi">文化新台灣 (普)</title>
@@ -526,7 +428,7 @@
   </programme>
   <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="公視台語台">
     <title lang="chi">文化相放伴 (普)</title>
-    <desc lang="chi">第 173 集</desc>
+    <desc lang="chi">第 173 集蛇年來到上尾段，就欲開春囉！阿雞佇遮先向逐家拜年，祝福文化相放伴的老朋友、新朋友、好朋友攏會使闔家平.....</desc>
   </programme>
   <programme start="20260216110000 +0800" stop="20260216120000 +0800" channel="公視台語台">
     <title lang="chi">熱海戀歌 (普)</title>
@@ -788,6 +690,99 @@
     <desc lang="chi">第 12 集MISSION:37【家族的一員】彭德與洛伊德一起出外散步，牠打算阻止預知到的街頭事故結果引起騷動，.....</desc>
   </programme>
   <programme start="20260219020000 +0800" stop="20260219060000 +0800" channel="公視台語台">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219063000 +0800" channel="公視台語台">
+    <title lang="chi">非常了不起 (普)</title>
+    <desc lang="chi">第 279 集參賽者：土牛好客隊(臺中市石岡區土牛國小)遊戲：叫阮的名(客家文化)、啥物攏好耍(杯墊)、選你.....</desc>
+  </programme>
+  <programme start="20260219063000 +0800" stop="20260219070000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 48 集我們無意間跟一位大姐姐成為了好朋友，說不定她是來自未來的不可思議超能力者耶，你們知道嗎？小丸子現在超.....</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219080000 +0800" channel="公視台語台">
+    <title lang="chi">幸福好厝邊 (普)</title>
+    <desc lang="chi">第 62 集</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219100000 +0800" channel="公視台語台">
+    <title lang="chi">幸福路上 (普)</title>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219110000 +0800" channel="公視台語台">
+    <title lang="chi">神木之森：阿里山森林鐵道紀行(台語版) (普)</title>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219120000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 17 集</desc>
+  </programme>
+  <programme start="20260219120000 +0800" stop="20260219130000 +0800" channel="公視台語台">
+    <title lang="chi">光榮島轉來PLUS (普)</title>
+    <desc lang="chi">第 10 集原住民到底多會喝?&quot;??罐&quot;喝汽水喝到狂打嗝，還搞到中斷採訪!不愛運動卻選棒球手套當幸福禮，原因竟是.....</desc>
+  </programme>
+  <programme start="20260219130000 +0800" stop="20260219135500 +0800" channel="公視台語台">
+    <title lang="chi">阿叔 (普)</title>
+    <desc lang="chi">第 6 集夏玟莉未婚懷孕，又跟孩子生父分手，明珠要他拿掉孩子，不然就認命結婚，玟莉都不肯，打算當未婚媽媽。夏和.....</desc>
+  </programme>
+  <programme start="20260219135500 +0800" stop="20260219140000 +0800" channel="公視台語台">
+    <title lang="chi">車頭 (普)</title>
+    <desc lang="chi">第 19 集</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219150000 +0800" channel="公視台語台">
+    <title lang="chi">全家有智慧 (普)</title>
+    <desc lang="chi">第 404 集舒子晨攜國手老公許美中 台語程度讓全隊擔憂XD 林志遠夫妻斜槓超級房仲！「奢侈品」台語大家都唸討.....</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219153000 +0800" channel="公視台語台">
+    <title lang="chi">下晡新聞 (普)</title>
+    <desc lang="chi">第 50 集</desc>
+  </programme>
+  <programme start="20260219153000 +0800" stop="20260219160000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 9 集</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219170000 +0800" channel="公視台語台">
+    <title lang="chi">幸福好厝邊 (普)</title>
+    <desc lang="chi">第 62 集</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219173000 +0800" channel="公視台語台">
+    <title lang="chi">櫻桃小丸子 第九季 (台語版) (普)</title>
+    <desc lang="chi">第 49 集這學期的成績可能慘不忍睹，這麼一來人家期待已久的聖誕大餐鐵定落空了，人家好想吃電視節目上外國人吃的大.....</desc>
+  </programme>
+  <programme start="20260219173000 +0800" stop="20260219174500 +0800" channel="公視台語台">
+    <title lang="chi">趖來趖去3隻蟲 (普)</title>
+    <desc lang="chi">第 5 集這一集，阿廷陪著亮曦、阿弟和阿語，走進市郊的自然角落，一起打開觀察的眼睛，看看泥土、草叢和水邊，.....</desc>
+  </programme>
+  <programme start="20260219174500 +0800" stop="20260219180000 +0800" channel="公視台語台">
+    <title lang="chi">趖來趖去3隻蟲 (普)</title>
+    <desc lang="chi">第 6 集海退潮時，陸地與海洋之間會露出一塊神祕的空間，那就是潮間帶。這一集，阿廷帶著崴崴、阿岳和阿語，踏.....</desc>
+  </programme>
+  <programme start="20260219180000 +0800" stop="20260219190000 +0800" channel="公視台語台">
+    <title lang="chi">熱海戀歌 (普)</title>
+    <desc lang="chi">第 18 集</desc>
+  </programme>
+  <programme start="20260219190000 +0800" stop="20260219193000 +0800" channel="公視台語台">
+    <title lang="chi">下暗新聞 (普)</title>
+    <desc lang="chi">第 50 集</desc>
+  </programme>
+  <programme start="20260219193000 +0800" stop="20260219200000 +0800" channel="公視台語台">
+    <title lang="chi">老先仔講透機 (普)</title>
+    <desc lang="chi">第 4 集被譽為「台灣第一布袋戲女主演」的江賜美，至今仍在戲臺上活躍著。她突破以男性主導的傳統，成為首位女性「.....</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219210000 +0800" channel="公視台語台">
+    <title lang="chi">HiHi導覽先生 (普)</title>
+    <desc lang="chi">第 175 集</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219220000 +0800" channel="公視台語台">
+    <title lang="chi">奔馳世界絕景鐵道(台語版) (普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260220011000 +0800" channel="公視台語台">
+    <title lang="chi">KANO(台文字幕版) (普)</title>
+    <desc lang="chi">長久以來，日本甲子園的黑土上流傳著一個說法，棒球之神每年會從參賽的高中棒球隊中挑選出一群日本孩子，讓.....</desc>
+  </programme>
+  <programme start="20260220011000 +0800" stop="20260220020000 +0800" channel="公視台語台">
+    <title lang="chi">保島-臺灣自然保護區域紀錄影片 (普)</title>
+    <desc lang="chi">臺灣擁有特殊地理與環境景觀，多變的地景，孕育出多樣化的生物棲地及豐富動植物資源，顯耀珍珠般的光華，其.....</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220060000 +0800" channel="公視台語台">
     <title lang="chi">收播 (普)</title>
   </programme>
 </tv>

@@ -1,105 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="中視新聞台">
     <display-name>中視新聞台</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="中視新聞台">
-    <title lang="chi">0800整點新聞</title>
-    <desc lang="chi">0800整點新聞</desc>
-  </programme>
-  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211110000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260211110000 +0800" stop="20260211115800 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="中視新聞台">
-    <title lang="chi">中視午間新聞</title>
-    <desc lang="chi">中視午間新聞</desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211180000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211185800 +0800" channel="中視新聞台">
-    <title lang="chi">中視新聞全球報導6點搶先報</title>
-    <desc lang="chi">中視新聞全球報導6點搶先報</desc>
-  </programme>
-  <programme start="20260211185800 +0800" stop="20260211200000 +0800" channel="中視新聞台">
-    <title lang="chi">中視新聞全球報導</title>
-    <desc lang="chi">中視新聞全球報導</desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="中視新聞台">
-    <title lang="chi">中視新聞全球報導</title>
-    <desc lang="chi">中視新聞全球報導</desc>
-  </programme>
-  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="中視新聞台">
-    <title lang="chi">新庶民大頭家</title>
-    <desc lang="chi">新庶民大頭家</desc>
-  </programme>
-  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="中視新聞台">
-    <title lang="chi">中視新聞全球報導</title>
-    <desc lang="chi">中視新聞全球報導</desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="中視新聞台">
-    <title lang="chi">即時新聞現場</title>
-    <desc lang="chi">即時新聞現場</desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="中視新聞台">
-    <title lang="chi">中視新聞全球報導6點搶先報</title>
-    <desc lang="chi">中視新聞全球報導6點搶先報</desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="中視新聞台">
-    <title lang="chi">中視新聞全球報導</title>
-    <desc lang="chi">中視新聞全球報導</desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="中視新聞台">
-    <title lang="chi">中視早安新聞</title>
-    <desc lang="chi">中視早安新聞</desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="中視新聞台">
     <title lang="chi">0800整點新聞</title>
     <desc lang="chi">0800整點新聞</desc>

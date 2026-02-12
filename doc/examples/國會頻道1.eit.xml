@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="國會頻道1">
     <display-name>國會頻道1</display-name>
   </channel>
-  <programme start="20260211095100 +0800" stop="20260211123500 +0800" channel="國會頻道1">
-    <title lang="chi">財政委員會(普)</title>
-    <desc lang="chi">10/09審查「強化國安韌性特別預算案」</desc>
-  </programme>
-  <programme start="20260211123500 +0800" stop="20260211162000 +0800" channel="國會頻道1">
-    <title lang="chi">經濟委員會(普)</title>
-    <desc lang="chi">10/13「丹娜絲颱風及728豪雨災後復原」報告</desc>
-  </programme>
-  <programme start="20260211162000 +0800" stop="20260211194900 +0800" channel="國會頻道1">
-    <title lang="chi">財政委員會(普)</title>
-    <desc lang="chi">10/13金管會主委報告業務概況並備詢</desc>
-  </programme>
-  <programme start="20260211194900 +0800" stop="20260212010000 +0800" channel="國會頻道1">
-    <title lang="chi">內政委員會(普)</title>
-    <desc lang="chi">10/13「堰塞湖監測、預警通報及復原重建」報告</desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212044500 +0800" channel="國會頻道1">
-    <title lang="chi">經濟委員會(普)</title>
-    <desc lang="chi">10/13「丹娜絲颱風及728豪雨災後復原」報告</desc>
-  </programme>
-  <programme start="20260212044500 +0800" stop="20260212081400 +0800" channel="國會頻道1">
-    <title lang="chi">財政委員會(普)</title>
-    <desc lang="chi">10/13金管會主委報告業務概況並備詢</desc>
-  </programme>
   <programme start="20260212081400 +0800" stop="20260212082300 +0800" channel="國會頻道1">
     <title lang="chi">立法院院會(普)</title>
     <desc lang="chi">10/14國是論壇</desc>
@@ -199,5 +176,45 @@
   <programme start="20260216043900 +0800" stop="20260216084100 +0800" channel="國會頻道1">
     <title lang="chi">外交及國防委員會(普)</title>
     <desc lang="chi">10/23國防部長報告業務概況並備詢</desc>
+  </programme>
+  <programme start="20260216084100 +0800" stop="20260216121400 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/29審查「電業法修正草案」</desc>
+  </programme>
+  <programme start="20260216121400 +0800" stop="20260216141400 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/29「近期東亞情勢變化對我國影響之研析」報告</desc>
+  </programme>
+  <programme start="20260216141400 +0800" stop="20260216174300 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/29「防堵非洲豬瘟邊境檢疫查緝機制」報告</desc>
+  </programme>
+  <programme start="20260216174300 +0800" stop="20260216202900 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/30「2025年度APEC經濟領袖會議」報告</desc>
+  </programme>
+  <programme start="20260216202900 +0800" stop="20260216213400 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/30審查「電業法修正草案」</desc>
+  </programme>
+  <programme start="20260216213400 +0800" stop="20260217002500 +0800" channel="國會頻道1">
+    <title lang="chi">財政委員會(普)</title>
+    <desc lang="chi">10/30「虛擬資產服務法草案修訂進程」報告</desc>
+  </programme>
+  <programme start="20260217002500 +0800" stop="20260217035400 +0800" channel="國會頻道1">
+    <title lang="chi">內政委員會(普)</title>
+    <desc lang="chi">10/29「防堵非洲豬瘟邊境檢疫查緝機制」報告</desc>
+  </programme>
+  <programme start="20260217035400 +0800" stop="20260217045900 +0800" channel="國會頻道1">
+    <title lang="chi">經濟委員會(普)</title>
+    <desc lang="chi">10/30審查「電業法修正草案」</desc>
+  </programme>
+  <programme start="20260217045900 +0800" stop="20260217074500 +0800" channel="國會頻道1">
+    <title lang="chi">外交及國防委員會(普)</title>
+    <desc lang="chi">10/30「2025年度APEC經濟領袖會議」報告</desc>
+  </programme>
+  <programme start="20260217074500 +0800" stop="20260217094500 +0800" channel="國會頻道1">
+    <title lang="chi">黨團協商(普)</title>
+    <desc lang="chi">10/30研商馬太鞍溪堰塞湖災後重建特別條例草案</desc>
   </programme>
 </tv>

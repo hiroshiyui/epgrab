@@ -1,109 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="台視綜合台">
     <display-name>台視綜合台</display-name>
   </channel>
-  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="台視綜合台">
-    <title lang="chi"> 楊麗花歌仔戲－萬花樓(重) </title>
-    <desc lang="chi"> 楊麗花歌仔戲－萬花樓(重) </desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211103000 +0800" channel="台視綜合台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="台視綜合台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="台視綜合台">
-    <title lang="chi"> 台灣真善美（重） </title>
-    <desc lang="chi"> 台灣真善美（重） </desc>
-  </programme>
-  <programme start="20260211120000 +0800" stop="20260211123000 +0800" channel="台視綜合台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211123000 +0800" stop="20260211130000 +0800" channel="台視綜合台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="台視綜合台">
-    <title lang="chi"> 飄洋過海來愛你(重) </title>
-    <desc lang="chi"> 飄洋過海來愛你(重) </desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="台視綜合台">
-    <title lang="chi"> 飄洋過海來愛你 </title>
-    <desc lang="chi"> 飄洋過海來愛你 </desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="台視綜合台">
-    <title lang="chi"> 360行向前衝(重) </title>
-    <desc lang="chi"> 360行向前衝(重) </desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="台視綜合台">
-    <title lang="chi"> 楊麗花歌仔戲－萬花樓(重) </title>
-    <desc lang="chi"> 楊麗花歌仔戲－萬花樓(重) </desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211180000 +0800" channel="台視綜合台">
-    <title lang="chi"> 楊麗花歌仔戲－萬花樓 </title>
-    <desc lang="chi"> 楊麗花歌仔戲－萬花樓 </desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211190000 +0800" channel="台視綜合台">
-    <title lang="chi"> 神機妙算劉伯溫 </title>
-    <desc lang="chi"> 神機妙算劉伯溫 </desc>
-  </programme>
-  <programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="台視綜合台">
-    <title lang="chi"> 神機妙算劉伯溫 </title>
-    <desc lang="chi"> 神機妙算劉伯溫 </desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211210000 +0800" channel="台視綜合台">
-    <title lang="chi"> 台灣真善美 </title>
-    <desc lang="chi"> 台灣真善美 </desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="台視綜合台">
-    <title lang="chi"> ３６０行向前衝 </title>
-    <desc lang="chi"> ３６０行向前衝 </desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211233000 +0800" channel="台視綜合台">
-    <title lang="chi"> 愛情白皮書 </title>
-    <desc lang="chi"> 愛情白皮書 </desc>
-  </programme>
-  <programme start="20260211233000 +0800" stop="20260212003000 +0800" channel="台視綜合台">
-    <title lang="chi"> 飄洋過海來愛你(重) </title>
-    <desc lang="chi"> 飄洋過海來愛你(重) </desc>
-  </programme>
-  <programme start="20260212003000 +0800" stop="20260212020000 +0800" channel="台視綜合台">
-    <title lang="chi"> 愛情白皮書(重) </title>
-    <desc lang="chi"> 愛情白皮書(重) </desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="台視綜合台">
-    <title lang="chi"> 飄洋過海來愛你(重) </title>
-    <desc lang="chi"> 飄洋過海來愛你(重) </desc>
-  </programme>
-  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="台視綜合台">
-    <title lang="chi"> 台灣真善美（重） </title>
-    <desc lang="chi"> 台灣真善美（重） </desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="台視綜合台">
-    <title lang="chi"> 午夜健康好簡單 </title>
-    <desc lang="chi"> 午夜健康好簡單 </desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="台視綜合台">
-    <title lang="chi"> 早安楊麗花歌仔戲－萬花樓 </title>
-    <desc lang="chi"> 早安楊麗花歌仔戲－萬花樓 </desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="台視綜合台">
-    <title lang="chi"> 烤箱讀書會 </title>
-    <desc lang="chi"> 烤箱讀書會 </desc>
-  </programme>
-  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="台視綜合台">
-    <title lang="chi"> 烤箱讀書會 </title>
-    <desc lang="chi"> 烤箱讀書會 </desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212090000 +0800" channel="台視綜合台">
-    <title lang="chi"> 百萬小學堂 </title>
-    <desc lang="chi"> 百萬小學堂 </desc>
-  </programme>
   <programme start="20260212090000 +0800" stop="20260212100000 +0800" channel="台視綜合台">
     <title lang="chi"> 楊麗花歌仔戲－萬花樓(重) </title>
     <desc lang="chi"> 楊麗花歌仔戲－萬花樓(重) </desc>
@@ -485,6 +386,94 @@
     <desc lang="chi"> 烤箱讀書會 </desc>
   </programme>
   <programme start="20260216070000 +0800" stop="20260216090000 +0800" channel="台視綜合台">
+    <title lang="chi"> 百萬小學堂 </title>
+    <desc lang="chi"> 百萬小學堂 </desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216100000 +0800" channel="台視綜合台">
+    <title lang="chi"> 楊麗花歌仔戲－萬花樓(重) </title>
+    <desc lang="chi"> 楊麗花歌仔戲－萬花樓(重) </desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216120000 +0800" channel="台視綜合台">
+    <title lang="chi"> 全明星運動會 </title>
+    <desc lang="chi"> 全明星運動會 </desc>
+  </programme>
+  <programme start="20260216120000 +0800" stop="20260216130000 +0800" channel="台視綜合台">
+    <title lang="chi"> 台灣真善美新春特輯 </title>
+    <desc lang="chi"> 台灣真善美新春特輯 </desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="台視綜合台">
+    <title lang="chi"> 飄洋過海來愛你(重) </title>
+    <desc lang="chi"> 飄洋過海來愛你(重) </desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="台視綜合台">
+    <title lang="chi"> 飄洋過海來愛你 </title>
+    <desc lang="chi"> 飄洋過海來愛你 </desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="台視綜合台">
+    <title lang="chi"> 360行向前衝(重) </title>
+    <desc lang="chi"> 360行向前衝(重) </desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216170000 +0800" channel="台視綜合台">
+    <title lang="chi"> 楊麗花歌仔戲－萬花樓(重) </title>
+    <desc lang="chi"> 楊麗花歌仔戲－萬花樓(重) </desc>
+  </programme>
+  <programme start="20260216170000 +0800" stop="20260216180000 +0800" channel="台視綜合台">
+    <title lang="chi"> 楊麗花歌仔戲－萬花樓 </title>
+    <desc lang="chi"> 楊麗花歌仔戲－萬花樓 </desc>
+  </programme>
+  <programme start="20260216180000 +0800" stop="20260216190000 +0800" channel="台視綜合台">
+    <title lang="chi"> 神機妙算劉伯溫 </title>
+    <desc lang="chi"> 神機妙算劉伯溫 </desc>
+  </programme>
+  <programme start="20260216190000 +0800" stop="20260216200000 +0800" channel="台視綜合台">
+    <title lang="chi"> 神機妙算劉伯溫 </title>
+    <desc lang="chi"> 神機妙算劉伯溫 </desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260216210000 +0800" channel="台視綜合台">
+    <title lang="chi"> 台灣真善美 </title>
+    <desc lang="chi"> 台灣真善美 </desc>
+  </programme>
+  <programme start="20260216210000 +0800" stop="20260216220000 +0800" channel="台視綜合台">
+    <title lang="chi"> ３６０行向前衝 </title>
+    <desc lang="chi"> ３６０行向前衝 </desc>
+  </programme>
+  <programme start="20260216220000 +0800" stop="20260216233000 +0800" channel="台視綜合台">
+    <title lang="chi"> 愛情白皮書 </title>
+    <desc lang="chi"> 愛情白皮書 </desc>
+  </programme>
+  <programme start="20260216233000 +0800" stop="20260217003000 +0800" channel="台視綜合台">
+    <title lang="chi"> 飄洋過海來愛你(重) </title>
+    <desc lang="chi"> 飄洋過海來愛你(重) </desc>
+  </programme>
+  <programme start="20260217003000 +0800" stop="20260217020000 +0800" channel="台視綜合台">
+    <title lang="chi"> 愛情白皮書(重) </title>
+    <desc lang="chi"> 愛情白皮書(重) </desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217030000 +0800" channel="台視綜合台">
+    <title lang="chi"> 飄洋過海來愛你(重) </title>
+    <desc lang="chi"> 飄洋過海來愛你(重) </desc>
+  </programme>
+  <programme start="20260217030000 +0800" stop="20260217040000 +0800" channel="台視綜合台">
+    <title lang="chi"> 台灣真善美（重） </title>
+    <desc lang="chi"> 台灣真善美（重） </desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217050000 +0800" channel="台視綜合台">
+    <title lang="chi"> 午夜健康好簡單 </title>
+    <desc lang="chi"> 午夜健康好簡單 </desc>
+  </programme>
+  <programme start="20260217050000 +0800" stop="20260217060000 +0800" channel="台視綜合台">
+    <title lang="chi"> 早安楊麗花歌仔戲－萬花樓 </title>
+    <desc lang="chi"> 早安楊麗花歌仔戲－萬花樓 </desc>
+  </programme>
+  <programme start="20260217060000 +0800" stop="20260217063000 +0800" channel="台視綜合台">
+    <title lang="chi"> 烤箱讀書會 </title>
+    <desc lang="chi"> 烤箱讀書會 </desc>
+  </programme>
+  <programme start="20260217063000 +0800" stop="20260217070000 +0800" channel="台視綜合台">
+    <title lang="chi"> 烤箱讀書會 </title>
+    <desc lang="chi"> 烤箱讀書會 </desc>
+  </programme>
+  <programme start="20260217070000 +0800" stop="20260217090000 +0800" channel="台視綜合台">
     <title lang="chi"> 百萬小學堂 </title>
     <desc lang="chi"> 百萬小學堂 </desc>
   </programme>

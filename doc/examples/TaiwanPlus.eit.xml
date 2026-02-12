@@ -1,245 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="TaiwanPlus">
     <display-name>TaiwanPlus</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="TaiwanPlus">
-    <title lang="chi">TaiwanPlus News (0+)</title>
-    <desc lang="chi">Ep. 29</desc>
-  </programme>
-  <programme start="20260211083000 +0800" stop="20260211090000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Talks (0+)</title>
-    <desc lang="chi">Ep. 770</desc>
-  </programme>
-  <programme start="20260211090000 +0800" stop="20260211093000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Sustainable Footprints SDGs in Taiwan (0+)</title>
-    <desc lang="chi">Ep. 3</desc>
-  </programme>
-  <programme start="20260211093000 +0800" stop="20260211100000 +0800" channel="TaiwanPlus">
-    <title lang="chi">The Railway Romances (0+)</title>
-    <desc lang="chi">Ep. 6What happens when trains derail? Find out how rail.....</desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211101000 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 88</desc>
-  </programme>
-  <programme start="20260211101000 +0800" stop="20260211103500 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Comic Universe (0+)</title>
-    <desc lang="chi">Ep. 1</desc>
-  </programme>
-  <programme start="20260211103500 +0800" stop="20260211110500 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Comic Universe (0+)</title>
-    <desc lang="chi">Ep. 2</desc>
-  </programme>
-  <programme start="20260211110500 +0800" stop="20260211113000 +0800" channel="TaiwanPlus">
-    <title lang="chi">The Taste of Life (0+)</title>
-    <desc lang="chi">Ep. 2Have you ever wondered what it takes to earn a spo.....</desc>
-  </programme>
-  <programme start="20260211113000 +0800" stop="20260211114500 +0800" channel="TaiwanPlus">
-    <title lang="chi">Zoom In, Zoom Out (0+)</title>
-    <desc lang="chi">Ep. 258SLUG: TAIWAN’S HISTORIC RAILWAYS TITLE: When Tais.....</desc>
-  </programme>
-  <programme start="20260211114500 +0800" stop="20260211121500 +0800" channel="TaiwanPlus">
-    <title lang="chi">Sustainable Footprints SDGs in Taiwan (0+)</title>
-    <desc lang="chi">Ep. 3</desc>
-  </programme>
-  <programme start="20260211121500 +0800" stop="20260211125500 +0800" channel="TaiwanPlus">
-    <title lang="chi">Gen Taiwan：Speak Up！ (0+)</title>
-    <desc lang="chi">Ep. 1</desc>
-  </programme>
-  <programme start="20260211125500 +0800" stop="20260211130000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Eye on the Weather (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211131000 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 88</desc>
-  </programme>
-  <programme start="20260211131000 +0800" stop="20260211134000 +0800" channel="TaiwanPlus">
-    <title lang="chi">CONNECTED on TaiwanPlus (0+)</title>
-    <desc lang="chi">Ep. 46</desc>
-  </programme>
-  <programme start="20260211134000 +0800" stop="20260211140000 +0800" channel="TaiwanPlus">
-    <title lang="chi">For Real With Brandon O&apos;Neal (0+)</title>
-    <desc lang="chi">Ep. 2After finding a box of his Taiwanese grandfather&apos;s.....</desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211141500 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 89</desc>
-  </programme>
-  <programme start="20260211141500 +0800" stop="20260211143000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Zoom In, Zoom Out (0+)</title>
-    <desc lang="chi">Ep. 258SLUG: TAIWAN’S HISTORIC RAILWAYS TITLE: When Tais.....</desc>
-  </programme>
-  <programme start="20260211143000 +0800" stop="20260211145500 +0800" channel="TaiwanPlus">
-    <title lang="chi">The Railway Romances (0+)</title>
-    <desc lang="chi">Ep. 6What happens when trains derail? Find out how rail.....</desc>
-  </programme>
-  <programme start="20260211145500 +0800" stop="20260211150000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Eye on the Weather (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211151000 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 88</desc>
-  </programme>
-  <programme start="20260211151000 +0800" stop="20260211154000 +0800" channel="TaiwanPlus">
-    <title lang="chi">The Taste of Life (0+)</title>
-    <desc lang="chi">Ep. 2Have you ever wondered what it takes to earn a spo.....</desc>
-  </programme>
-  <programme start="20260211154000 +0800" stop="20260211160000 +0800" channel="TaiwanPlus">
-    <title lang="chi">For Real With Brandon O&apos;Neal (0+)</title>
-    <desc lang="chi">Ep. 2After finding a box of his Taiwanese grandfather&apos;s.....</desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Talks (0+)</title>
-    <desc lang="chi">Ep. 770</desc>
-  </programme>
-  <programme start="20260211163000 +0800" stop="20260211170000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Veggie Island S2 (0+)</title>
-    <desc lang="chi">Ep. 2台南赤崁樓為著名的歷史遺跡之一，在巷弄內有一棟90年歷史，結合日式和西洋式的老宅，提供精緻的異國.....</desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211171500 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 89</desc>
-  </programme>
-  <programme start="20260211171500 +0800" stop="20260211173000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Top5 (0+)</title>
-    <desc lang="chi">Ep. 9Having been through the pandemic, we’ve become fam.....</desc>
-  </programme>
-  <programme start="20260211173000 +0800" stop="20260211175500 +0800" channel="TaiwanPlus">
-    <title lang="chi">The Railway Romances (0+)</title>
-    <desc lang="chi">Ep. 6What happens when trains derail? Find out how rail.....</desc>
-  </programme>
-  <programme start="20260211175500 +0800" stop="20260211180000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Eye on the Weather (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211183000 +0800" channel="TaiwanPlus">
-    <title lang="chi">TaiwanPlus News (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260211183000 +0800" stop="20260211190000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Comic Universe (0+)</title>
-    <desc lang="chi">Ep. 1</desc>
-  </programme>
-  <programme start="20260211190000 +0800" stop="20260211193000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Comic Universe (0+)</title>
-    <desc lang="chi">Ep. 2</desc>
-  </programme>
-  <programme start="20260211193000 +0800" stop="20260211200000 +0800" channel="TaiwanPlus">
-    <title lang="chi">TaiwanPlus News (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211201500 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 90</desc>
-  </programme>
-  <programme start="20260211201500 +0800" stop="20260211204500 +0800" channel="TaiwanPlus">
-    <title lang="chi">Sustainable Footprints SDGs in Taiwan (0+)</title>
-    <desc lang="chi">Ep. 3</desc>
-  </programme>
-  <programme start="20260211204500 +0800" stop="20260211210000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Zoom In, Zoom Out (0+)</title>
-    <desc lang="chi">Ep. 258SLUG: TAIWAN’S HISTORIC RAILWAYS TITLE: When Tais.....</desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211213000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Talks (0+)</title>
-    <desc lang="chi">Ep. 771</desc>
-  </programme>
-  <programme start="20260211213000 +0800" stop="20260211220000 +0800" channel="TaiwanPlus">
-    <title lang="chi">TaiwanPlus News (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211223000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Talks (0+)</title>
-    <desc lang="chi">Ep. 770</desc>
-  </programme>
-  <programme start="20260211223000 +0800" stop="20260211230000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Sustainable Footprints SDGs in Taiwan (0+)</title>
-    <desc lang="chi">Ep. 3</desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260211231500 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 90</desc>
-  </programme>
-  <programme start="20260211231500 +0800" stop="20260211233000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Top5 (0+)</title>
-    <desc lang="chi">Ep. 9Having been through the pandemic, we’ve become fam.....</desc>
-  </programme>
-  <programme start="20260211233000 +0800" stop="20260212000000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Hidden Gem Taiwan (0+)</title>
-    <desc lang="chi">Ep. 2</desc>
-  </programme>
-  <programme start="20260212000000 +0800" stop="20260212003000 +0800" channel="TaiwanPlus">
-    <title lang="chi">TaiwanPlus News (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260212003000 +0800" stop="20260212010000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Talks (0+)</title>
-    <desc lang="chi">Ep. 771</desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212013000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Sustainable Footprints SDGs in Taiwan (0+)</title>
-    <desc lang="chi">Ep. 3</desc>
-  </programme>
-  <programme start="20260212013000 +0800" stop="20260212014500 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 90</desc>
-  </programme>
-  <programme start="20260212014500 +0800" stop="20260212020000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Zoom In, Zoom Out (0+)</title>
-    <desc lang="chi">Ep. 260SLUG: TAIWAN’S HISTORY THROUGH A LENS TITLE: Repo.....</desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212023000 +0800" channel="TaiwanPlus">
-    <title lang="chi">CONNECTED on TaiwanPlus (0+)</title>
-    <desc lang="chi">Ep. 47</desc>
-  </programme>
-  <programme start="20260212023000 +0800" stop="20260212030000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Formosa Pilgrimage (0+)</title>
-    <desc lang="chi">Ep. 2Today’s host discovers how coffee forms a strong b.....</desc>
-  </programme>
-  <programme start="20260212030000 +0800" stop="20260212033000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Taiwan Talks (0+)</title>
-    <desc lang="chi">Ep. 771</desc>
-  </programme>
-  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Resound S3 (0+)</title>
-    <desc lang="chi">Ep. 4RESOUND of Taiwan臺灣是位於東亞、太平洋西北側的島嶼，面積約3.6萬平方公里.....</desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Woman Island (0+)</title>
-    <desc lang="chi">Ep. 2</desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212053000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Botanical Wonders (0+)</title>
-    <desc lang="chi">Ep. 11Discover Taiwan&apos;s extraordinary aquatic vegetables.....</desc>
-  </programme>
-  <programme start="20260212053000 +0800" stop="20260212060000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Sustainable Footprints SDGs in Taiwan (0+)</title>
-    <desc lang="chi">Ep. 3</desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="TaiwanPlus">
-    <title lang="chi">TaiwanPlus News (0+)</title>
-    <desc lang="chi">Ep. 30</desc>
-  </programme>
-  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Resound S3 (0+)</title>
-    <desc lang="chi">Ep. 4RESOUND of Taiwan臺灣是位於東亞、太平洋西北側的島嶼，面積約3.6萬平方公里.....</desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212071500 +0800" channel="TaiwanPlus">
-    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
-    <desc lang="chi">Ep. 90</desc>
-  </programme>
-  <programme start="20260212071500 +0800" stop="20260212073000 +0800" channel="TaiwanPlus">
-    <title lang="chi">Zoom In, Zoom Out (0+)</title>
-    <desc lang="chi">Ep. 260SLUG: TAIWAN’S HISTORY THROUGH A LENS TITLE: Repo.....</desc>
-  </programme>
-  <programme start="20260212073000 +0800" stop="20260212080000 +0800" channel="TaiwanPlus">
-    <title lang="chi">CONNECTED on TaiwanPlus (0+)</title>
-    <desc lang="chi">Ep. 47</desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="TaiwanPlus">
     <title lang="chi">TaiwanPlus News (0+)</title>
     <desc lang="chi">Ep. 30</desc>
@@ -1843,5 +1608,221 @@
   <programme start="20260218233000 +0800" stop="20260218235400 +0800" channel="TaiwanPlus">
     <title lang="chi">Resound S3 (0+)</title>
     <desc lang="chi">Ep. 2微光古樂集The Gleam Ensemble微光古樂集，為台灣古樂復興運動平台暨古樂團。微.....</desc>
+  </programme>
+  <programme start="20260219000000 +0800" stop="20260219003000 +0800" channel="TaiwanPlus">
+    <title lang="chi">TaiwanPlus News (0+)</title>
+    <desc lang="chi">Ep. 35</desc>
+  </programme>
+  <programme start="20260219003000 +0800" stop="20260219010000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Talks (0+)</title>
+    <desc lang="chi">Ep. 776</desc>
+  </programme>
+  <programme start="20260219010000 +0800" stop="20260219013000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Double Yummy (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219013000 +0800" stop="20260219014500 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Calling (0+)</title>
+    <desc lang="chi">Ep. 4一個喜愛棒球、願意為性別平權發聲、又充滿舞台活力的搖滾團體，他們就是-“PISCO”。“PISC.....</desc>
+  </programme>
+  <programme start="20260219014500 +0800" stop="20260219020000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Zoom In, Zoom Out (0+)</title>
+    <desc lang="chi">Ep. 262</desc>
+  </programme>
+  <programme start="20260219020000 +0800" stop="20260219023000 +0800" channel="TaiwanPlus">
+    <title lang="chi">CONNECTED on TaiwanPlus (0+)</title>
+    <desc lang="chi">Ep. 53</desc>
+  </programme>
+  <programme start="20260219023000 +0800" stop="20260219030000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Whirlwind Trip S2 (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219030000 +0800" stop="20260219033000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Talks (0+)</title>
+    <desc lang="chi">Ep. 776</desc>
+  </programme>
+  <programme start="20260219033000 +0800" stop="20260219040000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 7HUR+ 是一組擁有多元文化背景的台灣女子團體，成員來自蒙古、印尼、英國、越南及美國等不同血.....</desc>
+  </programme>
+  <programme start="20260219040000 +0800" stop="20260219043000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 13</desc>
+  </programme>
+  <programme start="20260219043000 +0800" stop="20260219050000 +0800" channel="TaiwanPlus">
+    <title lang="chi">City Escape S2 (0+)</title>
+    <desc lang="chi">Ep. 4</desc>
+  </programme>
+  <programme start="20260219050000 +0800" stop="20260219053000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Musa&apos;s Musical Melting Pot Podcast (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219053000 +0800" stop="20260219060000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Resound S3 (0+)</title>
+    <desc lang="chi">Ep. 3三個人樂團3peoplemusic創立於 2013年，由三位青年音樂家郭靖沐（箏）、潘宜彤（.....</desc>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219063000 +0800" channel="TaiwanPlus">
+    <title lang="chi">TaiwanPlus News (0+)</title>
+    <desc lang="chi">Ep. 35</desc>
+  </programme>
+  <programme start="20260219063000 +0800" stop="20260219070000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Double Yummy (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219071500 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Calling (0+)</title>
+    <desc lang="chi">Ep. 4一個喜愛棒球、願意為性別平權發聲、又充滿舞台活力的搖滾團體，他們就是-“PISCO”。“PISC.....</desc>
+  </programme>
+  <programme start="20260219071500 +0800" stop="20260219073000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Zoom In, Zoom Out (0+)</title>
+    <desc lang="chi">Ep. 262</desc>
+  </programme>
+  <programme start="20260219073000 +0800" stop="20260219080000 +0800" channel="TaiwanPlus">
+    <title lang="chi">CONNECTED on TaiwanPlus (0+)</title>
+    <desc lang="chi">Ep. 53</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219083000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Hidden Gem Taiwan (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219090000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Talks (0+)</title>
+    <desc lang="chi">Ep. 776</desc>
+  </programme>
+  <programme start="20260219090000 +0800" stop="20260219093000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 7HUR+ 是一組擁有多元文化背景的台灣女子團體，成員來自蒙古、印尼、英國、越南及美國等不同血.....</desc>
+  </programme>
+  <programme start="20260219093000 +0800" stop="20260219100000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 13</desc>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219103000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Whirlwind Trip S2 (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219103000 +0800" stop="20260219110000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Musa&apos;s Musical Melting Pot Podcast (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219113000 +0800" channel="TaiwanPlus">
+    <title lang="chi">City Escape S2 (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219113000 +0800" stop="20260219120000 +0800" channel="TaiwanPlus">
+    <title lang="chi">City Escape S2 (0+)</title>
+    <desc lang="chi">Ep. 4</desc>
+  </programme>
+  <programme start="20260219120000 +0800" stop="20260219123000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Double Yummy (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219123000 +0800" stop="20260219125500 +0800" channel="TaiwanPlus">
+    <title lang="chi">Hidden Gem Taiwan (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219125500 +0800" stop="20260219130000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Eye on the Weather (0+)</title>
+    <desc lang="chi">Ep. 36</desc>
+  </programme>
+  <programme start="20260219130000 +0800" stop="20260219133000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 7HUR+ 是一組擁有多元文化背景的台灣女子團體，成員來自蒙古、印尼、英國、越南及美國等不同血.....</desc>
+  </programme>
+  <programme start="20260219133000 +0800" stop="20260219140000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 13</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219141500 +0800" channel="TaiwanPlus">
+    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
+    <desc lang="chi">Ep. 103</desc>
+  </programme>
+  <programme start="20260219141500 +0800" stop="20260219143000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Zoom In, Zoom Out (0+)</title>
+    <desc lang="chi">Ep. 262</desc>
+  </programme>
+  <programme start="20260219143000 +0800" stop="20260219145500 +0800" channel="TaiwanPlus">
+    <title lang="chi">Whirlwind Trip S2 (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219145500 +0800" stop="20260219150000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Eye on the Weather (0+)</title>
+    <desc lang="chi">Ep. 36</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219153000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Musa&apos;s Musical Melting Pot Podcast (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219153000 +0800" stop="20260219160000 +0800" channel="TaiwanPlus">
+    <title lang="chi">City Escape S2 (0+)</title>
+    <desc lang="chi">Ep. 4</desc>
+  </programme>
+  <programme start="20260219160000 +0800" stop="20260219163000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Talks (0+)</title>
+    <desc lang="chi">Ep. 776</desc>
+  </programme>
+  <programme start="20260219163000 +0800" stop="20260219170000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Resound S3 (0+)</title>
+    <desc lang="chi">Ep. 3三個人樂團3peoplemusic創立於 2013年，由三位青年音樂家郭靖沐（箏）、潘宜彤（.....</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219171500 +0800" channel="TaiwanPlus">
+    <title lang="chi">What&apos;s Up Taiwan! (0+)</title>
+    <desc lang="chi">Ep. 104</desc>
+  </programme>
+  <programme start="20260219171500 +0800" stop="20260219175500 +0800" channel="TaiwanPlus">
+    <title lang="chi">CONNECTED on TaiwanPlus (0+)</title>
+    <desc lang="chi">Ep. 53</desc>
+  </programme>
+  <programme start="20260219175500 +0800" stop="20260219180000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Eye on the Weather (0+)</title>
+    <desc lang="chi">Ep. 36</desc>
+  </programme>
+  <programme start="20260219180000 +0800" stop="20260219183000 +0800" channel="TaiwanPlus">
+    <title lang="chi">TaiwanPlus News (0+)</title>
+    <desc lang="chi">Ep. 36</desc>
+  </programme>
+  <programme start="20260219183000 +0800" stop="20260219190000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Double Yummy (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219190000 +0800" stop="20260219193000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Hidden Gem Taiwan (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219193000 +0800" stop="20260219200000 +0800" channel="TaiwanPlus">
+    <title lang="chi">TaiwanPlus News (0+)</title>
+    <desc lang="chi">Ep. 36</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219203000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 7HUR+ 是一組擁有多元文化背景的台灣女子團體，成員來自蒙古、印尼、英國、越南及美國等不同血.....</desc>
+  </programme>
+  <programme start="20260219203000 +0800" stop="20260219210000 +0800" channel="TaiwanPlus">
+    <title lang="chi">The Taipei Tonight Show S4 (0+)</title>
+    <desc lang="chi">Ep. 13</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219213000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Taiwan Talks (0+)</title>
+    <desc lang="chi">Ep. 777</desc>
+  </programme>
+  <programme start="20260219213000 +0800" stop="20260219220000 +0800" channel="TaiwanPlus">
+    <title lang="chi">TaiwanPlus News (0+)</title>
+    <desc lang="chi">Ep. 36</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260219223000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Whirlwind Trip S2 (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219223000 +0800" stop="20260219230000 +0800" channel="TaiwanPlus">
+    <title lang="chi">City Escape S2 (0+)</title>
+    <desc lang="chi">Ep. 10</desc>
+  </programme>
+  <programme start="20260219230000 +0800" stop="20260219233000 +0800" channel="TaiwanPlus">
+    <title lang="chi">Musa&apos;s Musical Melting Pot Podcast (0+)</title>
+    <desc lang="chi">Ep. 3</desc>
+  </programme>
+  <programme start="20260219233000 +0800" stop="20260219235400 +0800" channel="TaiwanPlus">
+    <title lang="chi">Resound S3 (0+)</title>
+    <desc lang="chi">Ep. 3三個人樂團3peoplemusic創立於 2013年，由三位青年音樂家郭靖沐（箏）、潘宜彤（.....</desc>
   </programme>
 </tv>

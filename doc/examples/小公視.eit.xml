@@ -1,196 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="小公視">
     <display-name>小公視</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="小公視">
-    <title lang="chi">台灣囡仔、讚！ (普)</title>
-    <desc lang="chi">第 215 集位於嘉義市中心的民族國小，鄰近嘉義傳統東市場，全校人數大約六百多人，學生大多來自市場，因此學校藉由東.....</desc>
-  </programme>
-  <programme start="20260211083000 +0800" stop="20260211090000 +0800" channel="小公視">
-    <title lang="chi">台灣囡仔、讚！ (普)</title>
-    <desc lang="chi">第 216 集台南市新化區的口埤國小，在2016年轉型為西拉雅校園，「口埤」過去曾是一座埤塘，也是學校現在的位置，.....</desc>
-  </programme>
-  <programme start="20260211090000 +0800" stop="20260211093000 +0800" channel="小公視">
-    <title lang="chi">侏羅紀世界：混沌理論 (普)</title>
-    <desc lang="chi">第 28 集</desc>
-  </programme>
-  <programme start="20260211093000 +0800" stop="20260211100000 +0800" channel="小公視">
-    <title lang="chi">我的這一班 (普)</title>
-    <desc lang="chi">第 383 集八年八班的筱翎、沛琪、芝妘是少女時代的忠實粉絲，為了參加少女時代的活動，三人相約一起勤練舞蹈，尤其是.....</desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211103000 +0800" channel="小公視">
-    <title lang="chi">我的這一班 (普)</title>
-    <desc lang="chi">第 384 集阿得老師班上的稚翔是個害羞、不多話的男孩，跟同樣喜歡看漫畫的晉源是哥倆好，但因為平常很少發聲，所以常.....</desc>
-  </programme>
-  <programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="小公視">
-    <title lang="chi">就是愛運動 (普)</title>
-    <desc lang="chi">第 61 集主持人：劉?宏、林彥君(151)運動的影響有多大？到底曲棍球有甚麼魅力，可以讓竹山這個純樸的小鎮.....</desc>
-  </programme>
-  <programme start="20260211110000 +0800" stop="20260211111000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 4 集</desc>
-  </programme>
-  <programme start="20260211111000 +0800" stop="20260211112000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 5 集</desc>
-  </programme>
-  <programme start="20260211112000 +0800" stop="20260211113000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 6 集</desc>
-  </programme>
-  <programme start="20260211113000 +0800" stop="20260211114500 +0800" channel="小公視">
-    <title lang="chi">WAWA哇！ (普)</title>
-    <desc lang="chi">第 26 集可樂喜歡門口的樹，但是樹生病了不得已只好把它移除，可樂很難過但是也沒辦法。春天的樹帶來美味的果實，桃.....</desc>
-  </programme>
-  <programme start="20260211114500 +0800" stop="20260211120000 +0800" channel="小公視">
-    <title lang="chi">動滋達滋森之島 (普)</title>
-    <desc lang="chi">第 71 集妙妙的風車被風精靈吹走了！她勇敢通過吊橋，用魔法顏料幫大風車上色才找回風車。最後大家將彩虹山谷裝扮成.....</desc>
-  </programme>
-  <programme start="20260211120000 +0800" stop="20260211123000 +0800" channel="小公視">
-    <title lang="chi">水果冰淇淋 (普)</title>
-    <desc lang="chi">第 2793 集機器人店長因為沒有得到「最佳店長獎」，所以很難過，奶奶知道後，建議淇淇他們可以給他一個鼓勵的擁抱，果.....</desc>
-  </programme>
-  <programme start="20260211123000 +0800" stop="20260211130000 +0800" channel="小公視">
-    <title lang="chi">水果冰淇淋 (普)</title>
-    <desc lang="chi">第 2649 集哇嚕和機器人店長一起等新書《聰明小廚師》第3集，因為松鼠哥哥會幫忙送到，沒想到，琳琳和淇淇在奶奶家玩.....</desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211133000 +0800" channel="小公視">
-    <title lang="chi">台灣囡仔、讚！ (普)</title>
-    <desc lang="chi">第 215 集位於嘉義市中心的民族國小，鄰近嘉義傳統東市場，全校人數大約六百多人，學生大多來自市場，因此學校藉由東.....</desc>
-  </programme>
-  <programme start="20260211133000 +0800" stop="20260211140000 +0800" channel="小公視">
-    <title lang="chi">反正你也不睡覺 (護)</title>
-    <desc lang="chi">第 26 集志祺從小就對公眾事務很有興趣，但成績和志向不明的迷惘感同時也困擾著他。現在擁有外貌優勢的志祺怎麼看待.....</desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211141500 +0800" channel="小公視">
-    <title lang="chi">青春發言人5 (普)</title>
-    <desc lang="chi">第 27 集2023年，台灣一天平均發生72起校園暴力事件。有26.6%的兒少不認為自己在學校是安全的為了人.....</desc>
-  </programme>
-  <programme start="20260211141500 +0800" stop="20260211143000 +0800" channel="小公視">
-    <title lang="chi">青春發言人5 (普)</title>
-    <desc lang="chi">第 28 集跑影展的青少年幕後----企編心內話我是「跑影展的青少年」企編逸鴻，只能說這集應該是旁人許願和本.....</desc>
-  </programme>
-  <programme start="20260211143000 +0800" stop="20260211150000 +0800" channel="小公視">
-    <title lang="chi">就是愛運動 (普)</title>
-    <desc lang="chi">第 61 集主持人：劉?宏、林彥君(151)運動的影響有多大？到底曲棍球有甚麼魅力，可以讓竹山這個純樸的小鎮.....</desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211153000 +0800" channel="小公視">
-    <title lang="chi">看公視說英語 (普)</title>
-    <desc lang="chi">第 8176 集</desc>
-  </programme>
-  <programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="小公視">
-    <title lang="chi">台灣囡仔、讚！ (普)</title>
-    <desc lang="chi">第 216 集台南市新化區的口埤國小，在2016年轉型為西拉雅校園，「口埤」過去曾是一座埤塘，也是學校現在的位置，.....</desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="小公視">
-    <title lang="chi">非常了不起 (普)</title>
-    <desc lang="chi">第 97 集參賽者：台語囡仔衝衝衝遊戲：台語上輾轉、愛講才會贏、總講一句.....</desc>
-  </programme>
-  <programme start="20260211163000 +0800" stop="20260211170000 +0800" channel="小公視">
-    <title lang="chi">喔走!48小時 (普)</title>
-    <desc lang="chi">第 123 集露營不是只有帳棚、睡袋，還有很多你想像不到的裝備。一個便當盒，不只可以當餐具還可以煮湯煎蛋；.....</desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211171500 +0800" channel="小公視">
-    <title lang="chi">WAWA DADADA (普)</title>
-    <desc lang="chi">第 3 集</desc>
-  </programme>
-  <programme start="20260211171500 +0800" stop="20260211173000 +0800" channel="小公視">
-    <title lang="chi">動滋達滋森之島 (普)</title>
-    <desc lang="chi">第 70 集巧克是森之島的玩球高手，但閃電波波帶來超巨大滾球挑戰！動物精靈必須通過滑道接球、平衡滾球與保齡賽.....</desc>
-  </programme>
-  <programme start="20260211173000 +0800" stop="20260211174000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 4 集</desc>
-  </programme>
-  <programme start="20260211174000 +0800" stop="20260211175000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 5 集</desc>
-  </programme>
-  <programme start="20260211175000 +0800" stop="20260211180000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 6 集</desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211183000 +0800" channel="小公視">
-    <title lang="chi">水果冰淇淋 (普)</title>
-    <desc lang="chi">第 2748 集今天小紅的聲音齒輪生鏽了，所以聲音變成小男生。小紅擔心自己的聲音會被嘲笑，於是莎拉決定今天都幫小紅說.....</desc>
-  </programme>
-  <programme start="20260211183000 +0800" stop="20260211190000 +0800" channel="小公視">
-    <title lang="chi">成語賽恩思 (普)</title>
-    <desc lang="chi">第 25 集三國時期，曹操的兩個兒子曹丕、曹植，因為王位之爭，兩人的嫌隙很深。在曹操過世後，?曹丕繼承了王位，開.....</desc>
-  </programme>
-  <programme start="20260211190000 +0800" stop="20260211193000 +0800" channel="小公視">
-    <title lang="chi">喔走!48小時 (普)</title>
-    <desc lang="chi">第 124 集喔走露營篇的第二露，我們從豪華露營區一下子來到新竹尖石鄉的海拔1100森林營區，在這裡成.....</desc>
-  </programme>
-  <programme start="20260211193000 +0800" stop="20260211200000 +0800" channel="小公視">
-    <title lang="chi">非常了不起 (普)</title>
-    <desc lang="chi">第 98 集參賽者：彰化僑信國小/僑信青笛仔遊戲：台語上輾轉、看你按怎排、愛講才會贏.....</desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211201500 +0800" channel="小公視">
-    <title lang="chi">節氣x六感實驗室 (普)</title>
-    <desc lang="chi">第 2 集雨水我們來到關渡自然公園，滴滴答答的雨聲，搭配著樹林中棲息鳥兒的啾啾叫聲，一起譜出春天的交響樂。.....</desc>
-  </programme>
-  <programme start="20260211201500 +0800" stop="20260211203000 +0800" channel="小公視">
-    <title lang="chi">WAWA DADADA (普)</title>
-    <desc lang="chi">第 3 集</desc>
-  </programme>
-  <programme start="20260211203000 +0800" stop="20260211210000 +0800" channel="小公視">
-    <title lang="chi">侏羅紀世界：混沌理論 (普)</title>
-    <desc lang="chi">第 28 集</desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="小公視">
-    <title lang="chi">換個爸媽過幾天 (普)</title>
-    <desc lang="chi">第 1 集宏澧一天可以打八小時的手遊網路世界是他跟朋友打交道的地方而也因此常常沒有做到與家人的約定小風鈴.....</desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="小公視">
-    <title lang="chi">暢遊瑞士冬季列車 (普)</title>
-    <desc lang="chi">第 3 集</desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260212002500 +0800" channel="小公視">
-    <title lang="chi">2025-26 ISU花式滑冰大獎賽 芬蘭站 (普)</title>
-    <desc lang="chi">第 2 集</desc>
-  </programme>
-  <programme start="20260212002500 +0800" stop="20260212014000 +0800" channel="小公視">
-    <title lang="chi">2025-26 ISU花式滑冰大獎賽 芬蘭站 (普)</title>
-    <desc lang="chi">第 3 集</desc>
-  </programme>
-  <programme start="20260212014000 +0800" stop="20260212020000 +0800" channel="小公視">
-    <title lang="chi">WAWA DADADA (普)</title>
-    <desc lang="chi">第 3 集</desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212060000 +0800" channel="小公視">
-    <title lang="chi">收播 (普)</title>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="小公視">
-    <title lang="chi">水果冰淇淋 (普)</title>
-    <desc lang="chi">第 2748 集今天小紅的聲音齒輪生鏽了，所以聲音變成小男生。小紅擔心自己的聲音會被嘲笑，於是莎拉決定今天都幫小紅說.....</desc>
-  </programme>
-  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="小公視">
-    <title lang="chi">看公視說英語 (普)</title>
-    <desc lang="chi">第 8177 集</desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212071000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 7 集</desc>
-  </programme>
-  <programme start="20260212071000 +0800" stop="20260212072000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 8 集</desc>
-  </programme>
-  <programme start="20260212072000 +0800" stop="20260212073000 +0800" channel="小公視">
-    <title lang="chi">阿奇幼幼園 第五季 (普)</title>
-    <desc lang="chi">第 9 集</desc>
-  </programme>
-  <programme start="20260212073000 +0800" stop="20260212074500 +0800" channel="小公視">
-    <title lang="chi">WAWA DADADA (普)</title>
-    <desc lang="chi">第 3 集</desc>
-  </programme>
-  <programme start="20260212074500 +0800" stop="20260212080000 +0800" channel="小公視">
-    <title lang="chi">動滋達滋森之島 (普)</title>
-    <desc lang="chi">第 70 集巧克是森之島的玩球高手，但閃電波波帶來超巨大滾球挑戰！動物精靈必須通過滑道接球、平衡滾球與保齡賽.....</desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="小公視">
     <title lang="chi">台灣囡仔、讚！ (普)</title>
     <desc lang="chi">第 216 集台南市新化區的口埤國小，在2016年轉型為西拉雅校園，「口埤」過去曾是一座埤塘，也是學校現在的位置，.....</desc>
@@ -917,10 +731,10 @@
     <title lang="chi">為寶貝唱一首歌幕後花絮 (普)</title>
     <desc lang="chi">第 1 集初嘗試寫兒歌的鳳小岳，帶著兒子一同在音樂裡飛翔，陪伴孩子面對惡夢。一起直擊鳳小岳與兒子在錄音室的可.....</desc>
   </programme>
-  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="小公視">
+  <programme start="20260216150000 +0800" stop="20260216160500 +0800" channel="小公視">
     <title lang="chi">【小公視表演廳】小虎的實習歷險記 (普)</title>
   </programme>
-  <programme start="20260216160000 +0800" stop="20260216163000 +0800" channel="小公視">
+  <programme start="20260216160500 +0800" stop="20260216163000 +0800" channel="小公視">
     <title lang="chi">【閃耀金鐘】歡迎光臨我的牧場 (普)</title>
     <desc lang="chi">第 1 集9歲的宇羲姓楊、屬羊，家裡還有間羊牧場。喜歡動物的他，很享受每天睡醒看到羊群的日常，每天最期待.....</desc>
   </programme>
@@ -982,10 +796,10 @@
     <title lang="chi">【新春動畫特區】我是陳派派 (普)</title>
     <desc lang="chi">第 2 集</desc>
   </programme>
-  <programme start="20260216220000 +0800" stop="20260217000000 +0800" channel="小公視">
+  <programme start="20260216220000 +0800" stop="20260217000300 +0800" channel="小公視">
     <title lang="chi">【新春藝文表演廳】潮流巨星閃耀巴黎 (普)</title>
   </programme>
-  <programme start="20260217000000 +0800" stop="20260217010000 +0800" channel="小公視">
+  <programme start="20260217000300 +0800" stop="20260217010000 +0800" channel="小公視">
     <title lang="chi">【閃耀金鐘】不在我的世界當勇者 (普)</title>
     <desc lang="chi">第 1 集勇者們被傳送至神秘的科技莊園。八位勇者初次相見，卻身陷密室，唯有合作解謎，才能成功逃脫。面對未知.....</desc>
   </programme>
@@ -1402,6 +1216,211 @@
     <desc lang="chi">第 6 集颱風要來了！阿樂以為可以一整天打電動，綁樹的工作都隨便亂做。颱風天？根本不會怎麼樣！結果偷懶的報.....</desc>
   </programme>
   <programme start="20260219030000 +0800" stop="20260219060000 +0800" channel="小公視">
+    <title lang="chi">收播 (普)</title>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219063000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】水果冰淇淋 (普)</title>
+    <desc lang="chi">第 2655 集機器人書店要舉辦創意書店設計比賽，琳琳和莎拉都請淇淇幫忙把圖畫完成，琳琳很滿意淇淇幫他畫的貓咪和貓頭.....</desc>
+  </programme>
+  <programme start="20260219063000 +0800" stop="20260219070000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】水果冰淇淋 (普)</title>
+    <desc lang="chi">第 2770 集琳琳聽到水果奶奶和小玉奶奶在講電話，以為水果奶奶要帶她去城堡旅行，於是她畫下了旅行用品清單，並請大家.....</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219071500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】WAWA哇！ (普)</title>
+    <desc lang="chi">第 26 集可樂喜歡門口的樹，但是樹生病了不得已只好把它移除，可樂很難過但是也沒辦法。春天的樹帶來美味的果實，桃.....</desc>
+  </programme>
+  <programme start="20260219071500 +0800" stop="20260219073000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】我們去公園玩 (普)</title>
+    <desc lang="chi">第 8 集在宜蘭有個很特別的巷子，牆上很多不同師傅工作的故事喔，我們還走進了一家糕餅店，親手做糕餅；最後來.....</desc>
+  </programme>
+  <programme start="20260219073000 +0800" stop="20260219074500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】屋頂音樂派對 (普)</title>
+    <desc lang="chi">第 10 集小朋友躲在箱子裡，給小?一個驚喜。一起用嘴巴嘗試很多聲音的變化。還有小鐵哥哥也來和小朋友玩人聲，.....</desc>
+  </programme>
+  <programme start="20260219074500 +0800" stop="20260219080000 +0800" channel="小公視">
+    <title lang="chi">動滋達滋森之島 (普)</title>
+    <desc lang="chi">第 61 集動物精靈因為沒有時間觀念而遲到，錯過熱氣球冒險。就在大家懊惱時，魔法咘咕鐘也因時間被弄亂而聲音怪.....</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219081500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】碰碰紅綠豆 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260219081500 +0800" stop="20260219083000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】碰碰紅綠豆 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219083700 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】妖果小學 (普)</title>
+    <desc lang="chi">第 13 集妖果糖提供小妖們三分鐘的終極強化效果，所有人使出各自妖力攻向巨魔妖，此時百果樹上空發出耀眼閃光，強光.....</desc>
+  </programme>
+  <programme start="20260219083700 +0800" stop="20260219084400 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】妖果小學 (普)</title>
+    <desc lang="chi">第 14 集魯娜在藍月關卡中成功控制體內的巨大能力。而在訓練室中，庫倫以第一名通過挑戰，成為妖果小學第一位高等學.....</desc>
+  </programme>
+  <programme start="20260219084400 +0800" stop="20260219085400 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】妖果小學 (普)</title>
+    <desc lang="chi">第 15 集金鑠鑠帶領真相小組閃亮登場，小妖們很快就和他們打成一片。白鹿爺爺單獨告訴金鑠鑠巨魔妖的事件經過，但她.....</desc>
+  </programme>
+  <programme start="20260219085400 +0800" stop="20260219090300 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】妖果小學 (普)</title>
+    <desc lang="chi">第 16 集就在帕西、啵啵和黑影要把水果奶奶抓起來時，庫倫和艾里跳出來出手阻止，並趁亂把奶奶帶走，真相小組也立刻.....</desc>
+  </programme>
+  <programme start="20260219090300 +0800" stop="20260219093000 +0800" channel="小公視">
+    <title lang="chi">下課花路米-全球暖化系列 (普)</title>
+    <desc lang="chi">第 7 集這一天，探索團造訪了正遭受海平面上升影響的三代同堂家庭。男主人Vitalis熱情邀請共進晚餐，但前提.....</desc>
+  </programme>
+  <programme start="20260219093000 +0800" stop="20260219100000 +0800" channel="小公視">
+    <title lang="chi">下課花路米-全球暖化系列 (普)</title>
+    <desc lang="chi">第 8 集硨磲貝是維持海洋生態平衡的重要角色。然而這些巨型貝類也正面臨生存危機。探索團來到硨磲貝研究中心，在專.....</desc>
+  </programme>
+  <programme start="20260219100000 +0800" stop="20260219103000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】歡迎光臨我的牧場 (普)</title>
+    <desc lang="chi">第 7 集曾亞璐，12歲，家裡有著全臺灣最大的金魚養殖場。亞璐家養的金魚種類繁多，亞璐最喜歡的是&quot;水泡眼&quot;.....</desc>
+  </programme>
+  <programme start="20260219103000 +0800" stop="20260219110000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】古典魔力客-音樂的時光之旅 (普)</title>
+    <desc lang="chi">第 5 集雖然魔力客的靈魂並沒有在古典時期停留太久，他還是知道古典時期最出名的音樂家：莫札特。莫札特的「成名之.....</desc>
+  </programme>
+  <programme start="20260219110000 +0800" stop="20260219111500 +0800" channel="小公視">
+    <title lang="chi">【新春動畫特區】我是陳派派 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260219111500 +0800" stop="20260219113000 +0800" channel="小公視">
+    <title lang="chi">【新春動畫特區】我是陳派派 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260219113000 +0800" stop="20260219120000 +0800" channel="小公視">
+    <title lang="chi">【新春動畫特區】酷狗寶貝：麵包與死亡事件 (普)</title>
+  </programme>
+  <programme start="20260219120000 +0800" stop="20260219133000 +0800" channel="小公視">
+    <title lang="chi">【小公視新春電影院】尖叫旅社 (普)</title>
+  </programme>
+  <programme start="20260219133000 +0800" stop="20260219140000 +0800" channel="小公視">
+    <title lang="chi">下課花路米-全球暖化系列 (普)</title>
+    <desc lang="chi">第 7 集這一天，探索團造訪了正遭受海平面上升影響的三代同堂家庭。男主人Vitalis熱情邀請共進晚餐，但前提.....</desc>
+  </programme>
+  <programme start="20260219140000 +0800" stop="20260219141500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 4 集小傑和阿樂為了腳踏車冠軍爭鬥，小可嫌棄大可也決定決戰！四人面對一座斜坡，誰敢率先衝下？「最勇敢的.....</desc>
+  </programme>
+  <programme start="20260219141500 +0800" stop="20260219143000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 5 集小可死不認蛀牙，偏方亂試反引大可懷疑；阿樂則拉小傑助攻告白。當害怕來襲，他們真能鼓起勇氣面對嗎？.....</desc>
+  </programme>
+  <programme start="20260219143000 +0800" stop="20260219144500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 6 集颱風要來了！阿樂以為可以一整天打電動，綁樹的工作都隨便亂做。颱風天？根本不會怎麼樣！結果偷懶的報.....</desc>
+  </programme>
+  <programme start="20260219144500 +0800" stop="20260219144900 +0800" channel="小公視">
+    <title lang="chi">為寶貝唱一首歌 (普)</title>
+    <desc lang="chi">第 4 集用童話的美好交織成愛，將魔法的力量化成希望，創作靈感是來自仙履奇緣中神仙教母的關鍵咒語，每個人對.....</desc>
+  </programme>
+  <programme start="20260219144900 +0800" stop="20260219150000 +0800" channel="小公視">
+    <title lang="chi">為寶貝唱一首歌幕後花絮 (普)</title>
+    <desc lang="chi">第 4 集｜相信自己，魔法無所不在｜剛從芬蘭回來的Lulu姐姐，帶著滿溢童話氛圍的全新歌曲，歌曲創作靈感來.....</desc>
+  </programme>
+  <programme start="20260219150000 +0800" stop="20260219163500 +0800" channel="小公視">
+    <title lang="chi">【小公視表演廳】搶救魔幻飛船 (普)</title>
+  </programme>
+  <programme start="20260219163500 +0800" stop="20260219170000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】古典魔力客-音樂的時光之旅 (普)</title>
+    <desc lang="chi">第 5 集雖然魔力客的靈魂並沒有在古典時期停留太久，他還是知道古典時期最出名的音樂家：莫札特。莫札特的「成名之.....</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219173000 +0800" channel="小公視">
+    <title lang="chi">悄悄話 (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260219173000 +0800" stop="20260219174500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】我們去公園玩 (普)</title>
+    <desc lang="chi">第 8 集在宜蘭有個很特別的巷子，牆上很多不同師傅工作的故事喔，我們還走進了一家糕餅店，親手做糕餅；最後來.....</desc>
+  </programme>
+  <programme start="20260219174500 +0800" stop="20260219180000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】屋頂音樂派對 (普)</title>
+    <desc lang="chi">第 10 集小朋友躲在箱子裡，給小?一個驚喜。一起用嘴巴嘗試很多聲音的變化。還有小鐵哥哥也來和小朋友玩人聲，.....</desc>
+  </programme>
+  <programme start="20260219180000 +0800" stop="20260219183000 +0800" channel="小公視">
+    <title lang="chi">歡迎光臨我的牧場 (普)</title>
+    <desc lang="chi">第 7 集曾亞璐，12歲，家裡有著全臺灣最大的金魚養殖場。亞璐家養的金魚種類繁多，亞璐最喜歡的是&quot;水泡眼&quot;.....</desc>
+  </programme>
+  <programme start="20260219183000 +0800" stop="20260219184500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】碰碰紅綠豆 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260219184500 +0800" stop="20260219190000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】碰碰紅綠豆 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260219190000 +0800" stop="20260219203000 +0800" channel="小公視">
+    <title lang="chi">【小公視新春電影院】尖叫旅社 (普)</title>
+  </programme>
+  <programme start="20260219203000 +0800" stop="20260219210000 +0800" channel="小公視">
+    <title lang="chi">下課花路米-全球暖化系列 (普)</title>
+    <desc lang="chi">第 8 集硨磲貝是維持海洋生態平衡的重要角色。然而這些巨型貝類也正面臨生存危機。探索團來到硨磲貝研究中心，在專.....</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219211500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 7 集萬聖節前夕，大可失蹤，大家照玩不誤卻搞砸一切。後悔之餘，他們能否趕在節日結束前，找到大可、說出道.....</desc>
+  </programme>
+  <programme start="20260219211500 +0800" stop="20260219213000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 8 集小傑的書包被香蕉泥毀了！為找出兇手，他誓言追查到底。一根香蕉引發一場友情危機，真相揭曉前，關係會.....</desc>
+  </programme>
+  <programme start="20260219213000 +0800" stop="20260219214500 +0800" channel="小公視">
+    <title lang="chi">【新春動畫特區】我是陳派派 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260219214500 +0800" stop="20260219220000 +0800" channel="小公視">
+    <title lang="chi">【新春動畫特區】我是陳派派 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260219220000 +0800" stop="20260219231500 +0800" channel="小公視">
+    <title lang="chi">【新春藝文表演廳】卡通音樂狂想曲 (普)</title>
+  </programme>
+  <programme start="20260219231500 +0800" stop="20260219233000 +0800" channel="小公視">
+    <title lang="chi">蒸汽時代 (普)</title>
+  </programme>
+  <programme start="20260219233000 +0800" stop="20260219233400 +0800" channel="小公視">
+    <title lang="chi">為寶貝唱一首歌 (普)</title>
+    <desc lang="chi">第 4 集用童話的美好交織成愛，將魔法的力量化成希望，創作靈感是來自仙履奇緣中神仙教母的關鍵咒語，每個人對.....</desc>
+  </programme>
+  <programme start="20260219233400 +0800" stop="20260219234500 +0800" channel="小公視">
+    <title lang="chi">為寶貝唱一首歌幕後花絮 (普)</title>
+    <desc lang="chi">第 4 集｜相信自己，魔法無所不在｜剛從芬蘭回來的Lulu姐姐，帶著滿溢童話氛圍的全新歌曲，歌曲創作靈感來.....</desc>
+  </programme>
+  <programme start="20260219234500 +0800" stop="20260219234900 +0800" channel="小公視">
+    <title lang="chi">為寶貝唱一首歌 (普)</title>
+    <desc lang="chi">第 3 集用最直接的方式將美好的音樂傳遞給孩子，透過一起錄音的過程，讓孩子們更有參與感，為這首歌注入純真活.....</desc>
+  </programme>
+  <programme start="20260219234900 +0800" stop="20260220000000 +0800" channel="小公視">
+    <title lang="chi">為寶貝唱一首歌幕後花絮 (普)</title>
+    <desc lang="chi">第 3 集專為未來世代打造Super Crazy的超酷兒歌，結合Grooving感十足的節奏、新潮Rap元素，.....</desc>
+  </programme>
+  <programme start="20260220000000 +0800" stop="20260220010000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】不在我的世界當勇者 (普)</title>
+    <desc lang="chi">第 4 集神秘嘉賓帶來特別任務，勇者們在科技裝置的指引下破解挑戰。接著，鋸木競技展開，除了考驗彼此的默契與.....</desc>
+  </programme>
+  <programme start="20260220010000 +0800" stop="20260220013000 +0800" channel="小公視">
+    <title lang="chi">悄悄話 (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260220013000 +0800" stop="20260220020000 +0800" channel="小公視">
+    <title lang="chi">下課花路米-全球暖化系列 (普)</title>
+    <desc lang="chi">第 7 集這一天，探索團造訪了正遭受海平面上升影響的三代同堂家庭。男主人Vitalis熱情邀請共進晚餐，但前提.....</desc>
+  </programme>
+  <programme start="20260220020000 +0800" stop="20260220023000 +0800" channel="小公視">
+    <title lang="chi">下課花路米-全球暖化系列 (普)</title>
+    <desc lang="chi">第 8 集硨磲貝是維持海洋生態平衡的重要角色。然而這些巨型貝類也正面臨生存危機。探索團來到硨磲貝研究中心，在專.....</desc>
+  </programme>
+  <programme start="20260220023000 +0800" stop="20260220024500 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 7 集萬聖節前夕，大可失蹤，大家照玩不誤卻搞砸一切。後悔之餘，他們能否趕在節日結束前，找到大可、說出道.....</desc>
+  </programme>
+  <programme start="20260220024500 +0800" stop="20260220030000 +0800" channel="小公視">
+    <title lang="chi">【閃耀金鐘】什麼都沒有雜貨店2 (普)</title>
+    <desc lang="chi">第 8 集小傑的書包被香蕉泥毀了！為找出兇手，他誓言追查到底。一根香蕉引發一場友情危機，真相揭曉前，關係會.....</desc>
+  </programme>
+  <programme start="20260220030000 +0800" stop="20260220060000 +0800" channel="小公視">
     <title lang="chi">收播 (普)</title>
   </programme>
 </tv>

@@ -1,157 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="公視 PTS">
     <display-name>公視 PTS</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211083000 +0800" channel="公視 PTS">
-    <title lang="chi">公視手語新聞 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211083000 +0800" stop="20260211084000 +0800" channel="公視 PTS">
-    <title lang="chi">公視越南語新聞 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211084000 +0800" stop="20260211085000 +0800" channel="公視 PTS">
-    <title lang="chi">公視印尼語新聞 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211085000 +0800" stop="20260211090000 +0800" channel="公視 PTS">
-    <title lang="chi">公視泰語新聞 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211090000 +0800" stop="20260211103000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視人生劇展】風車 (普)</title>
-    <desc lang="chi">顏教授與妻子雅淑桃李天下，一生引領多少學子走過人生歷程，但是面對自己喪失愛孫的哀痛卻始終走不出來。雅.....</desc>
-  </programme>
-  <programme start="20260211103000 +0800" stop="20260211110000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視學生劇展】紅包 (普)</title>
-    <desc lang="chi">今年過年，宥廷想用紅包錢買台昂貴的全新電玩殊不知親戚們都在國外沒有回來宥廷便偷了媽媽的私房錢.....</desc>
-  </programme>
-  <programme start="20260211110000 +0800" stop="20260211120000 +0800" channel="公視 PTS">
-    <title lang="chi">亞洲 (普)</title>
-    <desc lang="chi">第 2 集</desc>
-  </programme>
-  <programme start="20260211120000 +0800" stop="20260211125500 +0800" channel="公視 PTS">
-    <title lang="chi">公視午間新聞 (普)</title>
-    <desc lang="chi">第 42 集</desc>
-  </programme>
-  <programme start="20260211125500 +0800" stop="20260211130000 +0800" channel="公視 PTS">
-    <title lang="chi">PeoPo公民新聞報 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="公視 PTS">
-    <title lang="chi">哈！真相大白了 (普)</title>
-    <desc lang="chi">第 65 集你聽過嗎？煮白飯加冰塊，可以讓飯更Q彈好吃！哈林庾澄慶 海芬 梁凱晴 林舒語 姚淳耀 吳東璿 陳勇.....</desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="公視 PTS">
-    <title lang="chi">我的婆婆怎麼那麼可愛 (護)</title>
-    <desc lang="chi">第 28 集婆婆跟小鷗為了用土鳳梨跟金鑽鳳梨做餅相持不下，發貴想到把土鳳梨跟金鑽混再一起用比一的比例做出的鳳.....</desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="公視 PTS">
-    <title lang="chi">苦力 (護)</title>
-    <desc lang="chi">第 26 集阿鳳姨陪著清風來到雜貨店，福姆和金蘭壓抑不下激動的情緒質問清風，清風強忍著淚水終於說出了實情….....</desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="公視 PTS">
-    <title lang="chi">行走TIT (普)</title>
-    <desc lang="chi">第 265 集排灣族-加羅板部落台東縣大武鄉大武村的加羅板部落，位於大武溪中游，是由鄰近的多個排灣族部落族人移住.....</desc>
-  </programme>
-  <programme start="20260211163000 +0800" stop="20260211164000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視Fun卡通】柯利嘟嘟車 (普)</title>
-    <desc lang="chi">第 28 集</desc>
-  </programme>
-  <programme start="20260211164000 +0800" stop="20260211165000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視Fun卡通】柯利嘟嘟車 (普)</title>
-    <desc lang="chi">第 29 集</desc>
-  </programme>
-  <programme start="20260211165000 +0800" stop="20260211170000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視Fun卡通】柯利嘟嘟車 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211173000 +0800" channel="公視 PTS">
-    <title lang="chi">就是愛運動 (普)</title>
-    <desc lang="chi">第 28 集台東電光的溪林風光 阿美孩子征服去 !          台灣後山的縱谷美景蔭入眼簾，搭配旮亙樂.....</desc>
-  </programme>
-  <programme start="20260211173000 +0800" stop="20260211180000 +0800" channel="公視 PTS">
-    <title lang="chi">水果冰淇淋 (普)</title>
-    <desc lang="chi">第 2793 集機器人店長因為沒有得到「最佳店長獎」，所以很難過，奶奶知道後，建議淇淇他們可以給他一個鼓勵的擁抱，果.....</desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211190000 +0800" channel="公視 PTS">
-    <title lang="chi">外鄉女 (普)</title>
-    <desc lang="chi">第 2 集《外鄉女》第一集 分集大綱大雁北飛 追尋夢裡的那盞燈火　　1970年代，正是台灣經濟起飛的時代，.....</desc>
-  </programme>
-  <programme start="20260211190000 +0800" stop="20260211200000 +0800" channel="公視 PTS">
-    <title lang="chi">公視晚間新聞 (普)</title>
-    <desc lang="chi">第 42 集</desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211203000 +0800" channel="公視 PTS">
-    <title lang="chi">８點新世界 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211203000 +0800" stop="20260211210000 +0800" channel="公視 PTS">
-    <title lang="chi">尖鋒對話 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="公視 PTS">
-    <title lang="chi">哈！真相大白了 (普)</title>
-    <desc lang="chi">第 69 集你聽過嗎？邊跑步邊唱歌可以提升肺活量！哈林庾澄慶 盧學叡 舞思愛 王宏恩 JR紀言愷 蕭閎仁 裴安.....</desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="公視 PTS">
-    <title lang="chi">獨立特派員 (普)</title>
-    <desc lang="chi">第 940 集</desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="公視 PTS">
-    <title lang="chi">零日攻擊 (輔12)</title>
-    <desc lang="chi">第 10 集『贏得勝利的唯一方法是信任』Zero Day 砲聲隆隆，解放軍登陸的傳聞甚囂塵上，前線大膽島失聯.....</desc>
-  </programme>
-  <programme start="20260212000000 +0800" stop="20260212001000 +0800" channel="公視 PTS">
-    <title lang="chi">公視越南語新聞 (普)</title>
-    <desc lang="chi">第 31 集</desc>
-  </programme>
-  <programme start="20260212001000 +0800" stop="20260212002000 +0800" channel="公視 PTS">
-    <title lang="chi">公視印尼語新聞 (普)</title>
-    <desc lang="chi">第 31 集</desc>
-  </programme>
-  <programme start="20260212002000 +0800" stop="20260212003000 +0800" channel="公視 PTS">
-    <title lang="chi">公視泰語新聞 (普)</title>
-    <desc lang="chi">第 31 集</desc>
-  </programme>
-  <programme start="20260212003000 +0800" stop="20260212010000 +0800" channel="公視 PTS">
-    <title lang="chi">８點新世界 (普)</title>
-    <desc lang="chi">第 30 集</desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="公視 PTS">
-    <title lang="chi">獨立特派員 (普)</title>
-    <desc lang="chi">第 940 集</desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212033000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視人生劇展】風車 (普)</title>
-    <desc lang="chi">顏教授與妻子雅淑桃李天下，一生引領多少學子走過人生歷程，但是面對自己喪失愛孫的哀痛卻始終走不出來。雅.....</desc>
-  </programme>
-  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="公視 PTS">
-    <title lang="chi">【公視學生劇展】紅包 (普)</title>
-    <desc lang="chi">今年過年，宥廷想用紅包錢買台昂貴的全新電玩殊不知親戚們都在國外沒有回來宥廷便偷了媽媽的私房錢.....</desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="公視 PTS">
-    <title lang="chi">聽聽看 (普)</title>
-    <desc lang="chi">第 884 集《自己的天空》一切只為妳－李明臻很多人第一眼看到李明臻，都會被她可愛的笑容給吸引住，這個小女生有著.....</desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="公視 PTS">
-    <title lang="chi">哈！真相大白了 (普)</title>
-    <desc lang="chi">第 69 集你聽過嗎？邊跑步邊唱歌可以提升肺活量！哈林庾澄慶 盧學叡 舞思愛 王宏恩 JR紀言愷 蕭閎仁 裴安.....</desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212063000 +0800" channel="公視 PTS">
-    <title lang="chi">看公視說英語 (普)</title>
-    <desc lang="chi">第 8177 集</desc>
-  </programme>
-  <programme start="20260212063000 +0800" stop="20260212070000 +0800" channel="公視 PTS">
-    <title lang="chi">水果冰淇淋 (普)</title>
-    <desc lang="chi">第 2793 集機器人店長因為沒有得到「最佳店長獎」，所以很難過，奶奶知道後，建議淇淇他們可以給他一個鼓勵的擁抱，果.....</desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="公視 PTS">
-    <title lang="chi">公視早安新聞 (普)</title>
-    <desc lang="chi">第 43 集</desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212083000 +0800" channel="公視 PTS">
     <title lang="chi">公視手語新聞 (普)</title>
     <desc lang="chi">第 31 集</desc>
@@ -1029,5 +882,122 @@
   <programme start="20260219050000 +0800" stop="20260219060000 +0800" channel="公視 PTS">
     <title lang="chi">列車人生 (普)</title>
     <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260219060000 +0800" stop="20260219061500 +0800" channel="公視 PTS">
+    <title lang="chi">【精選】WAWA哇！ (普)</title>
+    <desc lang="chi">第 25 集芯芯家裡養了絨鼠和獅子兔，芯芯每天都會照顧牠們、陪牠們玩，她覺得這些動物還有她房裡的娃娃，都是她的好.....</desc>
+  </programme>
+  <programme start="20260219061500 +0800" stop="20260219063000 +0800" channel="公視 PTS">
+    <title lang="chi">【精選】WAWA哇！ (普)</title>
+    <desc lang="chi">第 26 集可樂喜歡門口的樹，但是樹生病了不得已只好把它移除，可樂很難過但是也沒辦法。春天的樹帶來美味的果實，桃.....</desc>
+  </programme>
+  <programme start="20260219063000 +0800" stop="20260219070000 +0800" channel="公視 PTS">
+    <title lang="chi">【精選】水果冰淇淋 (普)</title>
+    <desc lang="chi">第 2770 集琳琳聽到水果奶奶和小玉奶奶在講電話，以為水果奶奶要帶她去城堡旅行，於是她畫下了旅行用品清單，並請大家.....</desc>
+  </programme>
+  <programme start="20260219070000 +0800" stop="20260219073000 +0800" channel="公視 PTS">
+    <title lang="chi">【精選】歡迎光臨我的牧場 (普)</title>
+    <desc lang="chi">第 8 集鄧詠震，11歲，覺得蜜蜂跟其他動物不一樣的地方是，牠很小、屁股有針、會叮人。不怕蜜蜂，覺得養蜂的.....</desc>
+  </programme>
+  <programme start="20260219073000 +0800" stop="20260219080000 +0800" channel="公視 PTS">
+    <title lang="chi">一碗江湖 (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260219080000 +0800" stop="20260219083000 +0800" channel="公視 PTS">
+    <title lang="chi">黑潮一流變中的台灣建築 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260219083000 +0800" stop="20260219090300 +0800" channel="公視 PTS">
+    <title lang="chi">黑潮一流變中的台灣建築 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260219090300 +0800" stop="20260219110700 +0800" channel="公視 PTS">
+    <title lang="chi">【新春特別節目】臺北大巨蛋 民歌大團圓 (普)</title>
+    <desc lang="chi">第 3 集</desc>
+  </programme>
+  <programme start="20260219110700 +0800" stop="20260219120000 +0800" channel="公視 PTS">
+    <title lang="chi">列車人生 (普)</title>
+    <desc lang="chi">第 5 集</desc>
+  </programme>
+  <programme start="20260219120000 +0800" stop="20260219123000 +0800" channel="公視 PTS">
+    <title lang="chi">公視午間新聞 (普)</title>
+    <desc lang="chi">第 50 集</desc>
+  </programme>
+  <programme start="20260219123000 +0800" stop="20260219143000 +0800" channel="公視 PTS">
+    <title lang="chi">【新春電影院】五星主廚快餐車 (護)</title>
+  </programme>
+  <programme start="20260219143000 +0800" stop="20260219153000 +0800" channel="公視 PTS">
+    <title lang="chi">【新春特別節目】哈！真相大白了 (普)</title>
+    <desc lang="chi">第 3 集蔡燦得 石知田 張榕容 楊麗音 黃姵嘉 林筳諭.....</desc>
+  </programme>
+  <programme start="20260219153000 +0800" stop="20260219163000 +0800" channel="公視 PTS">
+    <title lang="chi">【南國系列】泰國伊甸園 (普)</title>
+  </programme>
+  <programme start="20260219163000 +0800" stop="20260219164000 +0800" channel="公視 PTS">
+    <title lang="chi">【公視Fun卡通】柯利嘟嘟車 (普)</title>
+    <desc lang="chi">第 46 集</desc>
+  </programme>
+  <programme start="20260219164000 +0800" stop="20260219165000 +0800" channel="公視 PTS">
+    <title lang="chi">【公視Fun卡通】柯利嘟嘟車 (普)</title>
+    <desc lang="chi">第 47 集</desc>
+  </programme>
+  <programme start="20260219165000 +0800" stop="20260219170000 +0800" channel="公視 PTS">
+    <title lang="chi">【公視Fun卡通】柯利嘟嘟車 (普)</title>
+    <desc lang="chi">第 48 集</desc>
+  </programme>
+  <programme start="20260219170000 +0800" stop="20260219173000 +0800" channel="公視 PTS">
+    <title lang="chi">鹹魚小隊 (普)</title>
+    <desc lang="chi">第 6 集戰爭時期，假訊息滿天飛！從通訊軟體上流傳的謠言，到AI生成的假影片，小隊員們能否掌握破解心法，善用各.....</desc>
+  </programme>
+  <programme start="20260219173000 +0800" stop="20260219180000 +0800" channel="公視 PTS">
+    <title lang="chi">全球動物冒險王第五季 (普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260219180000 +0800" stop="20260219190000 +0800" channel="公視 PTS">
+    <title lang="chi">【南國系列】印度叢林奇譚 (普)</title>
+  </programme>
+  <programme start="20260219190000 +0800" stop="20260219193000 +0800" channel="公視 PTS">
+    <title lang="chi">公視晚間新聞 (普)</title>
+    <desc lang="chi">第 50 集</desc>
+  </programme>
+  <programme start="20260219193000 +0800" stop="20260219200000 +0800" channel="公視 PTS">
+    <title lang="chi">一碗江湖 (普)</title>
+    <desc lang="chi">第 6 集</desc>
+  </programme>
+  <programme start="20260219200000 +0800" stop="20260219210000 +0800" channel="公視 PTS">
+    <title lang="chi">【新春特別節目】騎鐵馬遊臺灣 (普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260219210000 +0800" stop="20260219230000 +0800" channel="公視 PTS">
+    <title lang="chi">【新春特別節目】臺北大巨蛋 民歌大團圓 (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260219230000 +0800" stop="20260220003000 +0800" channel="公視 PTS">
+    <title lang="chi">【賀歲劇展】糟糕!我又吸走別人的念頭了 (護)</title>
+    <desc lang="chi">人生最大的煩惱就是庸人自擾，如果能夠吸走別人負面的念頭，那不就天下太平了嗎？至少，擁有超能力的劉平匯.....</desc>
+  </programme>
+  <programme start="20260220003000 +0800" stop="20260220013000 +0800" channel="公視 PTS">
+    <title lang="chi">【新春特別節目】騎鐵馬遊臺灣 (普)</title>
+    <desc lang="chi">第 1 集</desc>
+  </programme>
+  <programme start="20260220013000 +0800" stop="20260220033000 +0800" channel="公視 PTS">
+    <title lang="chi">【新春特別節目】臺北大巨蛋 民歌大團圓 (普)</title>
+    <desc lang="chi">第 4 集</desc>
+  </programme>
+  <programme start="20260220033000 +0800" stop="20260220040000 +0800" channel="公視 PTS">
+    <title lang="chi">黑潮一流變中的台灣建築 (普)</title>
+    <desc lang="chi">第 7 集</desc>
+  </programme>
+  <programme start="20260220040000 +0800" stop="20260220043300 +0800" channel="公視 PTS">
+    <title lang="chi">黑潮一流變中的台灣建築 (普)</title>
+    <desc lang="chi">第 8 集</desc>
+  </programme>
+  <programme start="20260220043300 +0800" stop="20260220050000 +0800" channel="公視 PTS">
+    <title lang="chi">【】台灣食堂 (普)</title>
+    <desc lang="chi">第 4 集事實上台灣以前是沒有牛肉麵這個食物的，不但沒有牛肉麵，台灣人是連牛肉都不吃的；牛肉麵出現不過短短四.....</desc>
+  </programme>
+  <programme start="20260220050000 +0800" stop="20260220060000 +0800" channel="公視 PTS">
+    <title lang="chi">列車人生 (普)</title>
+    <desc lang="chi">第 5 集</desc>
   </programme>
 </tv>

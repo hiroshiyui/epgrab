@@ -1,85 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="中視菁采台">
     <display-name>中視菁采台</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211100000 +0800" channel="中視菁采台">
-    <title lang="chi">歌聲滿天下</title>
-    <desc lang="chi">歌聲滿天下</desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211115800 +0800" channel="中視菁采台">
-    <title lang="chi">群星演唱秀</title>
-    <desc lang="chi">群星演唱秀</desc>
-  </programme>
-  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="中視菁采台">
-    <title lang="chi">中視午間新聞</title>
-    <desc lang="chi">中視午間新聞</desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="中視菁采台">
-    <title lang="chi">紅顏花</title>
-    <desc lang="chi">紅顏花</desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211160000 +0800" channel="中視菁采台">
-    <title lang="chi">飢餓遊戲</title>
-    <desc lang="chi">飢餓遊戲</desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211180000 +0800" channel="中視菁采台">
-    <title lang="chi">黃昏的約會</title>
-    <desc lang="chi">黃昏的約會</desc>
-  </programme>
-  <programme start="20260211180000 +0800" stop="20260211185800 +0800" channel="中視菁采台">
-    <title lang="chi">皇恩浩蕩</title>
-    <desc lang="chi">皇恩浩蕩</desc>
-  </programme>
-  <programme start="20260211185800 +0800" stop="20260211200000 +0800" channel="中視菁采台">
-    <title lang="chi">中視新聞全球報導</title>
-    <desc lang="chi">中視新聞全球報導</desc>
-  </programme>
-  <programme start="20260211200000 +0800" stop="20260211220000 +0800" channel="中視菁采台">
-    <title lang="chi">飢餓遊戲</title>
-    <desc lang="chi">飢餓遊戲</desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="中視菁采台">
-    <title lang="chi">紅顏花</title>
-    <desc lang="chi">紅顏花</desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="中視菁采台">
-    <title lang="chi">真的不一樣</title>
-    <desc lang="chi">真的不一樣</desc>
-  </programme>
-  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="中視菁采台">
-    <title lang="chi">皇恩浩蕩</title>
-    <desc lang="chi">皇恩浩蕩</desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="中視菁采台">
-    <title lang="chi">大陸見聞錄</title>
-    <desc lang="chi">大陸見聞錄</desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="中視菁采台">
-    <title lang="chi">真的不一樣</title>
-    <desc lang="chi">真的不一樣</desc>
-  </programme>
-  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="中視菁采台">
-    <title lang="chi">MIT台灣誌</title>
-    <desc lang="chi">MIT台灣誌</desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="中視菁采台">
-    <title lang="chi">大陸見聞錄</title>
-    <desc lang="chi">大陸見聞錄</desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="中視菁采台">
-    <title lang="chi">紅顏花</title>
-    <desc lang="chi">紅顏花</desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="中視菁采台">
-    <title lang="chi">皇恩浩蕩</title>
-    <desc lang="chi">皇恩浩蕩</desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="中視菁采台">
-    <title lang="chi">中視早安新聞</title>
-    <desc lang="chi">中視早安新聞</desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212100000 +0800" channel="中視菁采台">
     <title lang="chi">歌聲滿天下</title>
     <desc lang="chi">歌聲滿天下</desc>

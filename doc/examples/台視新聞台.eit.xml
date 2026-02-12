@@ -1,105 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="台視新聞台">
     <display-name>台視新聞台</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211090000 +0800" channel="台視新聞台">
-    <title lang="chi"> ０８００整點新聞 </title>
-    <desc lang="chi"> ０８００整點新聞 </desc>
-  </programme>
-  <programme start="20260211090000 +0800" stop="20260211100000 +0800" channel="台視新聞台">
-    <title lang="chi"> 早安最前線 </title>
-    <desc lang="chi"> 早安最前線 </desc>
-  </programme>
-  <programme start="20260211100000 +0800" stop="20260211105800 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視１０點新聞 </title>
-    <desc lang="chi"> 台視１０點新聞 </desc>
-  </programme>
-  <programme start="20260211105800 +0800" stop="20260211115800 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視１１００台語新聞 </title>
-    <desc lang="chi"> 台視１１００台語新聞 </desc>
-  </programme>
-  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="台視新聞台">
-    <title lang="chi"> 午安您好台視新聞 </title>
-    <desc lang="chi"> 午安您好台視新聞 </desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="台視新聞台">
-    <title lang="chi"> １３００整點新聞 </title>
-    <desc lang="chi"> １３００整點新聞 </desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="台視新聞台">
-    <title lang="chi"> １４００整點新聞 </title>
-    <desc lang="chi"> １４００整點新聞 </desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211160000 +0800" channel="台視新聞台">
-    <title lang="chi"> １５００整點新聞 </title>
-    <desc lang="chi"> １５００整點新聞 </desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211170000 +0800" channel="台視新聞台">
-    <title lang="chi"> １６００整點新聞 </title>
-    <desc lang="chi"> １６００整點新聞 </desc>
-  </programme>
-  <programme start="20260211170000 +0800" stop="20260211175500 +0800" channel="台視新聞台">
-    <title lang="chi"> １７００整點新聞 </title>
-    <desc lang="chi"> １７００整點新聞 </desc>
-  </programme>
-  <programme start="20260211175500 +0800" stop="20260211185800 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視新聞全球現場 </title>
-    <desc lang="chi"> 台視新聞全球現場 </desc>
-  </programme>
-  <programme start="20260211185800 +0800" stop="20260211195900 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視晚間新聞 </title>
-    <desc lang="chi"> 台視晚間新聞 </desc>
-  </programme>
-  <programme start="20260211195900 +0800" stop="20260211210000 +0800" channel="台視新聞台">
-    <title lang="chi"> ２０００整點新聞 </title>
-    <desc lang="chi"> ２０００整點新聞 </desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視新聞世界報導 </title>
-    <desc lang="chi"> 台視新聞世界報導 </desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="台視新聞台">
-    <title lang="chi"> 晚安台灣 </title>
-    <desc lang="chi"> 晚安台灣 </desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視夜線新聞 </title>
-    <desc lang="chi"> 台視夜線新聞 </desc>
-  </programme>
-  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="台視新聞台">
-    <title lang="chi"> 晚安台灣(重) </title>
-    <desc lang="chi"> 晚安台灣(重) </desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視新聞世界報導(重) </title>
-    <desc lang="chi"> 台視新聞世界報導(重) </desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="台視新聞台">
-    <title lang="chi"> ０２００台視晚間新聞 </title>
-    <desc lang="chi"> ０２００台視晚間新聞 </desc>
-  </programme>
-  <programme start="20260212030000 +0800" stop="20260212040000 +0800" channel="台視新聞台">
-    <title lang="chi"> 台視夜線新聞(重) </title>
-    <desc lang="chi"> 台視夜線新聞(重) </desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="台視新聞台">
-    <title lang="chi"> 國際財經脈動 </title>
-    <desc lang="chi"> 國際財經脈動 </desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="台視新聞台">
-    <title lang="chi"> 台灣名人堂 </title>
-    <desc lang="chi"> 台灣名人堂 </desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="台視新聞台">
-    <title lang="chi"> 益起看世界 </title>
-    <desc lang="chi"> 益起看世界 </desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="台視新聞台">
-    <title lang="chi"> 早安您好台視新聞 </title>
-    <desc lang="chi"> 早安您好台視新聞 </desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212090000 +0800" channel="台視新聞台">
     <title lang="chi"> ０８００整點新聞 </title>
     <desc lang="chi"> ０８００整點新聞 </desc>
@@ -517,6 +422,114 @@
     <desc lang="chi"> 2026 WBC世界棒球經典賽看臺視 </desc>
   </programme>
   <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="台視新聞台">
+    <title lang="chi"> 財經錢線週報 </title>
+    <desc lang="chi"> 財經錢線週報 </desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216090000 +0800" channel="台視新聞台">
+    <title lang="chi"> ０８００整點新聞 </title>
+    <desc lang="chi"> ０８００整點新聞 </desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216100000 +0800" channel="台視新聞台">
+    <title lang="chi"> 早安最前線 </title>
+    <desc lang="chi"> 早安最前線 </desc>
+  </programme>
+  <programme start="20260216100000 +0800" stop="20260216110000 +0800" channel="台視新聞台">
+    <title lang="chi"> 尋味高雄 </title>
+    <desc lang="chi"> 尋味高雄 </desc>
+  </programme>
+  <programme start="20260216110000 +0800" stop="20260216115800 +0800" channel="台視新聞台">
+    <title lang="chi"> 台視１１點新聞 </title>
+    <desc lang="chi"> 台視１１點新聞 </desc>
+  </programme>
+  <programme start="20260216115800 +0800" stop="20260216130000 +0800" channel="台視新聞台">
+    <title lang="chi"> 午安您好台視新聞 </title>
+    <desc lang="chi"> 午安您好台視新聞 </desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="台視新聞台">
+    <title lang="chi"> １３００整點新聞 </title>
+    <desc lang="chi"> １３００整點新聞 </desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="台視新聞台">
+    <title lang="chi"> 看見台灣齊柏林衛星發射全紀錄 </title>
+    <desc lang="chi"> 看見台灣齊柏林衛星發射全紀錄 </desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216153000 +0800" channel="台視新聞台">
+    <title lang="chi"> 文化無框綻放自由第１３屆總統獎 </title>
+    <desc lang="chi"> 文化無框綻放自由第１３屆總統獎 </desc>
+  </programme>
+  <programme start="20260216153000 +0800" stop="20260216160000 +0800" channel="台視新聞台">
+    <title lang="chi"> 2026 WBC世界棒球經典賽看臺視 </title>
+    <desc lang="chi"> 2026 WBC世界棒球經典賽看臺視 </desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216172800 +0800" channel="台視新聞台">
+    <title lang="chi"> １６００整點新聞 </title>
+    <desc lang="chi"> １６００整點新聞 </desc>
+  </programme>
+  <programme start="20260216172800 +0800" stop="20260216183000 +0800" channel="台視新聞台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260216183000 +0800" stop="20260216200000 +0800" channel="台視新聞台">
+    <title lang="chi"> 台視新聞全球現場 </title>
+    <desc lang="chi"> 台視新聞全球現場 </desc>
+  </programme>
+  <programme start="20260216200000 +0800" stop="20260216203000 +0800" channel="台視新聞台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260216203000 +0800" stop="20260216210000 +0800" channel="台視新聞台">
+    <title lang="chi"> 尋找台灣感動力 </title>
+    <desc lang="chi"> 尋找台灣感動力 </desc>
+  </programme>
+  <programme start="20260216210000 +0800" stop="20260216220000 +0800" channel="台視新聞台">
+    <title lang="chi"> ２１００整點新聞 </title>
+    <desc lang="chi"> ２１００整點新聞 </desc>
+  </programme>
+  <programme start="20260216220000 +0800" stop="20260216230000 +0800" channel="台視新聞台">
+    <title lang="chi"> 晚安台灣 </title>
+    <desc lang="chi"> 晚安台灣 </desc>
+  </programme>
+  <programme start="20260216230000 +0800" stop="20260216233000 +0800" channel="台視新聞台">
+    <title lang="chi"> 2026 WBC世界棒球經典賽看臺視 </title>
+    <desc lang="chi"> 2026 WBC世界棒球經典賽看臺視 </desc>
+  </programme>
+  <programme start="20260216233000 +0800" stop="20260217000000 +0800" channel="台視新聞台">
+    <title lang="chi"> 跟著主播輕旅行 </title>
+    <desc lang="chi"> 跟著主播輕旅行 </desc>
+  </programme>
+  <programme start="20260217000000 +0800" stop="20260217010000 +0800" channel="台視新聞台">
+    <title lang="chi"> 晚安台灣(重) </title>
+    <desc lang="chi"> 晚安台灣(重) </desc>
+  </programme>
+  <programme start="20260217010000 +0800" stop="20260217020000 +0800" channel="台視新聞台">
+    <title lang="chi"> ２１００整點新聞(重) </title>
+    <desc lang="chi"> ２１００整點新聞(重) </desc>
+  </programme>
+  <programme start="20260217020000 +0800" stop="20260217030000 +0800" channel="台視新聞台">
+    <title lang="chi"> ０２００台視晚間新聞 </title>
+    <desc lang="chi"> ０２００台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260217030000 +0800" stop="20260217033000 +0800" channel="台視新聞台">
+    <title lang="chi"> 發現科學 </title>
+    <desc lang="chi"> 發現科學 </desc>
+  </programme>
+  <programme start="20260217033000 +0800" stop="20260217040000 +0800" channel="台視新聞台">
+    <title lang="chi"> 健康醫聊站 </title>
+    <desc lang="chi"> 健康醫聊站 </desc>
+  </programme>
+  <programme start="20260217040000 +0800" stop="20260217050000 +0800" channel="台視新聞台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260217050000 +0800" stop="20260217060000 +0800" channel="台視新聞台">
+    <title lang="chi"> 益起看世界 </title>
+    <desc lang="chi"> 益起看世界 </desc>
+  </programme>
+  <programme start="20260217060000 +0800" stop="20260217070000 +0800" channel="台視新聞台">
+    <title lang="chi"> 熱線追蹤 </title>
+    <desc lang="chi"> 熱線追蹤 </desc>
+  </programme>
+  <programme start="20260217070000 +0800" stop="20260217080000 +0800" channel="台視新聞台">
     <title lang="chi"> 財經錢線週報 </title>
     <desc lang="chi"> 財經錢線週報 </desc>
   </programme>

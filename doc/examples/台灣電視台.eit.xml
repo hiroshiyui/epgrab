@@ -1,129 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="epg.xsl"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epgrab">
   <channel id="台灣電視台">
     <display-name>台灣電視台</display-name>
   </channel>
-  <programme start="20260211080000 +0800" stop="20260211085800 +0800" channel="台灣電視台">
-    <title lang="chi"> 早安台灣台語新聞 </title>
-    <desc lang="chi"> 早安台灣台語新聞 </desc>
-  </programme>
-  <programme start="20260211085800 +0800" stop="20260211095800 +0800" channel="台灣電視台">
-    <title lang="chi"> 神機妙算劉伯溫 </title>
-    <desc lang="chi"> 神機妙算劉伯溫 </desc>
-  </programme>
-  <programme start="20260211095800 +0800" stop="20260211102800 +0800" channel="台灣電視台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211102800 +0800" stop="20260211105800 +0800" channel="台灣電視台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211105800 +0800" stop="20260211115800 +0800" channel="台灣電視台">
-    <title lang="chi"> 熱海戀歌 </title>
-    <desc lang="chi"> 熱海戀歌 </desc>
-  </programme>
-  <programme start="20260211115800 +0800" stop="20260211130000 +0800" channel="台灣電視台">
-    <title lang="chi"> 午安您好－台視新聞 </title>
-    <desc lang="chi"> 午安您好－台視新聞 </desc>
-  </programme>
-  <programme start="20260211130000 +0800" stop="20260211140000 +0800" channel="台灣電視台">
-    <title lang="chi"> 1300午間寶島西米樂守護 </title>
-    <desc lang="chi"> 1300午間寶島西米樂守護 </desc>
-  </programme>
-  <programme start="20260211140000 +0800" stop="20260211150000 +0800" channel="台灣電視台">
-    <title lang="chi"> 午間寶島西米樂守護 </title>
-    <desc lang="chi"> 午間寶島西米樂守護 </desc>
-  </programme>
-  <programme start="20260211150000 +0800" stop="20260211153000 +0800" channel="台灣電視台">
-    <title lang="chi"> 消費情報讚 </title>
-    <desc lang="chi"> 消費情報讚 </desc>
-  </programme>
-  <programme start="20260211153000 +0800" stop="20260211160000 +0800" channel="台灣電視台">
-    <title lang="chi"> 生活情報通 </title>
-    <desc lang="chi"> 生活情報通 </desc>
-  </programme>
-  <programme start="20260211160000 +0800" stop="20260211163000 +0800" channel="台灣電視台">
-    <title lang="chi"> 生活情報通 </title>
-    <desc lang="chi"> 生活情報通 </desc>
-  </programme>
-  <programme start="20260211163000 +0800" stop="20260211165800 +0800" channel="台灣電視台">
-    <title lang="chi"> 烤箱讀書會 </title>
-    <desc lang="chi"> 烤箱讀書會 </desc>
-  </programme>
-  <programme start="20260211165800 +0800" stop="20260211172800 +0800" channel="台灣電視台">
-    <title lang="chi"> 1700我們這一家 </title>
-    <desc lang="chi"> 1700我們這一家 </desc>
-  </programme>
-  <programme start="20260211172800 +0800" stop="20260211175800 +0800" channel="台灣電視台">
-    <title lang="chi"> 我們這一家 </title>
-    <desc lang="chi"> 我們這一家 </desc>
-  </programme>
-  <programme start="20260211175800 +0800" stop="20260211182800 +0800" channel="台灣電視台">
-    <title lang="chi"> 1800蠟筆小新 </title>
-    <desc lang="chi"> 1800蠟筆小新 </desc>
-  </programme>
-  <programme start="20260211182800 +0800" stop="20260211185800 +0800" channel="台灣電視台">
-    <title lang="chi"> 1830蠟筆小新 </title>
-    <desc lang="chi"> 1830蠟筆小新 </desc>
-  </programme>
-  <programme start="20260211185800 +0800" stop="20260211195900 +0800" channel="台灣電視台">
-    <title lang="chi"> 台視晚間新聞 </title>
-    <desc lang="chi"> 台視晚間新聞 </desc>
-  </programme>
-  <programme start="20260211195900 +0800" stop="20260211210000 +0800" channel="台灣電視台">
-    <title lang="chi"> 寶島西米樂守護 </title>
-    <desc lang="chi"> 寶島西米樂守護 </desc>
-  </programme>
-  <programme start="20260211210000 +0800" stop="20260211220000 +0800" channel="台灣電視台">
-    <title lang="chi"> 2100寶島西米樂守護 </title>
-    <desc lang="chi"> 2100寶島西米樂守護 </desc>
-  </programme>
-  <programme start="20260211220000 +0800" stop="20260211230000 +0800" channel="台灣電視台">
-    <title lang="chi"> 美麗人生壯志高飛 </title>
-    <desc lang="chi"> 美麗人生壯志高飛 </desc>
-  </programme>
-  <programme start="20260211230000 +0800" stop="20260212000000 +0800" channel="台灣電視台">
-    <title lang="chi"> 晚間寶島西米樂守護 </title>
-    <desc lang="chi"> 晚間寶島西米樂守護 </desc>
-  </programme>
-  <programme start="20260212000000 +0800" stop="20260212010000 +0800" channel="台灣電視台">
-    <title lang="chi"> 晚間美麗人生壯志高飛 </title>
-    <desc lang="chi"> 晚間美麗人生壯志高飛 </desc>
-  </programme>
-  <programme start="20260212010000 +0800" stop="20260212020000 +0800" channel="台灣電視台">
-    <title lang="chi"> ３６０行向前衝 </title>
-    <desc lang="chi"> ３６０行向前衝 </desc>
-  </programme>
-  <programme start="20260212020000 +0800" stop="20260212030000 +0800" channel="台灣電視台">
-    <title lang="chi"> 益起看世界 </title>
-    <desc lang="chi"> 益起看世界 </desc>
-  </programme>
-  <programme start="20260212030000 +0800" stop="20260212033000 +0800" channel="台灣電視台">
-    <title lang="chi"> 午夜尋找台灣感動力 </title>
-    <desc lang="chi"> 午夜尋找台灣感動力 </desc>
-  </programme>
-  <programme start="20260212033000 +0800" stop="20260212040000 +0800" channel="台灣電視台">
-    <title lang="chi"> 發現科學 </title>
-    <desc lang="chi"> 發現科學 </desc>
-  </programme>
-  <programme start="20260212040000 +0800" stop="20260212050000 +0800" channel="台灣電視台">
-    <title lang="chi"> 台灣名人堂 </title>
-    <desc lang="chi"> 台灣名人堂 </desc>
-  </programme>
-  <programme start="20260212050000 +0800" stop="20260212060000 +0800" channel="台灣電視台">
-    <title lang="chi"> 健康好簡單 </title>
-    <desc lang="chi"> 健康好簡單 </desc>
-  </programme>
-  <programme start="20260212060000 +0800" stop="20260212070000 +0800" channel="台灣電視台">
-    <title lang="chi"> ３６０行向前衝 </title>
-    <desc lang="chi"> ３６０行向前衝 </desc>
-  </programme>
-  <programme start="20260212070000 +0800" stop="20260212080000 +0800" channel="台灣電視台">
-    <title lang="chi"> 早安您好台視新聞 </title>
-    <desc lang="chi"> 早安您好台視新聞 </desc>
-  </programme>
   <programme start="20260212080000 +0800" stop="20260212085800 +0800" channel="台灣電視台">
     <title lang="chi"> 早安台灣台語新聞 </title>
     <desc lang="chi"> 早安台灣台語新聞 </desc>
@@ -479,5 +360,73 @@
   <programme start="20260216070000 +0800" stop="20260216080000 +0800" channel="台灣電視台">
     <title lang="chi"> 老少女奇遇記１ </title>
     <desc lang="chi"> 老少女奇遇記１ </desc>
+  </programme>
+  <programme start="20260216080000 +0800" stop="20260216090000 +0800" channel="台灣電視台">
+    <title lang="chi"> 老少女奇遇記１ </title>
+    <desc lang="chi"> 老少女奇遇記１ </desc>
+  </programme>
+  <programme start="20260216090000 +0800" stop="20260216095800 +0800" channel="台灣電視台">
+    <title lang="chi"> 神機妙算劉伯溫 </title>
+    <desc lang="chi"> 神機妙算劉伯溫 </desc>
+  </programme>
+  <programme start="20260216095800 +0800" stop="20260216102800 +0800" channel="台灣電視台">
+    <title lang="chi"> 金田一少年事件簿 </title>
+    <desc lang="chi"> 金田一少年事件簿 </desc>
+  </programme>
+  <programme start="20260216102800 +0800" stop="20260216105800 +0800" channel="台灣電視台">
+    <title lang="chi"> 金田一少年事件簿 </title>
+    <desc lang="chi"> 金田一少年事件簿 </desc>
+  </programme>
+  <programme start="20260216105800 +0800" stop="20260216115800 +0800" channel="台灣電視台">
+    <title lang="chi"> 熱海戀歌 </title>
+    <desc lang="chi"> 熱海戀歌 </desc>
+  </programme>
+  <programme start="20260216115800 +0800" stop="20260216130000 +0800" channel="台灣電視台">
+    <title lang="chi"> 午安您好－台視新聞 </title>
+    <desc lang="chi"> 午安您好－台視新聞 </desc>
+  </programme>
+  <programme start="20260216130000 +0800" stop="20260216140000 +0800" channel="台灣電視台">
+    <title lang="chi"> 1300午間寶島西米樂守護 </title>
+    <desc lang="chi"> 1300午間寶島西米樂守護 </desc>
+  </programme>
+  <programme start="20260216140000 +0800" stop="20260216150000 +0800" channel="台灣電視台">
+    <title lang="chi"> 午間寶島西米樂守護 </title>
+    <desc lang="chi"> 午間寶島西米樂守護 </desc>
+  </programme>
+  <programme start="20260216150000 +0800" stop="20260216160000 +0800" channel="台灣電視台">
+    <title lang="chi"> 老少女奇遇記２ </title>
+    <desc lang="chi"> 老少女奇遇記２ </desc>
+  </programme>
+  <programme start="20260216160000 +0800" stop="20260216165800 +0800" channel="台灣電視台">
+    <title lang="chi"> 老少女奇遇記２ </title>
+    <desc lang="chi"> 老少女奇遇記２ </desc>
+  </programme>
+  <programme start="20260216165800 +0800" stop="20260216172800 +0800" channel="台灣電視台">
+    <title lang="chi"> 1700我們這一家 </title>
+    <desc lang="chi"> 1700我們這一家 </desc>
+  </programme>
+  <programme start="20260216172800 +0800" stop="20260216183000 +0800" channel="台灣電視台">
+    <title lang="chi"> 台視晚間新聞 </title>
+    <desc lang="chi"> 台視晚間新聞 </desc>
+  </programme>
+  <programme start="20260216183000 +0800" stop="20260216190000 +0800" channel="台灣電視台">
+    <title lang="chi"> 2026超級巨星紅白藝能大賞搶先看 </title>
+    <desc lang="chi"> 2026超級巨星紅白藝能大賞搶先看 </desc>
+  </programme>
+  <programme start="20260216190000 +0800" stop="20260217010000 +0800" channel="台灣電視台">
+    <title lang="chi"> 2026超級巨星紅白藝能大賞 </title>
+    <desc lang="chi"> 2026超級巨星紅白藝能大賞 </desc>
+  </programme>
+  <programme start="20260217010000 +0800" stop="20260217013000 +0800" channel="台灣電視台">
+    <title lang="chi"> 2026超級巨星紅白藝能大賞幕後花 </title>
+    <desc lang="chi"> 2026超級巨星紅白藝能大賞幕後花 </desc>
+  </programme>
+  <programme start="20260217013000 +0800" stop="20260217073000 +0800" channel="台灣電視台">
+    <title lang="chi"> 新春2026超級巨星紅白藝能大賞 </title>
+    <desc lang="chi"> 新春2026超級巨星紅白藝能大賞 </desc>
+  </programme>
+  <programme start="20260217073000 +0800" stop="20260217080000 +0800" channel="台灣電視台">
+    <title lang="chi"> 新春2026超級巨星紅白幕後花絮 </title>
+    <desc lang="chi"> 新春2026超級巨星紅白幕後花絮 </desc>
   </programme>
 </tv>
