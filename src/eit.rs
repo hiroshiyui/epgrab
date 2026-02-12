@@ -264,6 +264,373 @@ fn parse_eit_section(buf: &[u8]) -> Result<(u16, Vec<EitEvent>), String> {
     Ok((service_id, events))
 }
 
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    // --- bcd_to_u8 ---
+
+    #[test]
+    fn test_bcd_to_u8_zero() {
+        assert_eq!(bcd_to_u8(0x00), 0);
+    }
+
+    #[test]
+    fn test_bcd_to_u8_single_digit() {
+        assert_eq!(bcd_to_u8(0x09), 9);
+    }
+
+    #[test]
+    fn test_bcd_to_u8_double_digit() {
+        assert_eq!(bcd_to_u8(0x23), 23);
+        assert_eq!(bcd_to_u8(0x59), 59);
+        assert_eq!(bcd_to_u8(0x99), 99);
+    }
+
+    // --- decode_start_time ---
+
+    #[test]
+    fn test_decode_start_time_epoch() {
+        // MJD 40587 = Unix epoch (1970-01-01), time 00:00:00
+        let data = [0x9E, 0x8B, 0x00, 0x00, 0x00]; // MJD=40587
+        assert_eq!(decode_start_time(&data), 0);
+    }
+
+    #[test]
+    fn test_decode_start_time_known_date() {
+        // 2025-01-15 14:30:00 UTC
+        // MJD for 2025-01-15 = 60690
+        // 60690 in big-endian = 0xED12
+        let mjd: u16 = 60690;
+        let bytes = mjd.to_be_bytes();
+        let data = [bytes[0], bytes[1], 0x14, 0x30, 0x00]; // 14:30:00 BCD
+        let expected = (60690i64 - 40587) * 86400 + 14 * 3600 + 30 * 60;
+        assert_eq!(decode_start_time(&data), expected);
+    }
+
+    #[test]
+    fn test_decode_start_time_midnight() {
+        let mjd: u16 = 51544; // 2000-01-01
+        let bytes = mjd.to_be_bytes();
+        let data = [bytes[0], bytes[1], 0x00, 0x00, 0x00];
+        let expected = (51544i64 - 40587) * 86400;
+        assert_eq!(decode_start_time(&data), expected);
+    }
+
+    #[test]
+    fn test_decode_start_time_end_of_day() {
+        let mjd: u16 = 51544;
+        let bytes = mjd.to_be_bytes();
+        let data = [bytes[0], bytes[1], 0x23, 0x59, 0x59]; // 23:59:59 BCD
+        let expected = (51544i64 - 40587) * 86400 + 23 * 3600 + 59 * 60 + 59;
+        assert_eq!(decode_start_time(&data), expected);
+    }
+
+    // --- decode_duration ---
+
+    #[test]
+    fn test_decode_duration_zero() {
+        assert_eq!(decode_duration(&[0x00, 0x00, 0x00]), 0);
+    }
+
+    #[test]
+    fn test_decode_duration_one_hour() {
+        assert_eq!(decode_duration(&[0x01, 0x00, 0x00]), 3600);
+    }
+
+    #[test]
+    fn test_decode_duration_half_hour() {
+        assert_eq!(decode_duration(&[0x00, 0x30, 0x00]), 1800);
+    }
+
+    #[test]
+    fn test_decode_duration_complex() {
+        // 2h 45m 30s
+        assert_eq!(decode_duration(&[0x02, 0x45, 0x30]), 2 * 3600 + 45 * 60 + 30);
+    }
+
+    // --- decode_dvb_text ---
+
+    #[test]
+    fn test_decode_dvb_text_empty() {
+        assert_eq!(decode_dvb_text(&[]), "");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_utf8() {
+        // 0x15 prefix = UTF-8
+        let data = [0x15, b'H', b'e', b'l', b'l', b'o'];
+        assert_eq!(decode_dvb_text(&data), "Hello");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_utf8_with_cjk() {
+        // 0x15 prefix = UTF-8, followed by "テスト" in UTF-8
+        let mut data = vec![0x15];
+        data.extend_from_slice("テスト".as_bytes());
+        assert_eq!(decode_dvb_text(&data), "テスト");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_default_table() {
+        // Bytes 0x20..=0xFF use default table (ISO 6937)
+        let data = b"Hello World";
+        assert_eq!(decode_dvb_text(data), "Hello World");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_strips_control_chars() {
+        // UTF-16 BE (0x11 prefix) with C1 control chars embedded
+        // U+0086 (emphasis on) and U+0087 (emphasis off) as UTF-16 BE
+        let data = [
+            0x11, // UCS-2
+            0x00, 0x41, // 'A'
+            0x00, 0x86, // U+0086 (should be stripped)
+            0x00, 0x42, // 'B'
+            0x00, 0x87, // U+0087 (should be stripped)
+            0x00, 0x43, // 'C'
+        ];
+        assert_eq!(decode_dvb_text(&data), "ABC");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_strips_c0_controls() {
+        // Default encoding with C0 control chars (0x01-0x1F except 0x0A)
+        // 0x15 prefix (UTF-8), then text with tab (0x09) which should be stripped
+        let data = [0x15, b'A', 0x09, b'B'];
+        assert_eq!(decode_dvb_text(&data), "AB");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_keeps_newline() {
+        let data = [0x15, b'A', 0x0A, b'B'];
+        assert_eq!(decode_dvb_text(&data), "A\nB");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_utf16_be() {
+        // 0x14 = Big5 subset / UTF-16 BE
+        // "Hi" in UTF-16 BE: 0x00 0x48 0x00 0x69
+        let data = [0x14, 0x00, 0x48, 0x00, 0x69];
+        assert_eq!(decode_dvb_text(&data), "Hi");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_utf16_too_short() {
+        let data = [0x14, 0x00]; // only 2 bytes total, too short
+        assert_eq!(decode_dvb_text(&data), "");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_iso8859_prefix() {
+        // 0x01..=0x05 skip one byte prefix
+        let data = [0x01, b'T', b'e', b's', b't'];
+        assert_eq!(decode_dvb_text(&data), "Test");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_iso8859_n() {
+        // 0x10 + 2 more bytes = 3-byte prefix for ISO 8859-N
+        let data = [0x10, 0x00, 0x01, b'A', b'B', b'C'];
+        assert_eq!(decode_dvb_text(&data), "ABC");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_iso8859_n_too_short() {
+        let data = [0x10, 0x00, 0x01]; // exactly 3 bytes, no text
+        assert_eq!(decode_dvb_text(&data), "");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_ucs2() {
+        // 0x11 = UCS-2 (ISO/IEC 10646 BMP)
+        let data = [0x11, 0x00, 0x41, 0x00, 0x42]; // "AB"
+        assert_eq!(decode_dvb_text(&data), "AB");
+    }
+
+    #[test]
+    fn test_decode_dvb_text_unknown_prefix() {
+        // 0x06..=0x0F are unhandled → empty
+        assert_eq!(decode_dvb_text(&[0x06]), "");
+        assert_eq!(decode_dvb_text(&[0x0F]), "");
+    }
+
+    // --- parse_short_event_descriptor ---
+
+    #[test]
+    fn test_parse_short_event_descriptor_valid() {
+        // language: "eng", name_len: 5, name: "Hello" (default encoding), text_len: 5, text: "World"
+        let data = [
+            b'e', b'n', b'g', // language
+            5,                 // event_name_length
+            b'H', b'e', b'l', b'l', b'o', // event_name (default encoding, 0x20+)
+            5,                 // text_length
+            b'W', b'o', b'r', b'l', b'd', // text
+        ];
+        let (lang, name, desc) = parse_short_event_descriptor(&data);
+        assert_eq!(lang, "eng");
+        assert_eq!(name, "Hello");
+        assert_eq!(desc, "World");
+    }
+
+    #[test]
+    fn test_parse_short_event_descriptor_too_short() {
+        let data = [b'e', b'n', b'g', 0]; // only 4 bytes, need at least 5
+        let (lang, name, desc) = parse_short_event_descriptor(&data);
+        assert_eq!(lang, "");
+        assert_eq!(name, "");
+        assert_eq!(desc, "");
+    }
+
+    #[test]
+    fn test_parse_short_event_descriptor_empty_fields() {
+        let data = [b'z', b'h', b'o', 0, 0]; // zero-length name and text
+        let (lang, name, desc) = parse_short_event_descriptor(&data);
+        assert_eq!(lang, "zho");
+        assert_eq!(name, "");
+        assert_eq!(desc, "");
+    }
+
+    #[test]
+    fn test_parse_short_event_descriptor_name_only() {
+        let data = [
+            b'j', b'p', b'n', // language
+            3,                 // name_len
+            b'A', b'B', b'C', // name
+            0,                 // text_len = 0
+        ];
+        let (lang, name, desc) = parse_short_event_descriptor(&data);
+        assert_eq!(lang, "jpn");
+        assert_eq!(name, "ABC");
+        assert_eq!(desc, "");
+    }
+
+    // --- parse_eit_event ---
+
+    #[test]
+    fn test_parse_eit_event_minimal() {
+        // Build a minimal EIT event: 12-byte header + 0 bytes descriptors
+        let mjd: u16 = 51544; // 2000-01-01
+        let mjd_bytes = mjd.to_be_bytes();
+        let data = [
+            0x00, 0x01, // event_id = 1
+            mjd_bytes[0], mjd_bytes[1], 0x12, 0x00, 0x00, // start_time: 12:00:00
+            0x01, 0x30, 0x00, // duration: 1h30m00s BCD
+            0x00, 0x00, // running_status=0, descriptors_length=0
+        ];
+        let (event, consumed) = parse_eit_event(&data, 100).unwrap();
+        assert_eq!(event.event_id, 1);
+        assert_eq!(event.service_id, 100);
+        assert_eq!(event.duration, 5400); // 1h30m
+        assert_eq!(consumed, 12);
+    }
+
+    #[test]
+    fn test_parse_eit_event_too_short() {
+        let data = [0u8; 11]; // less than 12 bytes
+        assert!(parse_eit_event(&data, 1).is_err());
+    }
+
+    #[test]
+    fn test_parse_eit_event_with_descriptor() {
+        let mjd: u16 = 51544;
+        let mjd_bytes = mjd.to_be_bytes();
+
+        // Build short event descriptor content:
+        // language "eng" + name_len 4 + "Test" + text_len 4 + "Desc"
+        let descriptor_content = [
+            b'e', b'n', b'g', // language
+            4,                 // name_len
+            b'T', b'e', b's', b't', // name
+            4,                 // text_len
+            b'D', b'e', b's', b'c', // text
+        ];
+        let desc_len = descriptor_content.len();
+
+        // Full descriptor: tag(1) + len(1) + content
+        let full_desc_len = 2 + desc_len;
+
+        let mut data = vec![
+            0x00, 0x42, // event_id = 0x42
+            mjd_bytes[0], mjd_bytes[1], 0x10, 0x00, 0x00, // start_time: 10:00:00
+            0x00, 0x30, 0x00, // duration: 30m
+        ];
+        // running_status=4 (running), descriptors_length
+        let rs_byte = (4u8 << 5) | ((full_desc_len >> 8) as u8 & 0x0F);
+        data.push(rs_byte);
+        data.push(full_desc_len as u8);
+        // Descriptor tag + length + content
+        data.push(SHORT_EVENT_DESCRIPTOR);
+        data.push(desc_len as u8);
+        data.extend_from_slice(&descriptor_content);
+
+        let (event, consumed) = parse_eit_event(&data, 200).unwrap();
+        assert_eq!(event.event_id, 0x42);
+        assert_eq!(event.service_id, 200);
+        assert_eq!(event.running_status, 4);
+        assert_eq!(event.duration, 1800);
+        assert_eq!(event.event_name, "Test");
+        assert_eq!(event.description, "Desc");
+        assert_eq!(event.language, "eng");
+        assert_eq!(consumed, 12 + full_desc_len);
+    }
+
+    #[test]
+    fn test_parse_eit_event_rejects_unreasonable_duration() {
+        let mjd: u16 = 51544;
+        let mjd_bytes = mjd.to_be_bytes();
+        let data = [
+            0x00, 0x01,
+            mjd_bytes[0], mjd_bytes[1], 0x12, 0x00, 0x00,
+            0x25, 0x00, 0x00, // 25 hours in BCD = 90000s > 86400
+            0x00, 0x00,
+        ];
+        assert!(parse_eit_event(&data, 1).is_err());
+    }
+
+    // --- parse_eit_section ---
+
+    #[test]
+    fn test_parse_eit_section_too_short() {
+        let data = [0u8; 17]; // less than 18 bytes
+        assert!(parse_eit_section(&data).is_err());
+    }
+
+    #[test]
+    fn test_parse_eit_section_minimal() {
+        // Build a minimal valid EIT section with no events
+        // table_id(1) + section_length(2, points to 15 bytes: 11 header remaining + 4 CRC)
+        // section_length = 15 means 3+15=18 total
+        let mut data = vec![0u8; 18];
+        data[0] = EIT_PRESENT_FOLLOWING_ACTUAL; // table_id = 0x4E
+        // section_length = 15 (0x000F)
+        data[1] = 0xF0 | 0x00; // section_syntax_indicator + reserved + length high
+        data[2] = 15;          // length low
+        data[3] = 0x00; data[4] = 0x01; // service_id = 1
+        data[5] = 0xC1; // version, current_next
+        data[6] = 0x00; // section_number = 0
+        data[7] = 0x00; // last_section_number = 0
+        // bytes 8-13: transport_stream_id, original_network_id, etc.
+        // CRC at bytes 14-17
+
+        let (service_id, events) = parse_eit_section(&data).unwrap();
+        assert_eq!(service_id, 1);
+        assert!(events.is_empty());
+    }
+
+    #[test]
+    fn test_parse_eit_section_corrupted_table_0x4e() {
+        // table 0x4E with last_section_number > 1 should be rejected
+        let mut data = vec![0u8; 18];
+        data[0] = 0x4E;
+        data[1] = 0xF0;
+        data[2] = 15;
+        data[3] = 0x00; data[4] = 0x01;
+        data[7] = 5; // last_section_number = 5, invalid for 0x4E
+        assert!(parse_eit_section(&data).is_err());
+    }
+}
+
 pub struct EitReader {
     demux_file: std::fs::File,
 }

@@ -146,6 +146,132 @@ fn parse_hierarchy(s: &str) -> Result<u32, String> {
     }
 }
 
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    // --- parse_bandwidth ---
+
+    #[test]
+    fn test_parse_bandwidth_all_values() {
+        assert_eq!(parse_bandwidth("BANDWIDTH_6_MHZ").unwrap(), 6_000_000);
+        assert_eq!(parse_bandwidth("BANDWIDTH_7_MHZ").unwrap(), 7_000_000);
+        assert_eq!(parse_bandwidth("BANDWIDTH_8_MHZ").unwrap(), 8_000_000);
+        assert_eq!(parse_bandwidth("BANDWIDTH_5_MHZ").unwrap(), 5_000_000);
+        assert_eq!(parse_bandwidth("BANDWIDTH_10_MHZ").unwrap(), 10_000_000);
+        assert_eq!(parse_bandwidth("BANDWIDTH_1_712_MHZ").unwrap(), 1_712_000);
+        assert_eq!(parse_bandwidth("BANDWIDTH_AUTO").unwrap(), 0);
+    }
+
+    #[test]
+    fn test_parse_bandwidth_unknown() {
+        assert!(parse_bandwidth("INVALID").is_err());
+    }
+
+    // --- parse_modulation ---
+
+    #[test]
+    fn test_parse_modulation_all_values() {
+        assert_eq!(parse_modulation("QPSK").unwrap(), 0);
+        assert_eq!(parse_modulation("QAM_16").unwrap(), 1);
+        assert_eq!(parse_modulation("QAM_32").unwrap(), 2);
+        assert_eq!(parse_modulation("QAM_64").unwrap(), 3);
+        assert_eq!(parse_modulation("QAM_128").unwrap(), 4);
+        assert_eq!(parse_modulation("QAM_256").unwrap(), 5);
+        assert_eq!(parse_modulation("QAM_AUTO").unwrap(), 6);
+    }
+
+    #[test]
+    fn test_parse_modulation_unknown() {
+        assert!(parse_modulation("INVALID").is_err());
+    }
+
+    // --- parse_fec ---
+
+    #[test]
+    fn test_parse_fec_all_values() {
+        assert_eq!(parse_fec("FEC_NONE").unwrap(), 0);
+        assert_eq!(parse_fec("FEC_1_2").unwrap(), 1);
+        assert_eq!(parse_fec("FEC_2_3").unwrap(), 2);
+        assert_eq!(parse_fec("FEC_3_4").unwrap(), 3);
+        assert_eq!(parse_fec("FEC_4_5").unwrap(), 4);
+        assert_eq!(parse_fec("FEC_5_6").unwrap(), 5);
+        assert_eq!(parse_fec("FEC_6_7").unwrap(), 6);
+        assert_eq!(parse_fec("FEC_7_8").unwrap(), 7);
+        assert_eq!(parse_fec("FEC_8_9").unwrap(), 8);
+        assert_eq!(parse_fec("FEC_AUTO").unwrap(), 9);
+    }
+
+    #[test]
+    fn test_parse_fec_unknown() {
+        assert!(parse_fec("INVALID").is_err());
+    }
+
+    // --- parse_inversion ---
+
+    #[test]
+    fn test_parse_inversion_all_values() {
+        assert_eq!(parse_inversion("INVERSION_OFF").unwrap(), 0);
+        assert_eq!(parse_inversion("INVERSION_ON").unwrap(), 1);
+        assert_eq!(parse_inversion("INVERSION_AUTO").unwrap(), 2);
+    }
+
+    #[test]
+    fn test_parse_inversion_unknown() {
+        assert!(parse_inversion("INVALID").is_err());
+    }
+
+    // --- parse_transmission_mode ---
+
+    #[test]
+    fn test_parse_transmission_mode_all_values() {
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_2K").unwrap(), 0);
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_8K").unwrap(), 1);
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_AUTO").unwrap(), 2);
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_4K").unwrap(), 3);
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_1K").unwrap(), 4);
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_16K").unwrap(), 5);
+        assert_eq!(parse_transmission_mode("TRANSMISSION_MODE_32K").unwrap(), 6);
+    }
+
+    #[test]
+    fn test_parse_transmission_mode_unknown() {
+        assert!(parse_transmission_mode("INVALID").is_err());
+    }
+
+    // --- parse_guard_interval ---
+
+    #[test]
+    fn test_parse_guard_interval_all_values() {
+        assert_eq!(parse_guard_interval("GUARD_INTERVAL_1_32").unwrap(), 0);
+        assert_eq!(parse_guard_interval("GUARD_INTERVAL_1_16").unwrap(), 1);
+        assert_eq!(parse_guard_interval("GUARD_INTERVAL_1_8").unwrap(), 2);
+        assert_eq!(parse_guard_interval("GUARD_INTERVAL_1_4").unwrap(), 3);
+        assert_eq!(parse_guard_interval("GUARD_INTERVAL_AUTO").unwrap(), 4);
+    }
+
+    #[test]
+    fn test_parse_guard_interval_unknown() {
+        assert!(parse_guard_interval("INVALID").is_err());
+    }
+
+    // --- parse_hierarchy ---
+
+    #[test]
+    fn test_parse_hierarchy_all_values() {
+        assert_eq!(parse_hierarchy("HIERARCHY_NONE").unwrap(), 0);
+        assert_eq!(parse_hierarchy("HIERARCHY_1").unwrap(), 1);
+        assert_eq!(parse_hierarchy("HIERARCHY_2").unwrap(), 2);
+        assert_eq!(parse_hierarchy("HIERARCHY_4").unwrap(), 3);
+        assert_eq!(parse_hierarchy("HIERARCHY_AUTO").unwrap(), 4);
+    }
+
+    #[test]
+    fn test_parse_hierarchy_unknown() {
+        assert!(parse_hierarchy("INVALID").is_err());
+    }
+}
+
 pub struct Tuner {
     fe_file: std::fs::File,
 }

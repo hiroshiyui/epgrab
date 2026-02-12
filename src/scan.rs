@@ -213,6 +213,360 @@ impl ScanEntry {
     }
 }
 
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use std::io::Write;
+
+    // --- parse_scan_file ---
+
+    #[test]
+    fn test_parse_scan_file_valid() {
+        let content = "\
+[CHANNEL]
+DELIVERY_SYSTEM = DVBT
+FREQUENCY = 557000000
+BANDWIDTH_HZ = 6000000
+CODE_RATE_HP = 2/3
+CODE_RATE_LP = AUTO
+MODULATION = QAM/64
+TRANSMISSION_MODE = 8K
+GUARD_INTERVAL = 1/8
+HIERARCHY = NONE
+INVERSION = AUTO
+";
+        let mut f = tempfile::NamedTempFile::new().unwrap();
+        f.write_all(content.as_bytes()).unwrap();
+        let entries = parse_scan_file(f.path().to_str().unwrap()).unwrap();
+        assert_eq!(entries.len(), 1);
+        assert_eq!(entries[0].delivery_system, "DVBT");
+        assert_eq!(entries[0].frequency, 557000000);
+        assert_eq!(entries[0].bandwidth_hz, 6000000);
+        assert_eq!(entries[0].code_rate_hp, "2/3");
+        assert_eq!(entries[0].code_rate_lp, "AUTO");
+        assert_eq!(entries[0].modulation, "QAM/64");
+        assert_eq!(entries[0].transmission_mode, "8K");
+        assert_eq!(entries[0].guard_interval, "1/8");
+        assert_eq!(entries[0].hierarchy, "NONE");
+        assert_eq!(entries[0].inversion, "AUTO");
+    }
+
+    #[test]
+    fn test_parse_scan_file_multiple_channels() {
+        let content = "\
+[CHANNEL]
+DELIVERY_SYSTEM = DVBT
+FREQUENCY = 557000000
+BANDWIDTH_HZ = 6000000
+
+[CHANNEL]
+DELIVERY_SYSTEM = DVBT
+FREQUENCY = 563000000
+BANDWIDTH_HZ = 6000000
+";
+        let mut f = tempfile::NamedTempFile::new().unwrap();
+        f.write_all(content.as_bytes()).unwrap();
+        let entries = parse_scan_file(f.path().to_str().unwrap()).unwrap();
+        assert_eq!(entries.len(), 2);
+        assert_eq!(entries[0].frequency, 557000000);
+        assert_eq!(entries[1].frequency, 563000000);
+    }
+
+    #[test]
+    fn test_parse_scan_file_skips_comments() {
+        let content = "\
+# This is a comment
+[CHANNEL]
+DELIVERY_SYSTEM = DVBT
+FREQUENCY = 557000000
+# inline comment
+BANDWIDTH_HZ = 6000000
+";
+        let mut f = tempfile::NamedTempFile::new().unwrap();
+        f.write_all(content.as_bytes()).unwrap();
+        let entries = parse_scan_file(f.path().to_str().unwrap()).unwrap();
+        assert_eq!(entries.len(), 1);
+        assert_eq!(entries[0].frequency, 557000000);
+    }
+
+    #[test]
+    fn test_parse_scan_file_empty() {
+        let mut f = tempfile::NamedTempFile::new().unwrap();
+        f.write_all(b"").unwrap();
+        let entries = parse_scan_file(f.path().to_str().unwrap()).unwrap();
+        assert!(entries.is_empty());
+    }
+
+    #[test]
+    fn test_parse_scan_file_invalid_frequency() {
+        let content = "\
+[CHANNEL]
+FREQUENCY = notanumber
+";
+        let mut f = tempfile::NamedTempFile::new().unwrap();
+        f.write_all(content.as_bytes()).unwrap();
+        assert!(parse_scan_file(f.path().to_str().unwrap()).is_err());
+    }
+
+    #[test]
+    fn test_parse_scan_file_nonexistent() {
+        assert!(parse_scan_file("/nonexistent/file").is_err());
+    }
+
+    #[test]
+    fn test_parse_scan_file_ignores_unknown_keys() {
+        let content = "\
+[CHANNEL]
+DELIVERY_SYSTEM = DVBT
+FREQUENCY = 557000000
+UNKNOWN_KEY = some_value
+BANDWIDTH_HZ = 6000000
+";
+        let mut f = tempfile::NamedTempFile::new().unwrap();
+        f.write_all(content.as_bytes()).unwrap();
+        let entries = parse_scan_file(f.path().to_str().unwrap()).unwrap();
+        assert_eq!(entries.len(), 1);
+        assert_eq!(entries[0].frequency, 557000000);
+    }
+
+    // --- dvbv5_to_zap conversions ---
+
+    #[test]
+    fn test_dvbv5_to_zap_inversion() {
+        assert_eq!(dvbv5_to_zap_inversion("AUTO"), "INVERSION_AUTO");
+        assert_eq!(dvbv5_to_zap_inversion("ON"), "INVERSION_ON");
+        assert_eq!(dvbv5_to_zap_inversion("OFF"), "INVERSION_OFF");
+        assert_eq!(dvbv5_to_zap_inversion("unknown"), "INVERSION_AUTO");
+    }
+
+    #[test]
+    fn test_dvbv5_to_zap_bandwidth() {
+        assert_eq!(dvbv5_to_zap_bandwidth(6000000), "BANDWIDTH_6_MHZ");
+        assert_eq!(dvbv5_to_zap_bandwidth(7000000), "BANDWIDTH_7_MHZ");
+        assert_eq!(dvbv5_to_zap_bandwidth(8000000), "BANDWIDTH_8_MHZ");
+        assert_eq!(dvbv5_to_zap_bandwidth(5000000), "BANDWIDTH_5_MHZ");
+        assert_eq!(dvbv5_to_zap_bandwidth(10000000), "BANDWIDTH_10_MHZ");
+        assert_eq!(dvbv5_to_zap_bandwidth(1712000), "BANDWIDTH_1_712_MHZ");
+        assert_eq!(dvbv5_to_zap_bandwidth(9999), "BANDWIDTH_AUTO");
+    }
+
+    #[test]
+    fn test_dvbv5_to_zap_fec() {
+        assert_eq!(dvbv5_to_zap_fec("NONE"), "FEC_NONE");
+        assert_eq!(dvbv5_to_zap_fec("1/2"), "FEC_1_2");
+        assert_eq!(dvbv5_to_zap_fec("2/3"), "FEC_2_3");
+        assert_eq!(dvbv5_to_zap_fec("3/4"), "FEC_3_4");
+        assert_eq!(dvbv5_to_zap_fec("4/5"), "FEC_4_5");
+        assert_eq!(dvbv5_to_zap_fec("5/6"), "FEC_5_6");
+        assert_eq!(dvbv5_to_zap_fec("6/7"), "FEC_6_7");
+        assert_eq!(dvbv5_to_zap_fec("7/8"), "FEC_7_8");
+        assert_eq!(dvbv5_to_zap_fec("8/9"), "FEC_8_9");
+        assert_eq!(dvbv5_to_zap_fec("AUTO"), "FEC_AUTO");
+        assert_eq!(dvbv5_to_zap_fec("unknown"), "FEC_AUTO");
+    }
+
+    #[test]
+    fn test_dvbv5_to_zap_modulation() {
+        assert_eq!(dvbv5_to_zap_modulation("QPSK"), "QPSK");
+        assert_eq!(dvbv5_to_zap_modulation("QAM/16"), "QAM_16");
+        assert_eq!(dvbv5_to_zap_modulation("QAM/32"), "QAM_32");
+        assert_eq!(dvbv5_to_zap_modulation("QAM/64"), "QAM_64");
+        assert_eq!(dvbv5_to_zap_modulation("QAM/128"), "QAM_128");
+        assert_eq!(dvbv5_to_zap_modulation("QAM/256"), "QAM_256");
+        assert_eq!(dvbv5_to_zap_modulation("QAM/AUTO"), "QAM_AUTO");
+        assert_eq!(dvbv5_to_zap_modulation("unknown"), "QAM_AUTO");
+    }
+
+    #[test]
+    fn test_dvbv5_to_zap_transmission() {
+        assert_eq!(dvbv5_to_zap_transmission("2K"), "TRANSMISSION_MODE_2K");
+        assert_eq!(dvbv5_to_zap_transmission("8K"), "TRANSMISSION_MODE_8K");
+        assert_eq!(dvbv5_to_zap_transmission("AUTO"), "TRANSMISSION_MODE_AUTO");
+        assert_eq!(dvbv5_to_zap_transmission("1K"), "TRANSMISSION_MODE_1K");
+        assert_eq!(dvbv5_to_zap_transmission("4K"), "TRANSMISSION_MODE_4K");
+        assert_eq!(dvbv5_to_zap_transmission("16K"), "TRANSMISSION_MODE_16K");
+        assert_eq!(dvbv5_to_zap_transmission("32K"), "TRANSMISSION_MODE_32K");
+        assert_eq!(dvbv5_to_zap_transmission("unknown"), "TRANSMISSION_MODE_AUTO");
+    }
+
+    #[test]
+    fn test_dvbv5_to_zap_guard() {
+        assert_eq!(dvbv5_to_zap_guard("1/32"), "GUARD_INTERVAL_1_32");
+        assert_eq!(dvbv5_to_zap_guard("1/16"), "GUARD_INTERVAL_1_16");
+        assert_eq!(dvbv5_to_zap_guard("1/8"), "GUARD_INTERVAL_1_8");
+        assert_eq!(dvbv5_to_zap_guard("1/4"), "GUARD_INTERVAL_1_4");
+        assert_eq!(dvbv5_to_zap_guard("AUTO"), "GUARD_INTERVAL_AUTO");
+        assert_eq!(dvbv5_to_zap_guard("unknown"), "GUARD_INTERVAL_AUTO");
+    }
+
+    #[test]
+    fn test_dvbv5_to_zap_hierarchy() {
+        assert_eq!(dvbv5_to_zap_hierarchy("NONE"), "HIERARCHY_NONE");
+        assert_eq!(dvbv5_to_zap_hierarchy("1"), "HIERARCHY_1");
+        assert_eq!(dvbv5_to_zap_hierarchy("2"), "HIERARCHY_2");
+        assert_eq!(dvbv5_to_zap_hierarchy("4"), "HIERARCHY_4");
+        assert_eq!(dvbv5_to_zap_hierarchy("AUTO"), "HIERARCHY_AUTO");
+        assert_eq!(dvbv5_to_zap_hierarchy("unknown"), "HIERARCHY_NONE");
+    }
+
+    // --- ScanEntry::to_channel ---
+
+    #[test]
+    fn test_scan_entry_to_channel() {
+        let entry = ScanEntry {
+            delivery_system: "DVBT".to_string(),
+            frequency: 557000000,
+            bandwidth_hz: 6000000,
+            code_rate_hp: "2/3".to_string(),
+            code_rate_lp: "AUTO".to_string(),
+            modulation: "QAM/64".to_string(),
+            transmission_mode: "8K".to_string(),
+            guard_interval: "1/8".to_string(),
+            hierarchy: "NONE".to_string(),
+            inversion: "AUTO".to_string(),
+        };
+        let ch = entry.to_channel();
+        assert_eq!(ch.frequency, 557000000);
+        assert_eq!(ch.bandwidth, "BANDWIDTH_6_MHZ");
+        assert_eq!(ch.fec_hp, "FEC_2_3");
+        assert_eq!(ch.fec_lp, "FEC_AUTO");
+        assert_eq!(ch.modulation, "QAM_64");
+        assert_eq!(ch.transmission_mode, "TRANSMISSION_MODE_8K");
+        assert_eq!(ch.guard_interval, "GUARD_INTERVAL_1_8");
+        assert_eq!(ch.hierarchy, "HIERARCHY_NONE");
+        assert_eq!(ch.inversion, "INVERSION_AUTO");
+        assert_eq!(ch.video_pid, 0);
+        assert_eq!(ch.audio_pid, 0);
+        assert_eq!(ch.service_id, 0);
+    }
+
+    // --- parse_pat_sections ---
+
+    #[test]
+    fn test_parse_pat_sections_valid() {
+        // Build a PAT section: 8-byte header + entries + 4-byte CRC
+        // Each entry: 4 bytes (program_number u16 + reserved+PID u16)
+        let section_length: u16 = 5 + 4 + 4 + 4; // 5 remaining header + 2 entries(8) + CRC(4) = 17
+        let mut data = vec![0u8; 3 + section_length as usize];
+        data[0] = 0x00; // table_id = PAT
+        data[1] = 0xB0 | ((section_length >> 8) as u8 & 0x0F);
+        data[2] = section_length as u8;
+        // bytes 3-7: transport_stream_id, version, section_number, last_section_number
+        data[3] = 0x00; data[4] = 0x01; // transport_stream_id
+        data[5] = 0xC1; // version
+        data[6] = 0x00; // section_number
+        data[7] = 0x00; // last_section_number
+
+        // Entry 1: program_number=0 (NIT, should be skipped), PID=0x10
+        data[8] = 0x00; data[9] = 0x00;
+        data[10] = 0xE0 | 0x00; data[11] = 0x10;
+
+        // Entry 2: program_number=1, PMT PID=0x100
+        data[12] = 0x00; data[13] = 0x01;
+        data[14] = 0xE0 | 0x01; data[15] = 0x00;
+
+        // CRC at end (not validated)
+
+        let entries = parse_pat_sections(&[data]).unwrap();
+        assert_eq!(entries.len(), 1); // NIT entry skipped
+        assert_eq!(entries[0].service_id, 1);
+        assert_eq!(entries[0].pmt_pid, 0x100);
+    }
+
+    #[test]
+    fn test_parse_pat_sections_no_services() {
+        // PAT with only NIT entry (program_number=0)
+        let section_length: u16 = 5 + 4 + 4; // header + 1 entry + CRC
+        let mut data = vec![0u8; 3 + section_length as usize];
+        data[0] = 0x00;
+        data[1] = 0xB0 | ((section_length >> 8) as u8 & 0x0F);
+        data[2] = section_length as u8;
+        data[7] = 0x00;
+        // Only NIT entry
+        data[8] = 0x00; data[9] = 0x00;
+        data[10] = 0xE0; data[11] = 0x10;
+
+        assert!(parse_pat_sections(&[data]).is_err());
+    }
+
+    #[test]
+    fn test_parse_pat_sections_empty() {
+        let result = parse_pat_sections(&[]);
+        assert!(result.is_err());
+    }
+
+    // --- parse_sdt_sections ---
+
+    #[test]
+    fn test_parse_sdt_sections_empty() {
+        let result = parse_sdt_sections(&[]);
+        assert!(result.is_empty());
+    }
+
+    // --- parse_pmt ---
+
+    #[test]
+    fn test_parse_pmt_valid() {
+        // Build a PMT section with one video (H.264) and one audio (AAC) stream
+        // Header: 12 bytes + program_info_length + stream entries + CRC
+        let program_info_length: u16 = 0;
+        let stream1_es_info_len: u16 = 0; // video stream
+        let stream2_es_info_len: u16 = 0; // audio stream
+        let entries_size = 2 * 5; // 2 streams * 5 bytes each (no ES info)
+        let section_length: u16 = 9 + program_info_length + entries_size as u16 + 4; // 9 remaining header + entries + CRC
+
+        let mut data = vec![0u8; 3 + section_length as usize];
+        data[0] = 0x02; // table_id = PMT
+        data[1] = 0xB0 | ((section_length >> 8) as u8 & 0x0F);
+        data[2] = section_length as u8;
+        data[3] = 0x00; data[4] = 0x01; // program_number
+        data[5] = 0xC1; // version
+        data[6] = 0x00; data[7] = 0x00; // section numbers
+        data[8] = 0xE0; data[9] = 0x00; // PCR PID
+        data[10] = 0xF0 | ((program_info_length >> 8) as u8 & 0x0F);
+        data[11] = program_info_length as u8;
+
+        // Stream 1: H.264 video, PID=0x100
+        let pos = 12;
+        data[pos] = 0x1B; // stream_type = H.264
+        data[pos + 1] = 0xE0 | 0x01; data[pos + 2] = 0x00; // PID = 0x100
+        data[pos + 3] = 0xF0 | ((stream1_es_info_len >> 8) as u8 & 0x0F);
+        data[pos + 4] = stream1_es_info_len as u8;
+
+        // Stream 2: AAC audio, PID=0x101
+        let pos = 17;
+        data[pos] = 0x0F; // stream_type = AAC
+        data[pos + 1] = 0xE0 | 0x01; data[pos + 2] = 0x01; // PID = 0x101
+        data[pos + 3] = 0xF0 | ((stream2_es_info_len >> 8) as u8 & 0x0F);
+        data[pos + 4] = stream2_es_info_len as u8;
+
+        let pmt = parse_pmt(&data).unwrap();
+        assert_eq!(pmt.video_pid, 0x100);
+        assert_eq!(pmt.audio_pid, 0x101);
+    }
+
+    #[test]
+    fn test_parse_pmt_too_short() {
+        let data = [0u8; 15];
+        assert!(parse_pmt(&data).is_err());
+    }
+
+    #[test]
+    fn test_parse_pmt_no_streams() {
+        // PMT with no elementary streams
+        let section_length: u16 = 9 + 4; // header + CRC only
+        let mut data = vec![0u8; 3 + section_length as usize];
+        data[0] = 0x02;
+        data[1] = 0xB0 | ((section_length >> 8) as u8 & 0x0F);
+        data[2] = section_length as u8;
+        data[10] = 0xF0; data[11] = 0x00; // program_info_length = 0
+
+        let pmt = parse_pmt(&data).unwrap();
+        assert_eq!(pmt.video_pid, 0);
+        assert_eq!(pmt.audio_pid, 0);
+    }
+}
+
 // --- Generic section reader ---
 
 /// Read all sections for a given PID/table_id, collecting until we have

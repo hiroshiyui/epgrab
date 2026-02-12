@@ -624,6 +624,257 @@ fn channel_to_zap_line(ch: &Channel) -> String {
     )
 }
 
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    // --- sanitize_filename ---
+
+    #[test]
+    fn test_sanitize_filename_normal() {
+        assert_eq!(sanitize_filename("channel_name"), "channel_name");
+    }
+
+    #[test]
+    fn test_sanitize_filename_slashes() {
+        assert_eq!(sanitize_filename("a/b\\c"), "a_b_c");
+    }
+
+    #[test]
+    fn test_sanitize_filename_null_byte() {
+        assert_eq!(sanitize_filename("a\0b"), "a_b");
+    }
+
+    #[test]
+    fn test_sanitize_filename_leading_dot() {
+        assert_eq!(sanitize_filename(".hidden"), "_hidden");
+    }
+
+    #[test]
+    fn test_sanitize_filename_non_leading_dot() {
+        assert_eq!(sanitize_filename("file.xml"), "file.xml");
+    }
+
+    #[test]
+    fn test_sanitize_filename_cjk() {
+        assert_eq!(sanitize_filename("公視"), "公視");
+    }
+
+    #[test]
+    fn test_sanitize_filename_path_traversal() {
+        // Starts with '.', so all dots become '_'; '/' also becomes '_'
+        assert_eq!(sanitize_filename("../../../etc/passwd"), "_________etc_passwd");
+    }
+
+    // --- xml_escape ---
+
+    #[test]
+    fn test_xml_escape_no_special() {
+        assert_eq!(xml_escape("Hello World"), "Hello World");
+    }
+
+    #[test]
+    fn test_xml_escape_ampersand() {
+        assert_eq!(xml_escape("a&b"), "a&amp;b");
+    }
+
+    #[test]
+    fn test_xml_escape_angle_brackets() {
+        assert_eq!(xml_escape("<tag>"), "&lt;tag&gt;");
+    }
+
+    #[test]
+    fn test_xml_escape_quotes() {
+        assert_eq!(xml_escape("a\"b'c"), "a&quot;b&apos;c");
+    }
+
+    #[test]
+    fn test_xml_escape_all_special() {
+        assert_eq!(
+            xml_escape("<>&\"'"),
+            "&lt;&gt;&amp;&quot;&apos;"
+        );
+    }
+
+    #[test]
+    fn test_xml_escape_empty() {
+        assert_eq!(xml_escape(""), "");
+    }
+
+    // --- format_xmltv_time ---
+
+    #[test]
+    fn test_format_xmltv_time_format() {
+        // Just verify it produces a properly formatted string
+        let result = format_xmltv_time(0);
+        // Should match: YYYYMMDDHHmmSS +HHMM or -HHMM
+        assert_eq!(result.len(), 20); // "19700101HHMMSS +HHMM"
+        assert!(result.contains(' ')); // space between datetime and timezone
+    }
+
+    #[test]
+    fn test_format_xmltv_time_known_timestamp() {
+        // 946684800 = 2000-01-01 00:00:00 UTC
+        let result = format_xmltv_time(946684800);
+        // The output depends on local timezone, but should start with 2000
+        assert!(result.starts_with("2000"));
+    }
+
+    // --- channel_to_zap_line ---
+
+    #[test]
+    fn test_channel_to_zap_line() {
+        let ch = Channel {
+            name: "公視".to_string(),
+            frequency: 557000000,
+            inversion: "INVERSION_AUTO".to_string(),
+            bandwidth: "BANDWIDTH_6_MHZ".to_string(),
+            fec_hp: "FEC_AUTO".to_string(),
+            fec_lp: "FEC_AUTO".to_string(),
+            modulation: "QAM_64".to_string(),
+            transmission_mode: "TRANSMISSION_MODE_8K".to_string(),
+            guard_interval: "GUARD_INTERVAL_1_8".to_string(),
+            hierarchy: "HIERARCHY_NONE".to_string(),
+            video_pid: 4097,
+            audio_pid: 4098,
+            service_id: 1,
+        };
+        let line = channel_to_zap_line(&ch);
+        assert_eq!(
+            line,
+            "公視:557000000:INVERSION_AUTO:BANDWIDTH_6_MHZ:FEC_AUTO:FEC_AUTO:QAM_64:TRANSMISSION_MODE_8K:GUARD_INTERVAL_1_8:HIERARCHY_NONE:4097:4098:1"
+        );
+    }
+
+    #[test]
+    fn test_channel_to_zap_line_roundtrip() {
+        // channel_to_zap_line output should be parseable by parse_channels_conf
+        let ch = Channel {
+            name: "TestCH".to_string(),
+            frequency: 563000000,
+            inversion: "INVERSION_AUTO".to_string(),
+            bandwidth: "BANDWIDTH_6_MHZ".to_string(),
+            fec_hp: "FEC_2_3".to_string(),
+            fec_lp: "FEC_AUTO".to_string(),
+            modulation: "QAM_64".to_string(),
+            transmission_mode: "TRANSMISSION_MODE_8K".to_string(),
+            guard_interval: "GUARD_INTERVAL_1_8".to_string(),
+            hierarchy: "HIERARCHY_NONE".to_string(),
+            video_pid: 100,
+            audio_pid: 101,
+            service_id: 42,
+        };
+        let line = channel_to_zap_line(&ch);
+        let fields: Vec<&str> = line.split(':').collect();
+        assert_eq!(fields.len(), 13);
+        assert_eq!(fields[0], "TestCH");
+        assert_eq!(fields[1], "563000000");
+        assert_eq!(fields[12], "42");
+    }
+
+    // --- generate_xmltv ---
+
+    #[test]
+    fn test_generate_xmltv_basic() {
+        let events = vec![eit::EitEvent {
+            service_id: 1,
+            event_id: 100,
+            start_time: 946684800,  // 2000-01-01 00:00:00 UTC
+            duration: 3600,
+            running_status: 4,
+            event_name: "Test Show".to_string(),
+            description: "A test description".to_string(),
+            language: "eng".to_string(),
+        }];
+
+        let xml = generate_xmltv("TestChannel", &events, false);
+        assert!(xml.starts_with("<?xml version=\"1.0\" encoding=\"UTF-8\"?>"));
+        assert!(xml.contains("<tv generator-info-name=\"epgrab\">"));
+        assert!(xml.contains("<channel id=\"TestChannel\">"));
+        assert!(xml.contains("<display-name>TestChannel</display-name>"));
+        assert!(xml.contains("<title lang=\"eng\">Test Show</title>"));
+        assert!(xml.contains("<desc lang=\"eng\">A test description</desc>"));
+        assert!(xml.contains("</tv>"));
+        assert!(!xml.contains("xml-stylesheet")); // no XSLT
+    }
+
+    #[test]
+    fn test_generate_xmltv_with_xslt() {
+        let events = vec![eit::EitEvent {
+            service_id: 1,
+            event_id: 100,
+            start_time: 946684800,
+            duration: 3600,
+            running_status: 4,
+            event_name: "Show".to_string(),
+            description: String::new(),
+            language: "eng".to_string(),
+        }];
+
+        let xml = generate_xmltv("CH1", &events, true);
+        assert!(xml.contains("<?xml-stylesheet type=\"text/xsl\" href=\"epg.xsl\"?>"));
+    }
+
+    #[test]
+    fn test_generate_xmltv_escapes_special_chars() {
+        let events = vec![eit::EitEvent {
+            service_id: 1,
+            event_id: 1,
+            start_time: 946684800,
+            duration: 1800,
+            running_status: 0,
+            event_name: "A & B <Show>".to_string(),
+            description: String::new(),
+            language: String::new(),
+        }];
+
+        let xml = generate_xmltv("CH&1", &events, false);
+        assert!(xml.contains("CH&amp;1"));
+        assert!(xml.contains("A &amp; B &lt;Show&gt;"));
+    }
+
+    #[test]
+    fn test_generate_xmltv_no_desc() {
+        let events = vec![eit::EitEvent {
+            service_id: 1,
+            event_id: 1,
+            start_time: 946684800,
+            duration: 1800,
+            running_status: 0,
+            event_name: "Show".to_string(),
+            description: String::new(),
+            language: "eng".to_string(),
+        }];
+
+        let xml = generate_xmltv("CH1", &events, false);
+        assert!(!xml.contains("<desc"));
+    }
+
+    #[test]
+    fn test_generate_xmltv_no_language() {
+        let events = vec![eit::EitEvent {
+            service_id: 1,
+            event_id: 1,
+            start_time: 946684800,
+            duration: 1800,
+            running_status: 0,
+            event_name: "Show".to_string(),
+            description: String::new(),
+            language: String::new(),
+        }];
+
+        let xml = generate_xmltv("CH1", &events, false);
+        assert!(xml.contains("<title>Show</title>")); // no lang attr
+    }
+
+    #[test]
+    fn test_generate_xmltv_empty_events() {
+        let xml = generate_xmltv("CH1", &[], false);
+        assert!(xml.contains("<channel id=\"CH1\">"));
+        assert!(!xml.contains("<programme"));
+    }
+}
+
 fn format_unix_timestamp(ts: i64) -> String {
     let time_t = ts as libc::time_t;
     let mut tm: libc::tm = unsafe { std::mem::zeroed() };
