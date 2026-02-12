@@ -1,6 +1,6 @@
 [package]
 name = "epgrab"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 authors = ["Hui-Hong You <hiroshi@ghostsinthelab.org>"]
 description = "Grab DVB EPG data from Linux DVB-T devices"
