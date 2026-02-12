@@ -21,4 +21,4 @@ jobs:
     - name: Run tests
       run: cargo test --verbose
     - name: Packaging dpkg
-      run: cargo deb --verbose
+      run: cargo install cargo-deb && cargo deb --verbose
