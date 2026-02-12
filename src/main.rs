@@ -1,4 +1,6 @@
 use std::collections::BTreeMap;
+use std::io::{BufRead, BufReader, Write};
+use std::net::TcpListener;
 use std::path::Path;
 use std::process;
 
@@ -17,6 +19,7 @@ fn main() {
         Some("scan-channels") => cmd_scan_channels(&args[2..]),
         Some("doctor") => cmd_doctor(),
         Some("save-xmltv") => cmd_save_xmltv(),
+        Some("serve") => cmd_serve(&args[2..]),
         _ => print_usage(),
     }
 }
@@ -27,12 +30,14 @@ fn print_usage() {
     eprintln!("Commands:");
     eprintln!("  run              Grab EPG data from DVB-T tuner device");
     eprintln!("  save-xmltv       Save EPG data as XMLTV files");
+    eprintln!("  serve            Serve XMLTV files over HTTP");
     eprintln!("  scan-channels    Scan for available channels");
     eprintln!("  doctor           Check system readiness");
     eprintln!();
     eprintln!("Examples:");
     eprintln!("  epgrab run");
     eprintln!("  epgrab save-xmltv");
+    eprintln!("  epgrab serve -b 0.0.0.0 -p 8080");
     eprintln!("  epgrab scan-channels -C /usr/share/dvb/dvb-t/tw-All");
     eprintln!("  epgrab doctor");
     process::exit(1);
@@ -409,6 +414,181 @@ fn xml_escape(s: &str) -> String {
         .replace('>', "&gt;")
         .replace('"', "&quot;")
         .replace('\'', "&apos;")
+}
+
+fn cmd_serve(args: &[String]) {
+    let mut bind = "127.0.0.1".to_string();
+    let mut port = "3000".to_string();
+
+    let mut i = 0;
+    while i < args.len() {
+        match args[i].as_str() {
+            "-b" | "--bind" => {
+                bind = args.get(i + 1).cloned().unwrap_or_else(|| {
+                    eprintln!("Error: missing value for {}", args[i]);
+                    process::exit(1);
+                });
+                i += 2;
+            }
+            "-p" | "--port" => {
+                port = args.get(i + 1).cloned().unwrap_or_else(|| {
+                    eprintln!("Error: missing value for {}", args[i]);
+                    process::exit(1);
+                });
+                i += 2;
+            }
+            _ => {
+                eprintln!("Unknown option: {}", args[i]);
+                eprintln!("Usage: epgrab serve [-b <bind>] [-p <port>]");
+                process::exit(1);
+            }
+        }
+    }
+
+    let epg_dir = Path::new("epg");
+    if !epg_dir.is_dir() {
+        eprintln!("epg/ directory not found. Run 'epgrab save-xmltv' first.");
+        process::exit(1);
+    }
+
+    let addr = format!("{bind}:{port}");
+    let listener = match TcpListener::bind(&addr) {
+        Ok(l) => l,
+        Err(e) => {
+            eprintln!("Failed to bind to {addr}: {e}");
+            process::exit(1);
+        }
+    };
+
+    eprintln!("Serving epg/ at http://{addr}/");
+
+    for stream in listener.incoming() {
+        let mut stream = match stream {
+            Ok(s) => s,
+            Err(e) => {
+                eprintln!("Connection error: {e}");
+                continue;
+            }
+        };
+
+        let reader = BufReader::new(&stream);
+        let request_line = match reader.lines().next() {
+            Some(Ok(line)) => line,
+            _ => continue,
+        };
+
+        handle_request(&mut stream, &request_line, epg_dir);
+    }
+}
+
+fn handle_request(stream: &mut impl Write, request_line: &str, epg_dir: &Path) {
+    let parts: Vec<&str> = request_line.split_whitespace().collect();
+    if parts.len() < 2 || parts[0] != "GET" {
+        let _ = stream.write_all(b"HTTP/1.1 400 Bad Request\r\nConnection: close\r\n\r\n");
+        return;
+    }
+
+    let raw_path = parts[1];
+
+    // Decode percent-encoded path
+    let decoded_path = percent_decode(raw_path);
+
+    // Strip query string
+    let path = decoded_path.split('?').next().unwrap_or(&decoded_path);
+
+    // Reject path traversal
+    if path.contains("..") || !path.starts_with('/') {
+        let _ = stream.write_all(
+            b"HTTP/1.1 400 Bad Request\r\nConnection: close\r\n\r\nInvalid path\n",
+        );
+        return;
+    }
+
+    if path == "/" {
+        // Directory listing
+        let mut entries: Vec<String> = Vec::new();
+        if let Ok(dir) = std::fs::read_dir(epg_dir) {
+            for entry in dir.flatten() {
+                let name = entry.file_name().to_string_lossy().to_string();
+                if name.ends_with(".xml") || name.ends_with(".xsl") {
+                    entries.push(name);
+                }
+            }
+        }
+        entries.sort();
+
+        let mut body = String::from(
+            "<!DOCTYPE html>\n<html><head><meta charset=\"utf-8\"><title>EPG Files</title></head>\n<body>\n<h1>EPG Files</h1>\n<ul>\n",
+        );
+        for name in &entries {
+            let escaped = xml_escape(name);
+            body.push_str(&format!("  <li><a href=\"/{escaped}\">{escaped}</a></li>\n"));
+        }
+        body.push_str("</ul>\n</body></html>\n");
+
+        let header = format!(
+            "HTTP/1.1 200 OK\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: {}\r\nConnection: close\r\n\r\n",
+            body.len()
+        );
+        let _ = stream.write_all(header.as_bytes());
+        let _ = stream.write_all(body.as_bytes());
+    } else {
+        // Serve a file from epg/
+        let filename = &path[1..]; // strip leading '/'
+
+        // Only allow simple filenames (no subdirectory traversal)
+        if filename.contains('/') || filename.contains('\\') || filename.is_empty() {
+            let _ = stream.write_all(
+                b"HTTP/1.1 404 Not Found\r\nConnection: close\r\n\r\nNot found\n",
+            );
+            return;
+        }
+
+        let file_path = epg_dir.join(filename);
+        match std::fs::read(&file_path) {
+            Ok(contents) => {
+                let content_type = if filename.ends_with(".xml") || filename.ends_with(".xsl")
+                {
+                    "application/xml; charset=utf-8"
+                } else {
+                    "application/octet-stream"
+                };
+
+                let header = format!(
+                    "HTTP/1.1 200 OK\r\nContent-Type: {content_type}\r\nContent-Length: {}\r\nConnection: close\r\n\r\n",
+                    contents.len()
+                );
+                let _ = stream.write_all(header.as_bytes());
+                let _ = stream.write_all(&contents);
+            }
+            Err(_) => {
+                let _ = stream.write_all(
+                    b"HTTP/1.1 404 Not Found\r\nConnection: close\r\n\r\nNot found\n",
+                );
+            }
+        }
+    }
+}
+
+fn percent_decode(s: &str) -> String {
+    let mut result = Vec::new();
+    let bytes = s.as_bytes();
+    let mut i = 0;
+    while i < bytes.len() {
+        if bytes[i] == b'%' && i + 2 < bytes.len() {
+            if let Ok(byte) = u8::from_str_radix(
+                &String::from_utf8_lossy(&bytes[i + 1..i + 3]),
+                16,
+            ) {
+                result.push(byte);
+                i += 3;
+                continue;
+            }
+        }
+        result.push(bytes[i]);
+        i += 1;
+    }
+    String::from_utf8_lossy(&result).to_string()
 }
 
 fn cmd_doctor() {
@@ -872,6 +1052,132 @@ mod tests {
         let xml = generate_xmltv("CH1", &[], false);
         assert!(xml.contains("<channel id=\"CH1\">"));
         assert!(!xml.contains("<programme"));
+    }
+
+    // --- percent_decode ---
+
+    #[test]
+    fn test_percent_decode_plain() {
+        assert_eq!(percent_decode("/hello"), "/hello");
+    }
+
+    #[test]
+    fn test_percent_decode_space() {
+        assert_eq!(percent_decode("/hello%20world"), "/hello world");
+    }
+
+    #[test]
+    fn test_percent_decode_cjk() {
+        // テスト (katakana "tesuto") in UTF-8 is E3 83 86 E3 82 B9 E3 83 88
+        assert_eq!(
+            percent_decode("/%E3%83%86%E3%82%B9%E3%83%88.eit.xml"),
+            "/テスト.eit.xml"
+        );
+    }
+
+    #[test]
+    fn test_percent_decode_invalid_hex() {
+        assert_eq!(percent_decode("%ZZ"), "%ZZ");
+    }
+
+    #[test]
+    fn test_percent_decode_truncated() {
+        assert_eq!(percent_decode("abc%"), "abc%");
+        assert_eq!(percent_decode("abc%A"), "abc%A");
+    }
+
+    // --- handle_request ---
+
+    fn response_str(request_line: &str, epg_dir: &Path) -> String {
+        let mut buf: Vec<u8> = Vec::new();
+        handle_request(&mut buf, request_line, epg_dir);
+        String::from_utf8(buf).unwrap()
+    }
+
+    #[test]
+    fn test_serve_root_listing() {
+        let dir = tempfile::tempdir().unwrap();
+        std::fs::write(dir.path().join("test.eit.xml"), "<tv/>").unwrap();
+        std::fs::write(dir.path().join("epg.xsl"), "<xsl/>").unwrap();
+        std::fs::write(dir.path().join("readme.txt"), "ignore me").unwrap();
+
+        let resp = response_str("GET / HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 200 OK"));
+        assert!(resp.contains("Content-Type: text/html"));
+        assert!(resp.contains("test.eit.xml"));
+        assert!(resp.contains("epg.xsl"));
+        assert!(!resp.contains("readme.txt"));
+    }
+
+    #[test]
+    fn test_serve_xml_file() {
+        let dir = tempfile::tempdir().unwrap();
+        std::fs::write(dir.path().join("ch1.eit.xml"), "<tv>data</tv>").unwrap();
+
+        let resp = response_str("GET /ch1.eit.xml HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 200 OK"));
+        assert!(resp.contains("Content-Type: application/xml"));
+        assert!(resp.contains("<tv>data</tv>"));
+    }
+
+    #[test]
+    fn test_serve_xsl_file() {
+        let dir = tempfile::tempdir().unwrap();
+        std::fs::write(dir.path().join("epg.xsl"), "<stylesheet/>").unwrap();
+
+        let resp = response_str("GET /epg.xsl HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 200 OK"));
+        assert!(resp.contains("Content-Type: application/xml"));
+        assert!(resp.contains("<stylesheet/>"));
+    }
+
+    #[test]
+    fn test_serve_404() {
+        let dir = tempfile::tempdir().unwrap();
+
+        let resp = response_str("GET /nonexistent.xml HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 404 Not Found"));
+    }
+
+    #[test]
+    fn test_serve_path_traversal_dotdot() {
+        let dir = tempfile::tempdir().unwrap();
+
+        let resp = response_str("GET /../etc/passwd HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 400 Bad Request"));
+    }
+
+    #[test]
+    fn test_serve_path_traversal_subdir() {
+        let dir = tempfile::tempdir().unwrap();
+        let sub = dir.path().join("sub");
+        std::fs::create_dir(&sub).unwrap();
+        std::fs::write(sub.join("file.xml"), "<tv/>").unwrap();
+
+        let resp = response_str("GET /sub/file.xml HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 404 Not Found"));
+    }
+
+    #[test]
+    fn test_serve_bad_method() {
+        let dir = tempfile::tempdir().unwrap();
+
+        let resp = response_str("POST / HTTP/1.1", dir.path());
+        assert!(resp.starts_with("HTTP/1.1 400 Bad Request"));
+    }
+
+    #[test]
+    fn test_serve_percent_encoded_filename() {
+        let dir = tempfile::tempdir().unwrap();
+        // テスト (katakana "tesuto") as a pseudo channel name
+        std::fs::write(dir.path().join("テスト.eit.xml"), "<tv>test</tv>").unwrap();
+
+        let resp = response_str(
+            "GET /%E3%83%86%E3%82%B9%E3%83%88.eit.xml HTTP/1.1",
+            dir.path(),
+        );
+        assert!(resp.starts_with("HTTP/1.1 200 OK"));
+        assert!(resp.contains("<tv>test</tv>"));
     }
 }
 

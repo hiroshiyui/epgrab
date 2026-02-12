@@ -66,15 +66,27 @@ This will:
 * Save each channel's programme data as an XMLTV XML file to `epg/[CHANNEL_NAME].eit.xml`
 * If `epg/epg.xsl` is present, each XML file will reference it as a stylesheet for browser viewing
 
+### Serve XMLTV files over HTTP
+
+```
+epgrab serve
+```
+
+This starts a built-in HTTP server that serves the `epg/` directory, with a directory listing at the root. By default it listens on `127.0.0.1:3000`.
+
+Options:
+* `-b <address>` / `--bind <address>` -- bind address (default: `127.0.0.1`)
+* `-p <port>` / `--port <port>` -- port number (default: `3000`)
+
+Example: serve on all interfaces at port 8080:
+
+```
+epgrab serve -b 0.0.0.0 -p 8080
+```
+
 #### Viewing in a browser
 
-A default XSLT stylesheet (`epg/epg.xsl`) is included to render the XMLTV files as formatted HTML tables. To view them in a browser, serve the `epg/` directory via a local HTTP server:
-
-```
-python3 -m http.server 8000 -d epg
-```
-
-Then open `http://localhost:8000/` and click on any `.eit.xml` file.
+A default XSLT stylesheet (`epg/epg.xsl`) is included to render the XMLTV files as formatted HTML tables. After running `epgrab serve`, open the URL shown in a browser and click on any `.eit.xml` file.
 
 > **Note:** Opening the XML files directly via `file://` will not work in most browsers (e.g. Firefox) due to same-origin policy restrictions on local files.
 
@@ -83,7 +95,7 @@ Then open `http://localhost:8000/` and click on any `.eit.xml` file.
 ```
 src/
   lib.rs           -- library crate, exposes shared modules
-  main.rs          -- epgrab binary: subcommand dispatch (run, save-xmltv, scan-channels, doctor)
+  main.rs          -- epgrab binary: subcommand dispatch (run, save-xmltv, serve, scan-channels, doctor)
   channel.rs       -- channels.conf parser (zap format)
   dvb_device.rs    -- DVB USB device detection via sysfs
   tuner.rs         -- DVB frontend tuning (DVB v5 API)
