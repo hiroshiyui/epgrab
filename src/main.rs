@@ -297,6 +297,12 @@ fn cmd_save_xmltv() {
         println!();
     }
 
+    // Check if XSLT stylesheet exists
+    let use_xslt = Path::new("epg/epg.xsl").exists();
+    if use_xslt {
+        println!("Found epg/epg.xsl, linking stylesheet in XML files.");
+    }
+
     // Write XMLTV files
     let mut files_written = 0;
     for (name, (_sid, events)) in &channel_events {
@@ -306,7 +312,7 @@ fn cmd_save_xmltv() {
 
         let safe_name = sanitize_filename(name);
         let filename = format!("epg/{}.eit.xml", safe_name);
-        let xml = generate_xmltv(name, events);
+        let xml = generate_xmltv(name, events, use_xslt);
 
         match std::fs::write(&filename, &xml) {
             Ok(()) => {
@@ -320,9 +326,12 @@ fn cmd_save_xmltv() {
     println!("\nSaved {files_written} XMLTV files to epg/");
 }
 
-fn generate_xmltv(channel_name: &str, events: &[eit::EitEvent]) -> String {
+fn generate_xmltv(channel_name: &str, events: &[eit::EitEvent], use_xslt: bool) -> String {
     let mut xml = String::new();
     xml.push_str("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n");
+    if use_xslt {
+        xml.push_str("<?xml-stylesheet type=\"text/xsl\" href=\"epg.xsl\"?>\n");
+    }
     xml.push_str("<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n");
     xml.push_str("<tv generator-info-name=\"epgrab\">\n");
 

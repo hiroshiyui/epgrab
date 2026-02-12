@@ -2,5 +2,5 @@
 
 /target
 
-/epg
+/epg/*.xml
 /etc/channels.conf*
