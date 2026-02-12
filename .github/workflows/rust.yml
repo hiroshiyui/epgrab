@@ -20,5 +20,7 @@ jobs:
       run: cargo build --verbose
     - name: Run tests
       run: cargo test --verbose
+    - name: Put channels.conf
+      run: mkdir -p ./etc && cp doc/examples/channels.conf etc/
     - name: Packaging dpkg
       run: cargo install cargo-deb && cargo deb --verbose
