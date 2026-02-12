@@ -10,3 +10,15 @@ repository = "https://github.com/hiroshiyui/epgrab"
 [dependencies]
 libc = "0.2"
 nix = { version = "0.29", features = ["ioctl", "poll"] }
+
+[package.metadata.deb]
+maintainer = "Hui-Hong You <hiroshi@ghostsinthelab.org>"
+section = "utils"
+priority = "optional"
+assets = [
+    ["target/release/epgrab", "usr/bin/", "755"],
+    ["etc/channels.conf", "usr/share/epgrab/channels.conf.example", "644"],
+    ["README.md", "usr/share/doc/epgrab/README.md", "644"],
+]
+depends = "$auto"
+suggests = "dtv-scan-tables"
