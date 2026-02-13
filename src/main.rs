@@ -1,6 +1,8 @@
 use std::collections::BTreeMap;
-use std::io::{BufRead, BufReader, Write};
+use std::io::{BufRead, BufReader, Read as _, Write};
 use std::net::TcpListener;
+use std::sync::atomic::{AtomicBool, Ordering};
+use std::time::Duration;
 use std::path::Path;
 use std::process;
 
@@ -37,7 +39,7 @@ fn print_usage() {
     eprintln!("Examples:");
     eprintln!("  epgrab run");
     eprintln!("  epgrab save-xmltv");
-    eprintln!("  epgrab serve -b 0.0.0.0 -p 8080");
+    eprintln!("  epgrab serve -b 0.0.0.0 -p 8080 --public");
     eprintln!("  epgrab scan-channels -C /usr/share/dvb/dvb-t/tw-All");
     eprintln!("  epgrab doctor");
     process::exit(1);
@@ -418,7 +420,8 @@ fn xml_escape(s: &str) -> String {
 
 fn cmd_serve(args: &[String]) {
     let mut bind = "127.0.0.1".to_string();
-    let mut port = "3000".to_string();
+    let mut port: u16 = 3000;
+    let mut public = false;
 
     let mut i = 0;
     while i < args.len() {
@@ -431,18 +434,40 @@ fn cmd_serve(args: &[String]) {
                 i += 2;
             }
             "-p" | "--port" => {
-                port = args.get(i + 1).cloned().unwrap_or_else(|| {
+                let port_str = args.get(i + 1).cloned().unwrap_or_else(|| {
                     eprintln!("Error: missing value for {}", args[i]);
                     process::exit(1);
                 });
+                port = port_str.parse::<u16>().unwrap_or_else(|_| {
+                    eprintln!("Error: invalid port number '{port_str}' (must be 1-65535)");
+                    process::exit(1);
+                });
+                if port == 0 {
+                    eprintln!("Error: invalid port number '0' (must be 1-65535)");
+                    process::exit(1);
+                }
                 i += 2;
+            }
+            "--public" => {
+                public = true;
+                i += 1;
             }
             _ => {
                 eprintln!("Unknown option: {}", args[i]);
-                eprintln!("Usage: epgrab serve [-b <bind>] [-p <port>]");
+                eprintln!("Usage: epgrab serve [-b <bind>] [-p <port>] [--public]");
                 process::exit(1);
             }
         }
+    }
+
+    // Require --public for non-loopback bind addresses
+    let is_loopback = bind == "127.0.0.1" || bind == "::1" || bind == "localhost";
+    if !is_loopback && !public {
+        eprintln!(
+            "Error: binding to '{bind}' exposes the server to the network."
+        );
+        eprintln!("If this is intentional, add the --public flag.");
+        process::exit(1);
     }
 
     let epg_dir = Path::new("epg");
@@ -451,7 +476,7 @@ fn cmd_serve(args: &[String]) {
         process::exit(1);
     }
 
-    let addr = format!("{bind}:{port}");
+    let addr = format!("{}:{}", bind, port);
     let listener = match TcpListener::bind(&addr) {
         Ok(l) => l,
         Err(e) => {
@@ -460,25 +485,53 @@ fn cmd_serve(args: &[String]) {
         }
     };
 
+    // Set up graceful shutdown on SIGINT/SIGTERM
+    let _ = unsafe { libc::signal(libc::SIGINT, serve_signal_handler as *const () as libc::sighandler_t) };
+    let _ = unsafe { libc::signal(libc::SIGTERM, serve_signal_handler as *const () as libc::sighandler_t) };
+
+    // Use non-blocking accept so we can check the shutdown flag periodically
+    listener
+        .set_nonblocking(true)
+        .expect("Failed to set non-blocking mode");
+
     eprintln!("Serving epg/ at http://{addr}/");
 
-    for stream in listener.incoming() {
-        let mut stream = match stream {
-            Ok(s) => s,
+    while !SERVE_SHUTDOWN.load(Ordering::Relaxed) {
+        let mut stream = match listener.accept() {
+            Ok((s, _)) => s,
+            Err(ref e) if e.kind() == std::io::ErrorKind::WouldBlock => {
+                std::thread::sleep(Duration::from_millis(100));
+                continue;
+            }
             Err(e) => {
                 eprintln!("Connection error: {e}");
                 continue;
             }
         };
 
-        let reader = BufReader::new(&stream);
-        let request_line = match reader.lines().next() {
-            Some(Ok(line)) => line,
-            _ => continue,
-        };
+        let timeout = Some(Duration::from_secs(10));
+        let _ = stream.set_read_timeout(timeout);
+        let _ = stream.set_write_timeout(timeout);
 
-        handle_request(&mut stream, &request_line, epg_dir);
+        // Limit request line to 8 KiB to prevent memory exhaustion
+        const MAX_REQUEST_LINE: u64 = 8192;
+        let mut limited = BufReader::new((&stream).take(MAX_REQUEST_LINE));
+        let mut request_line = String::new();
+        match limited.read_line(&mut request_line) {
+            Ok(0) | Err(_) => continue,
+            Ok(_) => {}
+        }
+
+        handle_request(&mut stream, request_line.trim_end(), epg_dir);
     }
+
+    eprintln!("\nShutting down.");
+}
+
+static SERVE_SHUTDOWN: AtomicBool = AtomicBool::new(false);
+
+extern "C" fn serve_signal_handler(_sig: libc::c_int) {
+    SERVE_SHUTDOWN.store(true, Ordering::Relaxed);
 }
 
 fn handle_request(stream: &mut impl Write, request_line: &str, epg_dir: &Path) {
@@ -545,6 +598,19 @@ fn handle_request(stream: &mut impl Write, request_line: &str, epg_dir: &Path) {
         }
 
         let file_path = epg_dir.join(filename);
+
+        // Prevent symlink escape: verify resolved path stays within epg_dir
+        if let Ok(canonical_epg) = epg_dir.canonicalize() {
+            if let Ok(canonical_file) = file_path.canonicalize() {
+                if !canonical_file.starts_with(&canonical_epg) {
+                    let _ = stream.write_all(
+                        b"HTTP/1.1 403 Forbidden\r\nConnection: close\r\n\r\nForbidden\n",
+                    );
+                    return;
+                }
+            }
+        }
+
         match std::fs::read(&file_path) {
             Ok(contents) => {
                 let content_type = if filename.ends_with(".xml") || filename.ends_with(".xsl")
@@ -1178,6 +1244,29 @@ mod tests {
         );
         assert!(resp.starts_with("HTTP/1.1 200 OK"));
         assert!(resp.contains("<tv>test</tv>"));
+    }
+
+    #[cfg(unix)]
+    #[test]
+    fn test_serve_symlink_escape() {
+        let dir = tempfile::tempdir().unwrap();
+        // Create a file outside the served directory
+        let outside = tempfile::tempdir().unwrap();
+        std::fs::write(outside.path().join("secret.xml"), "sensitive data").unwrap();
+
+        // Create a symlink inside the served dir pointing outside
+        std::os::unix::fs::symlink(
+            outside.path().join("secret.xml"),
+            dir.path().join("secret.xml"),
+        )
+        .unwrap();
+
+        let resp = response_str("GET /secret.xml HTTP/1.1", dir.path());
+        assert!(
+            resp.starts_with("HTTP/1.1 403 Forbidden"),
+            "Symlink escape should be blocked, got: {resp}"
+        );
+        assert!(!resp.contains("sensitive data"));
     }
 }
 
